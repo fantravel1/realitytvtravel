@@ -7,65 +7,22 @@
       "category": "mansion",
       "shows": ["the-bachelor", "the-bachelorette"],
       "address": "2351 Kanan Road, Agoura Hills, CA 91301",
-      "coordinates": {
-        "lat": 34.1392,
-        "lng": -118.7553
-      },
+      "coordinates": { "lat": 34.1392, "lng": -118.7553 },
       "country": "USA",
       "region": "California",
       "city": "Agoura Hills",
       "bookable": true,
-      "bookingUrl": "",
-      "priceRange": {
-        "min": 6000,
-        "max": 30000,
-        "currency": "USD",
-        "unit": "night"
-      },
-      "amenities": ["pool", "spa", "wine-cellar", "chef-available", "event-space", "10-acres", "mountain-views"],
-      "featuredSeasons": [
-        {
-          "show": "the-bachelor",
-          "seasons": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
-        }
-      ],
-      "images": [],
+      "bookingPlatform": "Airbnb",
+      "priceRange": { "min": 6000, "max": 30000, "currency": "USD", "unit": "night" },
+      "amenities": ["pool", "spa", "wine-cellar", "chef-available", "event-space", "10-acres", "mountain-views", "7-bedrooms", "8-bathrooms"],
+      "featuredSeasons": [{ "show": "the-bachelor", "seasons": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29] }],
+      "highlights": ["Iconic rose ceremony driveway", "Famous infinity pool", "Grand staircase entrance"],
       "faqs": [
-        {
-          "question": "How much does it cost to rent the Bachelor Mansion?",
-          "answer": "The Bachelor Mansion rents for $6,000 to $30,000 per night on Airbnb, depending on dates and event type. Minimum stays typically apply. The property includes 7 bedrooms and 8.5 bathrooms."
-        },
-        {
-          "question": "Can you get married at the Bachelor Mansion?",
-          "answer": "Yes, the Bachelor Mansion hosts weddings, proposals, and special events. Contact the property through Airbnb for event pricing and availability. The grounds can accommodate up to 200 guests."
-        },
-        {
-          "question": "Who owns the Bachelor Mansion?",
-          "answer": "The Bachelor Mansion is owned by the Haraden family. Marshall Haraden rents the property to ABC for approximately 42 days per season. The family continues to live there when not filming."
-        },
-        {
-          "question": "Can you visit the Bachelor Mansion without booking?",
-          "answer": "The Bachelor Mansion is on private property and cannot be visited without booking. Fans sometimes drive by on Kanan Road, but the driveway is gated and trespassing is not permitted."
-        }
+        { "question": "How much does it cost to rent the Bachelor Mansion?", "answer": "The Bachelor Mansion rents for $6,000 to $30,000 per night on Airbnb, depending on dates and event type. Minimum stays typically apply. The property includes 7 bedrooms and 8.5 bathrooms." },
+        { "question": "Can you get married at the Bachelor Mansion?", "answer": "Yes, the Bachelor Mansion hosts weddings, proposals, and special events. Contact the property through Airbnb for event pricing and availability. The grounds can accommodate up to 200 guests." },
+        { "question": "Who owns the Bachelor Mansion?", "answer": "The Bachelor Mansion is owned by the Haraden family. Marshall Haraden rents the property to ABC for approximately 42 days per season. The family continues to live there when not filming." }
       ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Bachelor Mansion Full Tour - Villa de la Vina",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Bachelor Mansion Airbnb Experience",
-          "placeholder": true
-        }
-      ],
-      "affiliateLinks": [],
-      "nearbyAttractions": ["malibu-beaches", "santa-monica-mountains", "pepperdine-university"],
-      "meta": {
-        "title": "Bachelor Mansion: Visit, Rent & Tour Villa de la Vina | RealityTVTravel",
-        "description": "Rent the iconic Bachelor Mansion in Agoura Hills, CA. $6,000-$30,000/night on Airbnb. Complete visitor guide with photos, pricing, and booking info."
-      }
+      "meta": { "title": "Bachelor Mansion: Visit, Rent & Tour Villa de la Vina | RealityTVTravel", "description": "Rent the iconic Bachelor Mansion in Agoura Hills, CA. $6,000-$30,000/night on Airbnb. Complete visitor guide with photos, pricing, and booking info." }
     },
     {
       "id": "playa-escondida-resort",
@@ -74,56 +31,23 @@
       "category": "beach-resort",
       "shows": ["bachelor-in-paradise"],
       "address": "Camino a Playa Escondida, Sayulita, Nayarit, Mexico",
-      "coordinates": {
-        "lat": 20.8844,
-        "lng": -105.4363
-      },
+      "coordinates": { "lat": 20.8844, "lng": -105.4363 },
       "country": "Mexico",
       "region": "Nayarit",
       "city": "Sayulita",
       "bookable": true,
+      "bookingPlatform": "Direct",
       "bookingUrl": "https://playa-escondida.com",
-      "priceRange": {
-        "min": 165,
-        "max": 495,
-        "currency": "USD",
-        "unit": "night"
-      },
-      "amenities": ["beach-access", "restaurant", "bar", "pool", "yoga", "surf-lessons"],
-      "featuredSeasons": [
-        {
-          "show": "bachelor-in-paradise",
-          "seasons": [2, 3, 4, 5, 6, 7, 8, 9]
-        }
-      ],
-      "images": [],
+      "priceRange": { "min": 165, "max": 495, "currency": "USD", "unit": "night" },
+      "amenities": ["beach-access", "restaurant", "bar", "pool", "yoga", "surf-lessons", "spa", "ocean-views"],
+      "featuredSeasons": [{ "show": "bachelor-in-paradise", "seasons": [2, 3, 4, 5, 6, 7, 8, 9] }],
+      "highlights": ["Famous palapa bar from the show", "The Boom Boom Room", "Private beach access", "Sunset views"],
       "faqs": [
-        {
-          "question": "Is Playa Escondida the real Bachelor in Paradise resort?",
-          "answer": "Yes! Playa Escondida Resort in Sayulita, Mexico was the filming location for Bachelor in Paradise Seasons 2-9 (2015-2023). The resort actively markets itself as the BIP location."
-        },
-        {
-          "question": "What is the Boom Boom Room at Playa Escondida?",
-          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where Bachelor in Paradise couples go for private time. It has become iconic in BIP lore and can be specifically requested when booking."
-        },
-        {
-          "question": "How much does it cost to stay at the Bachelor in Paradise resort?",
-          "answer": "Playa Escondida Resort rates range from $165-495/night depending on room type and season. The resort offers various room categories from eco-friendly cabanas to luxury suites."
-        }
+        { "question": "Is Playa Escondida the real Bachelor in Paradise resort?", "answer": "Yes! Playa Escondida Resort in Sayulita, Mexico was the filming location for Bachelor in Paradise Seasons 2-9 (2015-2023). The resort actively markets itself as the BIP location." },
+        { "question": "What is the Boom Boom Room at Playa Escondida?", "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where Bachelor in Paradise couples go for private time. It has become iconic in BIP lore and can be specifically requested when booking." },
+        { "question": "How much does it cost to stay at the Bachelor in Paradise resort?", "answer": "Playa Escondida Resort rates range from $165-495/night depending on room type and season. The resort offers various room categories from eco-friendly cabanas to luxury suites." }
       ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Playa Escondida Resort Tour - Bachelor in Paradise Beach",
-          "placeholder": true
-        }
-      ],
-      "affiliateLinks": [],
-      "nearbyAttractions": ["sayulita-beach", "punta-mita", "san-pancho"],
-      "meta": {
-        "title": "Playa Escondida Resort: Stay at the Bachelor in Paradise Beach",
-        "description": "Book the Bachelor in Paradise resort! Playa Escondida in Sayulita, Mexico from $165/night. Visit the Boom Boom Room and famous filming beach."
-      }
+      "meta": { "title": "Playa Escondida Resort: Stay at the Bachelor in Paradise Beach", "description": "Book the Bachelor in Paradise resort! Playa Escondida in Sayulita, Mexico from $165/night. Visit the Boom Boom Room and famous filming beach." }
     },
     {
       "id": "emerald-pavilion",
@@ -132,56 +56,137 @@
       "category": "luxury-villa",
       "shows": ["too-hot-to-handle"],
       "address": "Grace Bay Beach, Providenciales, Turks and Caicos",
-      "coordinates": {
-        "lat": 21.7996,
-        "lng": -72.2024
-      },
+      "coordinates": { "lat": 21.7996, "lng": -72.2024 },
       "country": "Turks and Caicos",
       "region": "Providenciales",
       "city": "Grace Bay",
       "bookable": true,
-      "bookingUrl": "",
-      "priceRange": {
-        "min": 8700,
-        "max": 27000,
-        "currency": "USD",
-        "unit": "night"
-      },
-      "amenities": ["infinity-pool", "beach-access", "private-chef", "butler-service", "gym", "spa", "home-theater"],
-      "featuredSeasons": [
-        {
-          "show": "too-hot-to-handle",
-          "seasons": [4, 5, 6]
-        }
-      ],
-      "images": [],
+      "bookingPlatform": "Luxury Villa Rental",
+      "priceRange": { "min": 8700, "max": 27000, "currency": "USD", "unit": "night" },
+      "amenities": ["infinity-pool", "beach-access", "private-chef", "butler-service", "gym", "spa", "home-theater", "tennis-court", "12-bedrooms"],
+      "featuredSeasons": [{ "show": "too-hot-to-handle", "seasons": [4, 5, 6] }],
+      "highlights": ["1,600 sq ft infinity pool", "Direct Grace Bay beach access", "Full staff included", "Celebrity clientele"],
       "faqs": [
-        {
-          "question": "Where is the Too Hot to Handle Season 4-6 villa?",
-          "answer": "Too Hot to Handle Seasons 4, 5, and 6 filmed at Emerald Pavilion, a luxury villa on Grace Bay Beach in Providenciales, Turks and Caicos. The property features a 1,600 square foot infinity pool."
-        },
-        {
-          "question": "How much does it cost to rent the Too Hot to Handle villa?",
-          "answer": "Emerald Pavilion rents for $8,700-27,000 per night depending on season. The villa sleeps up to 20 guests and includes full staff with private chef, butler, and concierge service."
-        },
-        {
-          "question": "Who else has stayed at Emerald Pavilion?",
-          "answer": "Emerald Pavilion has hosted celebrities including Rihanna and P Diddy. The property is one of the most exclusive villa rentals in the Caribbean."
-        }
+        { "question": "Where is the Too Hot to Handle Season 4-6 villa?", "answer": "Too Hot to Handle Seasons 4, 5, and 6 filmed at Emerald Pavilion, a luxury villa on Grace Bay Beach in Providenciales, Turks and Caicos. The property features a 1,600 square foot infinity pool." },
+        { "question": "How much does it cost to rent the Too Hot to Handle villa?", "answer": "Emerald Pavilion rents for $8,700-27,000 per night depending on season. The villa sleeps up to 20 guests and includes full staff with private chef, butler, and concierge service." },
+        { "question": "Who else has stayed at Emerald Pavilion?", "answer": "Emerald Pavilion has hosted celebrities including Rihanna and P Diddy. The property is one of the most exclusive villa rentals in the Caribbean." }
       ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Emerald Pavilion Tour - Too Hot to Handle Villa",
-          "placeholder": true
-        }
+      "meta": { "title": "Emerald Pavilion: Rent the Too Hot to Handle Villa | Turks and Caicos", "description": "Rent the Too Hot to Handle villa! Emerald Pavilion on Grace Bay Beach from $8,700/night. The iconic THTH Seasons 4-6 filming location with 1,600 sq ft infinity pool." }
+    },
+    {
+      "id": "casa-tau",
+      "name": "Casa Tau",
+      "type": "villa",
+      "category": "luxury-villa",
+      "shows": ["too-hot-to-handle"],
+      "address": "Punta Mita, Nayarit, Mexico",
+      "coordinates": { "lat": 20.7681, "lng": -105.5234 },
+      "country": "Mexico",
+      "region": "Nayarit",
+      "city": "Punta Mita",
+      "bookable": true,
+      "bookingPlatform": "Casa Bay Villas",
+      "priceRange": { "min": 11500, "max": 15660, "currency": "USD", "unit": "night" },
+      "amenities": ["infinity-pool", "beach-access", "private-chef", "butler-service", "gym", "spa", "10-bedrooms", "ocean-views"],
+      "featuredSeasons": [{ "show": "too-hot-to-handle", "seasons": [1] }],
+      "highlights": ["Original THTH Season 1 villa", "Punta Mita exclusive community", "24/7 staff", "Famous pool area"],
+      "faqs": [
+        { "question": "Is Casa Tau the original Too Hot to Handle villa?", "answer": "Yes! Casa Tau in Punta Mita, Mexico was the filming location for Too Hot to Handle Season 1. This is the villa where Lana first appeared." },
+        { "question": "How much does Casa Tau cost to rent?", "answer": "Casa Tau rents for $11,500-15,660 per night through Casa Bay Villas. The price includes full staff, daily breakfast, and access to all amenities." }
       ],
-      "affiliateLinks": [],
-      "nearbyAttractions": ["grace-bay-beach", "chalk-sound", "sapodilla-bay"],
-      "meta": {
-        "title": "Emerald Pavilion: Rent the Too Hot to Handle Villa | Turks and Caicos",
-        "description": "Rent the Too Hot to Handle villa! Emerald Pavilion on Grace Bay Beach from $8,700/night. The iconic THTH Seasons 4-6 filming location with 1,600 sq ft infinity pool."
-      }
+      "meta": { "title": "Casa Tau: The Original Too Hot to Handle Villa | Punta Mita Mexico", "description": "Rent Casa Tau, the original Too Hot to Handle Season 1 villa in Punta Mita, Mexico. From $11,500/night with full staff included." }
+    },
+    {
+      "id": "grand-velas-riviera-maya",
+      "name": "Grand Velas Riviera Maya",
+      "type": "resort",
+      "category": "all-inclusive",
+      "shows": ["love-is-blind"],
+      "address": "Carretera Cancún-Tulum Km 62, Playa del Carmen, Mexico",
+      "coordinates": { "lat": 20.4634, "lng": -87.3582 },
+      "country": "Mexico",
+      "region": "Quintana Roo",
+      "city": "Playa del Carmen",
+      "bookable": true,
+      "bookingPlatform": "Multiple",
+      "bookingUrl": "https://www.grandvelas.com/riviera-maya/",
+      "priceRange": { "min": 800, "max": 2500, "currency": "USD", "unit": "night" },
+      "amenities": ["all-inclusive", "spa", "multiple-pools", "fine-dining", "beach-access", "fitness-center", "kids-club", "butler-service"],
+      "featuredSeasons": [{ "show": "love-is-blind", "seasons": [1, 5] }],
+      "highlights": ["AAA Five Diamond resort", "SE Spa by Grand Velas", "8 gourmet restaurants", "Love Is Blind couple retreat location"],
+      "faqs": [
+        { "question": "Is Grand Velas where Love Is Blind couples stay?", "answer": "Yes! Grand Velas Riviera Maya hosted the couple retreat portions of Love Is Blind Seasons 1 and 5. The resort's romantic suites with private pools were featured prominently." },
+        { "question": "What's included at Grand Velas?", "answer": "Grand Velas is all-inclusive with 8 restaurants, 24-hour room service, premium drinks, spa access, and butler service in suite categories." }
+      ],
+      "meta": { "title": "Grand Velas Riviera Maya: Love Is Blind Resort | Book the Retreat", "description": "Stay at the Love Is Blind Mexico resort! Grand Velas Riviera Maya from $800/night all-inclusive. The exact location where couples meet after the pods." }
+    },
+    {
+      "id": "andaz-maui",
+      "name": "Andaz Maui at Wailea Resort",
+      "type": "resort",
+      "category": "luxury-resort",
+      "shows": ["temptation-island"],
+      "address": "3550 Wailea Alanui Dr, Wailea, HI 96753",
+      "coordinates": { "lat": 20.6831, "lng": -156.4417 },
+      "country": "USA",
+      "region": "Hawaii",
+      "city": "Wailea",
+      "bookable": true,
+      "bookingPlatform": "Hyatt",
+      "bookingUrl": "https://www.hyatt.com/andaz/mauwa-andaz-maui-at-wailea-resort",
+      "priceRange": { "min": 700, "max": 3000, "currency": "USD", "unit": "night" },
+      "amenities": ["beach-access", "multiple-pools", "spa", "fine-dining", "fitness-center", "ocean-views", "luau"],
+      "featuredSeasons": [{ "show": "temptation-island", "seasons": [1, 2, 3, 4, 5] }],
+      "highlights": ["Mokapu Beach access", "Ka'ana Kitchen restaurant", "Infinity pool with ocean views", "Award-winning spa"],
+      "faqs": [
+        { "question": "Is Andaz Maui featured on Temptation Island?", "answer": "Yes, Andaz Maui at Wailea Resort is used for date locations and bonfire ceremonies on Temptation Island. The resort's beautiful grounds and ocean views are frequently shown." }
+      ],
+      "meta": { "title": "Andaz Maui: Temptation Island Resort | Wailea Hawaii", "description": "Stay at the Temptation Island resort! Andaz Maui at Wailea from $700/night. Visit the same beaches and venues from the show." }
+    },
+    {
+      "id": "sheraton-fiji",
+      "name": "Sheraton Resort & Spa, Tokoriki Island",
+      "type": "resort",
+      "category": "luxury-resort",
+      "shows": ["love-island-usa"],
+      "address": "Tokoriki Island, Mamanuca Islands, Fiji",
+      "coordinates": { "lat": -17.7589, "lng": 177.0603 },
+      "country": "Fiji",
+      "region": "Mamanuca Islands",
+      "city": "Tokoriki Island",
+      "bookable": true,
+      "bookingPlatform": "Marriott",
+      "bookingUrl": "https://www.marriott.com/hotels/travel/nansi-sheraton-resort-and-spa-tokoriki-island-fiji/",
+      "priceRange": { "min": 500, "max": 1500, "currency": "USD", "unit": "night" },
+      "amenities": ["beach-access", "pool", "spa", "restaurant", "water-sports", "snorkeling", "adults-only"],
+      "featuredSeasons": [],
+      "highlights": ["Near Love Island USA villa", "Adults-only resort", "Private island setting", "World-class diving"],
+      "faqs": [
+        { "question": "Can you stay near the Love Island USA villa?", "answer": "While the Love Island villa is private, Sheraton Tokoriki Island is in the same Mamanuca Islands chain and offers a similar tropical Fiji experience. It's the closest bookable luxury resort to the filming location." }
+      ],
+      "meta": { "title": "Sheraton Fiji: Near Love Island USA Villa | Mamanuca Islands", "description": "Stay near the Love Island USA villa! Sheraton Tokoriki Island in Fiji's Mamanuca Islands from $500/night." }
+    },
+    {
+      "id": "azura-beach-resort",
+      "name": "Azura Beach Resort",
+      "type": "resort",
+      "category": "beach-resort",
+      "shows": ["bachelor-in-paradise"],
+      "address": "Playa Samara, Guanacaste, Costa Rica",
+      "coordinates": { "lat": 9.8833, "lng": -85.5333 },
+      "country": "Costa Rica",
+      "region": "Guanacaste",
+      "city": "Playa Samara",
+      "bookable": true,
+      "bookingPlatform": "Direct",
+      "priceRange": { "min": 200, "max": 600, "currency": "USD", "unit": "night" },
+      "amenities": ["beach-access", "pool", "restaurant", "bar", "yoga", "surfing", "spa"],
+      "featuredSeasons": [{ "show": "bachelor-in-paradise", "seasons": [10] }],
+      "highlights": ["New BIP Season 10 location", "Costa Rica rainforest setting", "Eco-luxury design", "Blue Zone destination"],
+      "faqs": [
+        { "question": "Where is the new Bachelor in Paradise filmed?", "answer": "Bachelor in Paradise Season 10 (2025) moved from Mexico to Azura Beach Resort in Playa Samara, Costa Rica. The resort offers a new tropical paradise setting for the franchise." }
+      ],
+      "meta": { "title": "Azura Beach Resort: New Bachelor in Paradise Location | Costa Rica", "description": "Stay at the new Bachelor in Paradise resort! Azura Beach Resort in Costa Rica from $200/night. The filming location for BIP Season 10." }
     }
   ]
 }

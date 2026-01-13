@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Page Not Found | RealityTVTravel</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .error-page {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      background: var(--gradient-hero);
+      padding: var(--space-xl);
+    }
+    .error-content {
+      max-width: 500px;
+    }
+    .error-emoji {
+      font-size: 6rem;
+      margin-bottom: var(--space-lg);
+      animation: float 3s ease-in-out infinite;
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-20px); }
+    }
+    .error-code {
+      font-family: var(--font-display);
+      font-size: 8rem;
+      font-weight: 700;
+      color: var(--color-white);
+      line-height: 1;
+      margin-bottom: var(--space-md);
+    }
+    .error-title {
+      font-size: 1.5rem;
+      color: var(--color-white);
+      margin-bottom: var(--space-md);
+    }
+    .error-text {
+      color: rgba(255, 255, 255, 0.8);
+      margin-bottom: var(--space-2xl);
+      line-height: 1.7;
+    }
+    .error-buttons {
+      display: flex;
+      gap: var(--space-md);
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-page">
+    <div class="error-content">
+      <div class="error-emoji">🏝️</div>
+      <div class="error-code">404</div>
+      <h1 class="error-title">Lost in Paradise</h1>
+      <p class="error-text">Looks like this page got voted off the island! The destination you're looking for doesn't exist or may have been moved.</p>
+      <div class="error-buttons">
+        <a href="/" class="btn btn-primary">Go Home</a>
+        <a href="shows.html" class="btn btn-secondary">Browse Shows</a>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -7,9 +7,8 @@
       "networkSlug": "abc",
       "seasons": 29,
       "status": "active",
+      "yearStarted": 2002,
       "description": "The original dating competition where one bachelor dates 25+ women over the course of several weeks, with rose ceremonies eliminating contestants until a final proposal.",
-      "image": "/assets/images/shows/the-bachelor.webp",
-      "logo": "/assets/images/logos/the-bachelor.svg",
       "primaryLocation": "bachelor-mansion",
       "destinations": ["bachelor-mansion", "malta", "malaga-spain", "montreal", "jasper-alberta", "tulum"],
       "faqs": [
@@ -24,36 +23,33 @@
         {
           "question": "How long has The Bachelor filmed at the mansion?",
           "answer": "The Bachelor has filmed at Villa de la Vina since Season 11 in 2007. The production rents the property for approximately 42 days per season."
-        },
-        {
-          "question": "What resorts does The Bachelor film at for Fantasy Suites?",
-          "answer": "The Bachelor has filmed Fantasy Suites at luxury resorts worldwide including Secrets Tulum (Mexico), Jade Mountain (St. Lucia), The Mulia (Bali), and various properties in Thailand, Iceland, and the Caribbean."
-        },
-        {
-          "question": "How many countries has The Bachelor filmed in?",
-          "answer": "The Bachelor franchise has filmed in over 40 countries including Thailand, Iceland, Croatia, Malta, Spain, Peru, Switzerland, Vietnam, New Zealand, and many Caribbean destinations."
-        }
-      ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Bachelor Mansion Full Tour - Villa de la Vina",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Best Bachelor International Destinations Ranked",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Bachelor Fantasy Suite Resorts You Can Actually Book",
-          "placeholder": true
         }
       ],
       "meta": {
         "title": "The Bachelor Filming Locations | Every Destination, Resort & Date Spot",
         "description": "Complete guide to every Bachelor filming location across 29 seasons. Visit the Bachelor Mansion, Fantasy Suite resorts, international destinations, and hometown date spots."
+      }
+    },
+    {
+      "id": "the-bachelorette",
+      "name": "The Bachelorette",
+      "network": "ABC",
+      "networkSlug": "abc",
+      "seasons": 21,
+      "status": "active",
+      "yearStarted": 2003,
+      "description": "The gender-swapped spinoff where one bachelorette dates 25+ men, traveling to exotic destinations before choosing her final rose recipient.",
+      "primaryLocation": "bachelor-mansion",
+      "destinations": ["bachelor-mansion", "greece", "thailand", "new-zealand"],
+      "faqs": [
+        {
+          "question": "Does The Bachelorette film at the Bachelor Mansion?",
+          "answer": "Yes, The Bachelorette uses the same Bachelor Mansion (Villa de la Vina) for the first few weeks of filming before traveling to various domestic and international destinations."
+        }
+      ],
+      "meta": {
+        "title": "The Bachelorette Filming Locations | Complete Destination Guide",
+        "description": "Explore every Bachelorette filming location. From the iconic mansion to fantasy suite destinations around the world."
       }
     },
     {
@@ -63,9 +59,8 @@
       "networkSlug": "netflix",
       "seasons": 8,
       "status": "active",
+      "yearStarted": 2020,
       "description": "Singles try to find love sight unseen in dating pods before meeting face-to-face, getting engaged, and deciding whether to marry at the altar.",
-      "image": "/assets/images/shows/love-is-blind.webp",
-      "logo": "/assets/images/logos/love-is-blind.svg",
       "primaryLocation": "la-north-studios",
       "destinations": ["grand-velas-riviera-maya", "trs-coral-hotel", "kimpton-roatan", "kimpton-mas-olas"],
       "faqs": [
@@ -80,22 +75,6 @@
         {
           "question": "Can you book the Love Is Blind resort?",
           "answer": "Yes! The Mexico resorts used for Love Is Blind are publicly bookable. Grand Velas Riviera Maya starts around $800-1,500/night, and TRS Hotels range from $400-1,000/night, all-inclusive."
-        },
-        {
-          "question": "What cities has Love Is Blind filmed in?",
-          "answer": "Love Is Blind has filmed in Atlanta (S1), Chicago (S2), Dallas (S3), Seattle (S4), Houston (S5), Charlotte (S6), Washington DC (S7), Minneapolis (S8), and Denver (S9)."
-        }
-      ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Love Is Blind Pods Tour - Inside LA North Studios",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Grand Velas Riviera Maya Room Tour - Love Is Blind Resort",
-          "placeholder": true
         }
       ],
       "meta": {
@@ -110,35 +89,18 @@
       "networkSlug": "netflix",
       "seasons": 6,
       "status": "active",
+      "yearStarted": 2020,
       "description": "Attractive singles must abstain from sexual contact to win a $100,000 prize while living together in a luxury villa monitored by AI assistant Lana.",
-      "image": "/assets/images/shows/too-hot-to-handle.webp",
-      "logo": "/assets/images/logos/too-hot-to-handle.svg",
-      "primaryLocation": "casa-tau",
+      "primaryLocation": "emerald-pavilion",
       "destinations": ["casa-tau", "emerald-pavilion", "turtle-tail-estate"],
       "faqs": [
         {
           "question": "Where is the Too Hot to Handle villa?",
-          "answer": "Too Hot to Handle has filmed at multiple villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3), and Emerald Pavilion in Turks and Caicos (Seasons 4-5)."
+          "answer": "Too Hot to Handle has filmed at multiple villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3), and Emerald Pavilion in Turks and Caicos (Seasons 4-6)."
         },
         {
           "question": "Can you rent the Too Hot to Handle villa?",
           "answer": "Yes! Casa Tau rents for $11,500-15,660/night through Casa Bay Villas. Emerald Pavilion rents for $8,700-27,000/night. Turtle Tail Estate sold for $20.25 million and is no longer available."
-        },
-        {
-          "question": "How much does it cost to stay at the Too Hot to Handle villa?",
-          "answer": "The current Too Hot to Handle villa (Emerald Pavilion) rents from $8,700-27,000/night depending on season. Casa Tau from Season 1 rents for $11,500-15,660/night with full staff included."
-        }
-      ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Too Hot to Handle Villa Tour - Casa Tau Punta Mita",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Emerald Pavilion Tour - THTH Turks and Caicos Villa",
-          "placeholder": true
         }
       ],
       "meta": {
@@ -153,9 +115,8 @@
       "networkSlug": "peacock",
       "seasons": 7,
       "status": "active",
+      "yearStarted": 2019,
       "description": "Singles couple up in a villa and compete in challenges while viewers vote for their favorite couples. New arrivals shake up existing relationships.",
-      "image": "/assets/images/shows/love-island-usa.webp",
-      "logo": "/assets/images/logos/love-island-usa.svg",
       "primaryLocation": "love-island-fiji-villa",
       "destinations": ["love-island-fiji-villa", "fiji-mamanuca-islands"],
       "faqs": [
@@ -166,22 +127,6 @@
         {
           "question": "Can you visit the Love Island USA villa in Fiji?",
           "answer": "The Love Island USA villa is custom-built for production and not publicly available. However, nearby resorts like Sheraton Tokoriki Island and Matamanoa Island Resort offer similar Fiji experiences."
-        },
-        {
-          "question": "Where is Casa Amor on Love Island USA?",
-          "answer": "Casa Amor and dates film on various islands in Fiji's Mamanuca chain, including uninhabited Yadua Island and volcanic Navadra Island."
-        }
-      ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Love Island USA Fiji Villa Revealed",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Mamanuca Islands Travel Guide - Near Love Island Villa",
-          "placeholder": true
         }
       ],
       "meta": {
@@ -196,10 +141,9 @@
       "networkSlug": "abc",
       "seasons": 10,
       "status": "active",
+      "yearStarted": 2014,
       "description": "Bachelor Nation alumni get a second chance at love in a tropical paradise, with rose ceremonies determining who stays and new arrivals shaking up relationships.",
-      "image": "/assets/images/shows/bachelor-in-paradise.webp",
-      "logo": "/assets/images/logos/bachelor-in-paradise.svg",
-      "primaryLocation": "azura-beach-resort",
+      "primaryLocation": "playa-escondida-resort",
       "destinations": ["playa-escondida-resort", "azura-beach-resort"],
       "faqs": [
         {
@@ -215,21 +159,97 @@
           "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where couples can have private time. It has become iconic in BIP lore."
         }
       ],
-      "youtubeVideos": [
-        {
-          "id": "",
-          "title": "Playa Escondida Resort Tour - Bachelor in Paradise Beach",
-          "placeholder": true
-        },
-        {
-          "id": "",
-          "title": "Azura Beach Resort Costa Rica - New BIP Location",
-          "placeholder": true
-        }
-      ],
       "meta": {
         "title": "Bachelor in Paradise Filming Location | Playa Escondida & Azura Resort",
         "description": "Stay at the Bachelor in Paradise resort! Book Playa Escondida in Mexico ($165/night) or the new Azura Beach Resort in Costa Rica. Complete visitor guide."
+      }
+    },
+    {
+      "id": "perfect-match",
+      "name": "Perfect Match",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "description": "Netflix reality star alumni compete to form the strongest couples through strategic matchmaking, living together in a tropical villa.",
+      "primaryLocation": "perfect-match-villa",
+      "destinations": ["perfect-match-villa-panama"],
+      "faqs": [
+        {
+          "question": "Where is Perfect Match filmed?",
+          "answer": "Perfect Match films at a luxury villa in Panama. The exact location is kept private during production."
+        }
+      ],
+      "meta": {
+        "title": "Perfect Match Filming Location | Netflix Villa Guide",
+        "description": "Discover where Perfect Match is filmed. Complete guide to the Netflix dating show's Panama villa location."
+      }
+    },
+    {
+      "id": "the-ultimatum",
+      "name": "The Ultimatum",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2022,
+      "description": "Couples on the verge of marriage give each other ultimatums, then swap partners for a trial marriage before deciding their fate.",
+      "primaryLocation": "austin-texas",
+      "destinations": ["austin-texas", "los-angeles"],
+      "faqs": [
+        {
+          "question": "Where is The Ultimatum filmed?",
+          "answer": "The Ultimatum primarily films in Austin, Texas. The show uses various apartments and venues around the city for the trial marriages and group gatherings."
+        }
+      ],
+      "meta": {
+        "title": "The Ultimatum Filming Locations | Austin & LA Venues",
+        "description": "Explore The Ultimatum filming locations in Austin, Texas and Los Angeles."
+      }
+    },
+    {
+      "id": "temptation-island",
+      "name": "Temptation Island",
+      "network": "USA Network",
+      "networkSlug": "usa",
+      "seasons": 5,
+      "status": "ended",
+      "yearStarted": 2019,
+      "description": "Couples test their relationships by living separately with singles on a tropical island, facing temptations that challenge their commitment.",
+      "primaryLocation": "temptation-island-maui",
+      "destinations": ["maui-hawaii", "andaz-maui"],
+      "faqs": [
+        {
+          "question": "Where is Temptation Island filmed?",
+          "answer": "The revival of Temptation Island films in Maui, Hawaii. The show uses luxury villas and the Andaz Maui resort for various date locations."
+        }
+      ],
+      "meta": {
+        "title": "Temptation Island Filming Location | Maui Hawaii Guide",
+        "description": "Visit the Temptation Island filming location in Maui, Hawaii. Stay at the same resorts and visit the beaches from the show."
+      }
+    },
+    {
+      "id": "fboy-island",
+      "name": "FBoy Island",
+      "network": "HBO Max",
+      "networkSlug": "hbo-max",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2021,
+      "description": "Three women try to distinguish between 'Nice Guys' and 'FBoys' while dating on a tropical island, with $100,000 on the line.",
+      "primaryLocation": "fboy-island-villa",
+      "destinations": ["cabo-san-lucas", "new-caledonia"],
+      "faqs": [
+        {
+          "question": "Where is FBoy Island filmed?",
+          "answer": "FBoy Island Season 1 filmed in the Cayman Islands. Season 2 filmed in Cabo San Lucas, Mexico, and Season 3 filmed in New Caledonia."
+        }
+      ],
+      "meta": {
+        "title": "FBoy Island Filming Locations | Cabo, Cayman Islands & More",
+        "description": "Discover FBoy Island filming locations across the Cayman Islands, Cabo San Lucas, and New Caledonia."
       }
     }
   ]

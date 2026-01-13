@@ -12,6 +12,105 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="css/style.css">
+  <style>
+    .filters-bar {
+      background: var(--color-white);
+      padding: var(--space-lg) 0;
+      border-bottom: 1px solid var(--color-gray-200);
+      position: sticky;
+      top: 60px;
+      z-index: 100;
+    }
+    .filters-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-md);
+      align-items: center;
+    }
+    .search-box {
+      position: relative;
+      flex: 1;
+      max-width: 300px;
+    }
+    .search-box input {
+      width: 100%;
+      padding: var(--space-sm) var(--space-md) var(--space-sm) 2.5rem;
+      border: 2px solid var(--color-gray-200);
+      border-radius: var(--radius-lg);
+      font-size: 1rem;
+      transition: all var(--transition-fast);
+    }
+    .search-box input:focus {
+      outline: none;
+      border-color: var(--color-primary);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+    }
+    .search-box::before {
+      content: '🔍';
+      position: absolute;
+      left: var(--space-md);
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 0.875rem;
+    }
+    .filter-buttons {
+      display: flex;
+      gap: var(--space-sm);
+      flex-wrap: wrap;
+    }
+    .filter-btn {
+      padding: var(--space-sm) var(--space-md);
+      border: 2px solid var(--color-gray-200);
+      border-radius: var(--radius-full);
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--color-gray-600);
+      background: var(--color-white);
+      cursor: pointer;
+      transition: all var(--transition-fast);
+    }
+    .filter-btn:hover {
+      border-color: var(--color-primary);
+      color: var(--color-primary);
+    }
+    .filter-btn.active {
+      background: var(--color-primary);
+      border-color: var(--color-primary);
+      color: var(--color-white);
+    }
+    .sort-select {
+      padding: var(--space-sm) var(--space-md);
+      border: 2px solid var(--color-gray-200);
+      border-radius: var(--radius-lg);
+      font-size: 0.875rem;
+      background: var(--color-white);
+      cursor: pointer;
+      min-width: 150px;
+    }
+    .sort-select:focus {
+      outline: none;
+      border-color: var(--color-primary);
+    }
+    .no-results {
+      text-align: center;
+      padding: var(--space-4xl);
+      color: var(--color-gray-500);
+      grid-column: 1 / -1;
+    }
+    .location-card-highlights {
+      display: flex;
+      flex-wrap: wrap;
+      gap: var(--space-xs);
+      margin-bottom: var(--space-md);
+    }
+    .highlight-tag {
+      font-size: 0.75rem;
+      padding: 2px 8px;
+      background: var(--color-gray-100);
+      border-radius: var(--radius-sm);
+      color: var(--color-gray-600);
+    }
+  </style>
 </head>
 <body>
   <!-- Navigation -->
@@ -42,6 +141,30 @@
       <p class="page-subtitle">Iconic filming locations you can actually visit and book.</p>
     </div>
   </header>
+
+  <!-- Filters -->
+  <div class="filters-bar">
+    <div class="container">
+      <div class="filters-container">
+        <div class="search-box">
+          <input type="text" id="location-search" placeholder="Search locations...">
+        </div>
+        <div class="filter-buttons">
+          <button class="filter-btn active" data-country="all">All Countries</button>
+          <button class="filter-btn" data-country="USA">USA</button>
+          <button class="filter-btn" data-country="Mexico">Mexico</button>
+          <button class="filter-btn" data-country="Turks and Caicos">Caribbean</button>
+          <button class="filter-btn" data-country="Costa Rica">Costa Rica</button>
+          <button class="filter-btn" data-country="Fiji">Fiji</button>
+        </div>
+        <select class="sort-select" id="sort-locations">
+          <option value="name">Sort by Name</option>
+          <option value="price-low">Price: Low to High</option>
+          <option value="price-high">Price: High to Low</option>
+        </select>
+      </div>
+    </div>
+  </div>
 
   <!-- Locations Grid -->
   <section class="page-content">
