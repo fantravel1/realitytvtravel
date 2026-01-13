@@ -1,0 +1,113 @@
+---
+layout: layouts/base.njk
+title: Reality TV Filming Locations & Travel Guide
+meta:
+  title: Reality TV Filming Locations | Visit Bachelor, Love Is Blind, THTH Destinations
+  description: The ultimate guide to reality TV filming locations. Visit the Bachelor Mansion, Love Is Blind pods, Too Hot to Handle villas, and 500+ destinations from your favorite dating shows.
+---
+
+<section class="hero">
+  <h1>Visit Reality TV Filming Locations</h1>
+  <p>Explore every destination, resort, restaurant, and villa from your favorite dating shows—on screen and off.</p>
+  <a href="/shows/" class="btn btn-primary" style="background: #fff; color: var(--color-primary);">Browse All Shows →</a>
+</section>
+
+<section class="container" style="margin-top: var(--spacing-xl);">
+  <h2>Popular Shows</h2>
+  <div class="grid grid-3" style="margin-top: var(--spacing-md);">
+    {% for show in shows.shows | limit(6) %}
+    <a href="/shows/{{ show.id }}/" class="card" style="text-decoration: none; color: inherit;">
+      <div class="card-body">
+        <span class="badge badge-network">{{ show.network }}</span>
+        <h3 class="card-title" style="margin-top: 0.5rem;">{{ show.name }}</h3>
+        <p class="card-meta">{{ show.seasons }} Seasons • {{ show.destinations | length }} Destinations</p>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+  <p style="text-align: center; margin-top: var(--spacing-md);"><a href="/shows/">View All Shows →</a></p>
+</section>
+
+<section class="container" style="margin-top: var(--spacing-xl);">
+  <h2>Featured Destinations</h2>
+  <div class="grid grid-2" style="margin-top: var(--spacing-md);">
+    <div class="card">
+      <div class="card-body">
+        <span class="badge badge-bookable">Bookable</span>
+        <h3 class="card-title" style="margin-top: 0.5rem;">The Bachelor Mansion</h3>
+        <p>Villa de la Vina in Agoura Hills, CA. Rent on Airbnb from $6,000/night.</p>
+        <a href="/locations/bachelor-mansion/">Learn More →</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <span class="badge badge-bookable">Bookable</span>
+        <h3 class="card-title" style="margin-top: 0.5rem;">Too Hot to Handle Villa</h3>
+        <p>Emerald Pavilion in Turks and Caicos. Rent from $8,700/night.</p>
+        <a href="/locations/emerald-pavilion/">Learn More →</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <span class="badge badge-bookable">Bookable</span>
+        <h3 class="card-title" style="margin-top: 0.5rem;">Love Is Blind Mexico Resort</h3>
+        <p>Grand Velas Riviera Maya. Book from $800/night all-inclusive.</p>
+        <a href="/hotels/grand-velas-riviera-maya/">Learn More →</a>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-body">
+        <span class="badge badge-bookable">Bookable</span>
+        <h3 class="card-title" style="margin-top: 0.5rem;">Bachelor in Paradise Resort</h3>
+        <p>Playa Escondida in Sayulita, Mexico. Book from $165/night.</p>
+        <a href="/locations/playa-escondida-resort/">Learn More →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="container" style="margin-top: var(--spacing-xl);">
+  <h2>Browse by Network</h2>
+  <div class="grid grid-4" style="margin-top: var(--spacing-md);">
+    <a href="/networks/abc/" class="card" style="text-decoration: none; text-align: center; padding: var(--spacing-md);">
+      <strong style="color: var(--color-text);">ABC</strong>
+      <p class="text-muted" style="margin: 0; font-size: 0.875rem;">Bachelor, Bachelorette, BIP</p>
+    </a>
+    <a href="/networks/netflix/" class="card" style="text-decoration: none; text-align: center; padding: var(--spacing-md);">
+      <strong style="color: var(--color-text);">Netflix</strong>
+      <p class="text-muted" style="margin: 0; font-size: 0.875rem;">Love Is Blind, THTH, Perfect Match</p>
+    </a>
+    <a href="/networks/peacock/" class="card" style="text-decoration: none; text-align: center; padding: var(--spacing-md);">
+      <strong style="color: var(--color-text);">Peacock</strong>
+      <p class="text-muted" style="margin: 0; font-size: 0.875rem;">Love Island USA, Temptation Island</p>
+    </a>
+    <a href="/networks/tlc/" class="card" style="text-decoration: none; text-align: center; padding: var(--spacing-md);">
+      <strong style="color: var(--color-text);">TLC</strong>
+      <p class="text-muted" style="margin: 0; font-size: 0.875rem;">90 Day Fiancé franchise</p>
+    </a>
+  </div>
+</section>
+
+{% set faqs = [
+  {
+    "question": "What is set-jetting?",
+    "answer": "Set-jetting is traveling to destinations featured in movies and TV shows. The phenomenon has grown into a $66 billion industry, with 61% of travelers now influenced by screen content when choosing destinations."
+  },
+  {
+    "question": "Can you actually visit reality TV filming locations?",
+    "answer": "Many reality TV locations are publicly accessible or available to rent. Resorts, restaurants, and some villas can be booked. Private mansions like the Bachelor Mansion occasionally appear on Airbnb."
+  },
+  {
+    "question": "How much does it cost to rent the Bachelor Mansion?",
+    "answer": "The Bachelor Mansion (Villa de la Vina) rents for $6,000 to $30,000 per night on Airbnb, depending on dates and event type. The property hosts weddings, proposals, and special events."
+  },
+  {
+    "question": "Can you stay at the Love Is Blind resort in Mexico?",
+    "answer": "Yes! Love Is Blind films at publicly bookable all-inclusive resorts. Grand Velas Riviera Maya starts around $800-1,500/night, and TRS Hotels range from $400-1,000/night."
+  },
+  {
+    "question": "Where is the Too Hot to Handle villa?",
+    "answer": "Too Hot to Handle currently films at Emerald Pavilion in Turks and Caicos ($8,700-27,000/night). Season 1 filmed at Casa Tau in Punta Mita, Mexico ($11,500-15,660/night). Both are rentable."
+  }
+] %}
+{% include "components/faq.njk" %}
