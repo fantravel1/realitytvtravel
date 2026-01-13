@@ -277,8 +277,8 @@
           <h2 class="newsletter-title">Get Location Updates</h2>
           <p class="newsletter-text">Be the first to know when new filming locations are revealed or become bookable.</p>
         </div>
-        <form class="newsletter-form" onsubmit="handleNewsletterSubmit(event)">
-          <input type="email" placeholder="Enter your email" required class="newsletter-input">
+        <form class="newsletter-form" id="newsletter-form" action="https://formspree.io/f/mgooebgw" method="POST" onsubmit="handleNewsletterSubmit(event)">
+          <input type="email" name="email" placeholder="Enter your email" required class="newsletter-input">
           <button type="submit" class="btn btn-primary">Subscribe</button>
         </form>
         <p class="newsletter-disclaimer">No spam, unsubscribe anytime. We respect your privacy.</p>

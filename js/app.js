@@ -158,6 +158,10 @@ const networkColors = {
   'USA Network': { bg: 'linear-gradient(135deg, #0f2027 0%, #203a43 100%)', accent: '#2980b9' }
 };
 
+// Trending shows for badges
+const trendingShows = ['love-is-blind', 'too-hot-to-handle', 'the-bachelor'];
+const newShows = ['perfect-match', 'fboy-island'];
+
 function formatPrice(priceRange) {
   if (!priceRange) return '';
   const { min, currency, unit } = priceRange;
@@ -177,11 +181,15 @@ function formatPrice(priceRange) {
 function createShowCard(show) {
   const emoji = showEmojis[show.id] || '📺';
   const colors = networkColors[show.network] || networkColors['ABC'];
+  const isTrending = trendingShows.includes(show.id);
+  const isNew = newShows.includes(show.id);
 
   return `
     <a href="show.html?id=${show.id}" class="show-card">
       <div class="show-card-image" style="background: ${colors.bg}">
         <span class="show-card-network" style="color: ${colors.accent}">${show.network}</span>
+        ${isTrending ? '<span class="badge badge-trending">🔥 Trending</span>' : ''}
+        ${isNew ? '<span class="badge badge-new">✨ New</span>' : ''}
         <span class="show-card-emoji">${emoji}</span>
       </div>
       <div class="show-card-body">
@@ -803,11 +811,12 @@ function showToast(message, type = 'success') {
 // Newsletter Form
 // ============================================
 
-function handleNewsletterSubmit(event) {
+async function handleNewsletterSubmit(event) {
   event.preventDefault();
 
   const form = event.target;
   const emailInput = form.querySelector('input[type="email"]');
+  const submitBtn = form.querySelector('button[type="submit"]');
   const email = emailInput?.value;
 
   if (!email) {
@@ -815,13 +824,85 @@ function handleNewsletterSubmit(event) {
     return;
   }
 
-  // Simulate successful subscription
-  showToast('Thanks for subscribing! You\'ll be the first to know about new locations.', 'success');
-  form.reset();
+  // Disable button and show loading state
+  const originalText = submitBtn.textContent;
+  submitBtn.disabled = true;
+  submitBtn.textContent = 'Subscribing...';
+
+  try {
+    const response = await fetch(form.action, {
+      method: 'POST',
+      headers: {
+        'Accept': 'application/json',
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ email })
+    });
+
+    if (response.ok) {
+      showToast('Thanks for subscribing! You\'ll be the first to know about new locations.', 'success');
+      form.reset();
+    } else {
+      throw new Error('Subscription failed');
+    }
+  } catch (error) {
+    showToast('Oops! Something went wrong. Please try again.', 'error');
+  } finally {
+    submitBtn.disabled = false;
+    submitBtn.textContent = originalText;
+  }
 }
 
 // Make function globally available
 window.handleNewsletterSubmit = handleNewsletterSubmit;
+
+// ============================================
+// Social Sharing
+// ============================================
+
+function shareContent(platform, title, url) {
+  const encodedUrl = encodeURIComponent(url || window.location.href);
+  const encodedTitle = encodeURIComponent(title || document.title);
+
+  const shareUrls = {
+    twitter: `https://twitter.com/intent/tweet?text=${encodedTitle}&url=${encodedUrl}`,
+    facebook: `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+    pinterest: `https://pinterest.com/pin/create/button/?url=${encodedUrl}&description=${encodedTitle}`,
+    copy: null
+  };
+
+  if (platform === 'copy') {
+    navigator.clipboard.writeText(url || window.location.href).then(() => {
+      showToast('Link copied to clipboard!', 'success');
+    }).catch(() => {
+      showToast('Failed to copy link', 'error');
+    });
+    return;
+  }
+
+  if (shareUrls[platform]) {
+    window.open(shareUrls[platform], '_blank', 'width=600,height=400');
+  }
+}
+
+window.shareContent = shareContent;
+
+function createShareButtons(title) {
+  return `
+    <div class="share-buttons">
+      <span class="share-label">Share:</span>
+      <button class="share-btn share-twitter" onclick="shareContent('twitter', '${title}')" title="Share on Twitter">
+        <span>𝕏</span>
+      </button>
+      <button class="share-btn share-facebook" onclick="shareContent('facebook', '${title}')" title="Share on Facebook">
+        <span>f</span>
+      </button>
+      <button class="share-btn share-copy" onclick="shareContent('copy')" title="Copy link">
+        <span>📋</span>
+      </button>
+    </div>
+  `;
+}
 
 // ============================================
 // Initialize
