@@ -721,12 +721,91 @@ function initSmoothScroll() {
 }
 
 // ============================================
+// Back to Top Button
+// ============================================
+
+function initBackToTop() {
+  const backToTopBtn = document.getElementById('backToTop');
+  if (!backToTopBtn) return;
+
+  function toggleVisibility() {
+    if (window.scrollY > 500) {
+      backToTopBtn.classList.add('visible');
+    } else {
+      backToTopBtn.classList.remove('visible');
+    }
+  }
+
+  window.addEventListener('scroll', toggleVisibility);
+  toggleVisibility();
+
+  backToTopBtn.addEventListener('click', () => {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  });
+}
+
+// ============================================
+// Toast Notifications
+// ============================================
+
+function showToast(message, type = 'success') {
+  // Remove existing toasts
+  const existingToast = document.querySelector('.toast');
+  if (existingToast) existingToast.remove();
+
+  const toast = document.createElement('div');
+  toast.className = `toast toast-${type}`;
+  toast.innerHTML = `
+    <span class="toast-icon">${type === 'success' ? '✓' : type === 'error' ? '✕' : 'ℹ'}</span>
+    <span class="toast-message">${message}</span>
+  `;
+
+  document.body.appendChild(toast);
+
+  // Trigger animation
+  requestAnimationFrame(() => {
+    toast.classList.add('visible');
+  });
+
+  // Auto dismiss
+  setTimeout(() => {
+    toast.classList.remove('visible');
+    setTimeout(() => toast.remove(), 300);
+  }, 4000);
+}
+
+// ============================================
+// Newsletter Form
+// ============================================
+
+function handleNewsletterSubmit(event) {
+  event.preventDefault();
+
+  const form = event.target;
+  const emailInput = form.querySelector('input[type="email"]');
+  const email = emailInput?.value;
+
+  if (!email) {
+    showToast('Please enter your email address.', 'error');
+    return;
+  }
+
+  // Simulate successful subscription
+  showToast('Thanks for subscribing! You\'ll be the first to know about new locations.', 'success');
+  form.reset();
+}
+
+// Make function globally available
+window.handleNewsletterSubmit = handleNewsletterSubmit;
+
+// ============================================
 // Initialize
 // ============================================
 
 document.addEventListener('DOMContentLoaded', async () => {
   initNavigation();
   initSmoothScroll();
+  initBackToTop();
   animateCounters();
   initFAQ();
 

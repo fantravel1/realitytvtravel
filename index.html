@@ -12,6 +12,42 @@
   <meta property="og:description" content="Visit every destination from your favorite reality TV dating shows.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://realitytvtravel.com">
+  <meta property="og:site_name" content="RealityTVTravel">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RealityTVTravel | Reality TV Filming Locations">
+  <meta name="twitter:description" content="Visit the Bachelor Mansion, Love Is Blind resorts, Too Hot to Handle villas, and more.">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "RealityTVTravel",
+    "url": "https://realitytvtravel.com",
+    "description": "The ultimate guide to reality TV filming locations. Visit destinations from The Bachelor, Love Is Blind, Too Hot to Handle, and more.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://realitytvtravel.com/shows.html?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "RealityTVTravel",
+    "url": "https://realitytvtravel.com",
+    "logo": "https://realitytvtravel.com/logo.png",
+    "sameAs": [
+      "https://twitter.com/realitytvtravel",
+      "https://instagram.com/realitytvtravel",
+      "https://tiktok.com/@realitytvtravel"
+    ]
+  }
+  </script>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -183,6 +219,24 @@
     </div>
   </section>
 
+  <!-- Newsletter Section -->
+  <section class="section section-newsletter">
+    <div class="container">
+      <div class="newsletter-box">
+        <div class="newsletter-content">
+          <span class="newsletter-icon">✉️</span>
+          <h2 class="newsletter-title">Get Location Updates</h2>
+          <p class="newsletter-text">Be the first to know when new filming locations are revealed or become bookable.</p>
+        </div>
+        <form class="newsletter-form" onsubmit="handleNewsletterSubmit(event)">
+          <input type="email" placeholder="Enter your email" required class="newsletter-input">
+          <button type="submit" class="btn btn-primary">Subscribe</button>
+        </form>
+        <p class="newsletter-disclaimer">No spam, unsubscribe anytime. We respect your privacy.</p>
+      </div>
+    </div>
+  </section>
+
   <!-- CTA Section -->
   <section class="section section-cta-full">
     <div class="container">
@@ -235,6 +289,11 @@
       </div>
     </div>
   </footer>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">
+    <span>↑</span>
+  </button>
 
   <script src="js/app.js"></script>
 </body>
