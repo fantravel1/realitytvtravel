@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  {# SEO Meta Tags #}
+  <title>{{ meta.title | default(title) }}{% if not meta.title and not title %} RealityTVTravel{% endif %}{% if meta.title or title %} | RealityTVTravel{% endif %}</title>
+  <meta name="description" content="{{ meta.description | default(description) | default('Visit every destination, restaurant, bar, hotel, and experiential location from your favorite reality TV dating shows.') }}">
+  <link rel="canonical" href="https://realitytvtravel.com{{ page.url }}">
+  
+  {# Open Graph #}
+  <meta property="og:title" content="{{ meta.title | default(title) | default('RealityTVTravel') }}">
+  <meta property="og:description" content="{{ meta.description | default(description) | default('Visit every destination from your favorite reality TV shows.') }}">
+  <meta property="og:image" content="https://realitytvtravel.com{{ image | default('/assets/images/og-default.webp') }}">
+  <meta property="og:url" content="https://realitytvtravel.com{{ page.url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="RealityTVTravel">
+  
+  {# Twitter Card #}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ meta.title | default(title) | default('RealityTVTravel') }}">
+  <meta name="twitter:description" content="{{ meta.description | default(description) | default('Visit every destination from your favorite reality TV shows.') }}">
+  <meta name="twitter:image" content="https://realitytvtravel.com{{ image | default('/assets/images/og-default.webp') }}">
+  
+  {# Preconnect to external domains #}
+  <link rel="preconnect" href="https://www.youtube.com">
+  <link rel="preconnect" href="https://i.ytimg.com">
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  
+  {# Favicon #}
+  <link rel="icon" href="/favicon.ico" sizes="32x32">
+  <link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+  
+  {# Critical CSS - Inlined #}
+  <style>
+    {% include "assets/css/critical.css" %}
+  </style>
+  
+  {# JSON-LD Schema #}
+  {% include "components/schema.njk" %}
+</head>
+<body>
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+  
+  {% include "components/nav.njk" %}
+  
+  <main id="main-content">
+    {% include "components/breadcrumb.njk" %}
+    {{ content | safe }}
+  </main>
+  
+  {% include "components/footer.njk" %}
+  
+  {# Minimal JS - Inline for performance #}
+  <script>
+    {% include "assets/js/main.js" %}
+  </script>
+</body>
+</html>

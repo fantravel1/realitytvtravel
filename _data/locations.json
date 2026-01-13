@@ -1,0 +1,187 @@
+{
+  "locations": [
+    {
+      "id": "bachelor-mansion",
+      "name": "The Bachelor Mansion (Villa de la Vina)",
+      "type": "filming-location",
+      "category": "mansion",
+      "shows": ["the-bachelor", "the-bachelorette"],
+      "address": "2351 Kanan Road, Agoura Hills, CA 91301",
+      "coordinates": {
+        "lat": 34.1392,
+        "lng": -118.7553
+      },
+      "country": "USA",
+      "region": "California",
+      "city": "Agoura Hills",
+      "bookable": true,
+      "bookingUrl": "",
+      "priceRange": {
+        "min": 6000,
+        "max": 30000,
+        "currency": "USD",
+        "unit": "night"
+      },
+      "amenities": ["pool", "spa", "wine-cellar", "chef-available", "event-space", "10-acres", "mountain-views"],
+      "featuredSeasons": [
+        {
+          "show": "the-bachelor",
+          "seasons": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+        }
+      ],
+      "images": [],
+      "faqs": [
+        {
+          "question": "How much does it cost to rent the Bachelor Mansion?",
+          "answer": "The Bachelor Mansion rents for $6,000 to $30,000 per night on Airbnb, depending on dates and event type. Minimum stays typically apply. The property includes 7 bedrooms and 8.5 bathrooms."
+        },
+        {
+          "question": "Can you get married at the Bachelor Mansion?",
+          "answer": "Yes, the Bachelor Mansion hosts weddings, proposals, and special events. Contact the property through Airbnb for event pricing and availability. The grounds can accommodate up to 200 guests."
+        },
+        {
+          "question": "Who owns the Bachelor Mansion?",
+          "answer": "The Bachelor Mansion is owned by the Haraden family. Marshall Haraden rents the property to ABC for approximately 42 days per season. The family continues to live there when not filming."
+        },
+        {
+          "question": "Can you visit the Bachelor Mansion without booking?",
+          "answer": "The Bachelor Mansion is on private property and cannot be visited without booking. Fans sometimes drive by on Kanan Road, but the driveway is gated and trespassing is not permitted."
+        }
+      ],
+      "youtubeVideos": [
+        {
+          "id": "",
+          "title": "Bachelor Mansion Full Tour - Villa de la Vina",
+          "placeholder": true
+        },
+        {
+          "id": "",
+          "title": "Bachelor Mansion Airbnb Experience",
+          "placeholder": true
+        }
+      ],
+      "affiliateLinks": [],
+      "nearbyAttractions": ["malibu-beaches", "santa-monica-mountains", "pepperdine-university"],
+      "meta": {
+        "title": "Bachelor Mansion: Visit, Rent & Tour Villa de la Vina | RealityTVTravel",
+        "description": "Rent the iconic Bachelor Mansion in Agoura Hills, CA. $6,000-$30,000/night on Airbnb. Complete visitor guide with photos, pricing, and booking info."
+      }
+    },
+    {
+      "id": "playa-escondida-resort",
+      "name": "Playa Escondida Resort",
+      "type": "resort",
+      "category": "beach-resort",
+      "shows": ["bachelor-in-paradise"],
+      "address": "Camino a Playa Escondida, Sayulita, Nayarit, Mexico",
+      "coordinates": {
+        "lat": 20.8844,
+        "lng": -105.4363
+      },
+      "country": "Mexico",
+      "region": "Nayarit",
+      "city": "Sayulita",
+      "bookable": true,
+      "bookingUrl": "https://playa-escondida.com",
+      "priceRange": {
+        "min": 165,
+        "max": 495,
+        "currency": "USD",
+        "unit": "night"
+      },
+      "amenities": ["beach-access", "restaurant", "bar", "pool", "yoga", "surf-lessons"],
+      "featuredSeasons": [
+        {
+          "show": "bachelor-in-paradise",
+          "seasons": [2, 3, 4, 5, 6, 7, 8, 9]
+        }
+      ],
+      "images": [],
+      "faqs": [
+        {
+          "question": "Is Playa Escondida the real Bachelor in Paradise resort?",
+          "answer": "Yes! Playa Escondida Resort in Sayulita, Mexico was the filming location for Bachelor in Paradise Seasons 2-9 (2015-2023). The resort actively markets itself as the BIP location."
+        },
+        {
+          "question": "What is the Boom Boom Room at Playa Escondida?",
+          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where Bachelor in Paradise couples go for private time. It has become iconic in BIP lore and can be specifically requested when booking."
+        },
+        {
+          "question": "How much does it cost to stay at the Bachelor in Paradise resort?",
+          "answer": "Playa Escondida Resort rates range from $165-495/night depending on room type and season. The resort offers various room categories from eco-friendly cabanas to luxury suites."
+        }
+      ],
+      "youtubeVideos": [
+        {
+          "id": "",
+          "title": "Playa Escondida Resort Tour - Bachelor in Paradise Beach",
+          "placeholder": true
+        }
+      ],
+      "affiliateLinks": [],
+      "nearbyAttractions": ["sayulita-beach", "punta-mita", "san-pancho"],
+      "meta": {
+        "title": "Playa Escondida Resort: Stay at the Bachelor in Paradise Beach",
+        "description": "Book the Bachelor in Paradise resort! Playa Escondida in Sayulita, Mexico from $165/night. Visit the Boom Boom Room and famous filming beach."
+      }
+    },
+    {
+      "id": "emerald-pavilion",
+      "name": "Emerald Pavilion",
+      "type": "villa",
+      "category": "luxury-villa",
+      "shows": ["too-hot-to-handle"],
+      "address": "Grace Bay Beach, Providenciales, Turks and Caicos",
+      "coordinates": {
+        "lat": 21.7996,
+        "lng": -72.2024
+      },
+      "country": "Turks and Caicos",
+      "region": "Providenciales",
+      "city": "Grace Bay",
+      "bookable": true,
+      "bookingUrl": "",
+      "priceRange": {
+        "min": 8700,
+        "max": 27000,
+        "currency": "USD",
+        "unit": "night"
+      },
+      "amenities": ["infinity-pool", "beach-access", "private-chef", "butler-service", "gym", "spa", "home-theater"],
+      "featuredSeasons": [
+        {
+          "show": "too-hot-to-handle",
+          "seasons": [4, 5, 6]
+        }
+      ],
+      "images": [],
+      "faqs": [
+        {
+          "question": "Where is the Too Hot to Handle Season 4-6 villa?",
+          "answer": "Too Hot to Handle Seasons 4, 5, and 6 filmed at Emerald Pavilion, a luxury villa on Grace Bay Beach in Providenciales, Turks and Caicos. The property features a 1,600 square foot infinity pool."
+        },
+        {
+          "question": "How much does it cost to rent the Too Hot to Handle villa?",
+          "answer": "Emerald Pavilion rents for $8,700-27,000 per night depending on season. The villa sleeps up to 20 guests and includes full staff with private chef, butler, and concierge service."
+        },
+        {
+          "question": "Who else has stayed at Emerald Pavilion?",
+          "answer": "Emerald Pavilion has hosted celebrities including Rihanna and P Diddy. The property is one of the most exclusive villa rentals in the Caribbean."
+        }
+      ],
+      "youtubeVideos": [
+        {
+          "id": "",
+          "title": "Emerald Pavilion Tour - Too Hot to Handle Villa",
+          "placeholder": true
+        }
+      ],
+      "affiliateLinks": [],
+      "nearbyAttractions": ["grace-bay-beach", "chalk-sound", "sapodilla-bay"],
+      "meta": {
+        "title": "Emerald Pavilion: Rent the Too Hot to Handle Villa | Turks and Caicos",
+        "description": "Rent the Too Hot to Handle villa! Emerald Pavilion on Grace Bay Beach from $8,700/night. The iconic THTH Seasons 4-6 filming location with 1,600 sq ft infinity pool."
+      }
+    }
+  ]
+}

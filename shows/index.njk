@@ -1,0 +1,77 @@
+---
+layout: layouts/base.njk
+title: All Reality TV Shows
+meta:
+  title: Reality TV Shows | Complete Filming Location Guides
+  description: Browse all reality TV dating shows with filming location guides. The Bachelor, Love Is Blind, Too Hot to Handle, Love Island USA, 90 Day Fiancé, and 30+ more.
+breadcrumbs:
+  - name: Shows
+    url: /shows/
+---
+
+<article>
+  <header class="page-header">
+    <h1>Reality TV Dating Shows</h1>
+    <p>Complete filming location guides for every major dating show.</p>
+  </header>
+
+  <section>
+    <h2>ABC / Warner Bros</h2>
+    <div class="grid grid-3">
+      {% for show in shows.shows %}
+        {% if show.network == "ABC" %}
+        <a href="/shows/{{ show.id }}/" class="card" style="text-decoration: none; color: inherit;">
+          <div class="card-body">
+            <h3 class="card-title">{{ show.name }}</h3>
+            <p class="card-meta">{{ show.seasons }} Seasons</p>
+          </div>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section style="margin-top: var(--spacing-lg);">
+    <h2>Netflix</h2>
+    <div class="grid grid-3">
+      {% for show in shows.shows %}
+        {% if show.network == "Netflix" %}
+        <a href="/shows/{{ show.id }}/" class="card" style="text-decoration: none; color: inherit;">
+          <div class="card-body">
+            <h3 class="card-title">{{ show.name }}</h3>
+            <p class="card-meta">{{ show.seasons }} Seasons</p>
+          </div>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section style="margin-top: var(--spacing-lg);">
+    <h2>Peacock / NBC</h2>
+    <div class="grid grid-3">
+      {% for show in shows.shows %}
+        {% if show.network == "Peacock" %}
+        <a href="/shows/{{ show.id }}/" class="card" style="text-decoration: none; color: inherit;">
+          <div class="card-body">
+            <h3 class="card-title">{{ show.name }}</h3>
+            <p class="card-meta">{{ show.seasons }} Seasons</p>
+          </div>
+        </a>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  {% set faqs = [
+    {
+      "question": "What dating shows does RealityTVTravel cover?",
+      "answer": "We cover all major American dating reality shows including The Bachelor/Bachelorette franchise, Love Is Blind, Too Hot to Handle, Love Island USA, Perfect Match, The Ultimatum, Married at First Sight, 90 Day Fiancé, Temptation Island, FBoy Island, and many more."
+    },
+    {
+      "question": "How many shows are in the database?",
+      "answer": "RealityTVTravel covers 30+ dating reality shows across ABC, Netflix, Peacock, TLC, MTV, HBO Max, and other networks, spanning hundreds of seasons and thousands of filming locations worldwide."
+    }
+  ] %}
+  {% include "components/faq.njk" %}
+</article>

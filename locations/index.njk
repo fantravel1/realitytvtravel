@@ -1,0 +1,53 @@
+---
+layout: layouts/base.njk
+title: All Filming Locations
+meta:
+  title: Reality TV Filming Locations | Villas, Resorts & Venues
+  description: Browse 500+ reality TV filming locations. The Bachelor Mansion, Love Is Blind pods, Too Hot to Handle villas, and destinations from 30+ dating shows.
+breadcrumbs:
+  - name: Locations
+    url: /locations/
+---
+
+<article>
+  <header class="page-header">
+    <h1>Reality TV Filming Locations</h1>
+    <p>Explore villas, resorts, and venues from your favorite dating shows.</p>
+  </header>
+
+  <section>
+    <h2>Featured Locations</h2>
+    <div class="grid grid-3">
+      {% for location in locations.locations %}
+      <a href="/locations/{{ location.id }}/" class="card" style="text-decoration: none; color: inherit;">
+        <div class="card-body">
+          {% if location.bookable %}
+          <span class="badge badge-bookable">Bookable</span>
+          {% endif %}
+          <h3 class="card-title" style="margin-top: 0.5rem;">{{ location.name }}</h3>
+          <p class="card-meta">{{ location.city }}, {{ location.country }}</p>
+          {% if location.priceRange %}
+          <p style="color: var(--color-primary); font-weight: 600;">From ${{ location.priceRange.min | number }}/{{ location.priceRange.unit }}</p>
+          {% endif %}
+        </div>
+      </a>
+      {% endfor %}
+    </div>
+  </section>
+
+  {% set faqs = [
+    {
+      "question": "Can you visit reality TV filming locations?",
+      "answer": "Many reality TV locations are publicly accessible. Resorts and hotels can be booked directly. Some villas are available for private rental through agencies like Airbnb or luxury villa rental companies."
+    },
+    {
+      "question": "How much does it cost to rent reality TV villas?",
+      "answer": "Prices vary widely. The Bachelor Mansion rents for $6,000-30,000/night. Too Hot to Handle villas range from $8,700-27,000/night. Bachelor in Paradise's Playa Escondida starts at just $165/night."
+    },
+    {
+      "question": "Are the Love Is Blind pods open to visitors?",
+      "answer": "The Love Is Blind pods at LA North Studios in Santa Clarita are not open to the public. They are production facilities used exclusively for filming."
+    }
+  ] %}
+  {% include "components/faq.njk" %}
+</article>
