@@ -193,12 +193,31 @@ function createShowCard(show) {
   `;
 }
 
+function createSkeletonCard() {
+  return `
+    <div class="skeleton-card">
+      <div class="skeleton-card-image"></div>
+      <div class="skeleton-card-body">
+        <div class="skeleton skeleton-title"></div>
+        <div class="skeleton skeleton-text"></div>
+        <div class="skeleton skeleton-text"></div>
+      </div>
+    </div>
+  `;
+}
+
 async function loadShowsGrid() {
   const grid = document.getElementById('shows-grid');
   if (!grid) return;
 
+  // Show skeletons while loading
+  grid.innerHTML = Array(6).fill(createSkeletonCard()).join('');
+
   const data = showsData || await loadData('shows.json');
-  if (!data?.shows) return;
+  if (!data?.shows) {
+    grid.innerHTML = '<p class="error-message">Failed to load shows.</p>';
+    return;
+  }
 
   // Only show first 6 on homepage
   grid.innerHTML = data.shows.slice(0, 6).map(show => createShowCard(show)).join('');
@@ -264,8 +283,14 @@ async function loadLocationsGrid() {
   const grid = document.getElementById('locations-grid');
   if (!grid) return;
 
+  // Show skeletons while loading
+  grid.innerHTML = Array(4).fill(createSkeletonCard()).join('');
+
   await initData();
-  if (!locationsData?.locations) return;
+  if (!locationsData?.locations) {
+    grid.innerHTML = '<p class="error-message">Failed to load locations.</p>';
+    return;
+  }
 
   // Show first 4 on homepage
   grid.innerHTML = locationsData.locations
