@@ -779,6 +779,347 @@
         "title": "Love in Paradise Filming Locations | Caribbean Islands Guide",
         "description": "Explore the Caribbean destinations featured on Love in Paradise."
       }
+    },
+    {
+      "id": "90-day-fiance",
+      "name": "90 Day Fiancé",
+      "network": "TLC",
+      "networkSlug": "tlc",
+      "seasons": 10,
+      "status": "active",
+      "yearStarted": 2014,
+      "tagline": "Long distance, short deadline",
+      "description": "Follow couples who have 90 days to decide if they should get married after one partner arrives in the US on a K-1 visa. The groundbreaking TLC franchise has spawned over a dozen spin-offs and become a cultural phenomenon.",
+      "longDescription": "90 Day Fiancé introduced viewers to the complexities of international romance through the lens of the K-1 'fiancé visa' process. American citizens bring their foreign partners to the US, where they must marry within 90 days or the partner must return home. The show has expanded into a massive franchise including Before the 90 Days, Happily Ever After, The Other Way, and many more, featuring couples from over 50 countries.",
+      "primaryLocation": "varies-international",
+      "destinations": ["ukraine", "russia", "brazil", "colombia", "philippines", "nigeria", "morocco", "south-africa", "thailand", "india", "tunisia", "dominican-republic", "mexico", "uk", "australia"],
+      "bestSeasons": [2, 5, 7],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {
+          "question": "What countries are featured on 90 Day Fiancé?",
+          "answer": "The franchise has featured couples from over 50 countries including Ukraine, Russia, Brazil, Colombia, Philippines, Nigeria, Morocco, South Africa, Thailand, India, Tunisia, Dominican Republic, Mexico, UK, Australia, and many more. The Other Way spin-off follows Americans moving abroad."
+        },
+        {
+          "question": "What is the K-1 visa process?",
+          "answer": "The K-1 visa allows foreign fiancés of US citizens to enter America for 90 days to get married. After marriage, they can apply for permanent residency. The process typically takes 6-9 months and costs around $2,000 in filing fees."
+        },
+        {
+          "question": "How many 90 Day Fiancé spin-offs are there?",
+          "answer": "There are over 15 spin-offs including Before the 90 Days, Happily Ever After, The Other Way, The Single Life, UK, and pillow talk commentary shows. The franchise is TLC's most successful programming."
+        }
+      ],
+      "travelTips": [
+        "The Philippines' Cebu and Manila are frequently featured destinations",
+        "Colombia's Medellín has become a popular tourism destination",
+        "Morocco's Marrakech offers incredible cultural immersion",
+        "Brazil's Amazon and beach towns feature in romantic seasons"
+      ],
+      "meta": {
+        "title": "90 Day Fiancé Filming Locations | 50+ Countries Guide",
+        "description": "Complete guide to 90 Day Fiancé filming locations across 50+ countries worldwide."
+      }
+    },
+    {
+      "id": "singles-inferno",
+      "name": "Single's Inferno",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2021,
+      "tagline": "Escape to paradise together",
+      "description": "Korean singles compete on a deserted island ('Inferno') where they can only escape to a luxury resort ('Paradise') by coupling up. The sleek Korean production has become a global hit showcasing Seoul's dating culture.",
+      "longDescription": "Single's Inferno brought K-drama aesthetics to the dating show format. Contestants live on a sparse island with basic facilities, but can only escape to a luxury resort if they successfully couple up for overnight dates. The show's combination of stunning Korean contestants, strategic gameplay, and gorgeous cinematography has made it Netflix's most successful Korean reality show.",
+      "primaryLocation": "korea-filming",
+      "destinations": ["seoul", "jeju-island", "incheon", "korea-single-inferno"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.3,
+      "avgEpisodeLength": 70,
+      "faqs": [
+        {
+          "question": "Where is Single's Inferno filmed?",
+          "answer": "Single's Inferno films the 'Inferno' sequences on a specially constructed set in South Korea, while 'Paradise' scenes are filmed at luxury resorts and hotels around Seoul and Jeju Island. Season 3 featured the stunning Signiel Seoul hotel for Paradise dates."
+        },
+        {
+          "question": "Can you visit the Single's Inferno locations?",
+          "answer": "The Paradise resort locations are publicly bookable. Signiel Seoul (Season 3) offers rooms from $400/night. Many contestants' post-show date spots in Gangnam and Hongdae are popular with fans."
+        },
+        {
+          "question": "Why is the show called Single's Inferno?",
+          "answer": "The island represents 'Inferno' where singles are stuck until they find love. Coupling up allows them to escape to 'Paradise' for romantic overnight dates with luxury accommodations, gourmet food, and privacy."
+        }
+      ],
+      "travelTips": [
+        "Seoul's Gangnam district features many filming locations and date spots",
+        "Signiel Seoul offers the same luxury Paradise experience from Season 3",
+        "Jeju Island is Korea's honeymoon capital with stunning scenery",
+        "K-beauty shopping in Myeongdong is perfect for fans of the contestants' style"
+      ],
+      "meta": {
+        "title": "Single's Inferno Filming Locations | Seoul & Paradise Hotels Guide",
+        "description": "Visit Single's Inferno filming locations. Book the Paradise hotels, explore Seoul date spots, and experience Korean dating culture."
+      }
+    },
+    {
+      "id": "ex-on-the-beach",
+      "name": "Ex on the Beach",
+      "network": "MTV",
+      "networkSlug": "mtv",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Your ex is about to crash your vacation",
+      "description": "Singles arrive at a tropical resort expecting a fun vacation, but their exes start showing up to stir drama. The US version of the hit British format delivers maximum chaos.",
+      "longDescription": "Ex on the Beach takes vacation romance and adds a cruel twist: your ex shows up via the infamous 'Tablet of Terror.' The show has become known for explosive confrontations, messy hookups, and the unpredictable chaos that ensues when past and present collide in paradise. The format originated in the UK but the US version has developed its own wild identity.",
+      "primaryLocation": "ex-beach-villa",
+      "destinations": ["malibu", "hawaii-north-shore", "gran-canaria", "colombia"],
+      "bestSeasons": [2, 4, 5],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Ex on the Beach filmed?",
+          "answer": "Ex on the Beach USA has filmed in various beach locations including Malibu (California), Hawaii's North Shore, Gran Canaria (Spain), and Colombia. The show uses luxury beach villas that accommodate large casts."
+        },
+        {
+          "question": "What is the Tablet of Terror?",
+          "answer": "The Tablet of Terror is a device that alerts contestants when a new ex is about to arrive. It's become iconic for the dramatic reactions it causes as contestants learn their past is catching up with them."
+        }
+      ],
+      "travelTips": [
+        "Malibu's beach house rentals offer similar vibes",
+        "Hawaii's North Shore is perfect for surfing and drama",
+        "Gran Canaria has incredible beaches and nightlife",
+        "Cartagena, Colombia offers colonial charm and beach access"
+      ],
+      "meta": {
+        "title": "Ex on the Beach Filming Locations | Beach Villa Guide",
+        "description": "Discover Ex on the Beach filming locations from Malibu to Hawaii to Spain."
+      }
+    },
+    {
+      "id": "the-ultimatum-queer-love",
+      "name": "The Ultimatum: Queer Love",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Marry or move on",
+      "description": "The groundbreaking LGBTQ+ version of The Ultimatum featuring queer women navigating love, commitment, and the ultimate relationship test. A historic moment for queer representation in reality dating.",
+      "longDescription": "The Ultimatum: Queer Love made history as the first major dating show to feature an entirely LGBTQ+ cast. Five couples at a crossroads face the same ultimatum experiment as the original show but with the added complexity of navigating queer relationships and identity. The show earned praise for its authentic representation and emotional depth.",
+      "primaryLocation": "los-angeles",
+      "destinations": ["los-angeles", "west-hollywood", "silver-lake"],
+      "bestSeasons": [1],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is The Ultimatum: Queer Love filmed?",
+          "answer": "The show films in Los Angeles, with trial marriages taking place in apartments around the city. West Hollywood and Silver Lake, known for their LGBTQ+ communities, feature prominently in date locations."
+        },
+        {
+          "question": "How is the queer version different from the original?",
+          "answer": "Beyond featuring queer women, the show addresses unique aspects of LGBTQ+ relationships including coming out, chosen family dynamics, and navigating societal pressures. The cast praised the authentic representation."
+        }
+      ],
+      "travelTips": [
+        "West Hollywood's The Abbey is an iconic LGBTQ+ venue",
+        "Silver Lake has a thriving queer arts and dining scene",
+        "Los Angeles Pride events take place each June",
+        "Explore DTLA's diverse food and cultural scene"
+      ],
+      "meta": {
+        "title": "The Ultimatum: Queer Love Filming Locations | LA Guide",
+        "description": "Explore The Ultimatum: Queer Love filming locations in Los Angeles and West Hollywood."
+      }
+    },
+    {
+      "id": "dated-and-related",
+      "name": "Dated and Related",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2022,
+      "tagline": "Find love with your sibling watching",
+      "description": "Pairs of siblings enter a villa together where they must help each other find love while witnessing each other's dating escapades. Awkwardness guaranteed.",
+      "longDescription": "Dated and Related puts a uniquely uncomfortable twist on dating shows: siblings compete together. While one sibling dates, the other watches and offers advice (or judgment). The show filmed in the South of France and features the beautiful chaos of family dynamics meeting romantic drama.",
+      "primaryLocation": "french-riviera-villa",
+      "destinations": ["cannes", "nice", "antibes", "french-riviera"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Dated and Related filmed?",
+          "answer": "Dated and Related films at a stunning villa on the French Riviera, near Cannes. The Mediterranean setting provides a glamorous backdrop for romantic adventures and sibling squabbles alike."
+        },
+        {
+          "question": "How does the sibling format work?",
+          "answer": "Siblings enter the villa together and must witness each other's romantic pursuits. They offer advice, express concern, and sometimes get way too involved in each other's love lives. It's equal parts supportive and mortifying."
+        }
+      ],
+      "travelTips": [
+        "The French Riviera is Europe's premier summer destination",
+        "Cannes' La Croisette offers glamorous beach club vibes",
+        "Nice's Old Town has incredible restaurants and nightlife",
+        "Rent a villa in Antibes for the full experience"
+      ],
+      "meta": {
+        "title": "Dated and Related Filming Location | French Riviera Villa",
+        "description": "Visit the Dated and Related villa location on the stunning French Riviera."
+      }
+    },
+    {
+      "id": "joe-millionaire",
+      "name": "Joe Millionaire: For Richer or Poorer",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Love or money?",
+      "description": "The revival of the classic show features two bachelors - one actually wealthy, one not - competing for love while women try to guess who's who. A twist on gold-digger concerns.",
+      "longDescription": "Joe Millionaire returned in 2022 with a clever update: two Joes, one actually a millionaire and one a regular guy. Women must navigate their feelings without knowing which bachelor has the fortune. The revival filmed at a stunning Missouri estate, bringing back the guilty pleasure format for a new generation.",
+      "primaryLocation": "lakeview-estate-missouri",
+      "destinations": ["lakeview-estate-missouri", "missouri-ozarks", "branson"],
+      "bestSeasons": [1],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Joe Millionaire 2022 filmed?",
+          "answer": "The revival filmed at the stunning Lakeview Xtreme Estate in the Missouri Ozarks. The 20,000+ square foot mansion sits on a private lake and features incredible amenities including a waterpark."
+        },
+        {
+          "question": "Can you visit the Joe Millionaire estate?",
+          "answer": "Yes! Lakeview Xtreme Estate is available for vacation rentals, sleeping up to 30 guests. It's perfect for group trips and features the same grand spaces seen on the show."
+        }
+      ],
+      "travelTips": [
+        "The Missouri Ozarks offer beautiful lake country scenery",
+        "Branson is nearby with entertainment and attractions",
+        "Lake living provides relaxed romance vibes",
+        "Book the estate for a group reality TV experience"
+      ],
+      "meta": {
+        "title": "Joe Millionaire Filming Location | Missouri Estate Guide",
+        "description": "Visit the Joe Millionaire mansion in Missouri's Ozarks region."
+      }
+    },
+    {
+      "id": "milf-manor",
+      "name": "MILF Manor",
+      "network": "TLC",
+      "networkSlug": "tlc",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Age is just a number",
+      "description": "Women over 40 and younger men date at a Mexican resort, with a shocking twist: the men are the women's own sons' peers. TLC's most controversial dating show delivers maximum awkwardness.",
+      "longDescription": "MILF Manor pushed reality TV boundaries by having women in their 40s-60s date men in their 20s-30s at a luxury Mexican resort. The shocking twist? The men were friends with the women's sons, who eventually showed up. The show became a viral sensation for its wild premise and actually heartwarming moments.",
+      "primaryLocation": "mexico-resort",
+      "destinations": ["cabo-san-lucas", "los-cabos", "puerto-vallarta"],
+      "bestSeasons": [1],
+      "viewerRating": 3.2,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is MILF Manor filmed?",
+          "answer": "MILF Manor films at luxury resorts in Mexico, including locations in Cabo San Lucas and Los Cabos. The all-inclusive resort setting provides the backdrop for poolside flirtation and dramatic reveals."
+        },
+        {
+          "question": "What's the twist in MILF Manor?",
+          "answer": "The women's sons arrive to see their moms dating men their own age - often their own friends or peers. The resulting awkwardness and genuine emotional moments made the show a viral hit."
+        }
+      ],
+      "travelTips": [
+        "Cabo San Lucas offers incredible resorts for any age",
+        "Los Cabos' beaches are perfect for romantic getaways",
+        "All-inclusive resorts provide the full MILF Manor experience",
+        "Visit during shoulder season for better rates"
+      ],
+      "meta": {
+        "title": "MILF Manor Filming Location | Mexico Resort Guide",
+        "description": "Discover where MILF Manor is filmed in Mexico's stunning Los Cabos region."
+      }
+    },
+    {
+      "id": "ready-to-love",
+      "name": "Ready to Love",
+      "network": "OWN",
+      "networkSlug": "own",
+      "seasons": 9,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Black love stories",
+      "description": "Successful Black singles over 30 search for lasting love in this mature, thoughtful dating show. Will Packer's production focuses on accomplished professionals seeking genuine connection.",
+      "longDescription": "Ready to Love fills an important gap in reality dating by centering Black singles over 30 who are established in their careers and ready for serious relationships. Produced by Will Packer, the show has featured singles in Atlanta, Houston, Miami, DC, and other cities with significant Black professional communities. It's known for its more mature approach to dating TV.",
+      "primaryLocation": "varies-by-season",
+      "destinations": ["atlanta", "houston", "miami", "washington-dc", "los-angeles", "dallas"],
+      "bestSeasons": [1, 4, 6],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Ready to Love filmed?",
+          "answer": "Ready to Love films in different cities each season, including Atlanta, Houston, Miami, Washington DC, Los Angeles, and Dallas. Each location showcases the local Black professional scene and date venues."
+        },
+        {
+          "question": "What makes Ready to Love different?",
+          "answer": "The show focuses on successful Black singles over 30, with less drama and more genuine conversation about relationships, careers, and what people want in partners. It's a more mature take on dating TV."
+        }
+      ],
+      "travelTips": [
+        "Atlanta's Buckhead has upscale venues featured on the show",
+        "Houston's Montrose district offers great date spots",
+        "Miami's Wynwood is perfect for creative dates",
+        "DC's U Street corridor showcases Black history and culture"
+      ],
+      "meta": {
+        "title": "Ready to Love Filming Locations | Atlanta, Houston & More",
+        "description": "Explore Ready to Love filming locations across America's major cities."
+      }
+    },
+    {
+      "id": "love-island-all-stars",
+      "name": "Love Island: All Stars",
+      "network": "ITV",
+      "networkSlug": "itv",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Legendary islanders return",
+      "description": "Fan favorites from previous Love Island UK seasons return for a second chance at love in South Africa. The all-star format brings back the most memorable islanders for winter villa drama.",
+      "longDescription": "Love Island: All Stars takes the most beloved (and most controversial) contestants from Love Island UK's history and brings them back together in a South African villa. The show films during the UK winter, giving fans year-round Love Island content. With established personalities and unresolved drama from previous seasons, the stakes are higher than ever.",
+      "primaryLocation": "south-africa-villa",
+      "destinations": ["cape-town", "south-africa", "franschhoek", "stellenbosch"],
+      "bestSeasons": [1],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Love Island All Stars filmed?",
+          "answer": "Love Island: All Stars films at a luxury villa near Cape Town, South Africa during the UK winter. The location offers stunning mountain and ocean views, plus warm weather when the UK is cold."
+        },
+        {
+          "question": "Who has appeared on All Stars?",
+          "answer": "All Stars features memorable contestants from across Love Island UK's history, including winners, fan favorites, and villains. The mix of established personalities and old rivalries creates extra drama."
+        }
+      ],
+      "travelTips": [
+        "Cape Town's Camps Bay offers similar villa luxury",
+        "The Winelands (Franschhoek, Stellenbosch) make romantic day trips",
+        "Table Mountain provides iconic backdrop seen in the show",
+        "Visit January-February to experience the All Stars vibe"
+      ],
+      "meta": {
+        "title": "Love Island All Stars Filming Location | South Africa Villa",
+        "description": "Visit the Love Island All Stars villa location in South Africa's stunning Cape Town region."
+      }
     }
   ]
 }
