@@ -252,9 +252,15 @@ function createLocationCard(location, shows) {
 
   const bgStyle = categoryColors[location.category] || 'var(--gradient-hero)';
 
+  const favoriteClass = isFavorite(location.id) ? 'active' : '';
+  const favoriteIcon = isFavorite(location.id) ? '❤️' : '🤍';
+
   return `
     <div class="location-card" data-country="${location.country}" data-price="${location.priceRange?.min || 0}">
       <div class="location-card-image" style="background: ${bgStyle}">
+        <button class="favorite-btn ${favoriteClass}" data-location-id="${location.id}" onclick="toggleFavorite('${location.id}', event)" title="${isFavorite(location.id) ? 'Remove from wishlist' : 'Add to wishlist'}">
+          ${favoriteIcon}
+        </button>
         <div class="location-card-badges">
           ${location.bookable ? '<span class="badge badge-bookable">Bookable</span>' : ''}
           ${showNames ? `<span class="badge badge-show">${showNames}</span>` : ''}
@@ -946,6 +952,92 @@ function initThemeToggle() {
 }
 
 // ============================================
+// Favorites / Wishlist
+// ============================================
+
+function getFavorites() {
+  try {
+    return JSON.parse(localStorage.getItem('favorites') || '[]');
+  } catch {
+    return [];
+  }
+}
+
+function saveFavorites(favorites) {
+  localStorage.setItem('favorites', JSON.stringify(favorites));
+  updateFavoritesCount();
+}
+
+function toggleFavorite(locationId, event) {
+  if (event) {
+    event.preventDefault();
+    event.stopPropagation();
+  }
+
+  const favorites = getFavorites();
+  const index = favorites.indexOf(locationId);
+
+  if (index === -1) {
+    favorites.push(locationId);
+    showToast('Added to your wishlist! ❤️', 'success');
+  } else {
+    favorites.splice(index, 1);
+    showToast('Removed from wishlist', 'info');
+  }
+
+  saveFavorites(favorites);
+  updateFavoriteButtons();
+}
+
+function isFavorite(locationId) {
+  return getFavorites().includes(locationId);
+}
+
+function updateFavoriteButtons() {
+  document.querySelectorAll('.favorite-btn').forEach(btn => {
+    const locationId = btn.dataset.locationId;
+    if (isFavorite(locationId)) {
+      btn.classList.add('active');
+      btn.innerHTML = '❤️';
+      btn.title = 'Remove from wishlist';
+    } else {
+      btn.classList.remove('active');
+      btn.innerHTML = '🤍';
+      btn.title = 'Add to wishlist';
+    }
+  });
+}
+
+function updateFavoritesCount() {
+  const count = getFavorites().length;
+  const countEl = document.getElementById('favorites-count');
+  if (countEl) {
+    countEl.textContent = count;
+    countEl.style.display = count > 0 ? 'flex' : 'none';
+  }
+}
+
+window.toggleFavorite = toggleFavorite;
+
+// ============================================
+// Parallax Effect
+// ============================================
+
+function initParallax() {
+  const hero = document.querySelector('.hero');
+  if (!hero) return;
+
+  // Only enable on larger screens
+  if (window.innerWidth < 768) return;
+
+  window.addEventListener('scroll', () => {
+    const scrolled = window.scrollY;
+    const rate = scrolled * 0.3;
+    hero.style.backgroundPositionY = `${rate}px`;
+  }, { passive: true });
+}
+
+// ============================================
 // Initialize
 // ============================================
 
@@ -954,8 +1046,10 @@ document.addEventListener('DOMContentLoaded', async () => {
   initSmoothScroll();
   initBackToTop();
   initThemeToggle();
+  initParallax();
   animateCounters();
   initFAQ();
+  updateFavoritesCount();
 
   // Load dynamic content based on page
   await Promise.all([
@@ -966,4 +1060,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     loadShowDetail(),
     loadLocationDetail()
   ]);
+
+  // Update favorite buttons after content loads
+  updateFavoriteButtons();
 });
