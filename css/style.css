@@ -1975,3 +1975,336 @@ h1, h2, h3, h4, h5, h6 {
     background: var(--color-gray-200);
   }
 }
+
+/* ============================================
+   Magazine-Style Enhancements
+   ============================================ */
+
+/* Show Card Tagline */
+.show-card-tagline {
+  font-style: italic;
+  color: var(--color-gray-500);
+  font-size: 0.875rem;
+  margin-bottom: var(--space-sm);
+}
+
+/* Show Rating Stars */
+.show-rating {
+  color: #f4d03f;
+  font-weight: 600;
+}
+
+.show-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs);
+  font-size: 0.75rem;
+  color: var(--color-gray-500);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: var(--space-sm);
+}
+
+/* Location Card Tagline */
+.location-card-tagline {
+  font-style: italic;
+  color: var(--color-gray-500);
+  font-size: 0.8rem;
+  margin-bottom: var(--space-sm);
+}
+
+/* Location Card Shows */
+.location-card-shows {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.8rem;
+  color: var(--color-gray-600);
+  margin-bottom: var(--space-sm);
+}
+
+/* Location Card Timing */
+.location-card-timing {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.75rem;
+  color: var(--color-gray-500);
+  margin-bottom: var(--space-sm);
+}
+
+/* Region Badge */
+.badge-region {
+  background: var(--color-gray-100);
+  color: var(--color-gray-700);
+  font-size: 0.7rem;
+  padding: var(--space-xs) var(--space-sm);
+}
+
+/* Detail Page Tagline */
+.detail-tagline {
+  font-style: italic;
+  font-size: 1.25rem;
+  color: var(--color-gray-400);
+  margin-bottom: var(--space-md);
+  font-family: var(--font-display);
+}
+
+/* Detail Rating */
+.detail-rating {
+  color: #f4d03f;
+  font-weight: 600;
+}
+
+/* Section Intro */
+.section-intro {
+  color: var(--color-gray-500);
+  margin-bottom: var(--space-lg);
+  font-size: 1rem;
+}
+
+/* Magazine Section Styles */
+.magazine-section {
+  background: var(--color-gray-50);
+  padding: var(--space-xl);
+  border-radius: var(--radius-xl);
+  margin-bottom: var(--space-2xl);
+}
+
+[data-theme="dark"] .magazine-section {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* Best Seasons Grid */
+.best-seasons-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+}
+
+.best-season-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  background: var(--color-white);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+}
+
+[data-theme="dark"] .best-season-item {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.best-season-rank {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  background: var(--gradient-primary);
+  color: var(--color-white);
+  border-radius: 50%;
+  font-weight: 700;
+  font-size: 0.875rem;
+}
+
+.best-season-number {
+  font-weight: 600;
+  color: var(--color-gray-900);
+}
+
+[data-theme="dark"] .best-season-number {
+  color: var(--color-gray-100);
+}
+
+/* Travel Tips List */
+.travel-tips-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-md);
+}
+
+.travel-tip-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+  background: var(--color-white);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-sm);
+  line-height: 1.6;
+}
+
+[data-theme="dark"] .travel-tip-item {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.tip-icon {
+  font-size: 1.25rem;
+  flex-shrink: 0;
+}
+
+/* Location Info Grid */
+.location-info-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--space-md);
+}
+
+.location-info-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+.info-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  color: var(--color-gray-500);
+  font-weight: 600;
+}
+
+.info-value {
+  color: var(--color-gray-900);
+  font-weight: 500;
+}
+
+[data-theme="dark"] .info-value {
+  color: var(--color-gray-100);
+}
+
+/* Sidebar Timing */
+.sidebar-timing {
+  background: var(--color-gray-50);
+  padding: var(--space-md);
+  border-radius: var(--radius-md);
+  margin-bottom: var(--space-md);
+}
+
+[data-theme="dark"] .sidebar-timing {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.sidebar-timing-label {
+  display: block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  color: var(--color-gray-900);
+  margin-bottom: var(--space-xs);
+}
+
+[data-theme="dark"] .sidebar-timing-label {
+  color: var(--color-gray-100);
+}
+
+.sidebar-timing p {
+  font-size: 0.875rem;
+  color: var(--color-gray-600);
+  margin: 0;
+}
+
+/* Sidebar Map Link */
+.sidebar-map {
+  margin-top: var(--space-md);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-gray-200);
+}
+
+[data-theme="dark"] .sidebar-map {
+  border-top-color: rgba(255, 255, 255, 0.1);
+}
+
+.map-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-md);
+  background: var(--color-gray-50);
+  border-radius: var(--radius-md);
+  color: var(--color-gray-700);
+  text-decoration: none;
+  font-size: 0.875rem;
+  transition: all var(--transition-fast);
+}
+
+.map-link:hover {
+  background: var(--color-gray-100);
+  color: var(--color-primary);
+}
+
+[data-theme="dark"] .map-link {
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--color-gray-300);
+}
+
+[data-theme="dark"] .map-link:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+/* Featured Show Card */
+.featured-show-card {
+  background: var(--color-gray-50);
+  padding: var(--space-md) var(--space-lg);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: inherit;
+  transition: all var(--transition-fast);
+}
+
+.featured-show-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+[data-theme="dark"] .featured-show-card {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Enhanced Location Card Body */
+.location-card-body {
+  padding: var(--space-lg);
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-xs);
+}
+
+/* Enhanced Show Card for larger grids */
+.shows-grid .show-card {
+  min-height: 320px;
+}
+
+/* Homepage Section Enhancements */
+.section-header {
+  text-align: center;
+  margin-bottom: var(--space-2xl);
+}
+
+.section-eyebrow {
+  font-size: 0.875rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: var(--color-primary);
+  font-weight: 600;
+  margin-bottom: var(--space-sm);
+}
+
+.section-title-large {
+  font-family: var(--font-display);
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  margin-bottom: var(--space-md);
+  background: var(--gradient-text);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.section-subtitle {
+  color: var(--color-gray-500);
+  font-size: 1.125rem;
+  max-width: 600px;
+  margin: 0 auto;
+}

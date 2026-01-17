@@ -20,7 +20,8 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-  <!-- Shows -->
+
+  <!-- Shows (21 total) -->
   <url>
     <loc>https://realitytvtravel.com/show.html?id=the-bachelor</loc>
     <changefreq>monthly</changefreq>
@@ -71,7 +72,63 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-  <!-- Locations -->
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=married-at-first-sight</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-island-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=the-circle</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-on-the-spectrum</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=dating-around</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=are-you-the-one</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=sexy-beasts</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=the-courtship</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-without-borders</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=indian-matchmaking</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-in-paradise</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Locations (24 total) -->
   <url>
     <loc>https://realitytvtravel.com/location.html?id=bachelor-mansion</loc>
     <changefreq>monthly</changefreq>
@@ -111,5 +168,85 @@
     <loc>https://realitytvtravel.com/location.html?id=azura-beach-resort</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=santorini-grace</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=castle-howard</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=cabo-resort</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=new-orleans-justine</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=austin-rainey-street</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=thailand-resort</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=bali-resort</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=iceland-blue-lagoon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=jamaica-sandals</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=maldives-resort</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=new-zealand-queenstown</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=scotland-highlands</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=paris-france</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=turks-caicos-beaches</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=atlanta-buckhead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=dubai-resort</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>

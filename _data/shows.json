@@ -8,22 +8,37 @@
       "seasons": 29,
       "status": "active",
       "yearStarted": 2002,
-      "description": "The original dating competition where one bachelor dates 25+ women over the course of several weeks, with rose ceremonies eliminating contestants until a final proposal.",
+      "tagline": "Will you accept this rose?",
+      "description": "The original dating competition where one bachelor dates 25+ women over the course of several weeks, with rose ceremonies eliminating contestants until a final proposal. For over two decades, The Bachelor has defined reality TV romance, spawning countless engagements and a passionate fan community known as Bachelor Nation.",
+      "longDescription": "Since its premiere in 2002, The Bachelor has become a cultural phenomenon that has redefined dating television. Each season follows a single bachelor as he narrows down a pool of potential partners through romantic one-on-one dates, group adventures, and the iconic rose ceremonies. The show has filmed in over 50 countries, from the romantic streets of Paris to the beaches of Thailand, creating some of reality TV's most memorable moments. The Bachelor Mansion in Agoura Hills, California, has become one of the most recognizable homes in television history.",
       "primaryLocation": "bachelor-mansion",
-      "destinations": ["bachelor-mansion", "malta", "malaga-spain", "montreal", "jasper-alberta", "tulum"],
+      "destinations": ["bachelor-mansion", "malta", "malaga-spain", "montreal", "jasper-alberta", "tulum", "paris-france", "greece", "italy", "thailand", "new-zealand", "bahamas", "switzerland"],
+      "bestSeasons": [17, 21, 25],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 120,
       "faqs": [
         {
           "question": "Where is The Bachelor Mansion located?",
-          "answer": "The Bachelor Mansion, officially named Villa de la Vina, is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles in the Santa Monica Mountains."
+          "answer": "The Bachelor Mansion, officially named Villa de la Vina, is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles in the Santa Monica Mountains. The 10-acre estate features Mediterranean architecture, stunning gardens, and that iconic driveway."
         },
         {
           "question": "Can you visit The Bachelor Mansion?",
-          "answer": "Yes! The Bachelor Mansion is available for rent on Airbnb. Nightly rates range from $6,000 to $30,000. The property hosts weddings, proposals, and special events when not filming."
+          "answer": "Yes! The Bachelor Mansion is available for rent on Airbnb. Nightly rates range from $6,000 to $30,000 depending on the season. The property hosts weddings, proposals, and special events when not filming. Many couples have gotten engaged on the same spot as their favorite Bachelor moments."
         },
         {
           "question": "How long has The Bachelor filmed at the mansion?",
-          "answer": "The Bachelor has filmed at Villa de la Vina since Season 11 in 2007. The production rents the property for approximately 42 days per season."
+          "answer": "The Bachelor has filmed at Villa de la Vina since Season 11 in 2007. The production rents the property for approximately 42 days per season. Before this mansion, the show used different locations including a mansion in Malibu."
+        },
+        {
+          "question": "What international destinations has The Bachelor visited?",
+          "answer": "The Bachelor has traveled to over 50 countries including France, Italy, Switzerland, Thailand, New Zealand, Iceland, the Bahamas, Malta, Spain, and many more. Fantasy Suite destinations often include Santorini, Bali, and the Maldives."
         }
+      ],
+      "travelTips": [
+        "Book the Bachelor Mansion months in advance - it fills up fast during proposal season",
+        "Visit Agoura Hills in spring for the best garden views",
+        "The nearby Malibu Wine Safari offers similar wine country vibes",
+        "Consider a helicopter tour to see the property from above"
       ],
       "meta": {
         "title": "The Bachelor Filming Locations | Every Destination, Resort & Date Spot",
@@ -38,14 +53,28 @@
       "seasons": 21,
       "status": "active",
       "yearStarted": 2003,
-      "description": "The gender-swapped spinoff where one bachelorette dates 25+ men, traveling to exotic destinations before choosing her final rose recipient.",
+      "tagline": "Her journey to find love",
+      "description": "The gender-swapped spinoff where one bachelorette dates 25+ men, traveling to exotic destinations before choosing her final rose recipient. The Bachelorette has proven equally compelling, with leads like Trista Rehn, JoJo Fletcher, and Rachel Lindsay becoming household names.",
+      "longDescription": "Launched as a spinoff in 2003 with The Bachelor's rejected contestant Trista Rehn, The Bachelorette quickly became appointment television in its own right. The show follows a single woman as she dates multiple suitors, traveling from the Bachelor Mansion to exotic locales around the world. The format allows viewers to watch one woman's journey through romance, heartbreak, and ultimately (hopefully) love.",
       "primaryLocation": "bachelor-mansion",
-      "destinations": ["bachelor-mansion", "greece", "thailand", "new-zealand"],
+      "destinations": ["bachelor-mansion", "greece", "thailand", "new-zealand", "scotland", "italy", "spain", "germany", "bahamas"],
+      "bestSeasons": [11, 13, 15],
+      "viewerRating": 4.3,
+      "avgEpisodeLength": 120,
       "faqs": [
         {
           "question": "Does The Bachelorette film at the Bachelor Mansion?",
-          "answer": "Yes, The Bachelorette uses the same Bachelor Mansion (Villa de la Vina) for the first few weeks of filming before traveling to various domestic and international destinations."
+          "answer": "Yes, The Bachelorette uses the same Bachelor Mansion (Villa de la Vina) for the first few weeks of filming before traveling to various domestic and international destinations. The mansion provides the iconic backdrop for those first night arrivals and early rose ceremonies."
+        },
+        {
+          "question": "What are the most romantic Bachelorette destinations?",
+          "answer": "Fan favorites include Santorini, Greece for its stunning sunsets, the Scottish Highlands for dramatic landscapes, Thailand for its beautiful temples and beaches, and New Zealand for adventure dates like bungee jumping and helicopter tours."
         }
+      ],
+      "travelTips": [
+        "Santorini's Oia is especially magical at sunset - arrive early for the best spots",
+        "Scotland filming locations often include historic castles open for tours",
+        "Book a Thailand temple tour similar to the cultural dates on the show"
       ],
       "meta": {
         "title": "The Bachelorette Filming Locations | Complete Destination Guide",
@@ -60,22 +89,37 @@
       "seasons": 8,
       "status": "active",
       "yearStarted": 2020,
-      "description": "Singles try to find love sight unseen in dating pods before meeting face-to-face, getting engaged, and deciding whether to marry at the altar.",
+      "tagline": "Is love truly blind?",
+      "description": "Singles try to find love sight unseen in dating pods before meeting face-to-face, getting engaged, and deciding whether to marry at the altar. The groundbreaking Netflix hit has expanded to multiple countries and proven that emotional connection can precede physical attraction.",
+      "longDescription": "Love Is Blind revolutionized dating television with its unique premise: contestants form emotional connections through conversations in isolated pods, getting engaged before ever seeing each other. Created by Chris Coelen, the show has become a global phenomenon with versions in Brazil, Japan, Germany, Sweden, the UK, and more. The US version has spawned viral moments, from the infamous gold wine glasses to dramatic altar decisions that have captivated millions of viewers worldwide.",
       "primaryLocation": "la-north-studios",
-      "destinations": ["grand-velas-riviera-maya", "trs-coral-hotel", "kimpton-roatan", "kimpton-mas-olas"],
+      "destinations": ["grand-velas-riviera-maya", "trs-coral-hotel", "kimpton-roatan", "kimpton-mas-olas", "atlanta", "chicago", "charlotte", "denver", "houston", "washington-dc"],
+      "bestSeasons": [1, 4, 6],
+      "viewerRating": 4.5,
+      "avgEpisodeLength": 60,
       "faqs": [
         {
           "question": "Where are the Love Is Blind pods located?",
-          "answer": "The Love Is Blind pods are located at LA North Studios in Santa Clarita, California. Season 1 filmed at Trilith Studios in Fayetteville, Georgia. The pods are approximately 12x12 feet each."
+          "answer": "The Love Is Blind pods are located at LA North Studios in Santa Clarita, California. Season 1 filmed at Trilith Studios in Fayetteville, Georgia. The pods are approximately 12x12 feet each, with a blue couch on one side and a gold couch on the other."
         },
         {
           "question": "Where does Love Is Blind film the Mexico retreat?",
-          "answer": "Love Is Blind has filmed couple retreats at Grand Velas Riviera Maya (Seasons 1, 5), TRS Coral Hotel in Cancún (Season 2), TRS Yucatan (Season 4), and various all-inclusive resorts in Mexico's Riviera Maya."
+          "answer": "Love Is Blind has filmed couple retreats at Grand Velas Riviera Maya (Seasons 1, 5), TRS Coral Hotel in Cancún (Season 2), TRS Yucatan (Season 4), and various all-inclusive resorts in Mexico's Riviera Maya. These resorts offer the perfect romantic backdrop for newly engaged couples."
         },
         {
           "question": "Can you book the Love Is Blind resort?",
-          "answer": "Yes! The Mexico resorts used for Love Is Blind are publicly bookable. Grand Velas Riviera Maya starts around $800-1,500/night, and TRS Hotels range from $400-1,000/night, all-inclusive."
+          "answer": "Yes! The Mexico resorts used for Love Is Blind are publicly bookable. Grand Velas Riviera Maya starts around $800-1,500/night all-inclusive, and TRS Hotels range from $400-1,000/night, all-inclusive. Request a room in the zen section for the same villa experience."
+        },
+        {
+          "question": "What cities has Love Is Blind filmed in?",
+          "answer": "Love Is Blind has featured singles from Atlanta (Seasons 1, 7), Chicago (Season 2), Dallas (Season 3), Seattle (Season 4), Houston (Season 5), Charlotte (Season 6), and Washington DC (Season 7). Each season explores different neighborhoods and venues in these cities."
         }
+      ],
+      "travelTips": [
+        "Grand Velas offers the exact pool and beach setup from the show",
+        "Request the Ambassador or Grand Class suites for the villa experience",
+        "Atlanta's Buckhead neighborhood has many filming locations",
+        "Chicago's River North area features heavily in Season 2"
       ],
       "meta": {
         "title": "Love Is Blind Filming Locations | Pods, Mexico Resorts & City Venues",
@@ -90,18 +134,33 @@
       "seasons": 6,
       "status": "active",
       "yearStarted": 2020,
-      "description": "Attractive singles must abstain from sexual contact to win a $100,000 prize while living together in a luxury villa monitored by AI assistant Lana.",
+      "tagline": "No kissing. No sex. No self-gratification.",
+      "description": "Attractive singles must abstain from sexual contact to win a $100,000 prize while living together in a luxury villa monitored by AI assistant Lana. The show has become known for its stunning villa locations and cheeky humor.",
+      "longDescription": "Too Hot to Handle took Netflix by storm with its unique twist: gorgeous singles are placed in a tropical paradise but cannot engage in any physical intimacy or they lose money from the prize fund. The show's AI host, Lana, monitors their behavior while contestants participate in workshops designed to help them form deeper emotional connections. The series has spawned international versions and become synonymous with its stunning villa locations.",
       "primaryLocation": "emerald-pavilion",
-      "destinations": ["casa-tau", "emerald-pavilion", "turtle-tail-estate"],
+      "destinations": ["casa-tau", "emerald-pavilion", "turtle-tail-estate", "turks-and-caicos", "punta-mita"],
+      "bestSeasons": [1, 4],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 45,
       "faqs": [
         {
           "question": "Where is the Too Hot to Handle villa?",
-          "answer": "Too Hot to Handle has filmed at multiple villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3), and Emerald Pavilion in Turks and Caicos (Seasons 4-6)."
+          "answer": "Too Hot to Handle has filmed at multiple stunning villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3), and Emerald Pavilion in Turks and Caicos (Seasons 4-6). Each villa features infinity pools, ocean views, and luxury amenities."
         },
         {
           "question": "Can you rent the Too Hot to Handle villa?",
-          "answer": "Yes! Casa Tau rents for $11,500-15,660/night through Casa Bay Villas. Emerald Pavilion rents for $8,700-27,000/night. Turtle Tail Estate sold for $20.25 million and is no longer available."
+          "answer": "Yes! Casa Tau rents for $11,500-15,660/night through Casa Bay Villas and sleeps up to 22 guests. Emerald Pavilion rents for $8,700-27,000/night and accommodates 18 guests. Turtle Tail Estate was sold for $20.25 million and is no longer available for rent."
+        },
+        {
+          "question": "What amenities do the THTH villas have?",
+          "answer": "The villas feature infinity pools, private beaches, full staff including chefs and butlers, outdoor dining areas, fire pits, and multiple bedroom suites. Casa Tau includes a spa, gym, and private pier. Emerald Pavilion has an elevator, wine cellar, and floating dock."
         }
+      ],
+      "travelTips": [
+        "Book Casa Tau for a group trip - it sleeps 22 and has full staff",
+        "Punta Mita offers world-class surfing and golf nearby",
+        "Turks and Caicos' Grace Bay Beach is consistently rated best in the world",
+        "Visit during shoulder season (May-June) for lower rates"
       ],
       "meta": {
         "title": "Too Hot to Handle Villa Locations | Rent the THTH House",
@@ -116,18 +175,33 @@
       "seasons": 7,
       "status": "active",
       "yearStarted": 2019,
-      "description": "Singles couple up in a villa and compete in challenges while viewers vote for their favorite couples. New arrivals shake up existing relationships.",
+      "tagline": "Couple up or get dumped",
+      "description": "Singles couple up in a villa and compete in challenges while viewers vote for their favorite couples. New arrivals shake up existing relationships in this addictive summer romance series.",
+      "longDescription": "Love Island USA brings the massively popular British format to American audiences, with contestants living in a villa and coupling up to survive elimination. The show is known for its chaotic drama, Casa Amor twist (where couples are separated and tempted by new singles), and viewer voting that determines which couples stay or go. After moving between Las Vegas, Hawaii, and Santa Barbara, the show found its permanent home in Fiji.",
       "primaryLocation": "love-island-fiji-villa",
-      "destinations": ["love-island-fiji-villa", "fiji-mamanuca-islands"],
+      "destinations": ["love-island-fiji-villa", "fiji-mamanuca-islands", "las-vegas", "maui", "santa-barbara"],
+      "bestSeasons": [5, 6],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 50,
       "faqs": [
         {
           "question": "Where is the Love Island USA villa?",
-          "answer": "Love Island USA Seasons 5-7 film at a custom-built 45,000 square foot villa in Fiji's Mamanuca Islands. Earlier seasons filmed in Las Vegas (S2), Hawaii (S3), and Santa Barbara (S4)."
+          "answer": "Love Island USA Seasons 5-7 film at a custom-built 45,000 square foot villa in Fiji's Mamanuca Islands. The villa was constructed specifically for the show and includes multiple bedroom suites, a massive pool area, fire pit, and outdoor shower. Earlier seasons filmed in Las Vegas (S2), Hawaii (S3), and Santa Barbara (S4)."
         },
         {
           "question": "Can you visit the Love Island USA villa in Fiji?",
-          "answer": "The Love Island USA villa is custom-built for production and not publicly available. However, nearby resorts like Sheraton Tokoriki Island and Matamanoa Island Resort offer similar Fiji experiences."
+          "answer": "The Love Island USA villa is custom-built for production and not publicly available. However, nearby resorts like Sheraton Tokoriki Island and Matamanoa Island Resort offer similar Fiji experiences with crystal-clear waters and luxury accommodations."
+        },
+        {
+          "question": "What is Casa Amor on Love Island?",
+          "answer": "Casa Amor is a second villa where half the contestants are sent to be tempted by new singles. It's a pivotal moment each season that tests relationships and often results in dramatic recouplings. The Casa Amor villa is usually located near the main villa."
         }
+      ],
+      "travelTips": [
+        "Fiji's Mamanuca Islands offer similar vibes to the show's setting",
+        "Stay at Sheraton Tokoriki for the closest experience to the villa",
+        "Book a private island resort for ultimate Love Island fantasy",
+        "Visit during Fiji's dry season (May-October) for best weather"
       ],
       "meta": {
         "title": "Love Island USA Villa Location | Fiji, Las Vegas & All Filming Sites",
@@ -142,22 +216,37 @@
       "seasons": 10,
       "status": "active",
       "yearStarted": 2014,
-      "description": "Bachelor Nation alumni get a second chance at love in a tropical paradise, with rose ceremonies determining who stays and new arrivals shaking up relationships.",
+      "tagline": "Paradise awaits",
+      "description": "Bachelor Nation alumni get a second chance at love in a tropical paradise, with rose ceremonies determining who stays and new arrivals shaking up relationships. The spin-off has become a fan favorite for its drama and successful relationships.",
+      "longDescription": "Bachelor in Paradise brings together fan favorites and villains from The Bachelor and Bachelorette for a second chance at love. Set in a beachside resort, contestants couple up, go on dates, and navigate the drama of new arrivals who threaten existing relationships. The show has produced some of Bachelor Nation's most beloved couples and is known for its more relaxed, comedic tone compared to the main shows.",
       "primaryLocation": "playa-escondida-resort",
-      "destinations": ["playa-escondida-resort", "azura-beach-resort"],
+      "destinations": ["playa-escondida-resort", "azura-beach-resort", "sayulita-mexico", "costa-rica"],
+      "bestSeasons": [3, 5, 7],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 90,
       "faqs": [
         {
           "question": "Where is Bachelor in Paradise filmed?",
-          "answer": "Bachelor in Paradise filmed at Playa Escondida Resort in Sayulita, Mexico for Seasons 2-9 (2015-2023). Season 10 (2025) moved to Azura Beach Resort in Playa Samara, Costa Rica."
+          "answer": "Bachelor in Paradise filmed at Playa Escondida Resort in Sayulita, Mexico for Seasons 2-9 (2015-2023). Season 10 (2025) moved to Azura Beach Resort in Playa Samara, Costa Rica for a fresh setting."
         },
         {
           "question": "Can you stay at the Bachelor in Paradise resort?",
-          "answer": "Yes! Playa Escondida Resort in Sayulita is fully bookable ($165-495/night) and markets itself as the BIP filming location. The new Azura Beach Resort in Costa Rica is also publicly bookable."
+          "answer": "Yes! Playa Escondida Resort in Sayulita is fully bookable ($165-495/night) and proudly markets itself as the BIP filming location. The new Azura Beach Resort in Costa Rica is also publicly bookable. You can literally sleep in the same beds as your favorite contestants."
         },
         {
           "question": "What is the Boom Boom Room on Bachelor in Paradise?",
-          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where couples can have private time. It has become iconic in BIP lore."
+          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where couples can have private time. It has become iconic in BIP lore and is equipped with hidden cameras for the show. Regular guests can actually book this room!"
+        },
+        {
+          "question": "What is Sayulita like as a destination?",
+          "answer": "Sayulita is a charming surf town about 45 minutes from Puerto Vallarta. It's known for its colorful streets, excellent restaurants, surf breaks, and laid-back vibe. Many BIP fans combine a resort stay with exploring the town's galleries, cafes, and beaches."
         }
+      ],
+      "travelTips": [
+        "Stay at Playa Escondida during off-season (Sept-Nov) for lower rates",
+        "Sayulita has amazing street tacos and craft cocktails",
+        "Book a surf lesson at one of the town's many schools",
+        "Don't miss the colorful cemetery with ocean views"
       ],
       "meta": {
         "title": "Bachelor in Paradise Filming Location | Playa Escondida & Azura Resort",
@@ -172,14 +261,28 @@
       "seasons": 2,
       "status": "active",
       "yearStarted": 2023,
-      "description": "Netflix reality star alumni compete to form the strongest couples through strategic matchmaking, living together in a tropical villa.",
+      "tagline": "The ultimate dating competition",
+      "description": "Netflix reality star alumni compete to form the strongest couples through strategic matchmaking, living together in a tropical villa. The crossover event brings together personalities from across Netflix's dating show universe.",
+      "longDescription": "Perfect Match is Netflix's ambitious crossover dating show that brings together contestants from their biggest reality hits including Love Is Blind, Too Hot to Handle, The Circle, and more. Contestants couple up and compete to prove they've found their 'perfect match' while new arrivals and strategic gameplay keep everyone on their toes. The show has become must-watch TV for Netflix reality fans.",
       "primaryLocation": "perfect-match-villa",
-      "destinations": ["perfect-match-villa-panama"],
+      "destinations": ["perfect-match-villa-panama", "panama-city"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 55,
       "faqs": [
         {
           "question": "Where is Perfect Match filmed?",
-          "answer": "Perfect Match films at a luxury villa in Panama. The exact location is kept private during production."
+          "answer": "Perfect Match films at a luxury villa in Panama. While the exact location is kept private during production, the villa features a stunning pool, ocean views, and the tropical ambiance perfect for romance and drama."
+        },
+        {
+          "question": "Which Netflix shows are contestants from?",
+          "answer": "Perfect Match features alumni from Love Is Blind, Too Hot to Handle, The Circle, Selling Sunset, Dated & Related, The Mole, and other Netflix reality series. It's a who's who of Netflix reality royalty."
         }
+      ],
+      "travelTips": [
+        "Panama City offers a mix of modern skyline and historic Casco Viejo",
+        "The San Blas Islands provide a similar tropical villa experience",
+        "Bocas del Toro is perfect for beach lovers seeking paradise"
       ],
       "meta": {
         "title": "Perfect Match Filming Location | Netflix Villa Guide",
@@ -188,20 +291,35 @@
     },
     {
       "id": "the-ultimatum",
-      "name": "The Ultimatum",
+      "name": "The Ultimatum: Marry or Move On",
       "network": "Netflix",
       "networkSlug": "netflix",
       "seasons": 3,
       "status": "active",
       "yearStarted": 2022,
-      "description": "Couples on the verge of marriage give each other ultimatums, then swap partners for a trial marriage before deciding their fate.",
+      "tagline": "Marry or move on",
+      "description": "Couples on the verge of marriage give each other ultimatums, then swap partners for a trial marriage before deciding their fate. The controversial format has sparked endless debates about relationships and commitment.",
+      "longDescription": "The Ultimatum takes couples who disagree about marriage and puts them through an intense experiment: spend three weeks living with someone new, then three weeks back with your original partner, before making a final decision at the altar. The show has featured both straight and LGBTQ+ couples in different seasons and has become known for its dramatic confrontations and surprising outcomes.",
       "primaryLocation": "austin-texas",
-      "destinations": ["austin-texas", "los-angeles"],
+      "destinations": ["austin-texas", "los-angeles", "atlanta"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 55,
       "faqs": [
         {
           "question": "Where is The Ultimatum filmed?",
-          "answer": "The Ultimatum primarily films in Austin, Texas. The show uses various apartments and venues around the city for the trial marriages and group gatherings."
+          "answer": "The Ultimatum primarily films in Austin, Texas. The show uses various apartments and venues around the city for the trial marriages and group gatherings. Some seasons have also filmed in Los Angeles."
+        },
+        {
+          "question": "Are the apartments on The Ultimatum real?",
+          "answer": "Yes, the apartments shown on The Ultimatum are real furnished apartments in Austin. The production rents multiple units in the same building to facilitate filming and allow for dramatic drop-bys between couples."
         }
+      ],
+      "travelTips": [
+        "Austin's South Congress (SoCo) area is perfect for date spots",
+        "Many reunion scenes film at rooftop bars downtown",
+        "The food scene is incredible - don't miss Franklin BBQ",
+        "Lake Austin offers romantic boat tours like those seen on dates"
       ],
       "meta": {
         "title": "The Ultimatum Filming Locations | Austin & LA Venues",
@@ -216,14 +334,29 @@
       "seasons": 5,
       "status": "ended",
       "yearStarted": 2019,
-      "description": "Couples test their relationships by living separately with singles on a tropical island, facing temptations that challenge their commitment.",
+      "tagline": "Can your relationship survive temptation?",
+      "description": "Couples test their relationships by living separately with singles on a tropical island, facing temptations that challenge their commitment. The revival brought back the iconic 2000s format with even more drama.",
+      "longDescription": "Originally airing from 2001-2003, Temptation Island was revived in 2019 with a new cast and more dramatic stakes. Four couples at a crossroads in their relationships travel to a tropical island where they live separately with singles who try to tempt them away. The show is known for its bonfires where couples watch video clips of their partners with other people.",
       "primaryLocation": "temptation-island-maui",
-      "destinations": ["maui-hawaii", "andaz-maui"],
+      "destinations": ["maui-hawaii", "andaz-maui", "wailea"],
+      "bestSeasons": [1, 3],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 60,
       "faqs": [
         {
           "question": "Where is Temptation Island filmed?",
-          "answer": "The revival of Temptation Island films in Maui, Hawaii. The show uses luxury villas and the Andaz Maui resort for various date locations."
+          "answer": "The revival of Temptation Island films in Maui, Hawaii. The show uses luxury villas for the men's and women's houses and the Andaz Maui resort for various date locations. The dramatic bonfire scenes are filmed on private beaches."
+        },
+        {
+          "question": "What resort is featured on Temptation Island?",
+          "answer": "The Andaz Maui at Wailea Resort is featured prominently for dates and challenges. This five-star resort offers stunning ocean views, multiple pools, and the Morimoto Maui restaurant."
         }
+      ],
+      "travelTips": [
+        "Stay at Andaz Maui for the full Temptation Island experience",
+        "Wailea Beach is perfect for sunset walks like on the show",
+        "Book a luau for that island romance vibe",
+        "Drive the Road to Hana for adventure dates"
       ],
       "meta": {
         "title": "Temptation Island Filming Location | Maui Hawaii Guide",
@@ -238,18 +371,413 @@
       "seasons": 3,
       "status": "active",
       "yearStarted": 2021,
-      "description": "Three women try to distinguish between 'Nice Guys' and 'FBoys' while dating on a tropical island, with $100,000 on the line.",
+      "tagline": "Nice guys vs. FBoys",
+      "description": "Three women try to distinguish between 'Nice Guys' and 'FBoys' while dating on a tropical island, with $100,000 on the line. The tongue-in-cheek comedy has developed a devoted following.",
+      "longDescription": "FBoy Island puts a unique spin on dating shows by having three women date 24 men - half of whom are self-proclaimed 'Nice Guys' looking for love and half are 'FBoys' looking to win the money. Hosted by comedian Nikki Glaser, the show balances genuine romance with self-aware comedy, making it a refreshing addition to the reality dating landscape.",
       "primaryLocation": "fboy-island-villa",
-      "destinations": ["cabo-san-lucas", "new-caledonia"],
+      "destinations": ["cabo-san-lucas", "new-caledonia", "cayman-islands"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 45,
       "faqs": [
         {
           "question": "Where is FBoy Island filmed?",
-          "answer": "FBoy Island Season 1 filmed in the Cayman Islands. Season 2 filmed in Cabo San Lucas, Mexico, and Season 3 filmed in New Caledonia."
+          "answer": "FBoy Island Season 1 filmed in the Cayman Islands at a private villa. Season 2 filmed in Cabo San Lucas, Mexico at a luxury resort, and Season 3 filmed in New Caledonia, a French territory in the South Pacific."
+        },
+        {
+          "question": "Can you visit the FBoy Island locations?",
+          "answer": "While the private villas aren't available, you can visit all three destinations. The Cayman Islands offer world-class diving, Cabo has incredible resorts and nightlife, and New Caledonia provides off-the-beaten-path tropical adventure."
         }
+      ],
+      "travelTips": [
+        "Cabo's Medano Beach has similar vibes to the Season 2 setting",
+        "Grand Cayman's Seven Mile Beach is worth the visit",
+        "New Caledonia is a hidden gem with French-Polynesian culture",
+        "All locations offer amazing snorkeling and diving"
       ],
       "meta": {
         "title": "FBoy Island Filming Locations | Cabo, Cayman Islands & More",
         "description": "Discover FBoy Island filming locations across the Cayman Islands, Cabo San Lucas, and New Caledonia."
+      }
+    },
+    {
+      "id": "married-at-first-sight",
+      "name": "Married at First Sight",
+      "network": "Lifetime",
+      "networkSlug": "lifetime",
+      "seasons": 18,
+      "status": "active",
+      "yearStarted": 2014,
+      "tagline": "Will they say 'I do' to a stranger?",
+      "description": "Experts match strangers who meet for the first time at the altar, then follow their journey through an 8-week experiment to decide if they'll stay married or divorce. The social experiment has produced real lasting marriages.",
+      "longDescription": "Married at First Sight is one of reality TV's most daring experiments: complete strangers are legally married at the altar after being matched by experts. Couples then live together for 8 weeks before Decision Day, when they must decide whether to stay married or divorce. The show has filmed in numerous cities across America and has spawned multiple international versions.",
+      "primaryLocation": "varies-by-season",
+      "destinations": ["atlanta", "boston", "chicago", "dallas", "denver", "houston", "los-angeles", "nashville", "new-orleans", "philadelphia", "san-diego", "washington-dc"],
+      "bestSeasons": [9, 11, 15],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {
+          "question": "Where does Married at First Sight film?",
+          "answer": "MAFS films in different cities each season, including Atlanta, Boston, Chicago, Dallas, Denver, Houston, Los Angeles, Nashville, New Orleans, Philadelphia, San Diego, and Washington DC. Couples live in apartments in the filming city during the experiment."
+        },
+        {
+          "question": "Where do MAFS weddings take place?",
+          "answer": "Weddings are filmed at various venues in each city, often at elegant hotels, estates, or event spaces. The exact venues are usually revealed after the season airs, and many are available for public bookings."
+        }
+      ],
+      "travelTips": [
+        "Each city offers unique date spots featured on the show",
+        "Nashville seasons showcase the city's music scene",
+        "New Orleans episodes highlight Cajun cuisine and culture",
+        "San Diego seasons feature beautiful beach ceremonies"
+      ],
+      "meta": {
+        "title": "Married at First Sight Filming Locations | All Cities Guide",
+        "description": "Explore MAFS filming locations across America. Wedding venues, apartments, and date spots from all 18 seasons."
+      }
+    },
+    {
+      "id": "love-island-uk",
+      "name": "Love Island UK",
+      "network": "ITV",
+      "networkSlug": "itv",
+      "seasons": 11,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Couple up or get dumped from the island",
+      "description": "The original modern Love Island that sparked a global phenomenon. British singles couple up in a Majorcan villa for the chance at love and a cash prize. The UK version remains the gold standard for the format.",
+      "longDescription": "Love Island UK revolutionized reality TV when it launched in 2015, becoming a cultural phenomenon that dominates British summers. The format of coupling up, public voting, and Casa Amor has been replicated worldwide, but the UK version retains its crown with its iconic Majorcan villa, memorable catchphrases, and influencer-launching power.",
+      "primaryLocation": "love-island-mallorca-villa",
+      "destinations": ["mallorca-spain", "sant-llorenc-des-cardassar", "cape-town"],
+      "bestSeasons": [3, 5, 8],
+      "viewerRating": 4.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is the Love Island UK villa?",
+          "answer": "The Love Island UK villa is located in Sant Llorenc des Cardassar, Mallorca, Spain. The show uses a custom villa that's rebuilt and redesigned each year. Winter seasons have filmed in South Africa near Cape Town."
+        },
+        {
+          "question": "Can you visit the Love Island villa?",
+          "answer": "The villa itself is private and used exclusively for production. However, the surrounding area of Mallorca offers similar vibes with beautiful beaches, nightclubs, and Mediterranean charm. Many fans visit Mallorca during Love Island season."
+        }
+      ],
+      "travelTips": [
+        "Visit Mallorca in June-July during filming for peak Love Island vibes",
+        "Magaluf and Palma offer the nightlife scene featured in challenges",
+        "Book a villa in Sant Llorenc for the closest experience",
+        "Cape Town's Camps Bay has incredible beach villa options"
+      ],
+      "meta": {
+        "title": "Love Island UK Villa Location | Mallorca Spain Guide",
+        "description": "Visit Love Island UK's Mallorca villa location. Complete guide to the Spanish island and Cape Town winter filming."
+      }
+    },
+    {
+      "id": "the-circle",
+      "name": "The Circle",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 7,
+      "status": "active",
+      "yearStarted": 2020,
+      "tagline": "Anyone can be anyone",
+      "description": "Players live in separate apartments communicating only through a social media platform called 'The Circle,' where catfishing is encouraged and popularity determines the winner. A unique twist on dating and social dynamics.",
+      "longDescription": "The Circle takes the dating show format and adds a digital twist: contestants live in isolated apartments and can only communicate through a custom social media platform. Players can be themselves or create entirely fake personas, leading to catfishing, strategic alliances, and surprising reveals. While not strictly a dating show, romance frequently blossoms both between real personas and catfish.",
+      "primaryLocation": "the-circle-apartments",
+      "destinations": ["salford-uk", "chicago-apartments"],
+      "bestSeasons": [2, 4],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is The Circle filmed?",
+          "answer": "The Circle US is filmed in a purpose-built apartment building in Salford, Greater Manchester, UK. The same building is used for multiple international versions including The Circle UK, France, and Brazil."
+        },
+        {
+          "question": "Are The Circle apartments real?",
+          "answer": "Yes, contestants live in real, fully functional apartments in the same building but are completely isolated from each other. The building was converted specifically for the show and features the signature Circle screens in each unit."
+        }
+      ],
+      "travelTips": [
+        "Salford's MediaCity offers behind-the-scenes TV experiences",
+        "Manchester's Northern Quarter has the trendy vibes of the show",
+        "The building isn't open to public but the area is worth visiting",
+        "Combine with a visit to Manchester's excellent food scene"
+      ],
+      "meta": {
+        "title": "The Circle Filming Location | Salford Apartments Guide",
+        "description": "Discover where The Circle is filmed. Visit the Salford apartment building and explore the Manchester area."
+      }
+    },
+    {
+      "id": "love-on-the-spectrum",
+      "name": "Love on the Spectrum",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "Love is for everyone",
+      "description": "Following young adults on the autism spectrum as they navigate the world of dating and relationships. The heartwarming Australian-turned-American series celebrates neurodiversity and genuine connection.",
+      "longDescription": "Love on the Spectrum began as an Australian documentary series before Netflix brought it to American audiences. The show follows young adults on the autism spectrum as they work with relationship coaches and go on dates, showcasing the universal desire for love and connection. It's become beloved for its genuine moments and positive representation.",
+      "primaryLocation": "australia",
+      "destinations": ["sydney-australia", "los-angeles", "san-diego"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.6,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Love on the Spectrum filmed?",
+          "answer": "The original Australian version films around Sydney, Australia. The US version films primarily in Southern California, including Los Angeles and San Diego, featuring local date venues and participants' homes."
+        }
+      ],
+      "travelTips": [
+        "Sydney's Darling Harbour features many date locations",
+        "San Diego's Balboa Park offers romantic stroll spots",
+        "Many restaurants from the show welcome visitors"
+      ],
+      "meta": {
+        "title": "Love on the Spectrum Filming Locations | Australia & US",
+        "description": "Explore Love on the Spectrum filming locations in Sydney, Los Angeles, and San Diego."
+      }
+    },
+    {
+      "id": "dating-around",
+      "name": "Dating Around",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2019,
+      "tagline": "One date. Five times.",
+      "description": "Each episode follows one person on five first dates, edited to feel like a single evening. The stylish, cinematic approach to dating shows earned critical acclaim and an Emmy.",
+      "longDescription": "Dating Around broke the reality dating mold with its artful, unscripted approach. Each episode features one person going on five blind dates at the same restaurant, with the dater choosing one person for a second date. The show's beautiful cinematography, diverse casting, and genuine conversations earned it an Emmy for Outstanding Structured Reality Program.",
+      "primaryLocation": "new-york-city",
+      "destinations": ["new-york-city", "new-orleans"],
+      "bestSeasons": [1],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 30,
+      "faqs": [
+        {
+          "question": "Where is Dating Around filmed?",
+          "answer": "Season 1 filmed exclusively in New York City at various bars and restaurants. Season 2 moved to New Orleans, showcasing the city's unique food and drink scene. All dates take place at real, publicly accessible venues."
+        },
+        {
+          "question": "What restaurants are featured on Dating Around?",
+          "answer": "NYC locations include the Nowadays beer garden, The Commodore, and King. New Orleans spots include Justine, Cane & Table, and Jewel of the South. All are excellent date spots."
+        }
+      ],
+      "travelTips": [
+        "Book a table at Justine in NOLA for the full experience",
+        "NYC's East Village has many featured venues",
+        "These restaurants are popular - make reservations",
+        "Visit during off-peak hours for a quieter experience"
+      ],
+      "meta": {
+        "title": "Dating Around Filming Locations | NYC & New Orleans Restaurants",
+        "description": "Visit the bars and restaurants from Dating Around in New York City and New Orleans."
+      }
+    },
+    {
+      "id": "are-you-the-one",
+      "name": "Are You The One?",
+      "network": "MTV",
+      "networkSlug": "mtv",
+      "seasons": 9,
+      "status": "active",
+      "yearStarted": 2014,
+      "tagline": "Find your perfect match",
+      "description": "Twenty singles try to find their 'perfect match' using compatibility algorithms. If all pairs find their matches by the end of the season, they win $1 million. Drama, hookups, and strategic gameplay ensue.",
+      "longDescription": "Are You The One combines dating with game theory as 20 singles must figure out who their algorithmically-determined 'perfect match' is. Using limited information from the Truth Booth and Match Up Ceremonies, contestants must balance following their hearts with strategic thinking. Season 8 made history as the first sexually fluid season.",
+      "primaryLocation": "hawaiian-villa",
+      "destinations": ["hawaii", "colombia", "new-orleans", "dominican-republic"],
+      "bestSeasons": [4, 8],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Are You The One filmed?",
+          "answer": "AYTO has filmed in various tropical locations including Hawaii (multiple seasons), Colombia, Dominican Republic, and even New Orleans for a spin-off. The production uses luxury villas that can accommodate all 20+ cast members."
+        }
+      ],
+      "travelTips": [
+        "Hawaii's North Shore offers similar villa-style accommodations",
+        "Colombia's Cartagena coast is increasingly popular",
+        "Many seasons feature local adventure activities"
+      ],
+      "meta": {
+        "title": "Are You The One Filming Locations | Hawaii & Beyond",
+        "description": "Discover AYTO filming locations across Hawaii, Colombia, and more tropical destinations."
+      }
+    },
+    {
+      "id": "sexy-beasts",
+      "name": "Sexy Beasts",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2021,
+      "tagline": "Love is blind... and very, very hairy",
+      "description": "Singles date while wearing elaborate prosthetic makeup to focus on personality over appearance. The outlandish costumes range from dolphins to demons in this unique dating experiment.",
+      "longDescription": "Sexy Beasts took the 'love is blind' concept literally by having daters wear elaborate creature prosthetics during dates. From devils to pandas to aliens, the wild costumes became the show's signature, creating some of the most visually memorable moments in dating TV history.",
+      "primaryLocation": "uk-studios",
+      "destinations": ["london", "english-countryside"],
+      "bestSeasons": [1],
+      "viewerRating": 3.2,
+      "avgEpisodeLength": 25,
+      "faqs": [
+        {
+          "question": "Where is Sexy Beasts filmed?",
+          "answer": "Sexy Beasts films in the United Kingdom, primarily in studios and locations around London and the English countryside. The elaborate prosthetics require extensive makeup time and controlled environments."
+        }
+      ],
+      "travelTips": [
+        "London offers great date spots featured in reveal scenes",
+        "The Cotswolds provides romantic countryside settings",
+        "Hyde Park makes for scenic romantic strolls"
+      ],
+      "meta": {
+        "title": "Sexy Beasts Filming Locations | UK Studio & Date Spots",
+        "description": "Discover where Sexy Beasts is filmed in the United Kingdom."
+      }
+    },
+    {
+      "id": "the-courtship",
+      "name": "The Courtship",
+      "network": "NBC",
+      "networkSlug": "nbc",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "A Regency-era romance",
+      "description": "A modern woman searches for love Regency-style, with suitors in period costume competing for her heart at an English estate. Bridgerton fans rejoice.",
+      "longDescription": "Capitalizing on the Bridgerton phenomenon, The Courtship transported modern dating back to the Regency era. Suitors dressed in period attire competed for a woman's heart at a stunning English castle, complete with dance cards, chaperoned dates, and old-fashioned romance.",
+      "primaryLocation": "castle-howard",
+      "destinations": ["castle-howard-uk", "yorkshire"],
+      "bestSeasons": [1],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is The Courtship filmed?",
+          "answer": "The Courtship filmed at Castle Howard in Yorkshire, England - the same stunning estate used in the original Brideshead Revisited. The castle's baroque architecture and extensive grounds provided the perfect Regency backdrop."
+        },
+        {
+          "question": "Can you visit Castle Howard?",
+          "answer": "Yes! Castle Howard is open to the public year-round. Visitors can tour the grand house, explore the gardens, and even stay in estate cottages. It's one of England's most magnificent stately homes."
+        }
+      ],
+      "travelTips": [
+        "Castle Howard offers summer events and seasonal exhibits",
+        "The gardens are spectacular in spring and summer",
+        "Nearby York offers additional Regency-era architecture",
+        "Stay at the castle's holiday cottages for full immersion"
+      ],
+      "meta": {
+        "title": "The Courtship Filming Location | Castle Howard Yorkshire",
+        "description": "Visit Castle Howard, the stunning English estate where The Courtship was filmed."
+      }
+    },
+    {
+      "id": "love-without-borders",
+      "name": "Love Without Borders",
+      "network": "Bravo",
+      "networkSlug": "bravo",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2022,
+      "tagline": "Move for love",
+      "description": "American singles relocate to foreign countries to meet their match, living in the culture and deciding whether love can transcend borders. A twist on 90 Day Fiance themes.",
+      "longDescription": "Love Without Borders follows Americans who agree to move abroad to meet a potential match selected by experts. Participants relocate to countries like Ecuador, Costa Rica, Sweden, and Japan, immersing in new cultures while pursuing love.",
+      "primaryLocation": "international",
+      "destinations": ["ecuador", "costa-rica", "sweden", "japan", "turkey"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What countries are featured on Love Without Borders?",
+          "answer": "Season 1 featured matches in Ecuador, Costa Rica, Sweden, Japan, and Turkey. Participants lived in these countries for weeks while dating their match and experiencing local culture."
+        }
+      ],
+      "travelTips": [
+        "Ecuador offers incredible nature from Galapagos to Amazon",
+        "Costa Rica's Nicoya Peninsula is a Blue Zone for longevity",
+        "Sweden's cities are incredibly romantic in summer",
+        "Japan's cultural richness provides endless exploration"
+      ],
+      "meta": {
+        "title": "Love Without Borders Filming Locations | 5 Countries Guide",
+        "description": "Explore the countries featured on Love Without Borders: Ecuador, Costa Rica, Sweden, Japan, and Turkey."
+      }
+    },
+    {
+      "id": "indian-matchmaking",
+      "name": "Indian Matchmaking",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2020,
+      "tagline": "Sima Aunty will find you a match",
+      "description": "Follow matchmaker Sima Taparia as she helps Indian singles find partners through traditional matchmaking, balancing family expectations with modern desires. A fascinating look at arranged marriage culture.",
+      "longDescription": "Indian Matchmaking follows Mumbai-based matchmaker Sima Taparia as she helps clients in India and the US find suitable partners. The show explores the tension between traditional Indian matchmaking customs and modern dating expectations, with Sima's catchphrases and personality making her an internet sensation.",
+      "primaryLocation": "mumbai-india",
+      "destinations": ["mumbai", "delhi", "houston", "chicago", "los-angeles", "new-york"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 35,
+      "faqs": [
+        {
+          "question": "Where is Indian Matchmaking filmed?",
+          "answer": "Indian Matchmaking films across India (primarily Mumbai and Delhi) and various US cities including Houston, Chicago, Los Angeles, and New York. The show follows clients in their homes and on dates in their respective cities."
+        }
+      ],
+      "travelTips": [
+        "Mumbai's Juhu Beach is featured in many scenes",
+        "Delhi's India Gate area offers iconic backdrop",
+        "Houston's Sugar Land suburb has a large Indian community",
+        "Many featured restaurants celebrate Indian cuisine"
+      ],
+      "meta": {
+        "title": "Indian Matchmaking Filming Locations | Mumbai, Delhi & US Cities",
+        "description": "Explore Indian Matchmaking filming locations across India and America."
+      }
+    },
+    {
+      "id": "love-in-paradise",
+      "name": "Love in Paradise: The Caribbean",
+      "network": "TLC",
+      "networkSlug": "tlc",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2021,
+      "tagline": "Caribbean romance awaits",
+      "description": "Americans fall for people they met while vacationing in the Caribbean and must decide if paradise romance can become real-world love. A tropical twist on 90 Day Fiance.",
+      "longDescription": "Love in Paradise follows couples who met during Caribbean vacations and are trying to make their holiday romances work in real life. From Jamaica to the Dominican Republic to Costa Rica, the show explores the challenges of long-distance relationships that began in tropical paradise.",
+      "primaryLocation": "caribbean-various",
+      "destinations": ["jamaica", "dominican-republic", "haiti", "barbados", "puerto-rico", "costa-rica"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What Caribbean destinations are featured?",
+          "answer": "Love in Paradise has featured relationships in Jamaica, Dominican Republic, Haiti, Barbados, Puerto Rico, and Costa Rica, among other Caribbean and Latin American destinations."
+        }
+      ],
+      "travelTips": [
+        "Jamaica's Negril is a classic spot for vacation romance",
+        "Punta Cana offers all-inclusive resort vibes",
+        "Barbados combines British charm with Caribbean beauty",
+        "Puerto Rico offers easy US travel for follow-up visits"
+      ],
+      "meta": {
+        "title": "Love in Paradise Filming Locations | Caribbean Islands Guide",
+        "description": "Explore the Caribbean destinations featured on Love in Paradise."
       }
     }
   ]
