@@ -1,0 +1,9 @@
+# RealityTVTravel robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://realitytvtravel.com/sitemap.xml
+
+# Crawl-delay for polite bots
+Crawl-delay: 1

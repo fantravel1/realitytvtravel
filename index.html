@@ -12,6 +12,42 @@
   <meta property="og:description" content="Visit every destination from your favorite reality TV dating shows.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://realitytvtravel.com">
+  <meta property="og:site_name" content="RealityTVTravel">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RealityTVTravel | Reality TV Filming Locations">
+  <meta name="twitter:description" content="Visit the Bachelor Mansion, Love Is Blind resorts, Too Hot to Handle villas, and more.">
+
+  <!-- JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "RealityTVTravel",
+    "url": "https://realitytvtravel.com",
+    "description": "The ultimate guide to reality TV filming locations. Visit destinations from The Bachelor, Love Is Blind, Too Hot to Handle, and more.",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://realitytvtravel.com/shows.html?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "RealityTVTravel",
+    "url": "https://realitytvtravel.com",
+    "logo": "https://realitytvtravel.com/logo.png",
+    "sameAs": [
+      "https://twitter.com/realitytvtravel",
+      "https://instagram.com/realitytvtravel",
+      "https://tiktok.com/@realitytvtravel"
+    ]
+  }
+  </script>
 
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,6 +57,9 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <!-- Skip Link for Keyboard Users -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
   <!-- Navigation -->
   <nav class="nav">
     <div class="nav-container">
@@ -38,12 +77,16 @@
         <a href="locations.html" class="nav-link">Locations</a>
         <a href="#featured" class="nav-link">Featured</a>
         <a href="#faq" class="nav-link">FAQ</a>
+        <a href="wishlist.html" class="nav-link nav-wishlist">
+          <span>❤️</span>
+          <span id="favorites-count" class="wishlist-count" style="display: none;">0</span>
+        </a>
       </div>
     </div>
   </nav>
 
   <!-- Hero Section -->
-  <header class="hero">
+  <header class="hero" id="main-content">
     <div class="hero-bg"></div>
     <div class="hero-content">
       <span class="hero-badge">Set-Jetting Destination Guide</span>
@@ -55,15 +98,15 @@
       </div>
       <div class="hero-stats">
         <div class="stat">
-          <span class="stat-number" data-count="10">0</span>
+          <span class="stat-number" data-count="31">0</span>
           <span class="stat-label">Shows</span>
         </div>
         <div class="stat">
-          <span class="stat-number" data-count="8">0</span>
+          <span class="stat-number" data-count="39">0</span>
           <span class="stat-label">Bookable Locations</span>
         </div>
         <div class="stat">
-          <span class="stat-number" data-count="6">0</span>
+          <span class="stat-number" data-count="25">0</span>
           <span class="stat-label">Countries</span>
         </div>
       </div>
@@ -104,6 +147,55 @@
       </div>
       <div class="section-cta">
         <a href="locations.html" class="btn btn-outline">Explore All Locations</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Editor's Picks Section -->
+  <section class="editors-picks">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-badge">Editor's Picks</span>
+        <h2 class="section-title">Top Experiences<br>for <span style="color: var(--color-secondary);">2025</span></h2>
+        <p class="section-subtitle">Our curated selection of the most iconic and bookable reality TV destinations</p>
+      </div>
+      <div class="editors-picks-grid">
+        <a href="location.html?id=bachelor-mansion" class="editors-pick-card">
+          <div class="editors-pick-image" style="background: linear-gradient(135deg, #2c3e50 0%, #4a6fa5 100%);">
+            <span class="editors-pick-badge">Most Iconic</span>
+            <span class="editors-pick-emoji">🏰</span>
+          </div>
+          <div class="editors-pick-body">
+            <span class="editors-pick-category">Mansion Stay</span>
+            <h3 class="editors-pick-title">The Bachelor Mansion</h3>
+            <p class="editors-pick-description">Stay at the legendary Villa de la Vina where rose ceremonies have made TV history for over 20 years.</p>
+            <span class="editors-pick-cta">View Details</span>
+          </div>
+        </a>
+        <a href="location.html?id=santorini-grace" class="editors-pick-card">
+          <div class="editors-pick-image" style="background: linear-gradient(135deg, #1a237e 0%, #283593 100%);">
+            <span class="editors-pick-badge">Most Romantic</span>
+            <span class="editors-pick-emoji">🇬🇷</span>
+          </div>
+          <div class="editors-pick-body">
+            <span class="editors-pick-category">Luxury Hotel</span>
+            <h3 class="editors-pick-title">Grace Santorini</h3>
+            <p class="editors-pick-description">The stunning caldera views and infinity pool that have hosted countless Fantasy Suite dates.</p>
+            <span class="editors-pick-cta">View Details</span>
+          </div>
+        </a>
+        <a href="location.html?id=emerald-pavilion" class="editors-pick-card">
+          <div class="editors-pick-image" style="background: linear-gradient(135deg, #0f4c5c 0%, #1a7f8e 100%);">
+            <span class="editors-pick-badge">Best Villa</span>
+            <span class="editors-pick-emoji">🌴</span>
+          </div>
+          <div class="editors-pick-body">
+            <span class="editors-pick-category">Beach Villa</span>
+            <h3 class="editors-pick-title">Emerald Pavilion</h3>
+            <p class="editors-pick-description">THE Too Hot to Handle villa. Experience Lana's retreat with your own group for the ultimate experience.</p>
+            <span class="editors-pick-cta">View Details</span>
+          </div>
+        </a>
       </div>
     </div>
   </section>
@@ -183,6 +275,70 @@
     </div>
   </section>
 
+  <!-- Testimonials Section -->
+  <section class="section section-testimonials">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-badge">Fan Experiences</span>
+        <h2 class="section-title">What Travelers<br><span class="gradient-text">Are Saying</span></h2>
+        <p class="section-subtitle">Real stories from fans who visited their favorite reality TV filming locations.</p>
+      </div>
+      <div class="testimonials-grid">
+        <div class="testimonial-card">
+          <div class="testimonial-stars">★★★★★</div>
+          <p class="testimonial-text">"Walking into the Bachelor Mansion was surreal! The rose ceremony room looks exactly like on TV. Our group took turns accepting roses. Best girls trip ever!"</p>
+          <div class="testimonial-author">
+            <div class="testimonial-avatar">💁‍♀️</div>
+            <div class="testimonial-info">
+              <strong>Sarah M.</strong>
+              <span>Visited Bachelor Mansion</span>
+            </div>
+          </div>
+        </div>
+        <div class="testimonial-card">
+          <div class="testimonial-stars">★★★★★</div>
+          <p class="testimonial-text">"The Too Hot to Handle villa is even more stunning in person. We had our own Lana retreat (minus the rules). The infinity pool at sunset is magical!"</p>
+          <div class="testimonial-author">
+            <div class="testimonial-avatar">🏖️</div>
+            <div class="testimonial-info">
+              <strong>Jake & Mia T.</strong>
+              <span>Visited Casa Tau, Mexico</span>
+            </div>
+          </div>
+        </div>
+        <div class="testimonial-card">
+          <div class="testimonial-stars">★★★★★</div>
+          <p class="testimonial-text">"As a huge Love Is Blind fan, staying at Grand Velas was a dream. The staff even knew about the show! We recreated the beach proposal scene."</p>
+          <div class="testimonial-author">
+            <div class="testimonial-avatar">💍</div>
+            <div class="testimonial-info">
+              <strong>Emily R.</strong>
+              <span>Visited Grand Velas Riviera Maya</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter Section -->
+  <section class="section section-newsletter">
+    <div class="container">
+      <div class="newsletter-box">
+        <div class="newsletter-content">
+          <span class="newsletter-icon">✉️</span>
+          <h2 class="newsletter-title">Get Location Updates</h2>
+          <p class="newsletter-text">Be the first to know when new filming locations are revealed or become bookable.</p>
+        </div>
+        <form class="newsletter-form" id="newsletter-form" action="https://formspree.io/f/mgooebgw" method="POST" onsubmit="handleNewsletterSubmit(event)">
+          <input type="email" name="email" placeholder="Enter your email" required class="newsletter-input">
+          <button type="submit" class="btn btn-primary">Subscribe</button>
+        </form>
+        <p class="newsletter-disclaimer">No spam, unsubscribe anytime. We respect your privacy.</p>
+      </div>
+    </div>
+  </section>
+
   <!-- CTA Section -->
   <section class="section section-cta-full">
     <div class="container">
@@ -235,6 +391,17 @@
       </div>
     </div>
   </footer>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">
+    <span>↑</span>
+  </button>
+
+  <!-- Theme Toggle Button -->
+  <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+    <span class="icon-moon">🌙</span>
+    <span class="icon-sun">☀️</span>
+  </button>
 
   <script src="js/app.js"></script>
 </body>

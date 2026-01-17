@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Wishlist | RealityTVTravel</title>
+  <meta name="description" content="Your saved reality TV filming locations. Plan your dream trip to locations from The Bachelor, Love Is Blind, and more.">
+
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌴</text></svg>">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- Skip Link for Keyboard Users -->
+  <a href="#main-content" class="skip-link">Skip to main content</a>
+
+  <!-- Navigation -->
+  <nav class="nav scrolled">
+    <div class="nav-container">
+      <a href="/" class="nav-logo">
+        <span class="logo-icon">🌴</span>
+        <span class="logo-text">RealityTVTravel</span>
+      </a>
+      <button class="nav-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <div class="nav-menu">
+        <a href="shows.html" class="nav-link">Shows</a>
+        <a href="locations.html" class="nav-link">Locations</a>
+        <a href="index.html#featured" class="nav-link">Featured</a>
+        <a href="index.html#faq" class="nav-link">FAQ</a>
+        <a href="wishlist.html" class="nav-link nav-wishlist active">
+          <span>❤️</span>
+          <span id="favorites-count" class="wishlist-count" style="display: none;">0</span>
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="page-header" id="main-content">
+    <div class="container">
+      <h1 class="page-title">My Wishlist</h1>
+      <p class="page-subtitle">Your saved filming locations - plan your reality TV adventure!</p>
+    </div>
+  </header>
+
+  <!-- Wishlist Content -->
+  <section class="section">
+    <div class="container">
+      <div id="wishlist-content">
+        <!-- Content loaded by JavaScript -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="/" class="footer-logo">
+            <span class="logo-icon">🌴</span>
+            <span class="logo-text">RealityTVTravel</span>
+          </a>
+          <p class="footer-tagline">Your guide to reality TV filming locations around the world.</p>
+        </div>
+        <div class="footer-links">
+          <h4>Explore</h4>
+          <a href="shows.html">All Shows</a>
+          <a href="locations.html">All Locations</a>
+          <a href="wishlist.html">My Wishlist</a>
+        </div>
+        <div class="footer-links">
+          <h4>Popular Shows</h4>
+          <a href="show.html?id=the-bachelor">The Bachelor</a>
+          <a href="show.html?id=love-is-blind">Love Is Blind</a>
+          <a href="show.html?id=too-hot-to-handle">Too Hot to Handle</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2025 RealityTVTravel. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Back to Top Button -->
+  <button class="back-to-top" id="backToTop" aria-label="Back to top">
+    <span>↑</span>
+  </button>
+
+  <!-- Theme Toggle Button -->
+  <button class="theme-toggle" id="themeToggle" aria-label="Toggle dark mode">
+    <span class="icon-moon">🌙</span>
+    <span class="icon-sun">☀️</span>
+  </button>
+
+  <script src="js/app.js"></script>
+  <script>
+    // Load wishlist content
+    document.addEventListener('DOMContentLoaded', async () => {
+      const container = document.getElementById('wishlist-content');
+      const favorites = getFavorites();
+
+      if (favorites.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">💔</div>
+            <h2 class="empty-state-title">Your wishlist is empty</h2>
+            <p class="empty-state-text">Start exploring and save locations you'd love to visit!</p>
+            <a href="locations.html" class="btn btn-primary">Browse Locations</a>
+          </div>
+        `;
+        return;
+      }
+
+      // Wait for data to load
+      await initData();
+
+      if (!locationsData?.locations) {
+        container.innerHTML = '<p class="error-message">Failed to load locations.</p>';
+        return;
+      }
+
+      const favoriteLocations = locationsData.locations.filter(loc => favorites.includes(loc.id));
+
+      if (favoriteLocations.length === 0) {
+        container.innerHTML = `
+          <div class="empty-state">
+            <div class="empty-state-icon">🤔</div>
+            <h2 class="empty-state-title">No matching locations found</h2>
+            <p class="empty-state-text">Some of your saved locations may have been removed.</p>
+            <a href="locations.html" class="btn btn-primary">Browse Locations</a>
+          </div>
+        `;
+        return;
+      }
+
+      container.innerHTML = `
+        <div class="wishlist-header">
+          <p class="wishlist-count-text">${favoriteLocations.length} saved location${favoriteLocations.length !== 1 ? 's' : ''}</p>
+          <button class="btn btn-outline btn-sm" onclick="clearWishlist()">Clear All</button>
+        </div>
+        <div class="locations-grid">
+          ${favoriteLocations.map(loc => createLocationCard(loc, showsData?.shows)).join('')}
+        </div>
+      `;
+
+      updateFavoriteButtons();
+    });
+
+    function clearWishlist() {
+      if (confirm('Are you sure you want to clear your wishlist?')) {
+        localStorage.removeItem('favorites');
+        location.reload();
+      }
+    }
+  </script>
+</body>
+</html>
