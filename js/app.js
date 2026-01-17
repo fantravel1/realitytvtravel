@@ -259,7 +259,7 @@ async function loadShowsGrid() {
   if (!grid) return;
 
   // Show skeletons while loading
-  grid.innerHTML = Array(6).fill(createSkeletonCard()).join('');
+  grid.innerHTML = Array(8).fill(createSkeletonCard()).join('');
 
   const data = showsData || await loadData('shows.json');
   if (!data?.shows) {
@@ -267,8 +267,8 @@ async function loadShowsGrid() {
     return;
   }
 
-  // Only show first 6 on homepage
-  grid.innerHTML = data.shows.slice(0, 6).map(show => createShowCard(show)).join('');
+  // Show first 8 on homepage for more variety
+  grid.innerHTML = data.shows.slice(0, 8).map(show => createShowCard(show)).join('');
 }
 
 // ============================================
@@ -358,7 +358,7 @@ async function loadLocationsGrid() {
   if (!grid) return;
 
   // Show skeletons while loading
-  grid.innerHTML = Array(4).fill(createSkeletonCard()).join('');
+  grid.innerHTML = Array(6).fill(createSkeletonCard()).join('');
 
   await initData();
   if (!locationsData?.locations) {
@@ -366,9 +366,9 @@ async function loadLocationsGrid() {
     return;
   }
 
-  // Show first 4 on homepage
+  // Show first 6 on homepage for more variety
   grid.innerHTML = locationsData.locations
-    .slice(0, 4)
+    .slice(0, 6)
     .map(location => createLocationCard(location, showsData?.shows))
     .join('');
 }
@@ -446,7 +446,8 @@ async function loadShowsPage() {
 async function loadLocationsPage() {
   const grid = document.getElementById('all-locations-grid');
   const searchInput = document.getElementById('location-search');
-  const filterBtns = document.querySelectorAll('.filter-btn[data-country]');
+  const regionFilterBtns = document.querySelectorAll('.filter-btn[data-region]');
+  const countryFilterBtns = document.querySelectorAll('.filter-btn[data-country]');
   const sortSelect = document.getElementById('sort-locations');
 
   if (!grid) return;
@@ -457,27 +458,44 @@ async function loadLocationsPage() {
     return;
   }
 
-  let currentFilter = 'all';
+  let currentRegionFilter = 'all';
+  let currentCountryFilter = 'all';
   let searchQuery = '';
   let sortBy = 'name';
 
   function renderLocations() {
     let filtered = [...locationsData.locations];
 
-    // Apply country filter
-    if (currentFilter !== 'all') {
-      filtered = filtered.filter(loc => loc.country === currentFilter);
+    // Apply region filter
+    if (currentRegionFilter !== 'all') {
+      filtered = filtered.filter(loc => loc.region === currentRegionFilter);
     }
 
-    // Apply search
+    // Apply country filter (legacy support)
+    if (currentCountryFilter !== 'all') {
+      filtered = filtered.filter(loc => loc.country === currentCountryFilter);
+    }
+
+    // Apply search - now searches show names too
     if (searchQuery) {
       const query = searchQuery.toLowerCase();
-      filtered = filtered.filter(loc =>
-        loc.name.toLowerCase().includes(query) ||
-        loc.city.toLowerCase().includes(query) ||
-        loc.country.toLowerCase().includes(query) ||
-        loc.shows?.some(s => s.toLowerCase().includes(query))
-      );
+      filtered = filtered.filter(loc => {
+        // Search in location fields
+        const matchesLocation =
+          loc.name.toLowerCase().includes(query) ||
+          loc.city.toLowerCase().includes(query) ||
+          loc.country.toLowerCase().includes(query) ||
+          (loc.region && loc.region.toLowerCase().includes(query)) ||
+          (loc.tagline && loc.tagline.toLowerCase().includes(query));
+
+        // Search in associated show names
+        const matchesShow = loc.shows?.some(showId => {
+          const show = showsData?.shows?.find(s => s.id === showId);
+          return show && show.name.toLowerCase().includes(query);
+        });
+
+        return matchesLocation || matchesShow;
+      });
     }
 
     // Sort
@@ -485,15 +503,37 @@ async function loadLocationsPage() {
       filtered.sort((a, b) => (a.priceRange?.min || 0) - (b.priceRange?.min || 0));
     } else if (sortBy === 'price-high') {
       filtered.sort((a, b) => (b.priceRange?.min || 0) - (a.priceRange?.min || 0));
+    } else if (sortBy === 'rating') {
+      // Sort by average rating of associated shows
+      filtered.sort((a, b) => {
+        const avgRatingA = a.shows?.reduce((sum, showId) => {
+          const show = showsData?.shows?.find(s => s.id === showId);
+          return sum + (show?.viewerRating || 0);
+        }, 0) / (a.shows?.length || 1) || 0;
+        const avgRatingB = b.shows?.reduce((sum, showId) => {
+          const show = showsData?.shows?.find(s => s.id === showId);
+          return sum + (show?.viewerRating || 0);
+        }, 0) / (b.shows?.length || 1) || 0;
+        return avgRatingB - avgRatingA;
+      });
     } else {
       filtered.sort((a, b) => a.name.localeCompare(b.name));
     }
 
+    // Update results count
+    const resultsCount = document.getElementById('results-count');
+    if (resultsCount) {
+      resultsCount.textContent = `${filtered.length} location${filtered.length !== 1 ? 's' : ''}`;
+    }
+
     if (filtered.length === 0) {
-      grid.innerHTML = '<p class="no-results">No locations found matching your criteria.</p>';
+      grid.innerHTML = '<p class="no-results">No locations found matching your criteria. Try a different region or search term.</p>';
     } else {
       grid.innerHTML = filtered.map(loc => createLocationCard(loc, showsData?.shows)).join('');
     }
+
+    // Update favorite buttons after rendering
+    updateFavoriteButtons();
   }
 
   // Search handler
@@ -504,12 +544,22 @@ async function loadLocationsPage() {
     });
   }
 
-  // Filter handlers
-  filterBtns.forEach(btn => {
+  // Region filter handlers
+  regionFilterBtns.forEach(btn => {
     btn.addEventListener('click', () => {
-      filterBtns.forEach(b => b.classList.remove('active'));
+      regionFilterBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
-      currentFilter = btn.dataset.country;
+      currentRegionFilter = btn.dataset.region;
+      renderLocations();
+    });
+  });
+
+  // Country filter handlers (legacy support)
+  countryFilterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      countryFilterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentCountryFilter = btn.dataset.country;
       renderLocations();
     });
   });
@@ -675,6 +725,29 @@ async function loadShowDetail() {
             </div>
           </div>
         ` : ''}
+
+        ${(() => {
+          // Get similar shows by network
+          const similarShows = showsData?.shows?.filter(s =>
+            s.id !== show.id && s.network === show.network
+          ).slice(0, 3) || [];
+          // If not enough, add shows from other networks
+          if (similarShows.length < 3) {
+            const moreShows = showsData?.shows?.filter(s =>
+              s.id !== show.id && s.network !== show.network
+            ).slice(0, 3 - similarShows.length) || [];
+            similarShows.push(...moreShows);
+          }
+          return similarShows.length > 0 ? `
+            <div class="detail-section">
+              <h2>💕 You May Also Like</h2>
+              <p class="section-intro">Other dating shows with amazing travel destinations</p>
+              <div class="shows-grid similar-shows-grid">
+                ${similarShows.map(s => createShowCard(s)).join('')}
+              </div>
+            </div>
+          ` : '';
+        })()}
       </div>
     </div>
   `;
@@ -901,11 +974,37 @@ async function loadLocationDetail() {
             ` : ''}
           </div>
         </div>
+
+        ${(() => {
+          // Get similar locations - same region or category
+          const similarLocations = locationsData?.locations?.filter(loc =>
+            loc.id !== location.id && (loc.region === location.region || loc.category === location.category)
+          ).slice(0, 3) || [];
+          // If not enough, add from other regions
+          if (similarLocations.length < 3) {
+            const moreLocations = locationsData?.locations?.filter(loc =>
+              loc.id !== location.id &&
+              loc.region !== location.region &&
+              loc.category !== location.category
+            ).slice(0, 3 - similarLocations.length) || [];
+            similarLocations.push(...moreLocations);
+          }
+          return similarLocations.length > 0 ? `
+            <div class="detail-section">
+              <h2>🗺️ Explore More Destinations</h2>
+              <p class="section-intro">Similar locations you might love</p>
+              <div class="locations-grid similar-locations-grid">
+                ${similarLocations.map(loc => createLocationCard(loc, showsData?.shows)).join('')}
+              </div>
+            </div>
+          ` : '';
+        })()}
       </div>
     </div>
   `;
 
   initFAQ();
+  updateFavoriteButtons();
 }
 
 // ============================================

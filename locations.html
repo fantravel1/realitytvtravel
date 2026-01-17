@@ -130,6 +130,10 @@
         <a href="locations.html" class="nav-link">Locations</a>
         <a href="/#featured" class="nav-link">Featured</a>
         <a href="/#faq" class="nav-link">FAQ</a>
+        <a href="wishlist.html" class="nav-link nav-wishlist">
+          <span>❤️</span>
+          <span id="favorites-count" class="wishlist-count" style="display: none;">0</span>
+        </a>
       </div>
     </div>
   </nav>
@@ -147,20 +151,23 @@
     <div class="container">
       <div class="filters-container">
         <div class="search-box">
-          <input type="text" id="location-search" placeholder="Search locations...">
+          <input type="text" id="location-search" placeholder="Search locations, shows, countries...">
         </div>
-        <div class="filter-buttons">
-          <button class="filter-btn active" data-country="all">All Countries</button>
-          <button class="filter-btn" data-country="USA">USA</button>
-          <button class="filter-btn" data-country="Mexico">Mexico</button>
-          <button class="filter-btn" data-country="Turks and Caicos">Caribbean</button>
-          <button class="filter-btn" data-country="Costa Rica">Costa Rica</button>
-          <button class="filter-btn" data-country="Fiji">Fiji</button>
+        <div class="filter-buttons" id="region-filters">
+          <button class="filter-btn active" data-region="all">🌍 All Regions</button>
+          <button class="filter-btn" data-region="North America">🌎 North America</button>
+          <button class="filter-btn" data-region="Europe">🌍 Europe</button>
+          <button class="filter-btn" data-region="Caribbean">🏝️ Caribbean</button>
+          <button class="filter-btn" data-region="Asia">🌏 Asia</button>
+          <button class="filter-btn" data-region="Oceania">🌊 Oceania</button>
+          <button class="filter-btn" data-region="Central America">🌴 Central America</button>
+          <button class="filter-btn" data-region="Middle East">🕌 Middle East</button>
         </div>
         <select class="sort-select" id="sort-locations">
           <option value="name">Sort by Name</option>
           <option value="price-low">Price: Low to High</option>
           <option value="price-high">Price: High to Low</option>
+          <option value="rating">Best Rated Shows</option>
         </select>
       </div>
     </div>
