@@ -2967,7 +2967,7 @@
       "amenities": ["private-villas", "spa", "yoga", "temples", "rice-terraces", "beach-clubs", "surf", "volcano-trekking"],
       "highlights": ["Tegallalang rice terraces", "Uluwatu temple sunset", "Private villa experiences", "Mount Batur sunrise trek", "Seminyak beach clubs"],
       "bestTimeToVisit": "April-October for dry season; May-June and September for ideal balance of weather and crowds",
-      "featuredSeasons": [{"show": "too-hot-to-handle", "seasons": [2, 3]}, {"show": "the-bachelor", "seasons": [various]}],
+      "featuredSeasons": [{"show": "too-hot-to-handle", "seasons": [2, 3]}, {"show": "the-bachelor", "seasons": ["various"]}],
       "nearbyAttractions": ["Ubud Monkey Forest", "Tirta Gangga water palace", "Nusa Penida island", "Gili Islands", "Tanah Lot temple"],
       "insiderTips": ["Hire a private driver for day trips—incredibly affordable and handles traffic", "Book restaurants for sunset timing at cliff venues", "Ubud for culture and wellness, Seminyak/Canggu for beaches and nightlife", "Visit temples early morning before crowds", "Private villa rental offers incredible value compared to resorts"],
       "faqs": [
@@ -2998,7 +2998,7 @@
       "amenities": ["table-mountain", "wine-tasting", "beaches", "safari", "fine-dining", "adventure-sports", "botanical-gardens", "cultural-tours"],
       "highlights": ["Table Mountain cable car", "Cape Winelands tours", "Cape of Good Hope", "Camps Bay beach", "Robben Island history"],
       "bestTimeToVisit": "October-April for South African summer; March-May and September-November for shoulder season value",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "love-island-south-africa", "seasons": [1]}, {"show": "the-ultimatum-south-africa", "seasons": [1]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "love-island-south-africa", "seasons": [1]}, {"show": "the-ultimatum-south-africa", "seasons": [1]}],
       "nearbyAttractions": ["Stellenbosch wine region", "Franschhoek", "Garden Route", "Hermanus whale watching", "Private game reserves"],
       "insiderTips": ["Book Table Mountain cable car online to skip lines", "Sunset at Lion's Head hike is spectacular and social", "Winelands require a designated driver or tour", "Camps Bay sunset drinks are a ritual—arrive by 5pm for good spots", "Add 2-3 nights in Winelands for the full experience"],
       "faqs": [
@@ -3030,7 +3030,7 @@
       "amenities": ["beaches", "thai-spa", "island-hopping", "temple-tours", "elephant-sanctuary", "diving", "yacht-charters", "muay-thai"],
       "highlights": ["Phang Nga Bay (James Bond Island)", "Ethical elephant sanctuaries", "Thai cooking classes", "Phi Phi Islands day trip", "Old Phuket Town"],
       "bestTimeToVisit": "November-April for dry season; May-October offers lower prices but monsoon rains",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "too-hot-to-handle", "seasons": [various]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "too-hot-to-handle", "seasons": ["various"]}],
       "nearbyAttractions": ["Phi Phi Islands", "Phang Nga Bay", "James Bond Island", "Similan Islands (diving)", "Krabi and Railay Beach"],
       "insiderTips": ["Stay away from Patong for romance—choose Surin, Kamala, or Kata", "Book Phang Nga Bay tours that avoid crowds with early departures", "Visit only ethical elephant sanctuaries—no riding", "Old Phuket Town is worth a half-day exploration", "Similan Islands (November-May only) offer world-class diving"],
       "faqs": [
@@ -3062,7 +3062,7 @@
       "amenities": ["bungee-jumping", "skydiving", "jet-boating", "skiing", "wine-tasting", "helicopter-tours", "hiking", "hot-springs"],
       "highlights": ["Kawarau Bridge bungee", "Milford Sound day trip", "Central Otago wine trail", "Onsen Hot Pools", "Skyline gondola and luge"],
       "bestTimeToVisit": "December-February for summer; June-August for skiing; March-May for autumn colors and fewer crowds",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "bachelor-new-zealand", "seasons": [1, 2]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "bachelor-new-zealand", "seasons": [1, 2]}],
       "nearbyAttractions": ["Milford Sound", "Glenorchy (Lord of the Rings)", "Arrowtown historic village", "Wanaka", "Mt Cook National Park"],
       "insiderTips": ["Book Milford Sound cruise that includes kayaking option", "Onsen Hot Pools at sunset is peak romance", "Central Otago wine tours combine scenery with excellent Pinot Noir", "Glenorchy road is one of the world's most beautiful drives", "Fergburger is overrated—try The Cow instead"],
       "faqs": [
@@ -3094,7 +3094,7 @@
       "amenities": ["surfing", "beaches", "yoga", "mezcal-tasting", "horseback-riding", "snorkeling", "street-food", "art-galleries"],
       "highlights": ["Beginner surf breaks", "Colorful downtown streets", "Playa de los Muertos hidden beach", "Rooftop mezcal bars", "Weekly art walks"],
       "bestTimeToVisit": "November-May for dry season; April-June for best surf",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "bachelor-in-paradise", "seasons": [7]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "bachelor-in-paradise", "seasons": [7]}],
       "nearbyAttractions": ["Punta Mita luxury resorts", "Marietas Islands (hidden beach)", "San Pancho village", "Puerto Vallarta", "Islas Marietas National Park"],
       "insiderTips": ["Stay in town for walkability—don't need a car", "Book surf lessons early morning before crowds", "Friday art walks are magical", "Escape to San Pancho for even quieter vibes", "Marietas Islands trip requires advance permits—book ahead"],
       "faqs": [
@@ -3156,7 +3156,7 @@
       "amenities": ["historic-tours", "fine-dining", "ghost-tours", "carriage-rides", "riverfront", "beaches", "art-galleries", "gardens"],
       "highlights": ["Forsyth Park fountain", "Historic squares walking", "River Street dining", "Bonaventure Cemetery", "Tybee Island beach"],
       "bestTimeToVisit": "March-May and September-November for mild weather; avoid summer humidity",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "married-at-first-sight-us", "seasons": [13]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "married-at-first-sight-us", "seasons": [13]}],
       "nearbyAttractions": ["Tybee Island beach", "Bonaventure Cemetery", "Fort Pulaski", "Wormsloe Historic Site", "Charleston (2 hours)"],
       "insiderTips": ["Stay in the Historic District for walkability", "Open container laws mean you can walk with cocktails—take advantage", "Book ghost tours in advance—they sell out", "Leopold's Ice Cream is worth the line", "Visit Bonaventure Cemetery at sunset for magical photos"],
       "faqs": [
@@ -3186,7 +3186,7 @@
       "amenities": ["hiking", "jeep-tours", "spa", "vortex-experiences", "stargazing", "hot-air-balloons", "wine-tasting", "art-galleries"],
       "highlights": ["Cathedral Rock sunset", "Red rock jeep tours", "Energy vortex sites", "Enchantment Resort spa", "Dark sky stargazing"],
       "bestTimeToVisit": "March-May and September-November for mild hiking weather; avoid summer heat",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [11, 16]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [11, 16]}],
       "nearbyAttractions": ["Grand Canyon (2 hours)", "Jerome ghost town", "Montezuma Castle", "Verde Valley Wine Trail", "Slide Rock State Park"],
       "insiderTips": ["Book restaurant reservations for sunset timing", "Early morning hikes beat crowds and heat", "Vortex sites are free to visit—no guide needed", "Dark sky stargazing is extraordinary—plan a clear night activity", "Jerome day trip combines ghost town vibes with wine tasting"],
       "faqs": [
@@ -3246,7 +3246,7 @@
       "amenities": ["historic-walls", "beaches", "kayaking", "island-hopping", "fine-dining", "cable-car", "wine-tasting", "boat-tours"],
       "highlights": ["Medieval wall walks", "Game of Thrones filming sites", "Lokrum Island day trip", "Sunset on Buža Bar cliffs", "Cable car to Mount Srđ"],
       "bestTimeToVisit": "May-June and September-October for pleasant weather without cruise ship crowds",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "ainori-love-wagon", "seasons": [1]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "ainori-love-wagon", "seasons": [1]}],
       "nearbyAttractions": ["Lokrum Island", "Elaphiti Islands", "Kotor, Montenegro (day trip)", "Mostar, Bosnia (day trip)", "Pelješac Peninsula wine region"],
       "insiderTips": ["Walk the walls early morning or late afternoon to avoid crowds and heat", "Stay outside Old Town walls for better value—it's walkable", "Buža Bar (cliff bar) is a must at sunset—bring cash", "Avoid July-August for crowds and heat", "Kayak tours at sunset are magical"],
       "faqs": [
@@ -3306,7 +3306,7 @@
       "amenities": ["historic-neighborhoods", "fado-music", "viewpoints", "seafood", "wine", "trams", "beaches", "day-trips"],
       "highlights": ["Tram 28 through Alfama", "Fado in Bairro Alto", "Miradouro da Senhora do Monte sunset", "LX Factory creative hub", "Sintra day trip"],
       "bestTimeToVisit": "March-May and September-October for pleasant weather; summer is hot and crowded",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [17]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [17]}],
       "nearbyAttractions": ["Sintra castles and palaces", "Cascais beach town", "Évora Roman temple", "Porto (3 hours)", "Setúbal dolphins"],
       "insiderTips": ["Wear comfortable shoes—hills are real and steep", "Tram 28 is tourist-packed; walk Alfama instead for atmosphere", "Ginjinha (cherry liqueur) shots are local tradition", "Fado shows in Alfama beat tourist restaurants in Bairro Alto", "Time of the Sun (sunset viewpoint bar hopping) is a local ritual"],
       "faqs": [
@@ -3336,7 +3336,7 @@
       "amenities": ["canals", "museums", "cycling", "cafes", "shopping", "canal-cruises", "parks", "nightlife"],
       "highlights": ["Canal cruise at dusk", "Van Gogh Museum", "Jordaan neighborhood", "Vondelpark cycling", "Nine Streets shopping"],
       "bestTimeToVisit": "April-May for tulips and mild weather; September-October for fewer tourists",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [12]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [12]}],
       "nearbyAttractions": ["Keukenhof tulip gardens (spring)", "Zaanse Schans windmills", "Giethoorn village", "The Hague", "Rotterdam architecture"],
       "insiderTips": ["Book Anne Frank House tickets months ahead—they sell out", "Rent bikes and explore like a local", "Brown cafés are cozy pubs, not coffee shops", "Canal-side hotels often have steep narrow stairs—check accessibility", "The Jordaan is most romantic for evening walks"],
       "faqs": [
@@ -3366,7 +3366,7 @@
       "amenities": ["cruises", "kayaking", "caves", "swimming", "cooking-classes", "sunrise-views", "floating-villages", "hiking"],
       "highlights": ["Overnight junk boat cruise", "Kayaking through caves", "Sung Sot Cave exploration", "Floating village visits", "Sunrise over the karsts"],
       "bestTimeToVisit": "October-April for dry season; March-May for best visibility; avoid July-August typhoon season",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "ainori-love-wagon", "seasons": [2]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "ainori-love-wagon", "seasons": [2]}],
       "nearbyAttractions": ["Cat Ba Island", "Lan Ha Bay (less crowded)", "Bai Tu Long Bay", "Hanoi (3-4 hours)", "Ninh Binh 'Ha Long on land'"],
       "insiderTips": ["Book 2-night cruises to reach farther, less crowded areas", "Lan Ha Bay is Ha Long's quieter alternative", "Bring motion sickness medication if prone", "Dry season means cold mornings—bring layers", "Luxury cruises are worth the splurge for this experience"],
       "faqs": [
@@ -3396,7 +3396,7 @@
       "amenities": ["medina-exploring", "hammam", "riads", "souks", "cooking-classes", "rooftop-dining", "desert-trips", "hot-air-balloons"],
       "highlights": ["Djemaa el-Fna square", "Traditional hammam spa", "Riad courtyard stays", "Majorelle Garden", "Atlas Mountains day trip"],
       "bestTimeToVisit": "March-May and September-November for pleasant weather; summer is extremely hot",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "ainori-love-wagon", "seasons": [1]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "ainori-love-wagon", "seasons": [1]}],
       "nearbyAttractions": ["Atlas Mountains", "Essaouira beach town", "Sahara Desert (overnight)", "Ourika Valley", "Ouzoud Waterfalls"],
       "insiderTips": ["Stay in a traditional riad for authentic experience", "Agree on taxi prices before getting in—or use apps", "Haggling is expected in souks—start at 30% of asking price", "Hammam experiences should be pre-booked at reputable spas", "Hire a guide for first medina exploration—then get lost on your own"],
       "faqs": [
@@ -3426,7 +3426,7 @@
       "amenities": ["surfing", "beaches", "yoga", "wellness", "hiking", "markets", "live-music", "farm-to-table"],
       "highlights": ["Cape Byron lighthouse sunrise", "The Pass surf break", "Byron Farmers Market", "Hinterland waterfalls", "Sunset Beach Hotel rooftop"],
       "bestTimeToVisit": "September-November and March-May for mild weather; December-February is peak summer",
-      "featuredSeasons": [{"show": "the-bachelor-australia", "seasons": [various]}, {"show": "married-at-first-sight-australia", "seasons": [6, 7, 8]}],
+      "featuredSeasons": [{"show": "the-bachelor-australia", "seasons": ["various"]}, {"show": "married-at-first-sight-australia", "seasons": [6, 7, 8]}],
       "nearbyAttractions": ["Nimbin hippie village", "Minyon Falls", "Bangalow village", "Gold Coast (1 hour)", "Northern Rivers hinterland"],
       "insiderTips": ["Book accommodations months ahead—Byron is popular", "Sunrise at the lighthouse is worth the early wake-up", "The Farm restaurant is unmissable for food lovers", "Learn to surf at Wategos—gentler than main beach", "Farmers market (Thursday) is the week's social event"],
       "faqs": [
@@ -3456,7 +3456,7 @@
       "amenities": ["overwater-villas", "diving", "snorkeling", "spa", "private-dining", "water-sports", "seaplane-transfers", "underwater-restaurants"],
       "highlights": ["Overwater villa stays", "Glass-floor bungalows", "Private island resorts", "Manta ray diving", "Sandbank picnics"],
       "bestTimeToVisit": "November-April for dry season; December-March is peak (and priciest)",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [various]}, {"show": "married-at-first-sight-uk", "seasons": [8, 9]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": ["various"]}, {"show": "married-at-first-sight-uk", "seasons": [8, 9]}],
       "nearbyAttractions": ["Each resort is its own destination—island hopping between resorts is possible but expensive"],
       "insiderTips": ["Seaplane transfer resorts tend to be more exclusive (and expensive)", "All-inclusive packages often save money vs à la carte", "Water villa with sunset orientation is worth the premium", "Visit during shoulder season (May, October-November) for better rates", "One resort per trip—island hopping breaks the relaxation"],
       "faqs": [
@@ -3487,7 +3487,7 @@
       "amenities": ["beaches", "historic-sites", "bioluminescent-bays", "salsa-clubs", "fine-dining", "rainforest", "forts", "rum-tours"],
       "highlights": ["Old San Juan colorful streets", "El Morro fortress sunset", "Bioluminescent bay kayaking", "El Yunque rainforest", "La Placita salsa scene"],
       "bestTimeToVisit": "December-April for dry season; avoid September hurricane season",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [14]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [14]}],
       "nearbyAttractions": ["El Yunque National Forest", "Bioluminescent bays (Vieques, Fajardo)", "Culebra beaches", "Rincón surf town", "Ponce colonial architecture"],
       "insiderTips": ["Stay in Old San Juan for walkable romance", "La Placita on Thursday nights is the local party scene", "Book bio bay tours during new moon for maximum glow", "Rent a car for El Yunque and beach day trips", "Try mofongo (mashed plantains) everywhere"],
       "faqs": [
@@ -3517,7 +3517,7 @@
       "amenities": ["sunset-cruises", "snorkeling", "kayaking", "historic-tours", "beaches", "nightlife", "water-sports", "fishing"],
       "highlights": ["Mallory Square sunset", "Duval Street nightlife", "Hemingway Home", "Fort Jefferson day trip", "Coral reef snorkeling"],
       "bestTimeToVisit": "December-May for dry season and pleasant temperatures; avoid September hurricane season",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [10]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [10]}],
       "nearbyAttractions": ["Dry Tortugas National Park", "Bahia Honda State Park", "Seven Mile Bridge", "Islamorada sport fishing", "Marathon turtle hospital"],
       "insiderTips": ["Stay in Old Town for walkability—no car needed", "Sunset sail is better than crowded Mallory Square", "Make the drive down—the Overseas Highway is unforgettable", "Book Dry Tortugas ferry months ahead", "Fantasy Fest (October) is wild—plan accordingly"],
       "faqs": [
@@ -3547,7 +3547,7 @@
       "amenities": ["historic-tours", "fine-dining", "carriage-rides", "beaches", "rooftop-bars", "shopping", "galleries", "ghost-tours"],
       "highlights": ["Rainbow Row houses", "Carriage rides through downtown", "Husk and FIG dining", "Sullivan's Island beach", "Rooftop bars at sunset"],
       "bestTimeToVisit": "March-May and September-November for ideal weather; avoid summer humidity",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "southern-charm", "seasons": [1, 2, 3, 4, 5, 6, 7, 8]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "southern-charm", "seasons": [1, 2, 3, 4, 5, 6, 7, 8]}],
       "nearbyAttractions": ["Middleton Place plantation", "Angel Oak tree", "Magnolia Plantation gardens", "Fort Sumter", "Folly Beach"],
       "insiderTips": ["Stay in the French Quarter or South of Broad for best location", "Make restaurant reservations weeks ahead for top spots", "Carriage tours are touristy but genuinely lovely", "Explore beyond downtown—Sullivan's Island is charming", "Visit during Spoleto Festival (May-June) for arts and culture"],
       "faqs": [
@@ -3577,7 +3577,7 @@
       "amenities": ["boat-tours", "villa-gardens", "fine-dining", "swimming", "hiking", "wine-tasting", "spa", "water-sports"],
       "highlights": ["Bellagio 'Pearl of the Lake'", "Villa Carlotta gardens", "Private boat tours", "Varenna waterfront", "George Clooney's Villa Oleandra (exterior)"],
       "bestTimeToVisit": "May-September for warm weather and swimming; April and October for fewer crowds",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [15]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [15]}],
       "nearbyAttractions": ["Milan (1 hour)", "Swiss border towns", "Lugano, Switzerland", "Bergamo old town", "Lake Maggiore"],
       "insiderTips": ["Stay in Bellagio or Varenna for authentic experience over Como city", "Public ferries are scenic and affordable for town-hopping", "Book Grand Hotel Tremezzo for ultimate luxury", "Rent a private boat for a few hours—worth the splurge", "Dine at Ristorante Bilacus in Bellagio for sunset views"],
       "faqs": [
@@ -3607,7 +3607,7 @@
       "amenities": ["overwater-bungalows", "snorkeling", "lagoon-tours", "spa", "private-dining", "jet-skiing", "paddleboarding", "shark-feeding"],
       "highlights": ["Overwater bungalow stays", "Mount Otemanu views", "Lagoon snorkeling with sharks and rays", "Private motu dinners", "Sunset cruises"],
       "bestTimeToVisit": "May-October for dry season; November-April is warmer but wetter",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [various]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": ["various"]}],
       "nearbyAttractions": ["Moorea island", "Tahiti", "Taha'a vanilla island", "Raiatea (sacred island)", "Huahine"],
       "insiderTips": ["Book overwater bungalow with Mount Otemanu view—worth the premium", "Resorts are all-inclusive or close to it—budget accordingly", "Lagoon tour is essential—book through your resort", "Consider adding Moorea for variety at lower cost", "Pack reef-safe sunscreen—it's law in French Polynesia"],
       "faqs": [
@@ -3637,7 +3637,7 @@
       "amenities": ["architecture", "beaches", "tapas", "nightlife", "museums", "shopping", "rooftop-bars", "flamenco"],
       "highlights": ["Sagrada Família", "Park Güell sunset", "Gothic Quarter strolls", "La Boqueria market", "Barceloneta beach"],
       "bestTimeToVisit": "May-June and September-October for mild weather without peak crowds",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [8]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [8]}],
       "nearbyAttractions": ["Montserrat monastery", "Costa Brava beaches", "Girona old town", "Sitges beach town", "Wine regions (Penedès)"],
       "insiderTips": ["Book Sagrada Família tickets online months ahead", "Stay in El Born or Eixample for best experience", "Dinner starts at 9pm—adapt to Spanish timing", "Skip Las Ramblas tourist traps—explore Gràcia instead", "Vermouth hour (around 1pm) is a local tradition"],
       "faqs": [
@@ -3667,7 +3667,7 @@
       "amenities": ["colonial-architecture", "beaches", "salsa", "rooftop-bars", "island-trips", "fine-dining", "history", "nightlife"],
       "highlights": ["Walled Old Town", "Getsemaní street art", "Café del Mar sunset", "Rosario Islands", "Castillo San Felipe fortress"],
       "bestTimeToVisit": "December-April for dry season; avoid October-November rains",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "90-day-fiance", "seasons": [2, 3]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "90-day-fiance", "seasons": [2, 3]}],
       "nearbyAttractions": ["Rosario Islands", "Playa Blanca", "Volcán de Lodo El Totumo (mud volcano)", "Islas del Rosario", "Barú Peninsula"],
       "insiderTips": ["Stay inside the walled city for best experience", "Getsemaní is trendier and more affordable than Centro", "Take a walking tour first to orient yourself", "Café del Mar and Alquímico for best sunset spots", "Learn basic Spanish—English isn't widely spoken"],
       "faqs": [
@@ -3697,7 +3697,7 @@
       "amenities": ["swimming-pigs", "snorkeling", "beaches", "casinos", "island-hopping", "yacht-charters", "diving", "fishing"],
       "highlights": ["Swimming pigs at Big Major Cay", "Atlantis Paradise Island", "Exuma Cays", "Nurse sharks at Compass Cay", "Thunderball Grotto (James Bond)"],
       "bestTimeToVisit": "December-April for dry season; avoid September hurricane season",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [11]}, {"show": "bachelor-in-paradise", "seasons": [6]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [11]}, {"show": "bachelor-in-paradise", "seasons": [6]}],
       "nearbyAttractions": ["Harbour Island pink sand", "Andros blue holes", "Bimini beaches", "Eleuthera Glass Window Bridge", "Cat Island hermitage"],
       "insiderTips": ["The swimming pigs are worth the trip—book a day tour from Nassau or stay in Staniel Cay", "Atlantis is fun for a day even if staying elsewhere", "Exumas require small plane transfers—embrace the adventure", "Harbour Island's pink sand beach is the Bahamas' best", "Consider a yacht charter for island-hopping flexibility"],
       "faqs": [
@@ -3727,7 +3727,7 @@
       "amenities": ["palaces", "opera", "coffee-houses", "museums", "wine-taverns", "carriage-rides", "classical-music", "pastries"],
       "highlights": ["Schönbrunn Palace", "Café Central coffee and cake", "Vienna State Opera", "Fiaker carriage rides", "Belvedere art gallery"],
       "bestTimeToVisit": "April-May and September-October; December for Christmas markets",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [9]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [9]}],
       "nearbyAttractions": ["Wachau Valley wine region", "Salzburg (2.5 hours)", "Bratislava, Slovakia (1 hour)", "Budapest, Hungary (2.5 hours)", "Melk Abbey"],
       "insiderTips": ["Book opera tickets online—standing room is cheap and atmospheric", "Café Central is touristy but worth experiencing once", "Heurigen wine taverns in Grinzing are wonderfully local", "Vienna Card includes transit and museum discounts", "The Naschmarkt is perfect for foodie couples"],
       "faqs": [
@@ -3757,7 +3757,7 @@
       "amenities": ["helicopter-tours", "beaches", "hiking", "snorkeling", "sailing", "waterfalls", "canyons", "luaus"],
       "highlights": ["Na Pali Coast helicopter tour", "Waimea Canyon", "Hanalei Bay sunset", "Kalalau Trail hiking", "Kayaking to Secret Falls"],
       "bestTimeToVisit": "April-September for driest weather; North Shore gets rain year-round",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [13]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": [13]}],
       "nearbyAttractions": ["Na Pali Coast State Wilderness Park", "Waimea Canyon State Park", "Fern Grotto", "Spouting Horn", "Poipu Beach"],
       "insiderTips": ["Helicopter tour is non-negotiable for Na Pali—book doors-off for photos", "North Shore is rainier but more dramatic; South Shore is sunnier", "Book Kalalau Trail permits months ahead if hiking", "Rent a car—Kauai requires driving to explore", "Sunset dinner at Hanalei's Tahiti Nui is romantic and local"],
       "faqs": [
@@ -3787,7 +3787,7 @@
       "amenities": ["spa", "golf", "hiking", "hot-air-balloons", "fine-dining", "horseback-riding", "galleries", "nightlife"],
       "highlights": ["Sanctuary Camelback spa", "Desert hot air balloon", "Camelback Mountain hike", "Old Town galleries", "Championship golf"],
       "bestTimeToVisit": "October-April for pleasant temperatures; avoid summer extreme heat",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [various]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": ["various"]}],
       "nearbyAttractions": ["Sedona (2 hours)", "Grand Canyon (4 hours)", "Phoenix museums", "Taliesin West (Frank Lloyd Wright)", "Superstition Mountains"],
       "insiderTips": ["Summer rates drop dramatically but heat is brutal—plan indoor activities", "Sunrise hot air balloon is worth early wakeup", "Camelback hike is strenuous—go early and bring water", "Old Town has excellent galleries and dining—explore on foot", "Book spa treatments days ahead at top resorts"],
       "faqs": [
@@ -3817,7 +3817,7 @@
       "amenities": ["gardens", "fine-dining", "hawker-food", "rooftop-bars", "shopping", "museums", "beaches", "nightlife"],
       "highlights": ["Gardens by the Bay", "Marina Bay Sands SkyPark", "Hawker food tours", "Shophouse hotel stays", "Sentosa Island escape"],
       "bestTimeToVisit": "February-April for driest weather; year-round destination with consistent tropical climate",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-amazing-race", "seasons": [various]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-amazing-race", "seasons": ["various"]}],
       "nearbyAttractions": ["Sentosa Island", "Bintan Island, Indonesia", "Batam Island, Indonesia", "Johor Bahru, Malaysia", "Southern Islands"],
       "insiderTips": ["Hawker centers are the real Singapore food experience—don't skip them", "Gardens by the Bay light show is free and spectacular", "Marina Bay Sands rooftop bar (CÉ LA VI) doesn't require hotel stay", "Air conditioning is aggressive—carry a light layer", "Chinatown and Tiong Bahru for best boutique hotel neighborhoods"],
       "faqs": [
@@ -3847,7 +3847,7 @@
       "amenities": ["scenic-drives", "hiking", "fine-dining", "spa", "beach-access", "wildlife", "redwoods", "meditation"],
       "highlights": ["Bixby Creek Bridge", "Post Ranch Inn", "Nepenthe restaurant", "Pfeiffer Beach (purple sand)", "McWay Falls"],
       "bestTimeToVisit": "April-October for clearest weather; winter brings dramatic storms and possible road closures",
-      "featuredSeasons": [{"show": "the-bachelor", "seasons": [various]}, {"show": "the-bachelorette", "seasons": [various]}],
+      "featuredSeasons": [{"show": "the-bachelor", "seasons": ["various"]}, {"show": "the-bachelorette", "seasons": ["various"]}],
       "nearbyAttractions": ["Carmel-by-the-Sea", "Monterey Bay Aquarium", "17-Mile Drive", "Point Lobos", "Hearst Castle"],
       "insiderTips": ["Book accommodations months ahead—options are limited", "Highway 1 closures happen—check road conditions", "Cell service is limited to nonexistent—embrace disconnection", "Stop at every viewpoint—each offers different perspective", "Nepenthe's view justifies any crowd; Deetjen's offers intimate dining"],
       "faqs": [
