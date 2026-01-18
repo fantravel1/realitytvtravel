@@ -1489,6 +1489,343 @@
         "title": "The Real Love Boat Destinations | Mediterranean Cruise Guide",
         "description": "Cruise the Mediterranean ports featured on The Real Love Boat."
       }
+    },
+    {
+      "id": "love-is-blind-habibi",
+      "name": "Love Is Blind: Habibi",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Middle Eastern love, unveiled",
+      "description": "The Love Is Blind format comes to the UAE and Arabic-speaking world, featuring singles from across the Middle East seeking connection in the pods.",
+      "longDescription": "Love Is Blind: Habibi (meaning 'my love' in Arabic) brings the pod experiment to the Middle East for the first time. Singles from the UAE, Lebanon, Egypt, and other Arab countries navigate cultural expectations, family involvement, and the unique dynamics of Arabic dating culture while seeking genuine emotional connections sight unseen.",
+      "primaryLocation": "dubai-uae",
+      "destinations": ["dubai", "abu-dhabi", "lebanon", "egypt"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Habibi filmed?",
+          "answer": "The show films primarily in Dubai and Abu Dhabi, UAE. The couples' retreat features stunning Arabian Gulf resort locations, and real-life segments follow couples across the Middle East."
+        },
+        {
+          "question": "What makes the Arabic version unique?",
+          "answer": "Habibi incorporates Middle Eastern cultural elements including family approval dynamics, traditional values, and the significance of marriage in Arab culture. It's groundbreaking for reality dating in the region."
+        }
+      ],
+      "travelTips": [
+        "Dubai's luxury resorts rival any Love Is Blind retreat",
+        "Abu Dhabi offers stunning cultural and beach experiences",
+        "Experience Arabian hospitality at traditional desert camps",
+        "The UAE is a year-round luxury destination"
+      ],
+      "meta": {
+        "title": "Love Is Blind Habibi Filming Locations | Dubai & UAE Guide",
+        "description": "Visit Love Is Blind Habibi filming locations in Dubai and the UAE."
+      }
+    },
+    {
+      "id": "love-is-blind-argentina",
+      "name": "Love Is Blind: Argentina",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Argentine passion in the pods",
+      "description": "Love Is Blind comes to Argentina with the emotional intensity and romantic flair that defines South American culture.",
+      "longDescription": "Love Is Blind: Argentina brings the format to Buenos Aires, where passionate Argentinians seek deep connections in the pods. Known for their emotional expressiveness and romantic culture, Argentine contestants bring intense energy to the experiment. The stunning Buenos Aires backdrop and tango culture add unique flavor.",
+      "primaryLocation": "buenos-aires",
+      "destinations": ["buenos-aires", "mendoza", "patagonia"],
+      "bestSeasons": [1],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Argentina filmed?",
+          "answer": "The show films in Buenos Aires, Argentina's cosmopolitan capital. The retreat takes place at luxury resorts in Argentine wine country or Patagonia. Couples explore the city's famous neighborhoods."
+        },
+        {
+          "question": "What's different about the Argentine version?",
+          "answer": "Argentine contestants are known for passionate emotional expression. The show features tango culture, incredible steak dinners, and the romantic atmosphere of Buenos Aires."
+        }
+      ],
+      "travelTips": [
+        "Buenos Aires' Palermo neighborhood is perfect for romantic walks",
+        "Mendoza wine country offers couples retreat experiences",
+        "Take a tango lesson like the contestants",
+        "San Telmo's Sunday market is a must-visit"
+      ],
+      "meta": {
+        "title": "Love Is Blind Argentina Filming Locations | Buenos Aires Guide",
+        "description": "Visit Love Is Blind Argentina filming locations in Buenos Aires."
+      }
+    },
+    {
+      "id": "love-is-blind-germany",
+      "name": "Love Is Blind: Germany",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "German efficiency meets love",
+      "description": "Love Is Blind Germany brings Teutonic directness to the pods as German singles seek meaningful connections with characteristic honesty.",
+      "longDescription": "Love Is Blind: Germany applies the format to German dating culture, known for directness and authenticity. German contestants bring refreshing honesty to pod conversations, cutting through small talk to address real compatibility questions. The show films in scenic German locations from modern cities to countryside retreats.",
+      "primaryLocation": "germany-various",
+      "destinations": ["berlin", "munich", "bavarian-alps", "cologne"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Germany filmed?",
+          "answer": "The show films across Germany, with pods in urban centers and couples' retreats in scenic Bavarian locations. Couples explore cities like Berlin, Munich, and Cologne."
+        },
+        {
+          "question": "How do German contestants approach the experiment?",
+          "answer": "German contestants tend to be direct and practical in their approach to relationships. Conversations in the pods are known for honesty and getting to important topics quickly."
+        }
+      ],
+      "travelTips": [
+        "Berlin's diverse neighborhoods offer endless date possibilities",
+        "Bavaria's castles provide romantic fairy-tale settings",
+        "Munich's beer gardens are perfect for casual dates",
+        "The Rhine Valley offers stunning couples' getaways"
+      ],
+      "meta": {
+        "title": "Love Is Blind Germany Filming Locations | Berlin & Bavaria Guide",
+        "description": "Visit Love Is Blind Germany filming locations across Deutschland."
+      }
+    },
+    {
+      "id": "mafs-australia",
+      "name": "Married at First Sight Australia",
+      "network": "Nine Network",
+      "networkSlug": "nine",
+      "seasons": 11,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Australia's biggest dating experiment",
+      "description": "The Australian version of MAFS has become a global phenomenon, known for explosive drama, stunning weddings, and the infamous dinner parties.",
+      "longDescription": "Married at First Sight Australia has evolved into one of the most-watched reality shows globally. Experts match strangers who meet for the first time at the altar, then navigate married life together. The show's dinner parties and commitment ceremonies have become legendary for dramatic confrontations. Australian contestants bring unique energy and the show features stunning venues across the country.",
+      "primaryLocation": "australia-various",
+      "destinations": ["sydney", "melbourne", "gold-coast", "hunter-valley", "byron-bay"],
+      "bestSeasons": [8, 9, 10],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {
+          "question": "Where are MAFS Australia weddings filmed?",
+          "answer": "Weddings take place at stunning venues across Australia including Hunter Valley wineries, Sydney harbor-view locations, Melbourne gardens, and Gold Coast beaches. Venues vary each season."
+        },
+        {
+          "question": "Where is the dinner party filmed?",
+          "answer": "The iconic dinner parties film at various Sydney restaurants and event spaces. The commitment ceremonies take place at a purpose-built set in Sydney."
+        },
+        {
+          "question": "Can you visit the wedding venues?",
+          "answer": "Many MAFS wedding venues are publicly bookable for your own events. Popular choices include Miramare Gardens, Marybrooke Manor, and various Hunter Valley wineries."
+        }
+      ],
+      "travelTips": [
+        "Hunter Valley is NSW's premier wine region with romantic stays",
+        "Sydney Harbour weddings offer the iconic views seen on the show",
+        "Gold Coast beaches are perfect for honeymoon-style getaways",
+        "Melbourne's gardens and laneways create romantic date settings"
+      ],
+      "meta": {
+        "title": "MAFS Australia Filming Locations | Wedding Venues Guide",
+        "description": "Visit Married at First Sight Australia wedding and dinner party locations."
+      }
+    },
+    {
+      "id": "love-island-games",
+      "name": "Love Island Games",
+      "network": "Peacock",
+      "networkSlug": "peacock",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "All-stars compete for love",
+      "description": "Love Island veterans from around the world compete in physical challenges while pursuing romance in this all-star spinoff.",
+      "longDescription": "Love Island Games brings together former islanders from Love Island USA, UK, Australia, and other international versions for a competition-focused spinoff. Contestants compete in physical challenges while coupling up, with eliminations based on both competition performance and romantic connections. The Fiji setting adds tropical paradise vibes.",
+      "primaryLocation": "fiji-games",
+      "destinations": ["fiji", "denarau-island", "mamanuca-islands"],
+      "bestSeasons": [1],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Love Island Games filmed?",
+          "answer": "Love Island Games films in Fiji, using a villa setup similar to the main Love Island format but with added competition areas. The tropical setting provides the perfect backdrop for athletic challenges."
+        },
+        {
+          "question": "Who appears on Love Island Games?",
+          "answer": "The show features returning islanders from Love Island USA, UK, Australia, and other versions. It's a chance for fan favorites to find love again while competing."
+        }
+      ],
+      "travelTips": [
+        "Fiji's Mamanuca Islands offer the paradise setting seen on screen",
+        "Denarau Island has luxury resorts accessible to tourists",
+        "Experience Fijian culture and hospitality firsthand",
+        "Island hopping lets you explore multiple paradise locations"
+      ],
+      "meta": {
+        "title": "Love Island Games Filming Location | Fiji Villa Guide",
+        "description": "Visit the Love Island Games villa location in Fiji."
+      }
+    },
+    {
+      "id": "the-golden-bachelor",
+      "name": "The Golden Bachelor",
+      "network": "ABC",
+      "networkSlug": "abc",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Love has no expiration date",
+      "description": "The Bachelor franchise's first senior-focused spinoff follows a 70+ bachelor dating women in their golden years. Proof that love truly knows no age.",
+      "longDescription": "The Golden Bachelor brought heartwarming romance to the Bachelor franchise by centering seniors seeking love later in life. Gerry Turner, a 72-year-old widower, dated women in their 60s and 70s at familiar Bachelor locations. The show's genuine emotional moments and life wisdom resonated with viewers of all ages, proving the format works beautifully for any generation.",
+      "primaryLocation": "bachelor-mansion",
+      "destinations": ["bachelor-mansion", "costa-rica", "charleston"],
+      "bestSeasons": [1],
+      "viewerRating": 4.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is The Golden Bachelor filmed?",
+          "answer": "The Golden Bachelor uses the same iconic Bachelor Mansion (Villa de la Vina) in Agoura Hills, California. Travel dates have included Costa Rica and Charleston, South Carolina."
+        },
+        {
+          "question": "How old are the contestants?",
+          "answer": "Gerry Turner was 72, and the women ranged from their early 60s to early 70s. All contestants were widowed or divorced and genuinely seeking companionship."
+        }
+      ],
+      "travelTips": [
+        "The Bachelor Mansion is bookable on Airbnb for special events",
+        "Charleston's historic charm makes it perfect for romantic getaways",
+        "Costa Rica offers adventure and relaxation for any age",
+        "Wine country near the mansion is ideal for couples' trips"
+      ],
+      "meta": {
+        "title": "The Golden Bachelor Filming Locations | Mansion & Travel Dates",
+        "description": "Visit The Golden Bachelor filming locations and travel destinations."
+      }
+    },
+    {
+      "id": "couple-to-throuple",
+      "name": "Couple to Throuple",
+      "network": "Peacock",
+      "networkSlug": "peacock",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Two become three",
+      "description": "Couples explore opening their relationships by inviting a third person into their lives. A groundbreaking look at modern relationship dynamics.",
+      "longDescription": "Couple to Throuple follows committed couples who are curious about polyamory and ethical non-monogamy. Each couple meets potential thirds and explores whether expanding their relationship feels right. Set in a stunning tropical villa, the show provides a thoughtful look at non-traditional relationships while delivering all the drama of a dating competition.",
+      "primaryLocation": "tropical-villa",
+      "destinations": ["puerto-vallarta", "mexico"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Couple to Throuple filmed?",
+          "answer": "The show films at a luxury villa in Puerto Vallarta, Mexico, providing a relaxed tropical setting for couples to explore expanding their relationships."
+        },
+        {
+          "question": "Is the show actually about polyamory?",
+          "answer": "Yes, the show seriously explores ethical non-monogamy and throuple dynamics. Some couples successfully form throuples while others realize it's not for them."
+        }
+      ],
+      "travelTips": [
+        "Puerto Vallarta is one of Mexico's most welcoming destinations",
+        "The LGBTQ+ friendly Zona Romántica neighborhood is perfect for all couples",
+        "Luxury villas are available for group rentals",
+        "Sayulita nearby offers a more bohemian beach vibe"
+      ],
+      "meta": {
+        "title": "Couple to Throuple Filming Location | Puerto Vallarta Villa",
+        "description": "Visit the Couple to Throuple villa in Puerto Vallarta."
+      }
+    },
+    {
+      "id": "beauty-and-the-geek",
+      "name": "Beauty and the Geek",
+      "network": "Various",
+      "networkSlug": "various",
+      "seasons": 10,
+      "status": "active",
+      "yearStarted": 2005,
+      "tagline": "Opposites attract",
+      "description": "Beautiful women and academically gifted but socially awkward men are paired up and challenge each other to step outside their comfort zones.",
+      "longDescription": "Beauty and the Geek pairs conventionally attractive women with intelligent but socially inexperienced men. Through challenges that push both partners out of their comfort zones, participants grow and often form genuine connections. The show has aired in multiple countries, with the Australian version currently thriving on Channel 10.",
+      "primaryLocation": "mansion-various",
+      "destinations": ["los-angeles", "sydney", "london"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Is Beauty and the Geek still on?",
+          "answer": "The Australian version continues to produce new seasons on Channel 10. The US version ran from 2005-2008 on The CW but has been rebooted internationally."
+        },
+        {
+          "question": "Where is the show filmed?",
+          "answer": "Various versions have filmed in mansions in Los Angeles, Sydney, and other locations. The Australian version uses a mansion in NSW."
+        }
+      ],
+      "travelTips": [
+        "LA mansions from the US version are in Beverly Hills area",
+        "Sydney's North Shore features many similar luxury properties",
+        "The show emphasizes personal growth over destinations",
+        "Consider visiting filming locations for the active Australian version"
+      ],
+      "meta": {
+        "title": "Beauty and the Geek Filming Locations | Mansion Guide",
+        "description": "Visit Beauty and the Geek mansion filming locations."
+      }
+    },
+    {
+      "id": "love-trip-paris",
+      "name": "Love Trip: Paris",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2023,
+      "tagline": "Finding love in the City of Lights",
+      "description": "Singles move to Paris for a summer of romance, living together while exploring the world's most romantic city and searching for love.",
+      "longDescription": "Love Trip: Paris sent American singles to live in the City of Lights for a summer of romance. Living together in a stunning Parisian apartment, contestants explored iconic landmarks, dined at romantic restaurants, and searched for love in the world's most romantic city. The show combined travelogue elements with dating competition.",
+      "primaryLocation": "paris",
+      "destinations": ["paris", "eiffel-tower", "montmartre", "versailles"],
+      "bestSeasons": [1],
+      "viewerRating": 3.3,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where in Paris does the show take place?",
+          "answer": "Contestants lived in a shared apartment in central Paris and went on dates to iconic locations including the Eiffel Tower, Montmartre, Luxembourg Gardens, and various romantic restaurants."
+        },
+        {
+          "question": "What made Love Trip Paris unique?",
+          "answer": "The show combined classic dating competition format with the experience of living abroad in Paris. It was as much about the Parisian adventure as finding love."
+        }
+      ],
+      "travelTips": [
+        "The Marais neighborhood offers charming apartments like on the show",
+        "Montmartre's Sacré-Cœur views are perfect for romantic moments",
+        "Seine river cruises provide iconic Paris date experiences",
+        "Versailles makes an incredible day trip for couples"
+      ],
+      "meta": {
+        "title": "Love Trip Paris Filming Locations | City of Lights Guide",
+        "description": "Visit the Parisian locations from Love Trip: Paris."
+      }
     }
   ]
 }
