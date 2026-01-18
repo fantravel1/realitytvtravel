@@ -21,7 +21,7 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- Shows (31 total) -->
+  <!-- Shows (41 total) -->
   <url>
     <loc>https://realitytvtravel.com/show.html?id=the-bachelor</loc>
     <changefreq>monthly</changefreq>
@@ -35,7 +35,7 @@
   <url>
     <loc>https://realitytvtravel.com/show.html?id=love-is-blind</loc>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.9</priority>
   </url>
   <url>
     <loc>https://realitytvtravel.com/show.html?id=too-hot-to-handle</loc>
@@ -172,8 +172,58 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-after-lockup</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=marrying-millions</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=farmer-wants-a-wife</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-island-australia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=love-is-blind-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=my-mom-your-dad</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=back-with-the-ex</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=cosmic-love</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=labor-of-love</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/show.html?id=the-real-love-boat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 
-  <!-- Locations (39 total) -->
+  <!-- Locations (50 total) -->
   <url>
     <loc>https://realitytvtravel.com/location.html?id=bachelor-mansion</loc>
     <changefreq>monthly</changefreq>
@@ -366,6 +416,61 @@
   </url>
   <url>
     <loc>https://realitytvtravel.com/location.html?id=korea-single-inferno</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=love-is-blind-atlanta</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=love-is-blind-dc</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=brazil-sao-paulo-lib</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=japan-tokyo-lib</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=sweden-lib</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=malibu-beach-house</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=sedona-arizona</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=melbourne-australia</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=fiji-denarau</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=barcelona-spain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://realitytvtravel.com/location.html?id=tulum-mexico</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>

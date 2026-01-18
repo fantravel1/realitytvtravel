@@ -1120,6 +1120,375 @@
         "title": "Love Island All Stars Filming Location | South Africa Villa",
         "description": "Visit the Love Island All Stars villa location in South Africa's stunning Cape Town region."
       }
+    },
+    {
+      "id": "love-after-lockup",
+      "name": "Love After Lockup",
+      "network": "WE tv",
+      "networkSlug": "wetv",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Will their love survive on the outside?",
+      "description": "Follows couples who began their relationships while one partner was incarcerated, documenting the challenges they face when the imprisoned partner is released.",
+      "longDescription": "Love After Lockup explores the unique challenges of relationships that started behind bars. When inmates are released, couples must navigate the real world together for the first time—dealing with family disapproval, financial struggles, and the question of whether prison romance can survive freedom. The show has spawned multiple spin-offs including Life After Lockup.",
+      "primaryLocation": "various-us-cities",
+      "destinations": ["las-vegas", "los-angeles", "atlanta", "miami", "new-york", "texas"],
+      "bestSeasons": [2, 3],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Is Love After Lockup real?",
+          "answer": "Yes, the couples are real people who met while one partner was incarcerated. The show documents their genuine attempts to build relationships post-release, though some scenes may be produced for dramatic effect."
+        },
+        {
+          "question": "Where is Love After Lockup filmed?",
+          "answer": "Filming takes place across the United States, following couples in their hometowns. Featured cities include Las Vegas, Los Angeles, Atlanta, various Texas cities, and more."
+        }
+      ],
+      "travelTips": [
+        "Las Vegas wedding chapels are popular for couples rushing to marry",
+        "Atlanta features many reunion scenes and date spots",
+        "The show offers a unique look at diverse American cities"
+      ],
+      "meta": {
+        "title": "Love After Lockup Filming Locations | US Cities Guide",
+        "description": "Explore Love After Lockup filming locations across America."
+      }
+    },
+    {
+      "id": "marrying-millions",
+      "name": "Marrying Millions",
+      "network": "Lifetime",
+      "networkSlug": "lifetime",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "Love across the wealth divide",
+      "description": "Wealthy individuals date and consider marriage with partners from vastly different financial backgrounds. Will love conquer the class divide?",
+      "longDescription": "Marrying Millions explores relationships where extreme wealth gaps test the bonds of love. Multi-millionaires bring working-class or financially struggling partners into their lavish lifestyles, facing skepticism from family and friends who question motives. The show features stunning mansions, luxury cars, and the real emotional challenges of bridging different worlds.",
+      "primaryLocation": "various-luxury",
+      "destinations": ["dallas", "miami", "washington-dc", "san-diego", "denver"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "How rich are the millionaires on the show?",
+          "answer": "Featured millionaires range from self-made entrepreneurs to those with generational wealth. Net worths featured on the show have ranged from $5 million to over $40 million."
+        },
+        {
+          "question": "Where are the mansions featured?",
+          "answer": "The show has featured luxury homes in Dallas, Miami, the DC area, San Diego, and Denver. Many scenes showcase high-end restaurants, exclusive clubs, and vacation properties."
+        }
+      ],
+      "travelTips": [
+        "Dallas's Highland Park features many lavish estates",
+        "Miami's Star Island and Fisher Island are billionaire enclaves",
+        "San Diego's La Jolla offers similar coastal luxury",
+        "Fine dining restaurants from the show are publicly accessible"
+      ],
+      "meta": {
+        "title": "Marrying Millions Filming Locations | Luxury Mansions Guide",
+        "description": "Visit the luxury locations featured on Marrying Millions."
+      }
+    },
+    {
+      "id": "farmer-wants-a-wife",
+      "name": "Farmer Wants a Wife",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Finding love in the heartland",
+      "description": "Single farmers looking for love invite city women to their farms to experience rural life and potentially find a lifelong partner. A heartland romance.",
+      "longDescription": "Farmer Wants a Wife brings the international format to America, following eligible farmers as they search for love. City women leave their urban lives to experience farm living, learning to milk cows, drive tractors, and embrace rural traditions. The genuine connections and beautiful farmland settings have made it a hit for viewers seeking wholesome romance.",
+      "primaryLocation": "us-farmland",
+      "destinations": ["nebraska", "wisconsin", "oklahoma", "tennessee", "california-central-valley"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Farmer Wants a Wife filmed?",
+          "answer": "The show films on actual working farms across America's heartland, including Nebraska, Wisconsin, Oklahoma, and Tennessee. Each farmer's segment takes place at their real family farm."
+        },
+        {
+          "question": "Is Farmer Wants a Wife popular worldwide?",
+          "answer": "Yes! The format originated in the UK and has been hugely successful in Australia. The US version launched in 2023 and became Fox's most-watched unscripted series premiere in years."
+        }
+      ],
+      "travelTips": [
+        "Agritourism is booming - many farms offer visitor experiences",
+        "Nebraska's Sandhills offer stunning rural landscapes",
+        "Wisconsin's dairy country is picture-perfect",
+        "Farm stays and B&Bs let you experience rural life"
+      ],
+      "meta": {
+        "title": "Farmer Wants a Wife Locations | US Farm Guide",
+        "description": "Visit American farms like those featured on Farmer Wants a Wife."
+      }
+    },
+    {
+      "id": "love-island-australia",
+      "name": "Love Island Australia",
+      "network": "Nine Network",
+      "networkSlug": "nine",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Australia's hottest villa",
+      "description": "The Australian version of Love Island brings together Aussie singles in a stunning tropical villa for the summer of their lives. Sun, surf, and sizzling romance.",
+      "longDescription": "Love Island Australia captures the laid-back Aussie spirit while delivering all the drama fans expect. Singles 'couple up' in a tropical paradise villa, facing recouplings, bombshells, and public votes. The show has filmed in Spain and Fiji, showcasing beautiful international destinations while Australian personalities bring their unique energy.",
+      "primaryLocation": "villa-varies",
+      "destinations": ["mallorca-spain", "fiji", "byron-bay"],
+      "bestSeasons": [2, 4],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Love Island Australia filmed?",
+          "answer": "Love Island Australia has filmed in Mallorca, Spain (like the UK version) and in Fiji. The show uses purpose-built or renovated villa sets with pools, daybeds, and the iconic fire pit."
+        },
+        {
+          "question": "How does it differ from UK Love Island?",
+          "answer": "The Australian version has a more relaxed, fun vibe matching Aussie culture. It features Australian slang, beach culture references, and contestants known for their directness and humor."
+        }
+      ],
+      "travelTips": [
+        "Mallorca's Sant Llorenç area hosts many Love Island villas",
+        "Fiji's Mamanuca Islands offer similar paradise vibes",
+        "Byron Bay captures the Aussie beach culture perfectly",
+        "Spain's Balearic Islands are summer romance central"
+      ],
+      "meta": {
+        "title": "Love Island Australia Filming Locations | Villa Guide",
+        "description": "Visit Love Island Australia filming locations in Spain and Fiji."
+      }
+    },
+    {
+      "id": "love-is-blind-uk",
+      "name": "Love Is Blind: UK",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Can Brits find love sight unseen?",
+      "description": "The hit format comes to Britain as UK singles attempt to form emotional connections in the pods before seeing each other. Will love truly be blind?",
+      "longDescription": "Love Is Blind: UK brings the beloved format to Britain with a distinctly British sensibility. Singles from across the UK enter the pods hoping to find deep connections based purely on conversation. Engaged couples then retreat to a luxury UK location before returning to real life to plan their weddings. British humor, accents, and drama make this version uniquely entertaining.",
+      "primaryLocation": "uk-filming",
+      "destinations": ["london", "cotswolds", "lake-district", "manchester"],
+      "bestSeasons": [1],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind UK filmed?",
+          "answer": "The pods are set up in a purpose-built facility, while the couples' retreat takes place at a luxury UK destination. Real-life segments follow couples in cities like London and Manchester."
+        },
+        {
+          "question": "How is UK different from US?",
+          "answer": "The UK version features British humor, cultural references, and tends to be slightly less dramatic. Brits bring their signature wit and self-deprecation to the pod conversations."
+        }
+      ],
+      "travelTips": [
+        "The Cotswolds offers romantic countryside retreat vibes",
+        "London's diverse date scene features many show locations",
+        "The Lake District provides stunning wedding backdrop potential",
+        "Manchester's Northern Quarter has trendy date spots"
+      ],
+      "meta": {
+        "title": "Love Is Blind UK Filming Locations | Britain Guide",
+        "description": "Explore Love Is Blind UK filming locations across Britain."
+      }
+    },
+    {
+      "id": "my-mom-your-dad",
+      "name": "My Mom, Your Dad",
+      "network": "HBO Max",
+      "networkSlug": "hbomax",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Second chance at love, guided by kids",
+      "description": "Single parents get a second chance at love while their adult children secretly watch and influence from a nearby house. A wholesome twist on dating shows.",
+      "longDescription": "My Mom, Your Dad takes the dating show format and adds a heartwarming twist: adult children nominate their single parents for the show, then secretly observe and guide their romantic journeys from a house next door. The result is a surprisingly emotional series about finding love later in life, family dynamics, and letting go.",
+      "primaryLocation": "malibu-retreat",
+      "destinations": ["malibu", "los-angeles"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is My Mom, Your Dad filmed?",
+          "answer": "The show films at a beautiful retreat house in Malibu, California. The parents' house and the kids' surveillance house are both luxury properties with ocean views."
+        },
+        {
+          "question": "How old are the parents on the show?",
+          "answer": "Parents on the show are typically in their 40s to 50s, with adult children in their late teens to early 20s. The focus is on people seeking genuine second chances at love."
+        }
+      ],
+      "travelTips": [
+        "Malibu's beach houses can be rented for group retreats",
+        "The PCH (Pacific Coast Highway) offers stunning coastal drives",
+        "Malibu's restaurants and beaches are perfect for romantic dates",
+        "Visit during shoulder season for better rates and fewer crowds"
+      ],
+      "meta": {
+        "title": "My Mom Your Dad Filming Location | Malibu Retreat",
+        "description": "Visit the My Mom, Your Dad filming location in beautiful Malibu."
+      }
+    },
+    {
+      "id": "back-with-the-ex",
+      "name": "Back with the Ex",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2018,
+      "tagline": "Should they reunite or move on?",
+      "description": "Former couples reunite to explore whether their past relationships deserve a second chance. Australian singles confront old feelings and unresolved issues.",
+      "longDescription": "Back with the Ex follows four Australians who reconnect with significant exes to determine if they should give love another go. Through shared apartments, therapy sessions, and revisiting meaningful locations, couples work through the issues that broke them up. It's a more mature, emotionally complex take on dating television.",
+      "primaryLocation": "melbourne-australia",
+      "destinations": ["melbourne", "sydney", "gold-coast"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Back with the Ex filmed?",
+          "answer": "The show films primarily in Melbourne and Sydney, Australia. Couples visit locations meaningful to their past relationships and share apartments while working through their issues."
+        },
+        {
+          "question": "Do the couples actually get back together?",
+          "answer": "Some couples do reconcile while others decide to move on. The show provides a realistic look at whether second chances can work, not just manufactured happy endings."
+        }
+      ],
+      "travelTips": [
+        "Melbourne's laneways and coffee culture make perfect date spots",
+        "Sydney Harbour provides iconic romantic backdrops",
+        "The Great Ocean Road offers scenic couple's road trips",
+        "Australian wine regions are perfect for reconciliation retreats"
+      ],
+      "meta": {
+        "title": "Back with the Ex Filming Locations | Australia Guide",
+        "description": "Explore Back with the Ex filming locations across Australia."
+      }
+    },
+    {
+      "id": "cosmic-love",
+      "name": "Cosmic Love",
+      "network": "Prime Video",
+      "networkSlug": "prime",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Written in the stars",
+      "description": "Four singles let astrology guide their search for love as the Astro Chamber matches them with potential partners based on zodiac compatibility.",
+      "longDescription": "Cosmic Love takes the dating show format and adds celestial guidance. Four leads representing different elements (fire, earth, air, water) receive matches based on their birth charts. A mystical 'Astro Chamber' provides guidance through the process, and eliminations consider both emotional connections and astrological compatibility. Perfect for astrology enthusiasts.",
+      "primaryLocation": "desert-retreat",
+      "destinations": ["arizona-desert", "sedona", "joshua-tree"],
+      "bestSeasons": [1],
+      "viewerRating": 3.3,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Cosmic Love filmed?",
+          "answer": "Cosmic Love films at a stunning desert retreat in the American Southwest, with mystical desert landscapes that complement the show's celestial themes. The 'Astro Chamber' is a specially designed set."
+        },
+        {
+          "question": "Is the astrology real?",
+          "answer": "The show works with professional astrologers who analyze contestants' birth charts. While astrology is the framework, emotional compatibility still matters most for successful matches."
+        }
+      ],
+      "travelTips": [
+        "Sedona is known as a spiritual vortex destination",
+        "Joshua Tree's desert landscapes feel mystical at night",
+        "Arizona's desert resorts offer stargazing packages",
+        "Many Southwest spas incorporate astrology and crystal healing"
+      ],
+      "meta": {
+        "title": "Cosmic Love Filming Location | Desert Retreat Guide",
+        "description": "Visit the mystical desert filming location of Cosmic Love."
+      }
+    },
+    {
+      "id": "labor-of-love",
+      "name": "Labor of Love",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2020,
+      "tagline": "Looking for love and fatherhood",
+      "description": "A 41-year-old woman who wants to become a mother dates 15 men who are ready for fatherhood. Challenges test their parenting potential.",
+      "longDescription": "Labor of Love flipped the dating show script by focusing on a woman's timeline and desire for motherhood. Kristy Katzmann, a 41-year-old career woman, dates 15 men who all claim readiness for fatherhood. Challenges test their parenting skills—from diaper changing to assembling cribs—while emotional dates explore compatibility. It's reality TV for women who relate to biological clock pressures.",
+      "primaryLocation": "georgia-estate",
+      "destinations": ["atlanta", "georgia-countryside", "savannah"],
+      "bestSeasons": [1],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Labor of Love filmed?",
+          "answer": "Labor of Love films at a beautiful estate in Georgia, with additional filming in Atlanta. The Southern setting provides a warm backdrop for the family-focused premise."
+        },
+        {
+          "question": "What kind of challenges do the men face?",
+          "answer": "Challenges test parenting readiness: diaper changing races, crib assembly, interacting with children, discussing parenting philosophies, and handling family emergencies. It's Bachelor meets parenting boot camp."
+        }
+      ],
+      "travelTips": [
+        "Georgia's plantation estates are available for events",
+        "Atlanta's Virginia-Highland is perfect for family-friendly dates",
+        "Savannah offers romantic Southern charm",
+        "Georgia's Lake Oconee has luxury family resorts"
+      ],
+      "meta": {
+        "title": "Labor of Love Filming Location | Georgia Estate",
+        "description": "Visit the Labor of Love filming location in Georgia."
+      }
+    },
+    {
+      "id": "the-real-love-boat",
+      "name": "The Real Love Boat",
+      "network": "CBS",
+      "networkSlug": "cbs",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Love on the high seas",
+      "description": "Singles set sail on the Mediterranean, coupling up and competing in challenges while exploring romantic European ports. Inspired by the classic TV series.",
+      "longDescription": "The Real Love Boat combines dating competition with cruise travel. Singles sail the Mediterranean on a Princess Cruises ship, stopping at romantic ports in Italy, Croatia, and Greece. Couples compete in challenges, go on fantasy dates in stunning locations, and face dramatic eliminations. The show offers viewers vicarious Mediterranean romance and actual cruise experiences.",
+      "primaryLocation": "mediterranean-cruise",
+      "destinations": ["barcelona", "dubrovnik", "santorini", "rome", "monaco", "marseille"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What cruise line is featured?",
+          "answer": "The show partners with Princess Cruises, filming aboard the Regal Princess. Viewers can book similar Mediterranean itineraries to experience the same ports and onboard amenities."
+        },
+        {
+          "question": "What ports are visited?",
+          "answer": "The ship visits Barcelona (Spain), ports along the Italian coast, Dubrovnik (Croatia), Greek islands including Santorini, Monaco, and the French Riviera."
+        }
+      ],
+      "travelTips": [
+        "Princess Cruises offers Mediterranean itineraries similar to the show",
+        "Dubrovnik's Old Town is perfect for romantic walks",
+        "Santorini's sunset views rival any show moment",
+        "Barcelona's Gothic Quarter featured in date scenes"
+      ],
+      "meta": {
+        "title": "The Real Love Boat Destinations | Mediterranean Cruise Guide",
+        "description": "Cruise the Mediterranean ports featured on The Real Love Boat."
+      }
     }
   ]
 }
