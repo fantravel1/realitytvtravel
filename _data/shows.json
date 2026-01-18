@@ -1120,6 +1120,2292 @@
         "title": "Love Island All Stars Filming Location | South Africa Villa",
         "description": "Visit the Love Island All Stars villa location in South Africa's stunning Cape Town region."
       }
+    },
+    {
+      "id": "love-after-lockup",
+      "name": "Love After Lockup",
+      "network": "WE tv",
+      "networkSlug": "wetv",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Will their love survive on the outside?",
+      "description": "Follows couples who began their relationships while one partner was incarcerated, documenting the challenges they face when the imprisoned partner is released.",
+      "longDescription": "Love After Lockup explores the unique challenges of relationships that started behind bars. When inmates are released, couples must navigate the real world together for the first time—dealing with family disapproval, financial struggles, and the question of whether prison romance can survive freedom. The show has spawned multiple spin-offs including Life After Lockup.",
+      "primaryLocation": "various-us-cities",
+      "destinations": ["las-vegas", "los-angeles", "atlanta", "miami", "new-york", "texas"],
+      "bestSeasons": [2, 3],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Is Love After Lockup real?",
+          "answer": "Yes, the couples are real people who met while one partner was incarcerated. The show documents their genuine attempts to build relationships post-release, though some scenes may be produced for dramatic effect."
+        },
+        {
+          "question": "Where is Love After Lockup filmed?",
+          "answer": "Filming takes place across the United States, following couples in their hometowns. Featured cities include Las Vegas, Los Angeles, Atlanta, various Texas cities, and more."
+        }
+      ],
+      "travelTips": [
+        "Las Vegas wedding chapels are popular for couples rushing to marry",
+        "Atlanta features many reunion scenes and date spots",
+        "The show offers a unique look at diverse American cities"
+      ],
+      "meta": {
+        "title": "Love After Lockup Filming Locations | US Cities Guide",
+        "description": "Explore Love After Lockup filming locations across America."
+      }
+    },
+    {
+      "id": "marrying-millions",
+      "name": "Marrying Millions",
+      "network": "Lifetime",
+      "networkSlug": "lifetime",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "Love across the wealth divide",
+      "description": "Wealthy individuals date and consider marriage with partners from vastly different financial backgrounds. Will love conquer the class divide?",
+      "longDescription": "Marrying Millions explores relationships where extreme wealth gaps test the bonds of love. Multi-millionaires bring working-class or financially struggling partners into their lavish lifestyles, facing skepticism from family and friends who question motives. The show features stunning mansions, luxury cars, and the real emotional challenges of bridging different worlds.",
+      "primaryLocation": "various-luxury",
+      "destinations": ["dallas", "miami", "washington-dc", "san-diego", "denver"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "How rich are the millionaires on the show?",
+          "answer": "Featured millionaires range from self-made entrepreneurs to those with generational wealth. Net worths featured on the show have ranged from $5 million to over $40 million."
+        },
+        {
+          "question": "Where are the mansions featured?",
+          "answer": "The show has featured luxury homes in Dallas, Miami, the DC area, San Diego, and Denver. Many scenes showcase high-end restaurants, exclusive clubs, and vacation properties."
+        }
+      ],
+      "travelTips": [
+        "Dallas's Highland Park features many lavish estates",
+        "Miami's Star Island and Fisher Island are billionaire enclaves",
+        "San Diego's La Jolla offers similar coastal luxury",
+        "Fine dining restaurants from the show are publicly accessible"
+      ],
+      "meta": {
+        "title": "Marrying Millions Filming Locations | Luxury Mansions Guide",
+        "description": "Visit the luxury locations featured on Marrying Millions."
+      }
+    },
+    {
+      "id": "farmer-wants-a-wife",
+      "name": "Farmer Wants a Wife",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Finding love in the heartland",
+      "description": "Single farmers looking for love invite city women to their farms to experience rural life and potentially find a lifelong partner. A heartland romance.",
+      "longDescription": "Farmer Wants a Wife brings the international format to America, following eligible farmers as they search for love. City women leave their urban lives to experience farm living, learning to milk cows, drive tractors, and embrace rural traditions. The genuine connections and beautiful farmland settings have made it a hit for viewers seeking wholesome romance.",
+      "primaryLocation": "us-farmland",
+      "destinations": ["nebraska", "wisconsin", "oklahoma", "tennessee", "california-central-valley"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Farmer Wants a Wife filmed?",
+          "answer": "The show films on actual working farms across America's heartland, including Nebraska, Wisconsin, Oklahoma, and Tennessee. Each farmer's segment takes place at their real family farm."
+        },
+        {
+          "question": "Is Farmer Wants a Wife popular worldwide?",
+          "answer": "Yes! The format originated in the UK and has been hugely successful in Australia. The US version launched in 2023 and became Fox's most-watched unscripted series premiere in years."
+        }
+      ],
+      "travelTips": [
+        "Agritourism is booming - many farms offer visitor experiences",
+        "Nebraska's Sandhills offer stunning rural landscapes",
+        "Wisconsin's dairy country is picture-perfect",
+        "Farm stays and B&Bs let you experience rural life"
+      ],
+      "meta": {
+        "title": "Farmer Wants a Wife Locations | US Farm Guide",
+        "description": "Visit American farms like those featured on Farmer Wants a Wife."
+      }
+    },
+    {
+      "id": "love-island-australia",
+      "name": "Love Island Australia",
+      "network": "Nine Network",
+      "networkSlug": "nine",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Australia's hottest villa",
+      "description": "The Australian version of Love Island brings together Aussie singles in a stunning tropical villa for the summer of their lives. Sun, surf, and sizzling romance.",
+      "longDescription": "Love Island Australia captures the laid-back Aussie spirit while delivering all the drama fans expect. Singles 'couple up' in a tropical paradise villa, facing recouplings, bombshells, and public votes. The show has filmed in Spain and Fiji, showcasing beautiful international destinations while Australian personalities bring their unique energy.",
+      "primaryLocation": "villa-varies",
+      "destinations": ["mallorca-spain", "fiji", "byron-bay"],
+      "bestSeasons": [2, 4],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Love Island Australia filmed?",
+          "answer": "Love Island Australia has filmed in Mallorca, Spain (like the UK version) and in Fiji. The show uses purpose-built or renovated villa sets with pools, daybeds, and the iconic fire pit."
+        },
+        {
+          "question": "How does it differ from UK Love Island?",
+          "answer": "The Australian version has a more relaxed, fun vibe matching Aussie culture. It features Australian slang, beach culture references, and contestants known for their directness and humor."
+        }
+      ],
+      "travelTips": [
+        "Mallorca's Sant Llorenç area hosts many Love Island villas",
+        "Fiji's Mamanuca Islands offer similar paradise vibes",
+        "Byron Bay captures the Aussie beach culture perfectly",
+        "Spain's Balearic Islands are summer romance central"
+      ],
+      "meta": {
+        "title": "Love Island Australia Filming Locations | Villa Guide",
+        "description": "Visit Love Island Australia filming locations in Spain and Fiji."
+      }
+    },
+    {
+      "id": "love-is-blind-uk",
+      "name": "Love Is Blind: UK",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Can Brits find love sight unseen?",
+      "description": "The hit format comes to Britain as UK singles attempt to form emotional connections in the pods before seeing each other. Will love truly be blind?",
+      "longDescription": "Love Is Blind: UK brings the beloved format to Britain with a distinctly British sensibility. Singles from across the UK enter the pods hoping to find deep connections based purely on conversation. Engaged couples then retreat to a luxury UK location before returning to real life to plan their weddings. British humor, accents, and drama make this version uniquely entertaining.",
+      "primaryLocation": "uk-filming",
+      "destinations": ["london", "cotswolds", "lake-district", "manchester"],
+      "bestSeasons": [1],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind UK filmed?",
+          "answer": "The pods are set up in a purpose-built facility, while the couples' retreat takes place at a luxury UK destination. Real-life segments follow couples in cities like London and Manchester."
+        },
+        {
+          "question": "How is UK different from US?",
+          "answer": "The UK version features British humor, cultural references, and tends to be slightly less dramatic. Brits bring their signature wit and self-deprecation to the pod conversations."
+        }
+      ],
+      "travelTips": [
+        "The Cotswolds offers romantic countryside retreat vibes",
+        "London's diverse date scene features many show locations",
+        "The Lake District provides stunning wedding backdrop potential",
+        "Manchester's Northern Quarter has trendy date spots"
+      ],
+      "meta": {
+        "title": "Love Is Blind UK Filming Locations | Britain Guide",
+        "description": "Explore Love Is Blind UK filming locations across Britain."
+      }
+    },
+    {
+      "id": "my-mom-your-dad",
+      "name": "My Mom, Your Dad",
+      "network": "HBO Max",
+      "networkSlug": "hbomax",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Second chance at love, guided by kids",
+      "description": "Single parents get a second chance at love while their adult children secretly watch and influence from a nearby house. A wholesome twist on dating shows.",
+      "longDescription": "My Mom, Your Dad takes the dating show format and adds a heartwarming twist: adult children nominate their single parents for the show, then secretly observe and guide their romantic journeys from a house next door. The result is a surprisingly emotional series about finding love later in life, family dynamics, and letting go.",
+      "primaryLocation": "malibu-retreat",
+      "destinations": ["malibu", "los-angeles"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is My Mom, Your Dad filmed?",
+          "answer": "The show films at a beautiful retreat house in Malibu, California. The parents' house and the kids' surveillance house are both luxury properties with ocean views."
+        },
+        {
+          "question": "How old are the parents on the show?",
+          "answer": "Parents on the show are typically in their 40s to 50s, with adult children in their late teens to early 20s. The focus is on people seeking genuine second chances at love."
+        }
+      ],
+      "travelTips": [
+        "Malibu's beach houses can be rented for group retreats",
+        "The PCH (Pacific Coast Highway) offers stunning coastal drives",
+        "Malibu's restaurants and beaches are perfect for romantic dates",
+        "Visit during shoulder season for better rates and fewer crowds"
+      ],
+      "meta": {
+        "title": "My Mom Your Dad Filming Location | Malibu Retreat",
+        "description": "Visit the My Mom, Your Dad filming location in beautiful Malibu."
+      }
+    },
+    {
+      "id": "back-with-the-ex",
+      "name": "Back with the Ex",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2018,
+      "tagline": "Should they reunite or move on?",
+      "description": "Former couples reunite to explore whether their past relationships deserve a second chance. Australian singles confront old feelings and unresolved issues.",
+      "longDescription": "Back with the Ex follows four Australians who reconnect with significant exes to determine if they should give love another go. Through shared apartments, therapy sessions, and revisiting meaningful locations, couples work through the issues that broke them up. It's a more mature, emotionally complex take on dating television.",
+      "primaryLocation": "melbourne-australia",
+      "destinations": ["melbourne", "sydney", "gold-coast"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Back with the Ex filmed?",
+          "answer": "The show films primarily in Melbourne and Sydney, Australia. Couples visit locations meaningful to their past relationships and share apartments while working through their issues."
+        },
+        {
+          "question": "Do the couples actually get back together?",
+          "answer": "Some couples do reconcile while others decide to move on. The show provides a realistic look at whether second chances can work, not just manufactured happy endings."
+        }
+      ],
+      "travelTips": [
+        "Melbourne's laneways and coffee culture make perfect date spots",
+        "Sydney Harbour provides iconic romantic backdrops",
+        "The Great Ocean Road offers scenic couple's road trips",
+        "Australian wine regions are perfect for reconciliation retreats"
+      ],
+      "meta": {
+        "title": "Back with the Ex Filming Locations | Australia Guide",
+        "description": "Explore Back with the Ex filming locations across Australia."
+      }
+    },
+    {
+      "id": "cosmic-love",
+      "name": "Cosmic Love",
+      "network": "Prime Video",
+      "networkSlug": "prime",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Written in the stars",
+      "description": "Four singles let astrology guide their search for love as the Astro Chamber matches them with potential partners based on zodiac compatibility.",
+      "longDescription": "Cosmic Love takes the dating show format and adds celestial guidance. Four leads representing different elements (fire, earth, air, water) receive matches based on their birth charts. A mystical 'Astro Chamber' provides guidance through the process, and eliminations consider both emotional connections and astrological compatibility. Perfect for astrology enthusiasts.",
+      "primaryLocation": "desert-retreat",
+      "destinations": ["arizona-desert", "sedona", "joshua-tree"],
+      "bestSeasons": [1],
+      "viewerRating": 3.3,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Cosmic Love filmed?",
+          "answer": "Cosmic Love films at a stunning desert retreat in the American Southwest, with mystical desert landscapes that complement the show's celestial themes. The 'Astro Chamber' is a specially designed set."
+        },
+        {
+          "question": "Is the astrology real?",
+          "answer": "The show works with professional astrologers who analyze contestants' birth charts. While astrology is the framework, emotional compatibility still matters most for successful matches."
+        }
+      ],
+      "travelTips": [
+        "Sedona is known as a spiritual vortex destination",
+        "Joshua Tree's desert landscapes feel mystical at night",
+        "Arizona's desert resorts offer stargazing packages",
+        "Many Southwest spas incorporate astrology and crystal healing"
+      ],
+      "meta": {
+        "title": "Cosmic Love Filming Location | Desert Retreat Guide",
+        "description": "Visit the mystical desert filming location of Cosmic Love."
+      }
+    },
+    {
+      "id": "labor-of-love",
+      "name": "Labor of Love",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2020,
+      "tagline": "Looking for love and fatherhood",
+      "description": "A 41-year-old woman who wants to become a mother dates 15 men who are ready for fatherhood. Challenges test their parenting potential.",
+      "longDescription": "Labor of Love flipped the dating show script by focusing on a woman's timeline and desire for motherhood. Kristy Katzmann, a 41-year-old career woman, dates 15 men who all claim readiness for fatherhood. Challenges test their parenting skills—from diaper changing to assembling cribs—while emotional dates explore compatibility. It's reality TV for women who relate to biological clock pressures.",
+      "primaryLocation": "georgia-estate",
+      "destinations": ["atlanta", "georgia-countryside", "savannah"],
+      "bestSeasons": [1],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Labor of Love filmed?",
+          "answer": "Labor of Love films at a beautiful estate in Georgia, with additional filming in Atlanta. The Southern setting provides a warm backdrop for the family-focused premise."
+        },
+        {
+          "question": "What kind of challenges do the men face?",
+          "answer": "Challenges test parenting readiness: diaper changing races, crib assembly, interacting with children, discussing parenting philosophies, and handling family emergencies. It's Bachelor meets parenting boot camp."
+        }
+      ],
+      "travelTips": [
+        "Georgia's plantation estates are available for events",
+        "Atlanta's Virginia-Highland is perfect for family-friendly dates",
+        "Savannah offers romantic Southern charm",
+        "Georgia's Lake Oconee has luxury family resorts"
+      ],
+      "meta": {
+        "title": "Labor of Love Filming Location | Georgia Estate",
+        "description": "Visit the Labor of Love filming location in Georgia."
+      }
+    },
+    {
+      "id": "the-real-love-boat",
+      "name": "The Real Love Boat",
+      "network": "CBS",
+      "networkSlug": "cbs",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Love on the high seas",
+      "description": "Singles set sail on the Mediterranean, coupling up and competing in challenges while exploring romantic European ports. Inspired by the classic TV series.",
+      "longDescription": "The Real Love Boat combines dating competition with cruise travel. Singles sail the Mediterranean on a Princess Cruises ship, stopping at romantic ports in Italy, Croatia, and Greece. Couples compete in challenges, go on fantasy dates in stunning locations, and face dramatic eliminations. The show offers viewers vicarious Mediterranean romance and actual cruise experiences.",
+      "primaryLocation": "mediterranean-cruise",
+      "destinations": ["barcelona", "dubrovnik", "santorini", "rome", "monaco", "marseille"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What cruise line is featured?",
+          "answer": "The show partners with Princess Cruises, filming aboard the Regal Princess. Viewers can book similar Mediterranean itineraries to experience the same ports and onboard amenities."
+        },
+        {
+          "question": "What ports are visited?",
+          "answer": "The ship visits Barcelona (Spain), ports along the Italian coast, Dubrovnik (Croatia), Greek islands including Santorini, Monaco, and the French Riviera."
+        }
+      ],
+      "travelTips": [
+        "Princess Cruises offers Mediterranean itineraries similar to the show",
+        "Dubrovnik's Old Town is perfect for romantic walks",
+        "Santorini's sunset views rival any show moment",
+        "Barcelona's Gothic Quarter featured in date scenes"
+      ],
+      "meta": {
+        "title": "The Real Love Boat Destinations | Mediterranean Cruise Guide",
+        "description": "Cruise the Mediterranean ports featured on The Real Love Boat."
+      }
+    },
+    {
+      "id": "love-is-blind-habibi",
+      "name": "Love Is Blind: Habibi",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Middle Eastern love, unveiled",
+      "description": "The Love Is Blind format comes to the UAE and Arabic-speaking world, featuring singles from across the Middle East seeking connection in the pods.",
+      "longDescription": "Love Is Blind: Habibi (meaning 'my love' in Arabic) brings the pod experiment to the Middle East for the first time. Singles from the UAE, Lebanon, Egypt, and other Arab countries navigate cultural expectations, family involvement, and the unique dynamics of Arabic dating culture while seeking genuine emotional connections sight unseen.",
+      "primaryLocation": "dubai-uae",
+      "destinations": ["dubai", "abu-dhabi", "lebanon", "egypt"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Habibi filmed?",
+          "answer": "The show films primarily in Dubai and Abu Dhabi, UAE. The couples' retreat features stunning Arabian Gulf resort locations, and real-life segments follow couples across the Middle East."
+        },
+        {
+          "question": "What makes the Arabic version unique?",
+          "answer": "Habibi incorporates Middle Eastern cultural elements including family approval dynamics, traditional values, and the significance of marriage in Arab culture. It's groundbreaking for reality dating in the region."
+        }
+      ],
+      "travelTips": [
+        "Dubai's luxury resorts rival any Love Is Blind retreat",
+        "Abu Dhabi offers stunning cultural and beach experiences",
+        "Experience Arabian hospitality at traditional desert camps",
+        "The UAE is a year-round luxury destination"
+      ],
+      "meta": {
+        "title": "Love Is Blind Habibi Filming Locations | Dubai & UAE Guide",
+        "description": "Visit Love Is Blind Habibi filming locations in Dubai and the UAE."
+      }
+    },
+    {
+      "id": "love-is-blind-argentina",
+      "name": "Love Is Blind: Argentina",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Argentine passion in the pods",
+      "description": "Love Is Blind comes to Argentina with the emotional intensity and romantic flair that defines South American culture.",
+      "longDescription": "Love Is Blind: Argentina brings the format to Buenos Aires, where passionate Argentinians seek deep connections in the pods. Known for their emotional expressiveness and romantic culture, Argentine contestants bring intense energy to the experiment. The stunning Buenos Aires backdrop and tango culture add unique flavor.",
+      "primaryLocation": "buenos-aires",
+      "destinations": ["buenos-aires", "mendoza", "patagonia"],
+      "bestSeasons": [1],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Argentina filmed?",
+          "answer": "The show films in Buenos Aires, Argentina's cosmopolitan capital. The retreat takes place at luxury resorts in Argentine wine country or Patagonia. Couples explore the city's famous neighborhoods."
+        },
+        {
+          "question": "What's different about the Argentine version?",
+          "answer": "Argentine contestants are known for passionate emotional expression. The show features tango culture, incredible steak dinners, and the romantic atmosphere of Buenos Aires."
+        }
+      ],
+      "travelTips": [
+        "Buenos Aires' Palermo neighborhood is perfect for romantic walks",
+        "Mendoza wine country offers couples retreat experiences",
+        "Take a tango lesson like the contestants",
+        "San Telmo's Sunday market is a must-visit"
+      ],
+      "meta": {
+        "title": "Love Is Blind Argentina Filming Locations | Buenos Aires Guide",
+        "description": "Visit Love Is Blind Argentina filming locations in Buenos Aires."
+      }
+    },
+    {
+      "id": "love-is-blind-germany",
+      "name": "Love Is Blind: Germany",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "German efficiency meets love",
+      "description": "Love Is Blind Germany brings Teutonic directness to the pods as German singles seek meaningful connections with characteristic honesty.",
+      "longDescription": "Love Is Blind: Germany applies the format to German dating culture, known for directness and authenticity. German contestants bring refreshing honesty to pod conversations, cutting through small talk to address real compatibility questions. The show films in scenic German locations from modern cities to countryside retreats.",
+      "primaryLocation": "germany-various",
+      "destinations": ["berlin", "munich", "bavarian-alps", "cologne"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Germany filmed?",
+          "answer": "The show films across Germany, with pods in urban centers and couples' retreats in scenic Bavarian locations. Couples explore cities like Berlin, Munich, and Cologne."
+        },
+        {
+          "question": "How do German contestants approach the experiment?",
+          "answer": "German contestants tend to be direct and practical in their approach to relationships. Conversations in the pods are known for honesty and getting to important topics quickly."
+        }
+      ],
+      "travelTips": [
+        "Berlin's diverse neighborhoods offer endless date possibilities",
+        "Bavaria's castles provide romantic fairy-tale settings",
+        "Munich's beer gardens are perfect for casual dates",
+        "The Rhine Valley offers stunning couples' getaways"
+      ],
+      "meta": {
+        "title": "Love Is Blind Germany Filming Locations | Berlin & Bavaria Guide",
+        "description": "Visit Love Is Blind Germany filming locations across Deutschland."
+      }
+    },
+    {
+      "id": "mafs-australia",
+      "name": "Married at First Sight Australia",
+      "network": "Nine Network",
+      "networkSlug": "nine",
+      "seasons": 11,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Australia's biggest dating experiment",
+      "description": "The Australian version of MAFS has become a global phenomenon, known for explosive drama, stunning weddings, and the infamous dinner parties.",
+      "longDescription": "Married at First Sight Australia has evolved into one of the most-watched reality shows globally. Experts match strangers who meet for the first time at the altar, then navigate married life together. The show's dinner parties and commitment ceremonies have become legendary for dramatic confrontations. Australian contestants bring unique energy and the show features stunning venues across the country.",
+      "primaryLocation": "australia-various",
+      "destinations": ["sydney", "melbourne", "gold-coast", "hunter-valley", "byron-bay"],
+      "bestSeasons": [8, 9, 10],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {
+          "question": "Where are MAFS Australia weddings filmed?",
+          "answer": "Weddings take place at stunning venues across Australia including Hunter Valley wineries, Sydney harbor-view locations, Melbourne gardens, and Gold Coast beaches. Venues vary each season."
+        },
+        {
+          "question": "Where is the dinner party filmed?",
+          "answer": "The iconic dinner parties film at various Sydney restaurants and event spaces. The commitment ceremonies take place at a purpose-built set in Sydney."
+        },
+        {
+          "question": "Can you visit the wedding venues?",
+          "answer": "Many MAFS wedding venues are publicly bookable for your own events. Popular choices include Miramare Gardens, Marybrooke Manor, and various Hunter Valley wineries."
+        }
+      ],
+      "travelTips": [
+        "Hunter Valley is NSW's premier wine region with romantic stays",
+        "Sydney Harbour weddings offer the iconic views seen on the show",
+        "Gold Coast beaches are perfect for honeymoon-style getaways",
+        "Melbourne's gardens and laneways create romantic date settings"
+      ],
+      "meta": {
+        "title": "MAFS Australia Filming Locations | Wedding Venues Guide",
+        "description": "Visit Married at First Sight Australia wedding and dinner party locations."
+      }
+    },
+    {
+      "id": "love-island-games",
+      "name": "Love Island Games",
+      "network": "Peacock",
+      "networkSlug": "peacock",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "All-stars compete for love",
+      "description": "Love Island veterans from around the world compete in physical challenges while pursuing romance in this all-star spinoff.",
+      "longDescription": "Love Island Games brings together former islanders from Love Island USA, UK, Australia, and other international versions for a competition-focused spinoff. Contestants compete in physical challenges while coupling up, with eliminations based on both competition performance and romantic connections. The Fiji setting adds tropical paradise vibes.",
+      "primaryLocation": "fiji-games",
+      "destinations": ["fiji", "denarau-island", "mamanuca-islands"],
+      "bestSeasons": [1],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is Love Island Games filmed?",
+          "answer": "Love Island Games films in Fiji, using a villa setup similar to the main Love Island format but with added competition areas. The tropical setting provides the perfect backdrop for athletic challenges."
+        },
+        {
+          "question": "Who appears on Love Island Games?",
+          "answer": "The show features returning islanders from Love Island USA, UK, Australia, and other versions. It's a chance for fan favorites to find love again while competing."
+        }
+      ],
+      "travelTips": [
+        "Fiji's Mamanuca Islands offer the paradise setting seen on screen",
+        "Denarau Island has luxury resorts accessible to tourists",
+        "Experience Fijian culture and hospitality firsthand",
+        "Island hopping lets you explore multiple paradise locations"
+      ],
+      "meta": {
+        "title": "Love Island Games Filming Location | Fiji Villa Guide",
+        "description": "Visit the Love Island Games villa location in Fiji."
+      }
+    },
+    {
+      "id": "the-golden-bachelor",
+      "name": "The Golden Bachelor",
+      "network": "ABC",
+      "networkSlug": "abc",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Love has no expiration date",
+      "description": "The Bachelor franchise's first senior-focused spinoff follows a 70+ bachelor dating women in their golden years. Proof that love truly knows no age.",
+      "longDescription": "The Golden Bachelor brought heartwarming romance to the Bachelor franchise by centering seniors seeking love later in life. Gerry Turner, a 72-year-old widower, dated women in their 60s and 70s at familiar Bachelor locations. The show's genuine emotional moments and life wisdom resonated with viewers of all ages, proving the format works beautifully for any generation.",
+      "primaryLocation": "bachelor-mansion",
+      "destinations": ["bachelor-mansion", "costa-rica", "charleston"],
+      "bestSeasons": [1],
+      "viewerRating": 4.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is The Golden Bachelor filmed?",
+          "answer": "The Golden Bachelor uses the same iconic Bachelor Mansion (Villa de la Vina) in Agoura Hills, California. Travel dates have included Costa Rica and Charleston, South Carolina."
+        },
+        {
+          "question": "How old are the contestants?",
+          "answer": "Gerry Turner was 72, and the women ranged from their early 60s to early 70s. All contestants were widowed or divorced and genuinely seeking companionship."
+        }
+      ],
+      "travelTips": [
+        "The Bachelor Mansion is bookable on Airbnb for special events",
+        "Charleston's historic charm makes it perfect for romantic getaways",
+        "Costa Rica offers adventure and relaxation for any age",
+        "Wine country near the mansion is ideal for couples' trips"
+      ],
+      "meta": {
+        "title": "The Golden Bachelor Filming Locations | Mansion & Travel Dates",
+        "description": "Visit The Golden Bachelor filming locations and travel destinations."
+      }
+    },
+    {
+      "id": "couple-to-throuple",
+      "name": "Couple to Throuple",
+      "network": "Peacock",
+      "networkSlug": "peacock",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Two become three",
+      "description": "Couples explore opening their relationships by inviting a third person into their lives. A groundbreaking look at modern relationship dynamics.",
+      "longDescription": "Couple to Throuple follows committed couples who are curious about polyamory and ethical non-monogamy. Each couple meets potential thirds and explores whether expanding their relationship feels right. Set in a stunning tropical villa, the show provides a thoughtful look at non-traditional relationships while delivering all the drama of a dating competition.",
+      "primaryLocation": "tropical-villa",
+      "destinations": ["puerto-vallarta", "mexico"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is Couple to Throuple filmed?",
+          "answer": "The show films at a luxury villa in Puerto Vallarta, Mexico, providing a relaxed tropical setting for couples to explore expanding their relationships."
+        },
+        {
+          "question": "Is the show actually about polyamory?",
+          "answer": "Yes, the show seriously explores ethical non-monogamy and throuple dynamics. Some couples successfully form throuples while others realize it's not for them."
+        }
+      ],
+      "travelTips": [
+        "Puerto Vallarta is one of Mexico's most welcoming destinations",
+        "The LGBTQ+ friendly Zona Romántica neighborhood is perfect for all couples",
+        "Luxury villas are available for group rentals",
+        "Sayulita nearby offers a more bohemian beach vibe"
+      ],
+      "meta": {
+        "title": "Couple to Throuple Filming Location | Puerto Vallarta Villa",
+        "description": "Visit the Couple to Throuple villa in Puerto Vallarta."
+      }
+    },
+    {
+      "id": "beauty-and-the-geek",
+      "name": "Beauty and the Geek",
+      "network": "Various",
+      "networkSlug": "various",
+      "seasons": 10,
+      "status": "active",
+      "yearStarted": 2005,
+      "tagline": "Opposites attract",
+      "description": "Beautiful women and academically gifted but socially awkward men are paired up and challenge each other to step outside their comfort zones.",
+      "longDescription": "Beauty and the Geek pairs conventionally attractive women with intelligent but socially inexperienced men. Through challenges that push both partners out of their comfort zones, participants grow and often form genuine connections. The show has aired in multiple countries, with the Australian version currently thriving on Channel 10.",
+      "primaryLocation": "mansion-various",
+      "destinations": ["los-angeles", "sydney", "london"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Is Beauty and the Geek still on?",
+          "answer": "The Australian version continues to produce new seasons on Channel 10. The US version ran from 2005-2008 on The CW but has been rebooted internationally."
+        },
+        {
+          "question": "Where is the show filmed?",
+          "answer": "Various versions have filmed in mansions in Los Angeles, Sydney, and other locations. The Australian version uses a mansion in NSW."
+        }
+      ],
+      "travelTips": [
+        "LA mansions from the US version are in Beverly Hills area",
+        "Sydney's North Shore features many similar luxury properties",
+        "The show emphasizes personal growth over destinations",
+        "Consider visiting filming locations for the active Australian version"
+      ],
+      "meta": {
+        "title": "Beauty and the Geek Filming Locations | Mansion Guide",
+        "description": "Visit Beauty and the Geek mansion filming locations."
+      }
+    },
+    {
+      "id": "love-trip-paris",
+      "name": "Love Trip: Paris",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2023,
+      "tagline": "Finding love in the City of Lights",
+      "description": "Singles move to Paris for a summer of romance, living together while exploring the world's most romantic city and searching for love.",
+      "longDescription": "Love Trip: Paris sent American singles to live in the City of Lights for a summer of romance. Living together in a stunning Parisian apartment, contestants explored iconic landmarks, dined at romantic restaurants, and searched for love in the world's most romantic city. The show combined travelogue elements with dating competition.",
+      "primaryLocation": "paris",
+      "destinations": ["paris", "eiffel-tower", "montmartre", "versailles"],
+      "bestSeasons": [1],
+      "viewerRating": 3.3,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where in Paris does the show take place?",
+          "answer": "Contestants lived in a shared apartment in central Paris and went on dates to iconic locations including the Eiffel Tower, Montmartre, Luxembourg Gardens, and various romantic restaurants."
+        },
+        {
+          "question": "What made Love Trip Paris unique?",
+          "answer": "The show combined classic dating competition format with the experience of living abroad in Paris. It was as much about the Parisian adventure as finding love."
+        }
+      ],
+      "travelTips": [
+        "The Marais neighborhood offers charming apartments like on the show",
+        "Montmartre's Sacré-Cœur views are perfect for romantic moments",
+        "Seine river cruises provide iconic Paris date experiences",
+        "Versailles makes an incredible day trip for couples"
+      ],
+      "meta": {
+        "title": "Love Trip Paris Filming Locations | City of Lights Guide",
+        "description": "Visit the Parisian locations from Love Trip: Paris."
+      }
+    },
+    {
+      "id": "love-is-blind-mexico",
+      "name": "Love Is Blind: Mexico",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Mexican romance, blind faith",
+      "description": "Love Is Blind comes to Mexico with passionate telenovela energy, family dynamics, and stunning destinations across the country.",
+      "longDescription": "Love Is Blind: Mexico brings the pod experiment to Latin America's largest country. Mexican contestants bring the emotional intensity and family-focused values of Mexican culture to their search for love. The show features stunning retreats and real-life segments across Mexico City and resort destinations.",
+      "primaryLocation": "mexico-city",
+      "destinations": ["mexico-city", "los-cabos", "riviera-maya", "oaxaca"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Mexico filmed?",
+          "answer": "The show films pods and apartments in Mexico City, with the couples' retreat at a luxury resort. Real-life segments follow couples through CDMX's vibrant neighborhoods."
+        },
+        {
+          "question": "How does Mexican culture influence the show?",
+          "answer": "Family approval is even more central in Mexican culture. Expect intense family meetings, discussions of tradition, and the passionate communication style Mexicans are known for."
+        }
+      ],
+      "travelTips": [
+        "Mexico City's Roma and Condesa neighborhoods are perfect for dates",
+        "Los Cabos offers the luxury resort retreat experience",
+        "Oaxaca provides romantic cultural immersion",
+        "Street food tours are a must for foodie couples"
+      ],
+      "meta": {
+        "title": "Love Is Blind Mexico Filming Locations | CDMX Guide",
+        "description": "Visit Love Is Blind Mexico filming locations across Mexico."
+      }
+    },
+    {
+      "id": "bachelor-new-zealand",
+      "name": "The Bachelor New Zealand",
+      "network": "TVNZ",
+      "networkSlug": "tvnz",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2015,
+      "tagline": "Kiwi love story",
+      "description": "The Bachelor format set against New Zealand's stunning landscapes, from Auckland mansions to adventure dates across both islands.",
+      "longDescription": "The Bachelor New Zealand brought the format to Aotearoa, featuring a Kiwi bachelor dating local women against the backdrop of New Zealand's incredible scenery. Adventure dates include bungee jumping, glacier hiking, and Māori cultural experiences. The show ran for three seasons showcasing NZ's natural beauty.",
+      "primaryLocation": "new-zealand",
+      "destinations": ["auckland", "queenstown", "rotorua", "wellington"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What adventures are featured?",
+          "answer": "Dates include bungee jumping in Queenstown, geothermal pools in Rotorua, glacier walks, and Māori cultural experiences including hāngī feasts."
+        },
+        {
+          "question": "Where is the mansion located?",
+          "answer": "The Bachelor NZ mansion is located in Auckland, with travel dates to both North and South Islands throughout the season."
+        }
+      ],
+      "travelTips": [
+        "Queenstown is the adventure capital with bungee, skydiving, and jet boats",
+        "Rotorua offers geothermal romance with hot pools",
+        "The Coromandel Peninsula has stunning secluded beaches",
+        "Waiheke Island near Auckland is perfect for wine and romance"
+      ],
+      "meta": {
+        "title": "The Bachelor New Zealand Filming Locations | NZ Guide",
+        "description": "Visit The Bachelor New Zealand filming locations across Aotearoa."
+      }
+    },
+    {
+      "id": "love-island-germany",
+      "name": "Love Island Germany",
+      "network": "RTL II",
+      "networkSlug": "rtl",
+      "seasons": 7,
+      "status": "active",
+      "yearStarted": 2017,
+      "tagline": "Deutsche Liebe auf der Insel",
+      "description": "The German version of Love Island brings together singles in a Spanish villa for summer romance with distinctive German directness.",
+      "longDescription": "Love Island Germany has become one of the most successful versions of the format, running for seven seasons. German contestants bring their characteristic directness to villa romance, creating unique dynamics. The show films in Mallorca alongside other European versions, with German-language drama and coupling up.",
+      "primaryLocation": "mallorca-spain",
+      "destinations": ["mallorca", "tenerife", "ibiza"],
+      "bestSeasons": [4, 5, 6],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Love Island Germany filmed?",
+          "answer": "Like other European versions, Love Island Germany films in Mallorca, Spain. The villa location changes between seasons but remains on the Balearic Islands."
+        },
+        {
+          "question": "How is the German version different?",
+          "answer": "German contestants tend to be more direct in their communication. The show has a strong following in German-speaking countries and has run successfully for many seasons."
+        }
+      ],
+      "travelTips": [
+        "Mallorca's northeast coast has similar villa rentals",
+        "Beach clubs in Palma capture the Love Island vibe",
+        "Ibiza day trips offer party island experiences",
+        "Visit in summer for the full Mediterranean experience"
+      ],
+      "meta": {
+        "title": "Love Island Germany Filming Location | Mallorca Villa",
+        "description": "Visit the Love Island Germany villa in Mallorca, Spain."
+      }
+    },
+    {
+      "id": "12-dates-of-christmas",
+      "name": "12 Dates of Christmas",
+      "network": "HBO Max",
+      "networkSlug": "hbomax",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2020,
+      "tagline": "Holiday romance guaranteed",
+      "description": "Singles search for holiday love through 12 themed dates during the Christmas season, complete with festive activities and family meetings.",
+      "longDescription": "12 Dates of Christmas offers a holiday-themed dating experience where one lead goes on Christmas-themed dates with multiple suitors. From ice skating to gift exchanges to meeting families, the show captures the magic of holiday romance. It's become a cult favorite for those seeking festive dating content.",
+      "primaryLocation": "winter-lodge",
+      "destinations": ["lake-tahoe", "aspen", "vermont"],
+      "bestSeasons": [1],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is 12 Dates of Christmas filmed?",
+          "answer": "The show films at a cozy winter lodge setting, with Christmas-decorated locations perfect for holiday romance. Exact locations vary by season."
+        },
+        {
+          "question": "What kind of dates are featured?",
+          "answer": "Dates include ice skating, making gingerbread houses, ugly sweater parties, meeting families, and other Christmas-themed activities."
+        }
+      ],
+      "travelTips": [
+        "Lake Tahoe lodges offer similar winter romance vibes",
+        "Aspen provides luxurious holiday destination experiences",
+        "Vermont's small towns are perfect for cozy Christmas escapes",
+        "Book holiday season travel early for the best lodges"
+      ],
+      "meta": {
+        "title": "12 Dates of Christmas Filming Locations | Holiday Romance",
+        "description": "Visit 12 Dates of Christmas filming locations for your own holiday romance."
+      }
+    },
+    {
+      "id": "the-one-that-got-away",
+      "name": "The One That Got Away",
+      "network": "Prime Video",
+      "networkSlug": "prime",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Reunite with past loves",
+      "description": "Singles get a chance to reconnect with past loves as exes from different points in their lives arrive at a tropical retreat.",
+      "longDescription": "The One That Got Away brings back people from a lead's romantic past—from high school crushes to recent exes. Set in a tropical retreat, contestants must decide if an old flame deserves another chance or if they should move forward with new connections. The twist of revisiting past relationships creates unique emotional dynamics.",
+      "primaryLocation": "tropical-retreat",
+      "destinations": ["costa-rica", "manuel-antonio"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is The One That Got Away filmed?",
+          "answer": "The show films at a tropical retreat in Costa Rica, providing a paradise setting for reconnecting with past loves."
+        },
+        {
+          "question": "How does the format work?",
+          "answer": "Each episode, past connections from the lead's life arrive. They could be high school sweethearts, college flings, or recent exes. The lead decides who stays and who goes."
+        }
+      ],
+      "travelTips": [
+        "Costa Rica's Manuel Antonio has stunning beach resorts",
+        "The country offers adventure and relaxation combinations",
+        "Rainforest lodges provide romantic seclusion",
+        "Wildlife and beaches create memorable date settings"
+      ],
+      "meta": {
+        "title": "The One That Got Away Filming Location | Costa Rica",
+        "description": "Visit The One That Got Away retreat in Costa Rica."
+      }
+    },
+    {
+      "id": "dating-naked",
+      "name": "Dating Naked",
+      "network": "VH1",
+      "networkSlug": "vh1",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2014,
+      "tagline": "Nothing to hide",
+      "description": "Singles strip down—literally—on a tropical island for dates without the barrier of clothing, seeking authentic connections.",
+      "longDescription": "Dating Naked took reality dating to its most vulnerable level by having contestants date completely nude on a tropical island. The concept was that removing clothing removes pretense, allowing for more authentic connections. Strategic blurring kept things broadcast-appropriate while the show explored whether physical exposure leads to emotional openness.",
+      "primaryLocation": "tropical-island",
+      "destinations": ["panama", "boca-del-toro"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.0,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where was Dating Naked filmed?",
+          "answer": "The show filmed on a private island in Panama's Bocas del Toro region. The secluded tropical location provided privacy for the unique format."
+        },
+        {
+          "question": "Was it really completely naked?",
+          "answer": "Yes, contestants dated fully nude, though strategic camera angles and blurring were used for broadcast. The concept emphasized vulnerability and authenticity."
+        }
+      ],
+      "travelTips": [
+        "Bocas del Toro offers stunning Caribbean island experiences",
+        "Private island rentals are available for adventurous couples",
+        "Panama's San Blas Islands offer similar secluded paradise",
+        "Clothing-optional resorts exist for those inspired by the show"
+      ],
+      "meta": {
+        "title": "Dating Naked Filming Location | Panama Islands",
+        "description": "Visit the tropical island from Dating Naked in Panama."
+      }
+    },
+    {
+      "id": "the-ultimatum-south-africa",
+      "name": "The Ultimatum: South Africa",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Rainbow nation romance",
+      "description": "The Ultimatum format comes to South Africa, where couples at a crossroads test their relationships in one of the world's most diverse nations.",
+      "longDescription": "The Ultimatum: South Africa brings the relationship experiment to the Rainbow Nation. South African couples, representing the country's incredible diversity, face the same marry-or-move-on challenge. The show films in stunning South African locations and features the unique dynamics of navigating relationships in this culturally rich nation.",
+      "primaryLocation": "south-africa",
+      "destinations": ["johannesburg", "cape-town", "durban", "garden-route"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is The Ultimatum South Africa filmed?",
+          "answer": "The show films across South Africa, with trial marriages in apartments in major cities and retreats at stunning locations like the Garden Route or wine country."
+        },
+        {
+          "question": "What makes the South African version unique?",
+          "answer": "South Africa's incredible cultural diversity brings unique perspectives on relationships, family, and marriage traditions from different communities."
+        }
+      ],
+      "travelTips": [
+        "Cape Town's wine country offers romantic getaways",
+        "The Garden Route is perfect for couples' road trips",
+        "Johannesburg's Maboneng district has trendy date spots",
+        "Safari lodges provide once-in-a-lifetime romantic experiences"
+      ],
+      "meta": {
+        "title": "The Ultimatum South Africa Filming Locations | SA Guide",
+        "description": "Visit The Ultimatum South Africa filming locations."
+      }
+    },
+    {
+      "id": "love-island-south-africa",
+      "name": "Love Island South Africa",
+      "network": "M-Net",
+      "networkSlug": "mnet",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Lekker love in the villa",
+      "description": "Love Island comes to South Africa with local singles coupling up in a Cape Town villa, bringing unique South African energy to the format.",
+      "longDescription": "Love Island South Africa launches the beloved format with South African contestants. Set in a stunning Cape Town villa with Table Mountain views, the show features the warmth, humor, and directness South Africans are known for. It's a celebration of South African dating culture with all the recouplings and drama fans love.",
+      "primaryLocation": "cape-town-villa",
+      "destinations": ["cape-town", "camps-bay", "stellenbosch"],
+      "bestSeasons": [1],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is the Love Island SA villa?",
+          "answer": "The villa is located near Cape Town with stunning views of Table Mountain and the Atlantic Ocean. The location showcases South Africa's incredible natural beauty."
+        },
+        {
+          "question": "What's different about South African Love Island?",
+          "answer": "South African contestants bring a unique mix of cultures and languages. Expect warmth, directness, and the distinct South African sense of humor."
+        }
+      ],
+      "travelTips": [
+        "Camps Bay offers luxury similar to the villa setting",
+        "Cape Town's beaches are perfect for summer romance",
+        "Wine tasting in Stellenbosch makes a romantic day trip",
+        "Visit November-March for South African summer"
+      ],
+      "meta": {
+        "title": "Love Island South Africa Filming Location | Cape Town Villa",
+        "description": "Visit the Love Island South Africa villa near Cape Town."
+      }
+    },
+    {
+      "id": "bachelorette-australia",
+      "name": "The Bachelorette Australia",
+      "network": "Network 10",
+      "networkSlug": "ten",
+      "seasons": 8,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Aussie romance",
+      "description": "The Bachelorette Down Under features Australian women choosing from a mansion full of Aussie blokes, with dates across stunning Australian locations.",
+      "longDescription": "The Bachelorette Australia has become a beloved part of Australian TV, running for eight seasons. Australian Bachelorettes date local men, with adventure dates showcasing Australia's incredible landscapes—from Sydney Harbour to the Outback. The show captures the laid-back Aussie approach to romance with plenty of drama.",
+      "primaryLocation": "sydney-mansion",
+      "destinations": ["sydney", "great-barrier-reef", "uluru", "melbourne"],
+      "bestSeasons": [3, 4, 6],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is the Bachelorette Australia mansion?",
+          "answer": "The mansion is located in Sydney, NSW. Dates take contestants to stunning locations across Australia including the Great Barrier Reef, Uluru, and various state destinations."
+        },
+        {
+          "question": "What adventures are featured?",
+          "answer": "Dates include helicopter rides over the Harbour Bridge, Great Barrier Reef snorkeling, Outback adventures, and romantic dinners at iconic Australian venues."
+        }
+      ],
+      "travelTips": [
+        "Sydney Harbour offers the romance seen on screen",
+        "The Great Barrier Reef is a bucket-list couple experience",
+        "Melbourne's laneways provide intimate date settings",
+        "Australian wine regions are perfect for romantic escapes"
+      ],
+      "meta": {
+        "title": "The Bachelorette Australia Filming Locations | Aussie Guide",
+        "description": "Visit The Bachelorette Australia filming locations across the country."
+      }
+    },
+    {
+      "id": "love-is-blind-uk-s2",
+      "name": "Love Is Blind: UK Season 2",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2025,
+      "tagline": "Britain loves blindly, again",
+      "description": "The hit British version returns with more pod romances, dramatic reveals, and the British wit and charm fans loved in season one.",
+      "longDescription": "Following the success of the first season, Love Is Blind UK returns with a fresh batch of British singles looking for love in the pods. The second season promises more of the British humor, emotional depth, and stunning UK locations that made the first season a hit. Expect more countryside retreats and London dating drama.",
+      "primaryLocation": "uk-filming",
+      "destinations": ["london", "cotswolds", "scottish-highlands", "lake-district"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where does Season 2 film?",
+          "answer": "Season 2 continues to film in the UK, with pods in London, couples' retreats in the countryside, and real-life segments in various British cities."
+        },
+        {
+          "question": "What's new in Season 2?",
+          "answer": "Season 2 features new British singles while maintaining the format fans love. Expect stunning new retreat locations and the signature British charm."
+        }
+      ],
+      "travelTips": [
+        "The Scottish Highlands offer dramatic romantic getaways",
+        "Lake District's luxury hotels provide retreat-style stays",
+        "London's diverse neighborhoods are perfect for couple exploration",
+        "UK castle hotels offer fairy-tale romantic experiences"
+      ],
+      "meta": {
+        "title": "Love Is Blind UK Season 2 Filming Locations | Britain Guide",
+        "description": "Visit Love Is Blind UK Season 2 filming locations across Britain."
+      }
+    },
+    {
+      "id": "married-at-first-sight-us",
+      "name": "Married at First Sight",
+      "network": "Lifetime",
+      "networkSlug": "lifetime",
+      "seasons": 18,
+      "status": "active",
+      "yearStarted": 2014,
+      "tagline": "Saying 'I do' to a stranger",
+      "description": "Singles matched by experts marry when they meet for the first time at the altar, then spend eight weeks deciding whether to stay married or divorce.",
+      "longDescription": "Married at First Sight takes the ultimate leap of faith approach to love. Relationship experts match strangers based on compatibility tests, psychological profiles, and interviews. Couples legally marry at the altar upon first meeting, then navigate eight weeks of married life—moving in together, meeting families, and building a relationship—before Decision Day. The US version has filmed across major cities including Atlanta, Dallas, Houston, San Diego, Boston, Denver, and more.",
+      "primaryLocation": "atlanta",
+      "destinations": ["atlanta", "houston", "boston", "san-diego", "denver", "nashville", "chicago"],
+      "bestSeasons": [1, 9, 15],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {"question": "How does MAFS matching work?", "answer": "A panel of experts including a sociologist, psychologist, and sexologist review extensive applications, conduct interviews, and use compatibility algorithms to match couples."},
+        {"question": "Where does MAFS US film?", "answer": "Each season films in a different US city. Recent locations include Atlanta, Houston, Denver, Nashville, Chicago, and San Diego."},
+        {"question": "What's the success rate?", "answer": "About 25-30% of couples remain married, with some lasting over a decade. Fan favorites include Jamie and Doug Hehner from Season 1."}
+      ],
+      "travelTips": [
+        "Visit Atlanta's Ponce City Market for modern romance vibes",
+        "Houston's Museum District offers culture-filled date ideas",
+        "San Diego's Gaslamp Quarter is perfect for dinner dates",
+        "Nashville's honky-tonks provide unforgettable night outs"
+      ],
+      "meta": {
+        "title": "Married at First Sight US Filming Locations | Every City Guide",
+        "description": "Visit MAFS filming locations across America—from Atlanta to San Diego."
+      }
+    },
+    {
+      "id": "married-at-first-sight-uk",
+      "name": "Married at First Sight UK",
+      "network": "E4",
+      "networkSlug": "e4",
+      "seasons": 9,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "British nuptials at first glance",
+      "description": "The British version where relationship experts match strangers who commit to marrying upon meeting, featuring UK ceremonies and honeymoon destinations.",
+      "longDescription": "Married at First Sight UK brought the franchise format to Britain with its own cultural flair. British singles are matched and commit to marriage at first sight, with elaborate UK ceremonies followed by honeymoons in stunning destinations. The couples then navigate married life in UK cities while working through compatibility challenges. The show has become a massive hit in Britain, with dramatic commitment ceremonies and viewer-favorite couples.",
+      "primaryLocation": "london",
+      "destinations": ["london", "cotswolds", "lake-district", "maldives", "mauritius", "greece"],
+      "bestSeasons": [7, 8, 9],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Are MAFS UK marriages legal?", "answer": "Unlike the US version, UK marriages on the show are commitment ceremonies rather than legal marriages, due to UK marriage laws."},
+        {"question": "Where do UK couples honeymoon?", "answer": "Honeymoon destinations have included the Maldives, Mauritius, Greece, Switzerland, and stunning UK countryside locations."}
+      ],
+      "travelTips": [
+        "London's Mayfair offers the luxury wedding vibes from the show",
+        "The Cotswolds provide charming countryside romance",
+        "Mauritius resorts offer MAFS-style honeymoon experiences",
+        "Lake District retreats capture the British romantic aesthetic"
+      ],
+      "meta": {
+        "title": "Married at First Sight UK Locations | Britain Guide",
+        "description": "Explore MAFS UK filming locations from London to the Cotswolds."
+      }
+    },
+    {
+      "id": "perfect-match",
+      "name": "Perfect Match",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Netflix's ultimate dating crossover",
+      "description": "Fan-favorite singles from across Netflix dating shows compete to find their perfect match in a luxurious Panama villa.",
+      "longDescription": "Perfect Match is Netflix's ambitious crossover bringing together beloved contestants from Love Is Blind, The Circle, Too Hot to Handle, The Ultimatum, and more. Set in a stunning Panama villa, singles compete in challenges and couple up, with the power couple controlling which new singles enter. It's a who's who of Netflix dating royalty, with familiar faces forming unexpected connections.",
+      "primaryLocation": "panama-villa",
+      "destinations": ["panama-villa", "panama-city"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {"question": "Who appears on Perfect Match?", "answer": "Cast members from Love Is Blind, Too Hot to Handle, The Circle, The Ultimatum, Selling Tampa, and other Netflix reality shows."},
+        {"question": "Where is Perfect Match filmed?", "answer": "The show films at a luxury villa in Panama, offering stunning tropical scenery and a romantic setting for the competition."}
+      ],
+      "travelTips": [
+        "Panama's Bocas del Toro offers similar villa experiences",
+        "Panama City's Casco Viejo has romantic colonial charm",
+        "The San Blas Islands provide secluded beach romance",
+        "Boquete's mountain setting is perfect for adventure couples"
+      ],
+      "meta": {
+        "title": "Perfect Match Netflix Filming Location | Panama Villa Guide",
+        "description": "Visit the Perfect Match filming location in Panama."
+      }
+    },
+    {
+      "id": "the-ultimatum-queer-love",
+      "name": "The Ultimatum: Queer Love",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Love without limits",
+      "description": "Queer couples issue ultimatums—get engaged or break up—then date others in the house to test their connections.",
+      "longDescription": "The Ultimatum: Queer Love brings the franchise format to LGBTQ+ couples, featuring women and non-binary individuals navigating the same emotional journey. Set in Minneapolis/St. Paul and Los Angeles, couples at a crossroads must date others to determine if their original partner is truly the one. The show has been praised for its inclusive representation and genuine emotional storytelling.",
+      "primaryLocation": "minneapolis",
+      "destinations": ["minneapolis", "los-angeles", "palm-springs"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.3,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {"question": "Where is Ultimatum Queer Love filmed?", "answer": "Season 1 filmed in Minneapolis/St. Paul, Minnesota, while Season 2 moved to Los Angeles and Palm Springs, California."},
+        {"question": "What makes it different from the original?", "answer": "Beyond inclusive casting, the show explores unique dynamics of queer relationships while maintaining the high-stakes ultimatum format."}
+      ],
+      "travelTips": [
+        "Minneapolis's North Loop has trendy date spots",
+        "Palm Springs offers LGBTQ+-friendly luxury resorts",
+        "West Hollywood is the heart of LA's queer community",
+        "Minnesota's lakes provide romantic summer escapes"
+      ],
+      "meta": {
+        "title": "The Ultimatum Queer Love Filming Locations | LGBTQ+ Guide",
+        "description": "Visit The Ultimatum: Queer Love filming locations."
+      }
+    },
+    {
+      "id": "love-island-usa",
+      "name": "Love Island USA",
+      "network": "Peacock",
+      "networkSlug": "peacock",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "America's summer of love",
+      "description": "American singles live in a stunning Fiji villa, coupling up and competing for love and a cash prize.",
+      "longDescription": "Love Island USA brings the British phenomenon stateside with its own American flavor. Singles live together in a stunning Fiji villa, coupling up through public votes and dramatic recouplings. The show features bombshells entering to shake things up, Casa Amor temptations, and the constant pressure of public opinion. Recent seasons hosted by Sarah Hyland have reinvigorated the franchise, making it Peacock's biggest reality hit.",
+      "primaryLocation": "fiji-villa",
+      "destinations": ["fiji-villa", "fiji-denarau", "fiji-mamanuca"],
+      "bestSeasons": [4, 5, 6],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where is the Love Island USA villa?", "answer": "Seasons 5-6 film at a stunning custom-built villa in Fiji. Earlier seasons filmed in Las Vegas and a CBS studio."},
+        {"question": "When does Love Island USA air?", "answer": "New episodes typically drop daily on Peacock during summer, with the season running 6-8 weeks."}
+      ],
+      "travelTips": [
+        "Fiji's Denarau Island has luxury resorts with villa vibes",
+        "The Mamanuca Islands offer secluded romantic escapes",
+        "Book a traditional Fijian bure for authentic island living",
+        "Fiji honeymoon packages capture the show's romantic essence"
+      ],
+      "meta": {
+        "title": "Love Island USA Filming Location | Fiji Villa Guide",
+        "description": "Visit the Love Island USA villa in beautiful Fiji."
+      }
+    },
+    {
+      "id": "temptation-island",
+      "name": "Temptation Island",
+      "network": "USA Network",
+      "networkSlug": "usa",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "The ultimate relationship test",
+      "description": "Couples at a crossroads separate to live with attractive singles on a tropical island, testing whether their relationship can survive temptation.",
+      "longDescription": "Temptation Island is reality TV's most provocative relationship experiment. Four couples at a crossroads in their relationships separate and live on opposite ends of a tropical island with attractive single men and women. As they form connections with the singles through dates and bonfire reveals, couples must decide if they're truly meant to be. The revival has filmed in stunning locations including Maui, Hawaii.",
+      "primaryLocation": "maui-hawaii",
+      "destinations": ["maui-hawaii", "hawaii-big-island", "kauai"],
+      "bestSeasons": [1, 3, 5],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is Temptation Island filmed?", "answer": "The revival has filmed primarily in Maui, Hawaii, at luxury resorts that provide separate villas for the men and women."},
+        {"question": "Do couples actually break up?", "answer": "Yes, many couples leave separately. However, some have strengthened their relationships through the experience."}
+      ],
+      "travelTips": [
+        "Maui's Wailea resorts offer the luxury villa experience",
+        "Book separate couples' massages for bonfire-style reveals",
+        "Sunset cruises capture the show's romantic tension",
+        "The Road to Hana is Hawaii's most romantic drive"
+      ],
+      "meta": {
+        "title": "Temptation Island Filming Location | Maui Hawaii Guide",
+        "description": "Visit the Temptation Island resort in beautiful Maui."
+      }
+    },
+    {
+      "id": "fboy-island",
+      "name": "FBoy Island",
+      "network": "Max",
+      "networkSlug": "max",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2021,
+      "tagline": "Nice guys vs. self-proclaimed FBoys",
+      "description": "Three women choose between nice guys and self-proclaimed FBoys on a tropical island, with the twist revealed at the final selection.",
+      "longDescription": "FBoy Island flips dating show conventions with its clever premise. Three women date a group of men, half of whom are self-proclaimed 'Nice Guys' and half 'FBoys.' The women don't know who's who, and the final twist reveals all—if an FBoy is chosen and stays, he splits the prize, but if he reverts to his ways, the woman gets everything. Hosted by Nikki Glaser, the show combines comedy with genuine dating drama.",
+      "primaryLocation": "cabo-san-lucas",
+      "destinations": ["cabo-san-lucas", "cayman-islands", "belize"],
+      "bestSeasons": [1, 2, 3],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where does FBoy Island film?", "answer": "The show has filmed in the Cayman Islands and Cabo San Lucas, Mexico, at stunning beachfront resorts."},
+        {"question": "What's the twist?", "answer": "Men are secretly categorized as Nice Guys or FBoys. If an FBoy wins and chooses to split, he gets half the prize; if he keeps it all, the woman gets everything."}
+      ],
+      "travelTips": [
+        "Cabo's luxury resorts match the show's glamorous setting",
+        "The Cayman Islands offer crystal-clear waters for dates",
+        "Both locations have amazing nightlife for group outings",
+        "Book a villa with friends for the full FBoy experience"
+      ],
+      "meta": {
+        "title": "FBoy Island Filming Location | Cabo & Cayman Guide",
+        "description": "Visit FBoy Island filming locations in paradise."
+      }
+    },
+    {
+      "id": "ex-on-the-beach",
+      "name": "Ex on the Beach",
+      "network": "MTV",
+      "networkSlug": "mtv",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Your ex just walked in",
+      "description": "Singles looking for love on a beach vacation are shocked when their exes arrive to confront unfinished business.",
+      "longDescription": "Ex on the Beach takes the classic beach vacation format and adds maximum drama by surprising contestants with their exes. Just when singles think they're finding new love, the iconic Tablet of Terror announces an ex's arrival, forcing confrontations and revelations. The US version films at stunning beach locations, combining MTV's signature drama with genuine emotional moments.",
+      "primaryLocation": "malibu-beach",
+      "destinations": ["malibu-beach", "hawaii-big-island", "gran-canaria"],
+      "bestSeasons": [1, 3, 5],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where does Ex on the Beach film?", "answer": "The US version has filmed in Malibu, Hawaii, and international locations. The original UK version films in various tropical destinations."},
+        {"question": "Do exes have to participate?", "answer": "Exes are recruited and briefed separately, creating genuine surprise for the main cast when they arrive."}
+      ],
+      "travelTips": [
+        "Malibu beach houses offer the show's luxurious setting",
+        "Hawaii's Kona Coast has similar dramatic scenery",
+        "Gran Canaria's beaches match the international versions",
+        "Book a beachfront villa for your own drama-free vacation"
+      ],
+      "meta": {
+        "title": "Ex on the Beach Filming Locations | Beach House Guide",
+        "description": "Visit Ex on the Beach filming locations worldwide."
+      }
+    },
+    {
+      "id": "are-you-the-one",
+      "name": "Are You The One?",
+      "network": "MTV",
+      "networkSlug": "mtv",
+      "seasons": 9,
+      "status": "active",
+      "yearStarted": 2014,
+      "tagline": "Find your perfect match or lose it all",
+      "description": "Singles use matchmaking algorithms and dates to identify their perfect matches, with a cash prize if all couples pair correctly.",
+      "longDescription": "Are You The One? combines dating with puzzle-solving as singles try to identify their algorithmically-determined perfect matches. Living together in a tropical house, contestants go on dates and enter the Truth Booth to confirm matches. If all couples correctly pair up by the finale, they split a cash prize. The show has evolved to include sexually fluid seasons, breaking new ground in reality dating representation.",
+      "primaryLocation": "dominican-republic",
+      "destinations": ["dominican-republic", "new-orleans", "hawaii-big-island"],
+      "bestSeasons": [3, 5, 8],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "How does the matching work?", "answer": "Before filming, contestants complete extensive compatibility testing. Producers use algorithms to create perfect matches, which contestants must figure out."},
+        {"question": "Has anyone won the full prize?", "answer": "Several seasons have achieved perfect matches, winning the full prize money. It requires strategy, communication, and luck."}
+      ],
+      "travelTips": [
+        "The Dominican Republic's Punta Cana has show-style resorts",
+        "New Orleans adds unique culture to the dating experience",
+        "Casa de Campo offers luxury Dominican villa living",
+        "Hawaii provides similar tropical romantic settings"
+      ],
+      "meta": {
+        "title": "Are You The One Filming Locations | Perfect Match Guide",
+        "description": "Visit Are You The One filming locations."
+      }
+    },
+    {
+      "id": "indian-matchmaking",
+      "name": "Indian Matchmaking",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2020,
+      "tagline": "Traditional meets modern love",
+      "description": "Elite matchmaker Sima Taparia helps singles in India and the US find love through arranged marriage traditions.",
+      "longDescription": "Indian Matchmaking introduces global audiences to the world of traditional arranged marriages with a modern twist. Mumbai-based matchmaker Sima Taparia, known as Sima Aunty to fans, works with singles in India and across the United States, balancing family expectations with personal desires. The show explores cultural traditions, family dynamics, and the universal search for love, filming in stunning locations across India and America.",
+      "primaryLocation": "mumbai",
+      "destinations": ["mumbai", "delhi", "houston", "chicago", "los-angeles", "rajasthan"],
+      "bestSeasons": [1, 2, 3],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Is Sima Aunty a real matchmaker?", "answer": "Yes! Sima Taparia is a real elite matchmaker based in Mumbai who has been practicing for over 15 years. She comes from a family of matchmakers."},
+        {"question": "Where does the show film?", "answer": "Filming takes place across India (Mumbai, Delhi, Rajasthan) and US cities with large Indian communities (Houston, Chicago, Los Angeles)."}
+      ],
+      "travelTips": [
+        "Mumbai's luxury hotels match the show's upscale aesthetic",
+        "Rajasthan's palaces provide romantic Indian backdrops",
+        "Delhi's wedding venues are stunning for events",
+        "Houston and Chicago have vibrant Indian communities"
+      ],
+      "meta": {
+        "title": "Indian Matchmaking Filming Locations | India & US Guide",
+        "description": "Visit Indian Matchmaking filming locations with Sima Aunty."
+      }
+    },
+    {
+      "id": "jewish-matchmaking",
+      "name": "Jewish Matchmaking",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Finding your bashert",
+      "description": "Renowned matchmaker Aleeza Ben Shalom helps Jewish singles across the US and Israel find their soulmate.",
+      "longDescription": "Jewish Matchmaking follows in the footsteps of Indian Matchmaking, bringing the ancient tradition of Jewish matchmaking (shidduchim) to modern audiences. Professional matchmaker Aleeza Ben Shalom works with singles across the spectrum of Jewish observance, from Orthodox to secular, helping them navigate dating while honoring their heritage. The show films in cities with vibrant Jewish communities and in Israel.",
+      "primaryLocation": "new-york-city",
+      "destinations": ["new-york-city", "miami", "los-angeles", "tel-aviv", "jerusalem"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 40,
+      "faqs": [
+        {"question": "What is a shidduch?", "answer": "Shidduch is the Hebrew word for a matchmaking arrangement, traditionally involving family and community members helping singles find suitable partners."},
+        {"question": "Where does Jewish Matchmaking film?", "answer": "The show films in US cities with large Jewish populations (NYC, Miami, LA) and in Israel (Tel Aviv, Jerusalem)."}
+      ],
+      "travelTips": [
+        "NYC's Upper West Side has the show's Orthodox community vibe",
+        "Miami Beach's Jewish heritage is perfect for exploring",
+        "Tel Aviv combines ancient history with modern dating",
+        "Jerusalem's Old City provides spiritual romance"
+      ],
+      "meta": {
+        "title": "Jewish Matchmaking Filming Locations | NYC to Israel Guide",
+        "description": "Visit Jewish Matchmaking filming locations."
+      }
+    },
+    {
+      "id": "ready-to-love",
+      "name": "Ready to Love",
+      "network": "OWN",
+      "networkSlug": "own",
+      "seasons": 9,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Mature love, real connections",
+      "description": "Successful Black professionals over 30 seek meaningful relationships in this dating series focused on mature love.",
+      "longDescription": "Ready to Love fills a gap in reality dating by focusing on successful Black professionals looking for lasting love. Unlike shows focused on 20-somethings, these contestants have established careers, clear goals, and real relationship experience. The show films in cities with vibrant Black communities, showcasing the culture, food, and dating scenes of each location. Host Thomas Miles (Nephew Tommy) guides conversations about love, commitment, and compatibility.",
+      "primaryLocation": "atlanta",
+      "destinations": ["atlanta", "houston", "dallas", "miami", "washington-dc", "los-angeles"],
+      "bestSeasons": [3, 5, 7],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "What age are Ready to Love contestants?", "answer": "Contestants are typically 30-50 years old, with established careers and clear relationship goals."},
+        {"question": "Where does Ready to Love film?", "answer": "Each season films in a different US city, including Atlanta, Houston, Dallas, Miami, and Washington DC."}
+      ],
+      "travelTips": [
+        "Atlanta's Buckhead offers the show's upscale dating scene",
+        "Houston's Third Ward showcases Black culture and history",
+        "DC's U Street corridor is perfect for date nights",
+        "Miami's historic Overtown has cultural significance"
+      ],
+      "meta": {
+        "title": "Ready to Love Filming Locations | City Guide",
+        "description": "Visit Ready to Love filming locations across America."
+      }
+    },
+    {
+      "id": "love-after-lockup",
+      "name": "Love After Lockup",
+      "network": "WE tv",
+      "networkSlug": "wetv",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Love has no bars",
+      "description": "Couples who began relationships while one partner was incarcerated navigate life together after release.",
+      "longDescription": "Love After Lockup follows the unconventional love stories of couples who met and fell in love while one partner was in prison. The show documents the emotional reunions at prison gates and the challenges of building a life together—from meeting families to managing parole requirements. Filming takes place across America wherever couples live, offering a raw look at second chances in love and life.",
+      "primaryLocation": "various-us",
+      "destinations": ["las-vegas", "california", "florida", "georgia", "texas"],
+      "bestSeasons": [1, 2, 4],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Are the relationships real?", "answer": "Yes, couples genuinely met through prison pen-pal programs, dating apps for incarcerated individuals, or through mutual connections."},
+        {"question": "What happens after the show?", "answer": "Couples appear in spin-offs Life After Lockup and Love During Lockup. Relationship outcomes vary dramatically."}
+      ],
+      "travelTips": [
+        "Las Vegas weddings are popular for show reunions",
+        "Many couples settle in California or Florida",
+        "The show covers small-town America authentically",
+        "Follow couples' journeys across diverse US locations"
+      ],
+      "meta": {
+        "title": "Love After Lockup Filming Locations | Couples Guide",
+        "description": "Follow Love After Lockup couples across America."
+      }
+    },
+    {
+      "id": "90-day-fiance-other-way",
+      "name": "90 Day Fiancé: The Other Way",
+      "network": "TLC",
+      "networkSlug": "tlc",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2019,
+      "tagline": "Americans abroad for love",
+      "description": "Americans move to their partner's home country for love, navigating cultural differences and immigration challenges.",
+      "longDescription": "The Other Way flips the 90 Day Fiancé formula—instead of foreigners coming to America, Americans leave everything behind to move abroad for love. This spin-off showcases the challenges of adapting to new cultures, languages, and family dynamics in countries from Ethiopia to Turkey to South Korea. It's an intimate look at Americans stepping outside their comfort zone for international romance.",
+      "primaryLocation": "various-international",
+      "destinations": ["ethiopia", "india", "turkey", "colombia", "south-korea", "tunisia", "bali"],
+      "bestSeasons": [1, 2, 4],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {"question": "Which countries are featured?", "answer": "Americans have moved to Ethiopia, India, Turkey, Colombia, South Korea, Tunisia, Indonesia, Russia, and many more countries for love."},
+        {"question": "Is it harder than regular 90 Day?", "answer": "Moving abroad presents unique challenges—language barriers, cultural expectations, and being far from family support systems."}
+      ],
+      "travelTips": [
+        "Ethiopia's ancient sites make romantic backdrops",
+        "India's diverse regions offer varied experiences",
+        "Turkey combines history with Mediterranean beauty",
+        "South Korea's modern cities have romantic charm"
+      ],
+      "meta": {
+        "title": "90 Day Fiancé The Other Way Locations | Global Guide",
+        "description": "Visit 90 Day Fiancé: The Other Way destinations worldwide."
+      }
+    },
+    {
+      "id": "love-off-the-grid",
+      "name": "Love Off the Grid",
+      "network": "Discovery+",
+      "networkSlug": "discovery",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2022,
+      "tagline": "Unplugged romance",
+      "description": "City dwellers give up modern conveniences to live off-grid with partners who've chosen alternative lifestyles.",
+      "longDescription": "Love Off the Grid follows couples where one partner lives completely off the grid—no electricity, running water, or modern amenities—and the other must decide if love is worth leaving civilization behind. From remote Alaska homesteads to desert compounds, the show explores whether urban singles can adapt to rugged, self-sufficient living for love.",
+      "primaryLocation": "various-remote",
+      "destinations": ["alaska", "new-mexico-desert", "appalachian-mountains", "montana", "pacific-northwest"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Are these people actually off-grid?", "answer": "Yes, featured homesteaders truly live without modern utilities, growing food, collecting water, and generating their own power."},
+        {"question": "What locations are featured?", "answer": "Remote locations across America including Alaska, New Mexico desert, Appalachian hollows, and Pacific Northwest wilderness."}
+      ],
+      "travelTips": [
+        "Alaska's interior offers true wilderness experiences",
+        "New Mexico has affordable off-grid communities",
+        "Appalachian glamping captures some of the show's vibe",
+        "Montana's ranches offer rustic romantic getaways"
+      ],
+      "meta": {
+        "title": "Love Off the Grid Filming Locations | Wilderness Guide",
+        "description": "Explore Love Off the Grid locations across wild America."
+      }
+    },
+    {
+      "id": "dating-around",
+      "name": "Dating Around",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2019,
+      "tagline": "One single, five first dates",
+      "description": "One single goes on five first dates at the same restaurant, choosing one person for a second date.",
+      "longDescription": "Dating Around strips away dating show gimmicks for an intimate look at real first date chemistry. Each episode follows one single going on five blind dates at the same New York or New Orleans restaurant, with viewers watching conversations unfold naturally. The show earned praise for its diverse casting, including LGBTQ+ singles, and its authentic portrayal of modern dating's awkward, sweet, and surprising moments.",
+      "primaryLocation": "new-york-city",
+      "destinations": ["new-york-city", "new-orleans"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 30,
+      "faqs": [
+        {"question": "Where do the dates take place?", "answer": "Season 1 filmed at restaurants and bars in New York City. Season 2 moved to New Orleans for its unique dating scene."},
+        {"question": "Is it scripted?", "answer": "No, conversations are unscripted and unedited within each date scene, capturing genuine first-date dynamics."}
+      ],
+      "travelTips": [
+        "NYC's East Village has intimate date-night spots like the show",
+        "New Orleans' French Quarter is perfect for romantic dinners",
+        "Book a corner booth for Dating Around-style intimacy",
+        "Both cities have vibrant LGBTQ+ dating scenes"
+      ],
+      "meta": {
+        "title": "Dating Around Filming Locations | NYC & New Orleans",
+        "description": "Visit Dating Around restaurants in New York and New Orleans."
+      }
+    },
+    {
+      "id": "the-courtship",
+      "name": "The Courtship",
+      "network": "NBC/USA",
+      "networkSlug": "nbc",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Regency-era romance",
+      "description": "A modern woman seeks love through Regency-era courtship rituals at a British castle.",
+      "longDescription": "The Courtship transports dating to the Regency era, with suitors in period costumes pursuing a leading lady at a stunning British castle. Inspired by Bridgerton, the show replaces texting with handwritten letters and nightclubs with formal balls. Set at Castle Howard in Yorkshire, the show offers fairy-tale romance with archery lessons, horse-drawn carriages, and elaborate ballroom scenes.",
+      "primaryLocation": "castle-howard",
+      "destinations": ["castle-howard", "yorkshire", "london"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is The Courtship filmed?", "answer": "Castle Howard in Yorkshire, England—one of Britain's grandest stately homes, also famous as a Bridgerton filming location."},
+        {"question": "Do they stay in character?", "answer": "Suitors wear Regency costumes and follow period-appropriate courtship rules, though modern conversations happen behind closed doors."}
+      ],
+      "travelTips": [
+        "Castle Howard offers tours and is a must-visit for Bridgerton fans",
+        "Yorkshire's countryside is perfect for romantic escapes",
+        "Stay in a castle hotel for your own Regency experience",
+        "Bath's Georgian architecture matches the show's aesthetic"
+      ],
+      "meta": {
+        "title": "The Courtship Castle Howard | Regency Romance Guide",
+        "description": "Visit The Courtship filming location at Castle Howard."
+      }
+    },
+    {
+      "id": "joe-millionaire",
+      "name": "Joe Millionaire: For Richer or Poorer",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "One's rich, one's not",
+      "description": "Two Joes—one wealthy, one working-class—compete for women's hearts without revealing their financial status.",
+      "longDescription": "The Joe Millionaire revival adds a clever twist to the original's premise. Two bachelors live together in a mansion with female contestants: one is actually a millionaire, the other is not. Women don't know which is which, forcing them to focus on genuine connections. Filmed at a stunning chateau, the show asks whether love or money ultimately wins.",
+      "primaryLocation": "california-chateau",
+      "destinations": ["california-chateau", "los-angeles"],
+      "bestSeasons": [1],
+      "viewerRating": 3.3,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where does Joe Millionaire film?", "answer": "The show films at a beautiful chateau property in California, providing the luxurious backdrop for the romance competition."},
+        {"question": "What's the twist?", "answer": "One Joe is truly wealthy, the other earns a modest salary. Women must choose without knowing, and the reveal happens at the finale."}
+      ],
+      "travelTips": [
+        "California wine country has similar chateau-style estates",
+        "Napa Valley offers millionaire-worthy experiences",
+        "Santa Ynez Valley provides romantic vineyard escapes",
+        "Book a castle-style inn for the Joe Millionaire experience"
+      ],
+      "meta": {
+        "title": "Joe Millionaire Filming Location | California Chateau",
+        "description": "Visit the Joe Millionaire chateau in California."
+      }
+    },
+    {
+      "id": "back-in-the-groove",
+      "name": "Back in the Groove",
+      "network": "Hulu",
+      "networkSlug": "hulu",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Cougars in paradise",
+      "description": "Single women in their 40s date younger men in their 20s at a Dominican Republic resort.",
+      "longDescription": "Back in the Groove flips the age dynamic, sending single women over 40 to the Dominican Republic's Groove Hotel to date men half their age. The show celebrates confident women exploring connections with younger men, featuring comedy host Taye Diggs. Set at a stunning beachfront resort, it's a fun, empowering take on age-gap dating.",
+      "primaryLocation": "dominican-republic",
+      "destinations": ["dominican-republic", "punta-cana"],
+      "bestSeasons": [1],
+      "viewerRating": 3.2,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where is the Groove Hotel?", "answer": "The show films at a resort property in the Dominican Republic, rebranded as 'The Groove Hotel' for the series."},
+        {"question": "What's the age range?", "answer": "Women are typically in their 40s, while men are in their 20s, creating significant but celebrated age gaps."}
+      ],
+      "travelTips": [
+        "Punta Cana's all-inclusive resorts offer similar vibes",
+        "Casa de Campo is the DR's most luxurious resort",
+        "Adult-only resorts provide sophisticated romance",
+        "Dominican beaches are perfect for any-age vacation"
+      ],
+      "meta": {
+        "title": "Back in the Groove Resort | Dominican Republic",
+        "description": "Visit the Back in the Groove filming location."
+      }
+    },
+    {
+      "id": "singles-inferno",
+      "name": "Single's Inferno",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 3,
+      "status": "active",
+      "yearStarted": 2021,
+      "tagline": "Korean dating on an island",
+      "description": "Korean singles compete for dates on a remote island, with successful couples escaping to a luxurious 'Paradise' hotel.",
+      "longDescription": "Single's Inferno has become a global K-drama phenomenon, introducing international audiences to Korean dating culture. Singles live on a rustic island called 'Inferno,' vying for each other's attention and the chance to escape to the luxurious 'Paradise' hotel for overnight dates. The show features stunning Korean celebrities and has launched major influencer careers. Filmed on a private island and at high-end Seoul hotels.",
+      "primaryLocation": "south-korea-island",
+      "destinations": ["seoul", "south-korea-island", "jeju-island"],
+      "bestSeasons": [1, 2, 3],
+      "viewerRating": 4.4,
+      "avgEpisodeLength": 70,
+      "faqs": [
+        {"question": "Where is Single's Inferno filmed?", "answer": "The 'Inferno' island scenes are filmed on a remote Korean island, while 'Paradise' is typically a luxury hotel in Seoul or nearby."},
+        {"question": "What makes it different from Western shows?", "answer": "The show emphasizes Korean dating culture—subtle gestures, indirect communication, and romantic tension—rather than dramatic confrontations."}
+      ],
+      "travelTips": [
+        "Seoul's Gangnam district has the glamorous Paradise vibes",
+        "Korean beach resorts offer island-style romance",
+        "Jeju Island provides the show's natural beauty",
+        "Experience Korean BBQ dates like the couples"
+      ],
+      "meta": {
+        "title": "Single's Inferno Filming Locations | Korea Guide",
+        "description": "Visit Single's Inferno filming locations in South Korea."
+      }
+    },
+    {
+      "id": "love-island-australia",
+      "name": "Love Island Australia",
+      "network": "9Go!/9Now",
+      "networkSlug": "nine",
+      "seasons": 5,
+      "status": "active",
+      "yearStarted": 2018,
+      "tagline": "Aussie summer of love",
+      "description": "Australian singles couple up in a stunning Spanish villa, competing for love and a cash prize Down Under style.",
+      "longDescription": "Love Island Australia brings the British format to Australian audiences with its characteristic laid-back charm and humor. Filmed in Spain and Fiji, the show follows Australian singles as they couple up, face Casa Amor temptations, and navigate public votes. The Australian version has gained international recognition for its entertaining cast and dramatic moments.",
+      "primaryLocation": "spain-villa",
+      "destinations": ["mallorca-spain", "fiji-villa"],
+      "bestSeasons": [2, 4, 5],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where is Love Island Australia filmed?", "answer": "The show has filmed in Spain (Mallorca) and Fiji, using stunning villa properties for the main house."},
+        {"question": "What's different about Aussie Love Island?", "answer": "The Australian cast brings their signature humor, slang, and relaxed attitude to the format, making it distinctly Down Under."}
+      ],
+      "travelTips": [
+        "Mallorca's luxury villas match the show's setting",
+        "Fiji offers the tropical paradise from recent seasons",
+        "Australian slang is half the fun—learn some!",
+        "Visit during Australian summer (December-February)"
+      ],
+      "meta": {
+        "title": "Love Island Australia Filming Locations | Villa Guide",
+        "description": "Visit Love Island Australia filming locations."
+      }
+    },
+    {
+      "id": "married-at-first-sight-australia",
+      "name": "Married at First Sight Australia",
+      "network": "Nine",
+      "networkSlug": "nine",
+      "seasons": 11,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Australia's ultimate marriage experiment",
+      "description": "Australian strangers marry at first sight, living together for weeks before dramatic commitment ceremonies.",
+      "longDescription": "MAFS Australia has become a global phenomenon, outshining even its American counterpart in international popularity. The show matches strangers who marry legally upon meeting, then navigate married life through dinner parties, commitment ceremonies, and relationship challenges. Filmed across Sydney and various Australian honeymoon destinations, the show delivers maximum drama with an Australian twist.",
+      "primaryLocation": "sydney",
+      "destinations": ["sydney", "melbourne", "hunter-valley-australia", "great-barrier-reef", "whitsundays"],
+      "bestSeasons": [6, 8, 9, 10],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {"question": "Are MAFS Australia marriages legal?", "answer": "Yes, unlike the UK version, Australian MAFS couples legally marry, though most obtain divorces after the show."},
+        {"question": "Where do couples honeymoon?", "answer": "Honeymoons take place across Australia—Hunter Valley wine country, the Whitsundays, Byron Bay, and tropical Queensland resorts."}
+      ],
+      "travelTips": [
+        "Sydney's dinner party restaurants are real and bookable",
+        "Hunter Valley wine tours capture the honeymoon romance",
+        "The Whitsundays offer the island escape experience",
+        "Watch while visiting Australia for maximum immersion"
+      ],
+      "meta": {
+        "title": "Married at First Sight Australia Locations | Complete Guide",
+        "description": "Visit MAFS Australia filming locations across the country."
+      }
+    },
+    {
+      "id": "first-dates-uk",
+      "name": "First Dates UK",
+      "network": "Channel 4",
+      "networkSlug": "channel4",
+      "seasons": 20,
+      "status": "active",
+      "yearStarted": 2013,
+      "tagline": "Real first dates, real nerves",
+      "description": "Singles go on blind first dates at the iconic First Dates restaurant in London, served by the beloved maître d' Fred Sirieix.",
+      "longDescription": "First Dates has become a British institution, documenting the awkward, sweet, and sometimes heartbreaking moments of real first dates. Hosted by the charming Fred Sirieix, the show films at a purpose-built restaurant where singles meet their matches. The format has spawned international versions and spin-offs including First Dates Hotel, capturing universal truths about love and connection.",
+      "primaryLocation": "london-restaurant",
+      "destinations": ["london", "manchester"],
+      "bestSeasons": [5, 10, 15],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is the First Dates restaurant?", "answer": "The restaurant is a purpose-built set at a London filming studio. While not a real restaurant, the experience replicates an authentic dining setting."},
+        {"question": "Can you eat at the First Dates restaurant?", "answer": "The actual filming location isn't open to the public, but Fred Sirieix runs real restaurants in London that capture the show's warm atmosphere."}
+      ],
+      "travelTips": [
+        "London's Paternoster Chop House was used for some filming",
+        "Fred Sirieix's Galvin at Windows offers similar fine dining",
+        "London's Soho has endless first date restaurant options",
+        "Visit London's romantic spots featured in follow-up dates"
+      ],
+      "meta": {
+        "title": "First Dates UK Restaurant | London Filming Location",
+        "description": "Visit First Dates UK filming locations in London."
+      }
+    },
+    {
+      "id": "first-dates-hotel",
+      "name": "First Dates Hotel",
+      "network": "Channel 4",
+      "networkSlug": "channel4",
+      "seasons": 6,
+      "status": "active",
+      "yearStarted": 2017,
+      "tagline": "First dates in paradise",
+      "description": "The First Dates format moves to a stunning Italian hotel where singles can extend their dates into romantic holidays.",
+      "longDescription": "First Dates Hotel takes the beloved British dating format to a gorgeous Italian resort, where first dates can evolve into multi-day romantic adventures. Fred Sirieix and his team welcome singles to the sun-drenched property, where successful couples can choose to spend more time together exploring the beautiful surroundings. It's First Dates with holiday romance potential.",
+      "primaryLocation": "italy-hotel",
+      "destinations": ["amalfi-coast", "southern-italy", "rome"],
+      "bestSeasons": [2, 4, 5],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is First Dates Hotel filmed?", "answer": "The show has filmed at luxury hotels in Southern Italy, typically in Campania near the Amalfi Coast or in Puglia."},
+        {"question": "Can you stay at the hotel?", "answer": "The hotels used are real properties that accept bookings outside of filming periods."}
+      ],
+      "travelTips": [
+        "Southern Italy's boutique hotels capture the show's magic",
+        "The Amalfi Coast is perfect for follow-up dates",
+        "Italian hospitality matches the show's warmth",
+        "Visit in shoulder season for romance without crowds"
+      ],
+      "meta": {
+        "title": "First Dates Hotel Italy | Filming Location Guide",
+        "description": "Visit First Dates Hotel filming locations in Italy."
+      }
+    },
+    {
+      "id": "celebs-go-dating",
+      "name": "Celebs Go Dating",
+      "network": "E4",
+      "networkSlug": "e4",
+      "seasons": 13,
+      "status": "active",
+      "yearStarted": 2016,
+      "tagline": "Famous faces find love",
+      "description": "British celebrities seek love through a dating agency, going on dates with members of the public.",
+      "longDescription": "Celebs Go Dating follows famous faces as they visit the Celebrity Dating Agency in London, receiving expert advice before dating regular people. The show combines celebrity culture with relatable dating struggles, proving that fame doesn't make finding love any easier. Past celebrities have included reality TV stars, musicians, and soap actors looking for genuine connections.",
+      "primaryLocation": "london",
+      "destinations": ["london", "ibiza", "marbella"],
+      "bestSeasons": [5, 8, 10],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is the dating agency?", "answer": "The Celebrity Dating Agency is a set in London. Dates take place at real restaurants, bars, and activities across London and beyond."},
+        {"question": "Who are the dating experts?", "answer": "Relationship experts Paul Carrick Brunson and Anna Williamson guide celebrities through their dating journeys."}
+      ],
+      "travelTips": [
+        "London's fancy restaurants are frequent date spots",
+        "The finale often films in Ibiza or Marbella",
+        "Follow celebrities' date locations for inspiration",
+        "British dating culture emphasizes pub first dates"
+      ],
+      "meta": {
+        "title": "Celebs Go Dating Locations | London & Beyond",
+        "description": "Visit Celebs Go Dating filming locations."
+      }
+    },
+    {
+      "id": "heart-signal",
+      "name": "Heart Signal",
+      "network": "Channel A",
+      "networkSlug": "channela",
+      "seasons": 4,
+      "status": "active",
+      "yearStarted": 2017,
+      "tagline": "Korean house of love",
+      "description": "Korean singles live together in Signal House, with celebrity panels predicting their romantic connections.",
+      "longDescription": "Heart Signal pioneered the modern Korean dating show format, placing attractive singles in a shared house and letting celebrity panelists analyze their every interaction. The show emphasizes subtle signals—eye contact, sitting arrangements, gift-giving—that indicate romantic interest. It's become a template for many Asian dating shows and introduced international audiences to Korean romance culture.",
+      "primaryLocation": "seoul",
+      "destinations": ["seoul", "south-korea-countryside"],
+      "bestSeasons": [1, 2, 3],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 70,
+      "faqs": [
+        {"question": "Where is Signal House?", "answer": "The house is typically a luxury residence in Seoul or the nearby countryside, chosen for its romantic atmosphere."},
+        {"question": "What are 'signals'?", "answer": "Signals are subtle romantic gestures—sitting next to someone, cooking for them, or making eye contact—that panelists analyze to predict couples."}
+      ],
+      "travelTips": [
+        "Seoul's Hannam-dong has the show's upscale vibes",
+        "Korean countryside pensions offer Signal House experiences",
+        "Experience Korean dating culture firsthand",
+        "Try the date spots featured in the show"
+      ],
+      "meta": {
+        "title": "Heart Signal Korea Filming Locations | Seoul Guide",
+        "description": "Visit Heart Signal filming locations in South Korea."
+      }
+    },
+    {
+      "id": "love-transit",
+      "name": "Love Transit",
+      "network": "Amazon Prime",
+      "networkSlug": "prime",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Bus ride to love",
+      "description": "Japanese and Korean singles travel by bus through beautiful destinations while seeking romantic connections.",
+      "longDescription": "Love Transit combines travel documentary with dating show, following singles as they journey by bus through scenic locations. The slow pace of bus travel creates intimate moments for connection, while gorgeous destinations provide romantic backdrops. The show bridges Japanese and Korean entertainment cultures, appealing to fans of both K-drama and J-drama romance styles.",
+      "primaryLocation": "japan",
+      "destinations": ["kyoto", "hokkaido", "okinawa", "south-korea"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {"question": "Where does Love Transit travel?", "answer": "The bus travels through picturesque Japanese destinations including Kyoto, Hokkaido, and various scenic rural areas."},
+        {"question": "What's the format?", "answer": "Singles travel together on a bus, stopping at romantic locations and forming connections through shared travel experiences."}
+      ],
+      "travelTips": [
+        "Japan's scenic bus routes are bookable experiences",
+        "Kyoto offers the show's traditional romance",
+        "Hokkaido's nature provides stunning backdrops",
+        "Try a similar romantic bus tour in Japan"
+      ],
+      "meta": {
+        "title": "Love Transit Japan Filming Locations | Travel Guide",
+        "description": "Visit Love Transit filming locations across Japan."
+      }
+    },
+    {
+      "id": "ainori-love-wagon",
+      "name": "Ainori: Love Wagon",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 4,
+      "status": "ended",
+      "yearStarted": 2017,
+      "tagline": "Pink bus to romance",
+      "description": "Japanese singles travel the world in a pink van, confessing their feelings before being forced to leave together or apart.",
+      "longDescription": "Ainori: Love Wagon is a Japanese dating institution that began in 1999 and was revived on Netflix in 2017. Seven strangers travel in a pink bus through exotic destinations, forming connections along the way. When someone wants to confess their love, they must do so publicly—if accepted, both leave together; if rejected, the confessor must leave alone. The format creates intense emotional moments amid stunning international locations.",
+      "primaryLocation": "various-international",
+      "destinations": ["vietnam", "india", "croatia", "morocco", "hawaii"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {"question": "Where does Ainori travel?", "answer": "The pink bus has traveled through Vietnam, India, Croatia, Morocco, South America, and many other international destinations."},
+        {"question": "What makes it unique?", "answer": "The confession system creates high stakes—confess your feelings, and risk leaving alone if rejected, or staying silent and missing your chance."}
+      ],
+      "travelTips": [
+        "Follow the Ainori route through Vietnam's coast",
+        "Morocco's cities feature in dramatic confessions",
+        "Croatia's Dubrovnik provides romantic backdrops",
+        "Plan your own pink bus adventure through the destinations"
+      ],
+      "meta": {
+        "title": "Ainori Love Wagon Destinations | World Travel Guide",
+        "description": "Visit Ainori: Love Wagon filming locations worldwide."
+      }
+    },
+    {
+      "id": "terrace-house",
+      "name": "Terrace House",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 6,
+      "status": "ended",
+      "yearStarted": 2012,
+      "tagline": "No script, all feelings",
+      "description": "Six Japanese strangers—three men, three women—live together in a beautiful house with no script and minimal intervention.",
+      "longDescription": "Terrace House revolutionized reality TV with its gentle, unscripted approach to observing young people living together. Without the manufactured drama of Western shows, Terrace House lets genuine connections develop naturally in stunning locations from Tokyo to Hawaii to Karuizawa. The show became an international sensation for its meditative pace, beautiful houses, and authentic romantic moments.",
+      "primaryLocation": "tokyo",
+      "destinations": ["tokyo", "karuizawa", "hawaii", "kyoto"],
+      "bestSeasons": ["tokyo-boys-girls-city", "aloha-state", "opening-new-doors"],
+      "viewerRating": 4.5,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where are the Terrace Houses?", "answer": "Houses have been located in Tokyo's suburbs, Karuizawa mountain resort, Hawaii (Waikiki and North Shore), and Kyoto area."},
+        {"question": "Is Terrace House scripted?", "answer": "No, the show is famously unscripted. Housemates live naturally, and romantic connections develop organically over weeks or months."}
+      ],
+      "travelTips": [
+        "Karuizawa's mountain resort captures Opening New Doors magic",
+        "Hawaii's North Shore has Aloha State vibes",
+        "Tokyo's trendy neighborhoods mirror the show's aesthetic",
+        "Visit the actual cafes and restaurants featured"
+      ],
+      "meta": {
+        "title": "Terrace House Locations | Japan & Hawaii Guide",
+        "description": "Visit Terrace House filming locations across Japan and Hawaii."
+      }
+    },
+    {
+      "id": "paradise-hotel",
+      "name": "Paradise Hotel",
+      "network": "Fox",
+      "networkSlug": "fox",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2003,
+      "tagline": "Check in. Hook up. Check out.",
+      "description": "Singles check into a tropical resort hotel, pairing up or facing elimination in this classic dating competition.",
+      "longDescription": "Paradise Hotel was an early pioneer of the tropical dating competition format. Singles check into a beautiful resort, coupling up each week—with those without partners facing elimination. The show emphasized strategic alliances alongside romantic connections, creating drama-filled seasons in stunning resort settings. Revived multiple times, it remains a guilty pleasure classic.",
+      "primaryLocation": "mexico-resort",
+      "destinations": ["mexico-resort", "fiji-resort"],
+      "bestSeasons": [1, 3],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is Paradise Hotel filmed?", "answer": "The show has filmed at various luxury resorts in Mexico and, in later seasons, Fiji."},
+        {"question": "What's the format?", "answer": "Singles must couple up weekly; those without partners face elimination. New guests check in to shake things up."}
+      ],
+      "travelTips": [
+        "Mexican all-inclusive resorts offer the Paradise experience",
+        "Fiji's luxury resorts match later seasons' settings",
+        "Book a couples' suite for the full hotel romance vibe",
+        "Pool parties are essential to the experience"
+      ],
+      "meta": {
+        "title": "Paradise Hotel Resort | Mexico & Fiji Locations",
+        "description": "Visit Paradise Hotel filming resort locations."
+      }
+    },
+    {
+      "id": "sexy-beasts",
+      "name": "Sexy Beasts",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2021,
+      "tagline": "Love beyond looks",
+      "description": "Singles date in elaborate prosthetic makeup, judging connections without seeing each other's real faces.",
+      "longDescription": "Sexy Beasts takes blind dating to the extreme by disguising contestants in Hollywood-quality prosthetic makeup. Looking like demons, dolphins, mice, and monsters, singles must form connections based purely on personality and conversation. The big reveal at the end shows whether chemistry survives seeing reality. It's a wild, visually striking take on the age-old question: can you fall in love without physical attraction?",
+      "primaryLocation": "uk-studio",
+      "destinations": ["london", "uk-countryside"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.2,
+      "avgEpisodeLength": 30,
+      "faqs": [
+        {"question": "Where is Sexy Beasts filmed?", "answer": "The show films in the UK, with dates taking place at various London locations and countryside estates."},
+        {"question": "How long does the makeup take?", "answer": "The prosthetic makeup can take 3-5 hours to apply, with contestants staying in character throughout filming."}
+      ],
+      "travelTips": [
+        "London's quirky date spots match the show's vibe",
+        "UK countryside estates provide romantic backdrops",
+        "Experience London's immersive theater scene for similar fantasy",
+        "The makeup artists work in UK film studios"
+      ],
+      "meta": {
+        "title": "Sexy Beasts Filming Locations | UK Guide",
+        "description": "Visit Sexy Beasts filming locations in the UK."
+      }
+    },
+    {
+      "id": "dating-no-filter",
+      "name": "Dating: No Filter",
+      "network": "E4",
+      "networkSlug": "e4",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2019,
+      "tagline": "Blind dates, brutal commentary",
+      "description": "Real blind dates are observed and hilariously commented on by celebrity pairs in this British dating comedy.",
+      "longDescription": "Dating: No Filter follows real blind dates while comedians and celebrities provide running commentary from a viewing room. The format combines genuine dating moments with laugh-out-loud observations, making viewers feel like they're watching with their funniest friends. Dates take place at restaurants and activities across the UK, with celebrity duos adding their unfiltered reactions.",
+      "primaryLocation": "london",
+      "destinations": ["london", "manchester", "birmingham"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where do the dates happen?", "answer": "Dates take place at real restaurants, bars, and activity venues across UK cities including London, Manchester, and Birmingham."},
+        {"question": "Do daters know they're being watched?", "answer": "Yes, daters know they're being filmed and that celebrities will comment, but they don't know what's being said."}
+      ],
+      "travelTips": [
+        "London's date spots from the show are bookable",
+        "Manchester's Northern Quarter has great first-date venues",
+        "Try quirky date activities featured on the show",
+        "British pub culture is central to the dating experience"
+      ],
+      "meta": {
+        "title": "Dating No Filter UK Locations | Date Spots Guide",
+        "description": "Visit Dating: No Filter filming locations."
+      }
+    },
+    {
+      "id": "the-circle",
+      "name": "The Circle",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 7,
+      "status": "active",
+      "yearStarted": 2020,
+      "tagline": "Social media dating game",
+      "description": "Players live in separate apartments, communicating only through a social media platform while forming strategic and romantic connections.",
+      "longDescription": "The Circle isolates contestants in individual apartments where they can only communicate through a custom social media platform. Players can be themselves or create catfish personas as they compete for popularity and prize money. While not purely a dating show, romantic connections often form through text conversations, exploring whether authentic connections can develop online. The show has spawned international versions.",
+      "primaryLocation": "uk-apartments",
+      "destinations": ["manchester", "london"],
+      "bestSeasons": [2, 4, 5],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {"question": "Where is The Circle filmed?", "answer": "The US version films at a purpose-built apartment complex in the UK (Manchester). International versions film in their respective countries."},
+        {"question": "Can players meet?", "answer": "Players can only meet when one is 'blocked' from the game. Finalists meet at the end. Some romantic connections develop despite only texting."}
+      ],
+      "travelTips": [
+        "Manchester's Salford Quays has Circle filming vibes",
+        "Experience UK apartment living like the contestants",
+        "London's social media scene mirrors the show's themes",
+        "Try a digital detox opposite to the Circle experience"
+      ],
+      "meta": {
+        "title": "The Circle Filming Location | Manchester Apartments",
+        "description": "Visit The Circle filming location in Manchester."
+      }
+    },
+    {
+      "id": "my-siblings-romance",
+      "name": "My Sibling's Romance",
+      "network": "JTBC",
+      "networkSlug": "jtbc",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2023,
+      "tagline": "Siblings watch siblings date",
+      "description": "Korean singles date while their siblings observe and comment, adding family dynamics to the dating experience.",
+      "longDescription": "My Sibling's Romance puts a unique twist on dating shows by having contestants' siblings watch and react to their romantic adventures. Set in a beautiful Korean location, singles form connections while knowing their brothers and sisters are analyzing every move. The format explores family bonds, sibling dynamics, and how we appear to those who know us best.",
+      "primaryLocation": "south-korea",
+      "destinations": ["seoul", "gangwon-province", "jeju-island"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 90,
+      "faqs": [
+        {"question": "Where is the show filmed?", "answer": "The show films at a beautiful house in Korea, with dates taking place at romantic spots around the country."},
+        {"question": "What role do siblings play?", "answer": "Siblings watch dates from a separate room, providing commentary and advice. They also meet potential partners."}
+      ],
+      "travelTips": [
+        "Korean countryside resorts match the show's setting",
+        "Seoul's date spots are featured regularly",
+        "Gangwon Province offers the show's natural beauty",
+        "Experience Korean family-style dining like contestants"
+      ],
+      "meta": {
+        "title": "My Sibling's Romance Locations | Korea Guide",
+        "description": "Visit My Sibling's Romance filming locations."
+      }
+    },
+    {
+      "id": "love-is-blind-sweden",
+      "name": "Love Is Blind: Sweden",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Swedish love in the pods",
+      "description": "Swedish singles find love in the pods before meeting face-to-face, bringing Scandinavian style to the franchise.",
+      "longDescription": "Love Is Blind: Sweden brings the global phenomenon to Scandinavia, featuring Swedish singles navigating the pod experience with characteristic Nordic directness and dry humor. Set against Sweden's stunning landscapes, the show follows couples from engagement through their Stockholm lives. Swedish design aesthetic and cultural values create a distinct version of the format.",
+      "primaryLocation": "stockholm",
+      "destinations": ["stockholm", "swedish-countryside", "gothenburg"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {"question": "Where does LIB Sweden film?", "answer": "Pods are in a Stockholm studio, with couples' retreats in the Swedish countryside. Real-life segments film across Swedish cities."},
+        {"question": "What's different about Swedish LIB?", "answer": "Swedish dating culture emphasizes equality and directness. Expect honest conversations and the unique Scandinavian approach to relationships."}
+      ],
+      "travelTips": [
+        "Stockholm's Södermalm has the young professional vibes",
+        "Swedish countryside retreats are bookable experiences",
+        "Experience fika (coffee culture) like Swedish couples",
+        "Summer in Sweden offers midnight sun romance"
+      ],
+      "meta": {
+        "title": "Love Is Blind Sweden Filming Locations | Stockholm Guide",
+        "description": "Visit Love Is Blind: Sweden filming locations."
+      }
+    },
+    {
+      "id": "love-triangle",
+      "name": "Love Triangle",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Choose between the seen and unseen",
+      "description": "A single person dates two contestants—one they can see, one they can only hear—before making their final choice.",
+      "longDescription": "Love Triangle combines elements of The Bachelor with Love Is Blind's pod concept. A single person simultaneously dates two potential partners: one they interact with face-to-face in traditional dates, and one they know only through conversation behind a screen. At the end, they must choose between the person they've seen and the one they've only heard, testing whether physical attraction or emotional connection wins.",
+      "primaryLocation": "london",
+      "destinations": ["london", "cotswolds", "uk-countryside"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {"question": "Where is Love Triangle filmed?", "answer": "The show films in the UK, with dates in London and romantic countryside locations like the Cotswolds."},
+        {"question": "How does the format work?", "answer": "Singles date one person conventionally and another sight-unseen. They must choose between physical chemistry and conversational connection."}
+      ],
+      "travelTips": [
+        "London's romantic restaurants are featured date spots",
+        "The Cotswolds provide the countryside escape backdrop",
+        "UK manor houses capture the show's elegant setting",
+        "Try a blind date in London for the full experience"
+      ],
+      "meta": {
+        "title": "Love Triangle UK Filming Locations | London Guide",
+        "description": "Visit Love Triangle filming locations in the UK."
+      }
+    },
+    {
+      "id": "dating-naked",
+      "name": "Dating Naked",
+      "network": "VH1",
+      "networkSlug": "vh1",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2014,
+      "tagline": "Nothing to hide",
+      "description": "Singles date completely naked on a tropical island, stripping away pretense along with their clothes.",
+      "longDescription": "Dating Naked took reality dating to its most literal extreme by having contestants date in the nude on a tropical island. The concept stripped away the superficiality of clothing and style, theoretically forcing singles to connect on a deeper level. Set on a private island, the show provided both shocking visuals and surprisingly genuine romantic moments.",
+      "primaryLocation": "panama-island",
+      "destinations": ["panama-island", "bali", "caribbean"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.0,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {"question": "Where was Dating Naked filmed?", "answer": "The show filmed on a private tropical island in Panama, providing secluded beaches for naked adventures."},
+        {"question": "Were people really naked?", "answer": "Yes, contestants were genuinely nude throughout dates, though strategic blurring was used in broadcast."}
+      ],
+      "travelTips": [
+        "Panama's San Blas Islands offer similar secluded beaches",
+        "Clothing-optional resorts provide the experience (if desired)",
+        "Tropical private islands can be rented for groups",
+        "Body-positive beaches exist worldwide for the adventurous"
+      ],
+      "meta": {
+        "title": "Dating Naked Island | Panama Filming Location",
+        "description": "Visit Dating Naked filming location in Panama."
+      }
+    },
+    {
+      "id": "the-bachelor-winter-games",
+      "name": "The Bachelor Winter Games",
+      "network": "ABC",
+      "networkSlug": "abc",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2018,
+      "tagline": "International Bachelor Olympics",
+      "description": "Bachelor franchise contestants from around the world compete in winter sports while finding international romance.",
+      "longDescription": "The Bachelor Winter Games brought together fan favorites from Bachelor franchises worldwide—US, Canada, Australia, UK, Japan, and more—for a winter sports competition with romantic stakes. Set at a Vermont ski resort during the 2018 Winter Olympics, contestants competed in skiing, ice skating, and other winter events while forming international connections. It combined athletic competition with the franchise's signature romance.",
+      "primaryLocation": "stowe-vermont",
+      "destinations": ["stowe-vermont", "manchester-vermont"],
+      "bestSeasons": [1],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 120,
+      "faqs": [
+        {"question": "Where was Winter Games filmed?", "answer": "The show filmed at luxury resorts in Stowe and Manchester, Vermont, showcasing New England's winter beauty."},
+        {"question": "Which countries were represented?", "answer": "Contestants came from US, Canada, Australia, UK, Japan, Finland, and other countries with Bachelor franchises."}
+      ],
+      "travelTips": [
+        "Stowe, Vermont is a quintessential New England ski town",
+        "The Lodge at Spruce Peak hosted some filming",
+        "Vermont offers romance year-round, not just winter",
+        "Try the same winter activities the contestants did"
+      ],
+      "meta": {
+        "title": "Bachelor Winter Games Vermont | Ski Resort Location",
+        "description": "Visit The Bachelor Winter Games filming location."
+      }
+    },
+    {
+      "id": "bachelor-in-paradise-australia",
+      "name": "Bachelor in Paradise Australia",
+      "network": "Network 10",
+      "networkSlug": "ten",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2018,
+      "tagline": "Aussie paradise romance",
+      "description": "Australian Bachelor and Bachelorette alumni get a second chance at love in a Fiji paradise resort.",
+      "longDescription": "Bachelor in Paradise Australia brought the beach spin-off format Down Under, uniting past contestants from Australian Bachelor and Bachelorette seasons. Set in stunning Fiji, Aussie singles navigated tropical romance, dramatic rose ceremonies, and the chance to find what they missed the first time. The show delivered maximum drama with the laid-back Australian flair fans love.",
+      "primaryLocation": "fiji-mango-bay",
+      "destinations": ["fiji-mango-bay", "fiji-denarau"],
+      "bestSeasons": [1, 2, 3],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {"question": "Where is BIP Australia filmed?", "answer": "The show films at Mango Bay Resort in Fiji, a stunning beachfront property that serves as the contestants' home."},
+        {"question": "Is the Fiji resort bookable?", "answer": "Yes! Mango Bay Resort in Fiji accepts bookings and markets itself as the Bachelor in Paradise filming location."}
+      ],
+      "travelTips": [
+        "Mango Bay Resort is fully bookable between filming",
+        "Fiji's Coral Coast offers similar resort experiences",
+        "Experience the exact pools and beaches from the show",
+        "Australian travel deals to Fiji are frequently available"
+      ],
+      "meta": {
+        "title": "Bachelor in Paradise Australia | Fiji Resort Location",
+        "description": "Visit Bachelor in Paradise Australia resort in Fiji."
+      }
     }
   ]
 }
