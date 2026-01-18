@@ -1,27 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://realitytvtravel.com/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://realitytvtravel.com/shows.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://realitytvtravel.com/locations.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://realitytvtravel.com/wishlist.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  <url><loc>https://realitytvtravel.com/</loc><priority>1.0</priority></url>
+  <url><loc>https://realitytvtravel.com/shows.html</loc><priority>0.9</priority></url>
+  <url><loc>https://realitytvtravel.com/locations.html</loc><priority>0.9</priority></url>
+  <url><loc>https://realitytvtravel.com/wishlist.html</loc><priority>0.6</priority></url>
 
-  <!-- Shows (50 total) -->
+  <!-- Shows (60 total) -->
   <url><loc>https://realitytvtravel.com/show.html?id=the-bachelor</loc><priority>0.8</priority></url>
   <url><loc>https://realitytvtravel.com/show.html?id=the-bachelorette</loc><priority>0.8</priority></url>
   <url><loc>https://realitytvtravel.com/show.html?id=love-is-blind</loc><priority>0.9</priority></url>
@@ -71,8 +55,18 @@
   <url><loc>https://realitytvtravel.com/show.html?id=couple-to-throuple</loc><priority>0.6</priority></url>
   <url><loc>https://realitytvtravel.com/show.html?id=beauty-and-the-geek</loc><priority>0.6</priority></url>
   <url><loc>https://realitytvtravel.com/show.html?id=love-trip-paris</loc><priority>0.6</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=love-is-blind-mexico</loc><priority>0.8</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=bachelor-new-zealand</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=love-island-germany</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=12-dates-of-christmas</loc><priority>0.6</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=the-one-that-got-away</loc><priority>0.6</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=dating-naked</loc><priority>0.6</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=the-ultimatum-south-africa</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=love-island-south-africa</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=bachelorette-australia</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/show.html?id=love-is-blind-uk-s2</loc><priority>0.8</priority></url>
 
-  <!-- Locations (60 total) -->
+  <!-- Locations (70 total) -->
   <url><loc>https://realitytvtravel.com/location.html?id=bachelor-mansion</loc><priority>0.8</priority></url>
   <url><loc>https://realitytvtravel.com/location.html?id=playa-escondida-resort</loc><priority>0.8</priority></url>
   <url><loc>https://realitytvtravel.com/location.html?id=emerald-pavilion</loc><priority>0.8</priority></url>
@@ -133,4 +127,14 @@
   <url><loc>https://realitytvtravel.com/location.html?id=mendoza-wine-country</loc><priority>0.7</priority></url>
   <url><loc>https://realitytvtravel.com/location.html?id=bavaria-germany</loc><priority>0.7</priority></url>
   <url><loc>https://realitytvtravel.com/location.html?id=charleston-sc</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=mexico-city-cdmx</loc><priority>0.8</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=costa-rica-retreat</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=panama-islands</loc><priority>0.6</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=lake-tahoe-lodge</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=auckland-new-zealand</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=sydney-australia</loc><priority>0.8</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=johannesburg-south-africa</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=garden-route-south-africa</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=scottish-highlands</loc><priority>0.7</priority></url>
+  <url><loc>https://realitytvtravel.com/location.html?id=aspen-colorado</loc><priority>0.7</priority></url>
 </urlset>

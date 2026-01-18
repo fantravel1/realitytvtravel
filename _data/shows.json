@@ -1826,6 +1826,376 @@
         "title": "Love Trip Paris Filming Locations | City of Lights Guide",
         "description": "Visit the Parisian locations from Love Trip: Paris."
       }
+    },
+    {
+      "id": "love-is-blind-mexico",
+      "name": "Love Is Blind: Mexico",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Mexican romance, blind faith",
+      "description": "Love Is Blind comes to Mexico with passionate telenovela energy, family dynamics, and stunning destinations across the country.",
+      "longDescription": "Love Is Blind: Mexico brings the pod experiment to Latin America's largest country. Mexican contestants bring the emotional intensity and family-focused values of Mexican culture to their search for love. The show features stunning retreats and real-life segments across Mexico City and resort destinations.",
+      "primaryLocation": "mexico-city",
+      "destinations": ["mexico-city", "los-cabos", "riviera-maya", "oaxaca"],
+      "bestSeasons": [1],
+      "viewerRating": 4.0,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is Love Is Blind Mexico filmed?",
+          "answer": "The show films pods and apartments in Mexico City, with the couples' retreat at a luxury resort. Real-life segments follow couples through CDMX's vibrant neighborhoods."
+        },
+        {
+          "question": "How does Mexican culture influence the show?",
+          "answer": "Family approval is even more central in Mexican culture. Expect intense family meetings, discussions of tradition, and the passionate communication style Mexicans are known for."
+        }
+      ],
+      "travelTips": [
+        "Mexico City's Roma and Condesa neighborhoods are perfect for dates",
+        "Los Cabos offers the luxury resort retreat experience",
+        "Oaxaca provides romantic cultural immersion",
+        "Street food tours are a must for foodie couples"
+      ],
+      "meta": {
+        "title": "Love Is Blind Mexico Filming Locations | CDMX Guide",
+        "description": "Visit Love Is Blind Mexico filming locations across Mexico."
+      }
+    },
+    {
+      "id": "bachelor-new-zealand",
+      "name": "The Bachelor New Zealand",
+      "network": "TVNZ",
+      "networkSlug": "tvnz",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2015,
+      "tagline": "Kiwi love story",
+      "description": "The Bachelor format set against New Zealand's stunning landscapes, from Auckland mansions to adventure dates across both islands.",
+      "longDescription": "The Bachelor New Zealand brought the format to Aotearoa, featuring a Kiwi bachelor dating local women against the backdrop of New Zealand's incredible scenery. Adventure dates include bungee jumping, glacier hiking, and Māori cultural experiences. The show ran for three seasons showcasing NZ's natural beauty.",
+      "primaryLocation": "new-zealand",
+      "destinations": ["auckland", "queenstown", "rotorua", "wellington"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.6,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "What adventures are featured?",
+          "answer": "Dates include bungee jumping in Queenstown, geothermal pools in Rotorua, glacier walks, and Māori cultural experiences including hāngī feasts."
+        },
+        {
+          "question": "Where is the mansion located?",
+          "answer": "The Bachelor NZ mansion is located in Auckland, with travel dates to both North and South Islands throughout the season."
+        }
+      ],
+      "travelTips": [
+        "Queenstown is the adventure capital with bungee, skydiving, and jet boats",
+        "Rotorua offers geothermal romance with hot pools",
+        "The Coromandel Peninsula has stunning secluded beaches",
+        "Waiheke Island near Auckland is perfect for wine and romance"
+      ],
+      "meta": {
+        "title": "The Bachelor New Zealand Filming Locations | NZ Guide",
+        "description": "Visit The Bachelor New Zealand filming locations across Aotearoa."
+      }
+    },
+    {
+      "id": "love-island-germany",
+      "name": "Love Island Germany",
+      "network": "RTL II",
+      "networkSlug": "rtl",
+      "seasons": 7,
+      "status": "active",
+      "yearStarted": 2017,
+      "tagline": "Deutsche Liebe auf der Insel",
+      "description": "The German version of Love Island brings together singles in a Spanish villa for summer romance with distinctive German directness.",
+      "longDescription": "Love Island Germany has become one of the most successful versions of the format, running for seven seasons. German contestants bring their characteristic directness to villa romance, creating unique dynamics. The show films in Mallorca alongside other European versions, with German-language drama and coupling up.",
+      "primaryLocation": "mallorca-spain",
+      "destinations": ["mallorca", "tenerife", "ibiza"],
+      "bestSeasons": [4, 5, 6],
+      "viewerRating": 3.7,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is Love Island Germany filmed?",
+          "answer": "Like other European versions, Love Island Germany films in Mallorca, Spain. The villa location changes between seasons but remains on the Balearic Islands."
+        },
+        {
+          "question": "How is the German version different?",
+          "answer": "German contestants tend to be more direct in their communication. The show has a strong following in German-speaking countries and has run successfully for many seasons."
+        }
+      ],
+      "travelTips": [
+        "Mallorca's northeast coast has similar villa rentals",
+        "Beach clubs in Palma capture the Love Island vibe",
+        "Ibiza day trips offer party island experiences",
+        "Visit in summer for the full Mediterranean experience"
+      ],
+      "meta": {
+        "title": "Love Island Germany Filming Location | Mallorca Villa",
+        "description": "Visit the Love Island Germany villa in Mallorca, Spain."
+      }
+    },
+    {
+      "id": "12-dates-of-christmas",
+      "name": "12 Dates of Christmas",
+      "network": "HBO Max",
+      "networkSlug": "hbomax",
+      "seasons": 2,
+      "status": "ended",
+      "yearStarted": 2020,
+      "tagline": "Holiday romance guaranteed",
+      "description": "Singles search for holiday love through 12 themed dates during the Christmas season, complete with festive activities and family meetings.",
+      "longDescription": "12 Dates of Christmas offers a holiday-themed dating experience where one lead goes on Christmas-themed dates with multiple suitors. From ice skating to gift exchanges to meeting families, the show captures the magic of holiday romance. It's become a cult favorite for those seeking festive dating content.",
+      "primaryLocation": "winter-lodge",
+      "destinations": ["lake-tahoe", "aspen", "vermont"],
+      "bestSeasons": [1],
+      "viewerRating": 3.5,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is 12 Dates of Christmas filmed?",
+          "answer": "The show films at a cozy winter lodge setting, with Christmas-decorated locations perfect for holiday romance. Exact locations vary by season."
+        },
+        {
+          "question": "What kind of dates are featured?",
+          "answer": "Dates include ice skating, making gingerbread houses, ugly sweater parties, meeting families, and other Christmas-themed activities."
+        }
+      ],
+      "travelTips": [
+        "Lake Tahoe lodges offer similar winter romance vibes",
+        "Aspen provides luxurious holiday destination experiences",
+        "Vermont's small towns are perfect for cozy Christmas escapes",
+        "Book holiday season travel early for the best lodges"
+      ],
+      "meta": {
+        "title": "12 Dates of Christmas Filming Locations | Holiday Romance",
+        "description": "Visit 12 Dates of Christmas filming locations for your own holiday romance."
+      }
+    },
+    {
+      "id": "the-one-that-got-away",
+      "name": "The One That Got Away",
+      "network": "Prime Video",
+      "networkSlug": "prime",
+      "seasons": 1,
+      "status": "ended",
+      "yearStarted": 2022,
+      "tagline": "Reunite with past loves",
+      "description": "Singles get a chance to reconnect with past loves as exes from different points in their lives arrive at a tropical retreat.",
+      "longDescription": "The One That Got Away brings back people from a lead's romantic past—from high school crushes to recent exes. Set in a tropical retreat, contestants must decide if an old flame deserves another chance or if they should move forward with new connections. The twist of revisiting past relationships creates unique emotional dynamics.",
+      "primaryLocation": "tropical-retreat",
+      "destinations": ["costa-rica", "manuel-antonio"],
+      "bestSeasons": [1],
+      "viewerRating": 3.4,
+      "avgEpisodeLength": 50,
+      "faqs": [
+        {
+          "question": "Where is The One That Got Away filmed?",
+          "answer": "The show films at a tropical retreat in Costa Rica, providing a paradise setting for reconnecting with past loves."
+        },
+        {
+          "question": "How does the format work?",
+          "answer": "Each episode, past connections from the lead's life arrive. They could be high school sweethearts, college flings, or recent exes. The lead decides who stays and who goes."
+        }
+      ],
+      "travelTips": [
+        "Costa Rica's Manuel Antonio has stunning beach resorts",
+        "The country offers adventure and relaxation combinations",
+        "Rainforest lodges provide romantic seclusion",
+        "Wildlife and beaches create memorable date settings"
+      ],
+      "meta": {
+        "title": "The One That Got Away Filming Location | Costa Rica",
+        "description": "Visit The One That Got Away retreat in Costa Rica."
+      }
+    },
+    {
+      "id": "dating-naked",
+      "name": "Dating Naked",
+      "network": "VH1",
+      "networkSlug": "vh1",
+      "seasons": 3,
+      "status": "ended",
+      "yearStarted": 2014,
+      "tagline": "Nothing to hide",
+      "description": "Singles strip down—literally—on a tropical island for dates without the barrier of clothing, seeking authentic connections.",
+      "longDescription": "Dating Naked took reality dating to its most vulnerable level by having contestants date completely nude on a tropical island. The concept was that removing clothing removes pretense, allowing for more authentic connections. Strategic blurring kept things broadcast-appropriate while the show explored whether physical exposure leads to emotional openness.",
+      "primaryLocation": "tropical-island",
+      "destinations": ["panama", "boca-del-toro"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 3.0,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where was Dating Naked filmed?",
+          "answer": "The show filmed on a private island in Panama's Bocas del Toro region. The secluded tropical location provided privacy for the unique format."
+        },
+        {
+          "question": "Was it really completely naked?",
+          "answer": "Yes, contestants dated fully nude, though strategic camera angles and blurring were used for broadcast. The concept emphasized vulnerability and authenticity."
+        }
+      ],
+      "travelTips": [
+        "Bocas del Toro offers stunning Caribbean island experiences",
+        "Private island rentals are available for adventurous couples",
+        "Panama's San Blas Islands offer similar secluded paradise",
+        "Clothing-optional resorts exist for those inspired by the show"
+      ],
+      "meta": {
+        "title": "Dating Naked Filming Location | Panama Islands",
+        "description": "Visit the tropical island from Dating Naked in Panama."
+      }
+    },
+    {
+      "id": "the-ultimatum-south-africa",
+      "name": "The Ultimatum: South Africa",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Rainbow nation romance",
+      "description": "The Ultimatum format comes to South Africa, where couples at a crossroads test their relationships in one of the world's most diverse nations.",
+      "longDescription": "The Ultimatum: South Africa brings the relationship experiment to the Rainbow Nation. South African couples, representing the country's incredible diversity, face the same marry-or-move-on challenge. The show films in stunning South African locations and features the unique dynamics of navigating relationships in this culturally rich nation.",
+      "primaryLocation": "south-africa",
+      "destinations": ["johannesburg", "cape-town", "durban", "garden-route"],
+      "bestSeasons": [1],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where is The Ultimatum South Africa filmed?",
+          "answer": "The show films across South Africa, with trial marriages in apartments in major cities and retreats at stunning locations like the Garden Route or wine country."
+        },
+        {
+          "question": "What makes the South African version unique?",
+          "answer": "South Africa's incredible cultural diversity brings unique perspectives on relationships, family, and marriage traditions from different communities."
+        }
+      ],
+      "travelTips": [
+        "Cape Town's wine country offers romantic getaways",
+        "The Garden Route is perfect for couples' road trips",
+        "Johannesburg's Maboneng district has trendy date spots",
+        "Safari lodges provide once-in-a-lifetime romantic experiences"
+      ],
+      "meta": {
+        "title": "The Ultimatum South Africa Filming Locations | SA Guide",
+        "description": "Visit The Ultimatum South Africa filming locations."
+      }
+    },
+    {
+      "id": "love-island-south-africa",
+      "name": "Love Island South Africa",
+      "network": "M-Net",
+      "networkSlug": "mnet",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Lekker love in the villa",
+      "description": "Love Island comes to South Africa with local singles coupling up in a Cape Town villa, bringing unique South African energy to the format.",
+      "longDescription": "Love Island South Africa launches the beloved format with South African contestants. Set in a stunning Cape Town villa with Table Mountain views, the show features the warmth, humor, and directness South Africans are known for. It's a celebration of South African dating culture with all the recouplings and drama fans love.",
+      "primaryLocation": "cape-town-villa",
+      "destinations": ["cape-town", "camps-bay", "stellenbosch"],
+      "bestSeasons": [1],
+      "viewerRating": 3.9,
+      "avgEpisodeLength": 45,
+      "faqs": [
+        {
+          "question": "Where is the Love Island SA villa?",
+          "answer": "The villa is located near Cape Town with stunning views of Table Mountain and the Atlantic Ocean. The location showcases South Africa's incredible natural beauty."
+        },
+        {
+          "question": "What's different about South African Love Island?",
+          "answer": "South African contestants bring a unique mix of cultures and languages. Expect warmth, directness, and the distinct South African sense of humor."
+        }
+      ],
+      "travelTips": [
+        "Camps Bay offers luxury similar to the villa setting",
+        "Cape Town's beaches are perfect for summer romance",
+        "Wine tasting in Stellenbosch makes a romantic day trip",
+        "Visit November-March for South African summer"
+      ],
+      "meta": {
+        "title": "Love Island South Africa Filming Location | Cape Town Villa",
+        "description": "Visit the Love Island South Africa villa near Cape Town."
+      }
+    },
+    {
+      "id": "bachelorette-australia",
+      "name": "The Bachelorette Australia",
+      "network": "Network 10",
+      "networkSlug": "ten",
+      "seasons": 8,
+      "status": "active",
+      "yearStarted": 2015,
+      "tagline": "Aussie romance",
+      "description": "The Bachelorette Down Under features Australian women choosing from a mansion full of Aussie blokes, with dates across stunning Australian locations.",
+      "longDescription": "The Bachelorette Australia has become a beloved part of Australian TV, running for eight seasons. Australian Bachelorettes date local men, with adventure dates showcasing Australia's incredible landscapes—from Sydney Harbour to the Outback. The show captures the laid-back Aussie approach to romance with plenty of drama.",
+      "primaryLocation": "sydney-mansion",
+      "destinations": ["sydney", "great-barrier-reef", "uluru", "melbourne"],
+      "bestSeasons": [3, 4, 6],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 60,
+      "faqs": [
+        {
+          "question": "Where is the Bachelorette Australia mansion?",
+          "answer": "The mansion is located in Sydney, NSW. Dates take contestants to stunning locations across Australia including the Great Barrier Reef, Uluru, and various state destinations."
+        },
+        {
+          "question": "What adventures are featured?",
+          "answer": "Dates include helicopter rides over the Harbour Bridge, Great Barrier Reef snorkeling, Outback adventures, and romantic dinners at iconic Australian venues."
+        }
+      ],
+      "travelTips": [
+        "Sydney Harbour offers the romance seen on screen",
+        "The Great Barrier Reef is a bucket-list couple experience",
+        "Melbourne's laneways provide intimate date settings",
+        "Australian wine regions are perfect for romantic escapes"
+      ],
+      "meta": {
+        "title": "The Bachelorette Australia Filming Locations | Aussie Guide",
+        "description": "Visit The Bachelorette Australia filming locations across the country."
+      }
+    },
+    {
+      "id": "love-is-blind-uk-s2",
+      "name": "Love Is Blind: UK Season 2",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2025,
+      "tagline": "Britain loves blindly, again",
+      "description": "The hit British version returns with more pod romances, dramatic reveals, and the British wit and charm fans loved in season one.",
+      "longDescription": "Following the success of the first season, Love Is Blind UK returns with a fresh batch of British singles looking for love in the pods. The second season promises more of the British humor, emotional depth, and stunning UK locations that made the first season a hit. Expect more countryside retreats and London dating drama.",
+      "primaryLocation": "uk-filming",
+      "destinations": ["london", "cotswolds", "scottish-highlands", "lake-district"],
+      "bestSeasons": [1, 2],
+      "viewerRating": 4.2,
+      "avgEpisodeLength": 55,
+      "faqs": [
+        {
+          "question": "Where does Season 2 film?",
+          "answer": "Season 2 continues to film in the UK, with pods in London, couples' retreats in the countryside, and real-life segments in various British cities."
+        },
+        {
+          "question": "What's new in Season 2?",
+          "answer": "Season 2 features new British singles while maintaining the format fans love. Expect stunning new retreat locations and the signature British charm."
+        }
+      ],
+      "travelTips": [
+        "The Scottish Highlands offer dramatic romantic getaways",
+        "Lake District's luxury hotels provide retreat-style stays",
+        "London's diverse neighborhoods are perfect for couple exploration",
+        "UK castle hotels offer fairy-tale romantic experiences"
+      ],
+      "meta": {
+        "title": "Love Is Blind UK Season 2 Filming Locations | Britain Guide",
+        "description": "Visit Love Is Blind UK Season 2 filming locations across Britain."
+      }
     }
   ]
 }
