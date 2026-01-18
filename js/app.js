@@ -299,6 +299,11 @@ function createLocationCard(location, shows) {
 
   const bgStyle = categoryColors[location.category] || 'var(--gradient-hero)';
 
+  // Use actual image if available, otherwise fall back to gradient
+  const imageStyle = location.image
+    ? `url('${location.image}') center/cover no-repeat`
+    : bgStyle;
+
   const favoriteClass = isFavorite(location.id) ? 'active' : '';
   const favoriteIcon = isFavorite(location.id) ? '❤️' : '🤍';
 
@@ -314,7 +319,7 @@ function createLocationCard(location, shows) {
 
   return `
     <div class="location-card" data-country="${location.country}" data-region="${location.region || ''}" data-price="${location.priceRange?.min || 0}">
-      <div class="location-card-image" style="background: ${bgStyle}">
+      <div class="location-card-image" style="background: ${imageStyle}">
         <button class="favorite-btn ${favoriteClass}" data-location-id="${location.id}" onclick="toggleFavorite('${location.id}', event)" title="${isFavorite(location.id) ? 'Remove from wishlist' : 'Add to wishlist'}">
           ${favoriteIcon}
         </button>
@@ -819,7 +824,17 @@ async function loadLocationDetail() {
     'Middle East': '🕌'
   };
 
+  // Use actual image for hero if available
+  const heroImageStyle = location.image
+    ? `background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.6)), url('${location.image}') center/cover no-repeat;`
+    : '';
+
   container.innerHTML = `
+    ${location.image ? `
+      <div class="location-hero-image" style="height: 300px; ${heroImageStyle} display: flex; align-items: center; justify-content: center; margin-bottom: var(--space-lg);">
+        <span style="font-size: 5rem; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3));">${emoji}</span>
+      </div>
+    ` : ''}
     <div class="detail-header">
       <div class="container">
         <div class="detail-breadcrumb">
@@ -831,7 +846,7 @@ async function loadLocationDetail() {
         </div>
         <div class="detail-grid">
           <div class="detail-main">
-            <div style="font-size: 4rem; margin-bottom: var(--space-md);">${emoji}</div>
+            ${!location.image ? `<div style="font-size: 4rem; margin-bottom: var(--space-md);">${emoji}</div>` : ''}
             <h1>${location.name}</h1>
             ${location.tagline ? `<p class="detail-tagline">"${location.tagline}"</p>` : ''}
             <div class="detail-meta">
