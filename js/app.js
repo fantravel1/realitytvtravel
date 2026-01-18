@@ -9,15 +9,33 @@
 let showsData = null;
 let locationsData = null;
 
-async function loadData(filename) {
-  try {
-    const response = await fetch(`_data/${filename}`);
-    if (!response.ok) throw new Error(`Failed to load ${filename}`);
-    return await response.json();
-  } catch (error) {
-    console.error(`Error loading ${filename}:`, error);
-    return null;
+async function loadData(filename, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const response = await fetch(`_data/${filename}`);
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return await response.json();
+    } catch (error) {
+      console.error(`Error loading ${filename} (attempt ${attempt}/${retries}):`, error);
+      if (attempt < retries) {
+        await new Promise(resolve => setTimeout(resolve, 1000 * attempt));
+      }
+    }
   }
+  return null;
+}
+
+function showLoadError(gridElement, type = 'content') {
+  if (!gridElement) return;
+  gridElement.innerHTML = `
+    <div class="load-error" style="grid-column: 1 / -1; text-align: center; padding: 3rem;">
+      <div style="font-size: 3rem; margin-bottom: 1rem;">😕</div>
+      <h3 style="margin-bottom: 0.5rem;">Unable to load ${type}</h3>
+      <p style="color: var(--color-gray-500); margin-bottom: 1rem;">This might be a network issue or you're viewing the file locally.</p>
+      <p style="font-size: 0.875rem; color: var(--color-gray-400);">For local testing, use a local server: <code>python3 -m http.server 8080</code></p>
+      <button onclick="location.reload()" class="btn btn-outline" style="margin-top: 1rem;">Try Again</button>
+    </div>
+  `;
 }
 
 async function initData() {
@@ -308,7 +326,7 @@ async function loadShowsGrid() {
 
   const data = showsData || await loadData('shows.json');
   if (!data?.shows) {
-    grid.innerHTML = '<p class="error-message">Failed to load shows.</p>';
+    showLoadError(grid, 'shows');
     return;
   }
 
@@ -413,7 +431,7 @@ async function loadLocationsGrid() {
 
   await initData();
   if (!locationsData?.locations) {
-    grid.innerHTML = '<p class="error-message">Failed to load locations.</p>';
+    showLoadError(grid, 'locations');
     return;
   }
 
@@ -440,7 +458,7 @@ async function loadShowsPage() {
 
   await initData();
   if (!showsData?.shows) {
-    grid.innerHTML = '<p class="error-message">Failed to load shows.</p>';
+    showLoadError(grid, 'shows');
     return;
   }
 
@@ -508,7 +526,7 @@ async function loadLocationsPage() {
 
   await initData();
   if (!locationsData?.locations) {
-    grid.innerHTML = '<p class="error-message">Failed to load locations.</p>';
+    showLoadError(grid, 'locations');
     return;
   }
 
@@ -646,11 +664,20 @@ async function loadShowDetail() {
     return;
   }
 
+  // Show loading state
+  container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><div class="spinner"></div><p>Loading show details...</p></div>';
+
   await initData();
-  const show = showsData?.shows?.find(s => s.id === showId);
+
+  if (!showsData?.shows) {
+    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><div style="font-size: 3rem; margin-bottom: 1rem;">😕</div><h2>Unable to load show data</h2><p style="color: var(--color-gray-500); margin-bottom: 1rem;">Please check your connection or try again.</p><button onclick="location.reload()" class="btn btn-primary">Try Again</button></div>';
+    return;
+  }
+
+  const show = showsData.shows.find(s => s.id === showId);
 
   if (!show) {
-    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><h1>Show not found</h1><a href="shows.html" class="btn btn-primary">Browse Shows</a></div>';
+    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><h1>Show not found</h1><p style="color: var(--color-gray-500); margin-bottom: 1rem;">The show "' + showId + '" doesn\'t exist.</p><a href="shows.html" class="btn btn-primary">Browse Shows</a></div>';
     return;
   }
 
@@ -827,11 +854,20 @@ async function loadLocationDetail() {
     return;
   }
 
+  // Show loading state
+  container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><div class="spinner"></div><p>Loading location details...</p></div>';
+
   await initData();
-  const location = locationsData?.locations?.find(l => l.id === locationId);
+
+  if (!locationsData?.locations) {
+    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><div style="font-size: 3rem; margin-bottom: 1rem;">😕</div><h2>Unable to load location data</h2><p style="color: var(--color-gray-500); margin-bottom: 1rem;">Please check your connection or try again.</p><button onclick="location.reload()" class="btn btn-primary">Try Again</button></div>';
+    return;
+  }
+
+  const location = locationsData.locations.find(l => l.id === locationId);
 
   if (!location) {
-    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><h1>Location not found</h1><a href="locations.html" class="btn btn-primary">Browse Locations</a></div>';
+    container.innerHTML = '<div class="container" style="padding: 4rem 0; text-align: center;"><h1>Location not found</h1><p style="color: var(--color-gray-500); margin-bottom: 1rem;">The location "' + locationId + '" doesn\'t exist.</p><a href="locations.html" class="btn btn-primary">Browse Locations</a></div>';
     return;
   }
 
