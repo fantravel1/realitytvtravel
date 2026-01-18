@@ -1,9 +1,27 @@
-# RealityTVTravel robots.txt
+# RealityTVTravel Robots.txt
+# https://realitytvtravel.com
+
 User-agent: *
 Allow: /
 
-# Sitemap
+# Sitemap location
 Sitemap: https://realitytvtravel.com/sitemap.xml
 
-# Crawl-delay for polite bots
+# Crawl-delay for polite crawling
 Crawl-delay: 1
+
+# Disallow data files (they're loaded by JS, not meant for direct access)
+Disallow: /_data/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /

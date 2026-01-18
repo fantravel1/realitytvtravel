@@ -29,6 +29,51 @@ async function initData() {
 }
 
 // ============================================
+// Lazy Loading for Images
+// ============================================
+
+function initLazyLoading() {
+  // Lazy load background images using Intersection Observer
+  const lazyImages = document.querySelectorAll('.location-card-image[data-bg]');
+
+  if ('IntersectionObserver' in window) {
+    const imageObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const element = entry.target;
+          const bgUrl = element.dataset.bg;
+          if (bgUrl) {
+            element.style.background = `url('${bgUrl}') center/cover no-repeat`;
+            element.removeAttribute('data-bg');
+          }
+          imageObserver.unobserve(element);
+        }
+      });
+    }, {
+      rootMargin: '50px 0px', // Start loading 50px before entering viewport
+      threshold: 0.01
+    });
+
+    lazyImages.forEach(img => imageObserver.observe(img));
+  } else {
+    // Fallback for older browsers
+    lazyImages.forEach(element => {
+      const bgUrl = element.dataset.bg;
+      if (bgUrl) {
+        element.style.background = `url('${bgUrl}') center/cover no-repeat`;
+      }
+    });
+  }
+}
+
+// Call lazy loading after DOM updates
+function triggerLazyLoading() {
+  requestAnimationFrame(() => {
+    initLazyLoading();
+  });
+}
+
+// ============================================
 // Navigation
 // ============================================
 
@@ -299,10 +344,11 @@ function createLocationCard(location, shows) {
 
   const bgStyle = categoryColors[location.category] || 'var(--gradient-hero)';
 
-  // Use actual image if available, otherwise fall back to gradient
-  const imageStyle = location.image
-    ? `url('${location.image}') center/cover no-repeat`
-    : bgStyle;
+  // Use lazy loading for images - show gradient initially, load image when in viewport
+  const hasImage = !!location.image;
+  const lazyAttr = hasImage ? `data-bg="${location.image}"` : '';
+  // Show gradient as placeholder, image loads via lazy loading
+  const initialBg = bgStyle;
 
   const favoriteClass = isFavorite(location.id) ? 'active' : '';
   const favoriteIcon = isFavorite(location.id) ? '❤️' : '🤍';
@@ -319,7 +365,7 @@ function createLocationCard(location, shows) {
 
   return `
     <div class="location-card" data-country="${location.country}" data-region="${location.region || ''}" data-price="${location.priceRange?.min || 0}">
-      <div class="location-card-image" style="background: ${imageStyle}">
+      <div class="location-card-image" style="background: ${initialBg}" ${lazyAttr}>
         <button class="favorite-btn ${favoriteClass}" data-location-id="${location.id}" onclick="toggleFavorite('${location.id}', event)" title="${isFavorite(location.id) ? 'Remove from wishlist' : 'Add to wishlist'}">
           ${favoriteIcon}
         </button>
@@ -376,6 +422,9 @@ async function loadLocationsGrid() {
     .slice(0, 6)
     .map(location => createLocationCard(location, showsData?.shows))
     .join('');
+
+  // Trigger lazy loading for images
+  triggerLazyLoading();
 }
 
 // ============================================
@@ -535,6 +584,7 @@ async function loadLocationsPage() {
       grid.innerHTML = '<p class="no-results">No locations found matching your criteria. Try a different region or search term.</p>';
     } else {
       grid.innerHTML = filtered.map(loc => createLocationCard(loc, showsData?.shows)).join('');
+      triggerLazyLoading();
     }
 
     // Update favorite buttons after rendering
@@ -758,6 +808,7 @@ async function loadShowDetail() {
   `;
 
   initFAQ();
+  triggerLazyLoading();
 }
 
 // ============================================
@@ -1020,6 +1071,7 @@ async function loadLocationDetail() {
 
   initFAQ();
   updateFavoriteButtons();
+  triggerLazyLoading();
 }
 
 // ============================================
