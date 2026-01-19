@@ -254,9 +254,10 @@ const networkColors = {
   'TLC': { bg: 'linear-gradient(135deg, #b71c1c 0%, #c62828 100%)', accent: '#ffcdd2' }
 };
 
-// Trending shows for badges
-const trendingShows = ['love-is-blind', 'too-hot-to-handle', 'the-bachelor', 'married-at-first-sight', 'love-island-uk'];
-const newShows = ['perfect-match', 'the-courtship', 'love-without-borders'];
+// Trending shows for badges (popular and actively discussed shows)
+const trendingShows = ['love-is-blind', 'too-hot-to-handle', 'the-bachelor', 'married-at-first-sight', 'love-island-uk', 'the-golden-bachelor', 'perfect-match', 'singles-inferno'];
+// New shows (recently premiered or upcoming)
+const newShows = ['love-is-blind-habibi', 'love-is-blind-germany', 'the-ultimatum-queer-love', 'love-island-all-stars', 'couple-to-throuple'];
 
 function formatPrice(priceRange) {
   if (!priceRange) return '';
@@ -742,7 +743,8 @@ async function loadShowDetail() {
               </div>
             ` : ''}
             <div class="sidebar-cta">
-              <a href="locations.html" class="btn btn-primary" style="width: 100%; margin-bottom: var(--space-sm);">Browse Locations</a>
+              ${show.trailerUrl ? `<a href="${show.trailerUrl}" target="_blank" rel="noopener" class="btn btn-primary" style="width: 100%; margin-bottom: var(--space-sm);">▶️ Watch Trailer</a>` : ''}
+              <a href="locations.html" class="btn ${show.trailerUrl ? 'btn-outline' : 'btn-primary'}" style="width: 100%; margin-bottom: var(--space-sm);">Browse Locations</a>
               <a href="shows.html" class="btn btn-outline" style="width: 100%;">All Shows</a>
             </div>
           </div>
