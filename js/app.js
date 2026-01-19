@@ -254,9 +254,10 @@ const networkColors = {
   'TLC': { bg: 'linear-gradient(135deg, #b71c1c 0%, #c62828 100%)', accent: '#ffcdd2' }
 };
 
-// Trending shows for badges
-const trendingShows = ['love-is-blind', 'too-hot-to-handle', 'the-bachelor', 'married-at-first-sight', 'love-island-uk'];
-const newShows = ['perfect-match', 'the-courtship', 'love-without-borders'];
+// Trending shows for badges (popular and actively discussed shows)
+const trendingShows = ['love-is-blind', 'too-hot-to-handle', 'the-bachelor', 'married-at-first-sight', 'love-island-uk', 'the-golden-bachelor', 'perfect-match', 'singles-inferno'];
+// New shows (recently premiered or upcoming)
+const newShows = ['love-is-blind-habibi', 'love-is-blind-germany', 'the-ultimatum-queer-love', 'love-island-all-stars', 'couple-to-throuple'];
 
 function formatPrice(priceRange) {
   if (!priceRange) return '';

@@ -185,7 +185,34 @@
       "meta": {
         "title": "Playa Escondida - Bachelor in Paradise Resort | Sayulita Mexico",
         "description": "Stay at the Bachelor in Paradise resort in Sayulita. Book the Boom Boom Room and experience 9 seasons of romance."
-      }
+      },
+      "nearbyAttractions": [
+        {
+          "name": "Sayulita Beach",
+          "type": "beach",
+          "distance": "2 min walk"
+        },
+        {
+          "name": "Marietas Islands",
+          "type": "nature",
+          "distance": "boat trip"
+        },
+        {
+          "name": "San Pancho Beach",
+          "type": "beach",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Surf Lessons",
+          "type": "activity",
+          "distance": "on-site"
+        },
+        {
+          "name": "Puerto Vallarta",
+          "type": "city",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "emerald-pavilion",
@@ -342,7 +369,34 @@
         "title": "Casa Tau | Too Hot to Handle Season 1 Villa Punta Mita",
         "description": "Stay at Casa Tau, the original Too Hot to Handle villa in Punta Mita, Mexico."
       },
-      "bookingUrl": "https://www.casatauvilla.com"
+      "bookingUrl": "https://www.casatauvilla.com",
+      "nearbyAttractions": [
+        {
+          "name": "Punta Mita Beach",
+          "type": "beach",
+          "distance": "5 min walk"
+        },
+        {
+          "name": "Four Seasons Golf Course",
+          "type": "golf",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Marietas Islands",
+          "type": "nature",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Sayulita",
+          "type": "town",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Whale Watching (seasonal)",
+          "type": "activity",
+          "distance": "boat trip"
+        }
+      ]
     },
     {
       "id": "grand-velas-riviera-maya",
@@ -501,7 +555,34 @@
         "title": "Andaz Maui Wailea | Temptation Island Resort Hawaii",
         "description": "Stay at the Temptation Island resort in Maui. Andaz Maui at Wailea offers luxury Hawaiian hospitality."
       },
-      "bookingUrl": "https://www.hyatt.com/en-US/hotel/hawaii/andaz-maui-at-wailea-resort/oggan"
+      "bookingUrl": "https://www.hyatt.com/en-US/hotel/hawaii/andaz-maui-at-wailea-resort/oggan",
+      "nearbyAttractions": [
+        {
+          "name": "Wailea Beach",
+          "type": "beach",
+          "distance": "on-site"
+        },
+        {
+          "name": "Molokini Crater Snorkeling",
+          "type": "snorkeling",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Haleakala Sunrise",
+          "type": "nature",
+          "distance": "1.5 hour drive"
+        },
+        {
+          "name": "Road to Hana",
+          "type": "scenic drive",
+          "distance": "day trip"
+        },
+        {
+          "name": "Wailea Golf Club",
+          "type": "golf",
+          "distance": "5 min drive"
+        }
+      ]
     },
     {
       "id": "sheraton-fiji",
@@ -847,7 +928,34 @@
         "title": "Esperanza Los Cabos | FBoy Island Resort",
         "description": "Stay at the luxury Cabo resort near FBoy Island filming."
       },
-      "bookingUrl": "https://aubergeresorts.com/esperanza"
+      "bookingUrl": "https://aubergeresorts.com/esperanza",
+      "nearbyAttractions": [
+        {
+          "name": "El Arco (The Arch)",
+          "type": "landmark",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Lover's Beach",
+          "type": "beach",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Cabo San Lucas Marina",
+          "type": "marina",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Flora Farms",
+          "type": "restaurant",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Desert Camel Safari",
+          "type": "activity",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "new-orleans-justine",
@@ -1032,7 +1140,34 @@
         "title": "Amanpuri Phuket | Bachelor Fantasy Suite Resort",
         "description": "Stay at the legendary Thai resort featured in Bachelor fantasy suites."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amanpuri%20Phuket%20Phuket"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amanpuri%20Phuket%20Phuket",
+      "nearbyAttractions": [
+        {
+          "name": "Surin Beach",
+          "type": "beach",
+          "distance": "on-site"
+        },
+        {
+          "name": "Patong Beach",
+          "type": "beach",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Big Buddha",
+          "type": "temple",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Phang Nga Bay",
+          "type": "nature",
+          "distance": "day trip"
+        },
+        {
+          "name": "Old Phuket Town",
+          "type": "neighborhood",
+          "distance": "25 min drive"
+        }
+      ]
     },
     {
       "id": "bali-resort",
@@ -1097,7 +1232,34 @@
         "title": "Four Seasons Bali Sayan | Bachelor Jungle Resort",
         "description": "Stay at the Bali jungle resort featured in The Bachelor."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Four%20Seasons%20Bali%20at%20Sayan%20Ubud"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Four%20Seasons%20Bali%20at%20Sayan%20Ubud",
+      "nearbyAttractions": [
+        {
+          "name": "Tegallalang Rice Terraces",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Ubud Monkey Forest",
+          "type": "nature",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Tirta Empul Temple",
+          "type": "temple",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Ubud Art Market",
+          "type": "shopping",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Ayung River Rafting",
+          "type": "activity",
+          "distance": "on-site"
+        }
+      ]
     },
     {
       "id": "iceland-blue-lagoon",
@@ -1288,7 +1450,34 @@
         "title": "Conrad Maldives | Bachelor Proposal Resort",
         "description": "Stay at the Maldives resort featured in Bachelor proposals."
       },
-      "bookingUrl": "https://www.booking.com/region/mv/maldives-islands.html"
+      "bookingUrl": "https://www.booking.com/region/mv/maldives-islands.html",
+      "nearbyAttractions": [
+        {
+          "name": "Ithaa Undersea Restaurant",
+          "type": "restaurant",
+          "distance": "on-site"
+        },
+        {
+          "name": "Snorkeling with Mantas",
+          "type": "activity",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Sunset Dolphin Cruise",
+          "type": "activity",
+          "distance": "on-site"
+        },
+        {
+          "name": "Spa Over Water",
+          "type": "spa",
+          "distance": "on-site"
+        },
+        {
+          "name": "Male City Tour",
+          "type": "city",
+          "distance": "seaplane"
+        }
+      ]
     },
     {
       "id": "new-zealand-queenstown",
@@ -2518,7 +2707,34 @@
         "title": "North Shore Oahu | Are You The One Hawaii",
         "description": "Visit Oahu's North Shore from AYTO filming."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=North%20Shore%20Oahu%20Haleiwa"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=North%20Shore%20Oahu%20Haleiwa",
+      "nearbyAttractions": [
+        {
+          "name": "Pipeline Beach",
+          "type": "beach",
+          "distance": "5 min drive"
+        },
+        {
+          "name": "Waimea Bay",
+          "type": "beach",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Haleiwa Town",
+          "type": "town",
+          "distance": "central"
+        },
+        {
+          "name": "Turtle Bay Resort",
+          "type": "resort",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Dole Plantation",
+          "type": "attraction",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "morocco-marrakech",
@@ -3411,7 +3627,34 @@
         "title": "Tulum Mexico | Reality TV Beach Destination",
         "description": "Visit Tulum's stunning locations featured on reality dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tulum%20Tulum"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tulum%20Tulum",
+      "nearbyAttractions": [
+        {
+          "name": "Tulum Ruins",
+          "type": "historical",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Gran Cenote",
+          "type": "nature",
+          "distance": "5 min drive"
+        },
+        {
+          "name": "Sian Ka'an Biosphere",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Tulum Beach",
+          "type": "beach",
+          "distance": "central"
+        },
+        {
+          "name": "Casa Cenote",
+          "type": "nature",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "dubai-uae",
@@ -4778,7 +5021,34 @@
         "title": "Aspen Colorado | Winter Romance Destination",
         "description": "Visit Aspen for luxury winter romance like on dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aspen%20Aspen"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Aspen%20Aspen",
+      "nearbyAttractions": [
+        {
+          "name": "Aspen Mountain Gondola",
+          "type": "attraction",
+          "distance": "central"
+        },
+        {
+          "name": "Maroon Bells",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Aspen Art Museum",
+          "type": "museum",
+          "distance": "central"
+        },
+        {
+          "name": "Independence Pass",
+          "type": "scenic drive",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Roaring Fork Valley",
+          "type": "nature",
+          "distance": "nearby"
+        }
+      ]
     },
     {
       "id": "maui-hawaii",
