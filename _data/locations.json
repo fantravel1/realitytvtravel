@@ -6651,7 +6651,8 @@
           "type": "landmark",
           "distance": "downtown"
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1545419913-775e2e0c79db?w=800"
     },
     {
       "id": "boston-massachusetts",
@@ -8086,7 +8087,8 @@
           "type": "museum",
           "distance": "15 min walk"
         }
-      ]
+      ],
+      "image": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800"
     },
     {
       "id": "whitsundays-australia",
@@ -9622,7 +9624,8 @@
         "title": "Cape Town South Africa | Bachelor & Love Island SA Destination",
         "description": "Visit Cape Town from The Bachelor and Love Island SA. Table Mountain, winelands, and African adventure."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cape%20Town%20Cape%20Town"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cape%20Town%20Cape%20Town",
+      "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800"
     },
     {
       "id": "phuket-thailand",
@@ -10116,7 +10119,8 @@
         "title": "Savannah Georgia | Bachelor Southern Romance Destination",
         "description": "Visit Savannah from The Bachelor. Spanish moss, historic squares, and Southern charm await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Savannah%20Savannah"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Savannah%20Savannah",
+      "image": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?w=800"
     },
     {
       "id": "sedona-arizona",
@@ -10221,7 +10225,8 @@
         "title": "Sedona Arizona | Bachelor Red Rock Romance",
         "description": "Visit Sedona from The Bachelor. Red rocks, vortexes, and desert luxury await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sedona%20Sedona"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sedona%20Sedona",
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800"
     },
     {
       "id": "turks-and-caicos",
@@ -10318,7 +10323,8 @@
         "title": "Turks and Caicos | Bachelor Fantasy Suite Destination",
         "description": "Visit Turks and Caicos from The Bachelor. Grace Bay Beach and Caribbean luxury await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Turks%20and%20Caicos%20Providenciales"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Turks%20and%20Caicos%20Providenciales",
+      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800"
     },
     {
       "id": "dubrovnik-croatia",
@@ -10413,7 +10419,8 @@
         "title": "Dubrovnik Croatia | Bachelor Medieval Romance",
         "description": "Visit Dubrovnik from The Bachelor. Medieval walls, Adriatic waters, and Game of Thrones magic await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubrovnik%20Dubrovnik"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubrovnik%20Dubrovnik",
+      "image": "https://images.unsplash.com/photo-1555990538-1d0d55a56d36?w=800"
     },
     {
       "id": "paris-france",
@@ -10511,7 +10518,8 @@
         "title": "Paris France | Bachelor City of Love",
         "description": "Visit Paris from The Bachelor. Eiffel Tower, Seine cruises, and the world's most romantic city await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Paris%20Paris"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Paris%20Paris",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800"
     },
     {
       "id": "lisbon-portugal",
@@ -10605,7 +10613,8 @@
         "title": "Lisbon Portugal | Bachelor European Romance",
         "description": "Visit Lisbon from The Bachelor. Fado, viewpoints, and Portuguese charm await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lisbon%20Lisbon"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lisbon%20Lisbon",
+      "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800"
     },
     {
       "id": "amsterdam-netherlands",
@@ -10699,7 +10708,8 @@
         "title": "Amsterdam Netherlands | Bachelor Canal Romance",
         "description": "Visit Amsterdam from The Bachelor. Canals, museums, and Dutch gezelligheid await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amsterdam%20Amsterdam"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amsterdam%20Amsterdam",
+      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=800"
     },
     {
       "id": "vietnam-halong-bay",
@@ -10794,7 +10804,8 @@
         "title": "Ha Long Bay Vietnam | Bachelor Natural Wonder",
         "description": "Visit Ha Long Bay from reality TV. Limestone karsts, junk boats, and Vietnamese romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Ha%20Long%20Bay%20Ha%20Long"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Ha%20Long%20Bay%20Ha%20Long",
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800"
     },
     {
       "id": "marrakech-morocco",
@@ -10889,7 +10900,8 @@
         "title": "Marrakech Morocco | Bachelor Exotic Romance",
         "description": "Visit Marrakech from The Bachelor. Riads, souks, and Moroccan magic await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Marrakech%20Marrakech"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Marrakech%20Marrakech",
+      "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=800"
     },
     {
       "id": "byron-bay-australia",
@@ -10986,7 +10998,8 @@
         "title": "Byron Bay Australia | Bachelor Beach Paradise",
         "description": "Visit Byron Bay from Australian dating shows. Surf, wellness, and bohemian romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Byron%20Bay%20Byron%20Bay"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Byron%20Bay%20Byron%20Bay",
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
     },
     {
       "id": "maldives-overwater",
@@ -11089,7 +11102,8 @@
         "title": "Maldives Overwater Villas | Ultimate Bachelor Fantasy Suite",
         "description": "Visit the Maldives from The Bachelor. Overwater villas, private islands, and unmatched luxury await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Overwater%20Villas%20North%20Mal%C3%A9%20Atoll"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Overwater%20Villas%20North%20Mal%C3%A9%20Atoll",
+      "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800"
     },
     {
       "id": "puerto-rico-san-juan",
@@ -11183,7 +11197,8 @@
         "title": "San Juan Puerto Rico | Bachelor Caribbean Romance",
         "description": "Visit San Juan from The Bachelor. Old Town charm, bio bays, and Caribbean magic\u2014no passport needed."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Juan%2C%20Puerto%20Rico%20San%20Juan"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Juan%2C%20Puerto%20Rico%20San%20Juan",
+      "image": "https://images.unsplash.com/photo-1579687196544-08b3e76c3131?w=800"
     },
     {
       "id": "key-west-florida",
@@ -11277,7 +11292,8 @@
         "title": "Key West Florida | Bachelor Sunset Romance",
         "description": "Visit Key West from The Bachelor. Sunset celebrations, coral reefs, and island vibes await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Key%20West%20Key%20West"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Key%20West%20Key%20West",
+      "image": "https://images.unsplash.com/photo-1580192985016-7e15ef081dd8?w=800"
     },
     {
       "id": "charleston-south-carolina",
@@ -11379,7 +11395,8 @@
         "title": "Charleston South Carolina | Bachelor Southern Romance",
         "description": "Visit Charleston from The Bachelor. Rainbow Row, Lowcountry cuisine, and Southern charm await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Charleston%20Charleston"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Charleston%20Charleston",
+      "image": "https://images.unsplash.com/photo-1569262587021-19635f0c3e5d?w=800"
     },
     {
       "id": "lake-como-italy",
@@ -11473,7 +11490,8 @@
         "title": "Lake Como Italy | Bachelor European Luxury",
         "description": "Visit Lake Como from The Bachelor. Villas, boat tours, and Italian elegance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake%20Como%20Bellagio"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake%20Como%20Bellagio",
+      "image": "https://images.unsplash.com/photo-1537859668476-8988f857a60b?w=800"
     },
     {
       "id": "bora-bora-tahiti",
@@ -11568,7 +11586,8 @@
         "title": "Bora Bora French Polynesia | Ultimate Bachelor Fantasy Suite",
         "description": "Visit Bora Bora from The Bachelor. Overwater bungalows, Mount Otemanu, and lagoon paradise await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%20Vaitape"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%20Vaitape",
+      "image": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?w=800"
     },
     {
       "id": "barcelona-spain",
@@ -11672,7 +11691,8 @@
         "title": "Barcelona Spain | Bachelor Mediterranean Romance",
         "description": "Visit Barcelona from The Bachelor. Gaud\u00ed, beaches, tapas, and Spanish passion await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Barcelona%20Barcelona"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Barcelona%20Barcelona",
+      "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800"
     },
     {
       "id": "cartagena-colombia",
@@ -11778,7 +11798,8 @@
         "title": "Cartagena Colombia | Bachelor Colonial Romance",
         "description": "Visit Cartagena from The Bachelor. Colonial walls, Caribbean waters, and Colombian passion await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cartagena%20Cartagena"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cartagena%20Cartagena",
+      "image": "https://images.unsplash.com/photo-1583531172005-814892794972?w=800"
     },
     {
       "id": "bahamas-nassau-exumas",
@@ -11879,7 +11900,8 @@
         "title": "The Bahamas | Bachelor Swimming Pigs & Paradise",
         "description": "Visit The Bahamas from The Bachelor. Swimming pigs, crystal waters, and Caribbean paradise await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Bahamas%20Nassau%20%26%20Exumas"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Bahamas%20Nassau%20%26%20Exumas",
+      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800"
     },
     {
       "id": "vienna-austria",
@@ -11973,7 +11995,8 @@
         "title": "Vienna Austria | Bachelor Imperial Romance",
         "description": "Visit Vienna from The Bachelor. Palaces, opera, coffee houses, and imperial elegance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Vienna%20Vienna"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Vienna%20Vienna",
+      "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=800"
     },
     {
       "id": "kauai-hawaii",
@@ -12067,7 +12090,8 @@
         "title": "Kauai Hawaii | Bachelor Na Pali Romance",
         "description": "Visit Kauai from The Bachelor. Na Pali cliffs, helicopter tours, and Hawaiian paradise await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kauai%20Lihue"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kauai%20Lihue",
+      "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?w=800"
     },
     {
       "id": "scottsdale-arizona",
@@ -12161,7 +12185,8 @@
         "title": "Scottsdale Arizona | Bachelor Desert Luxury",
         "description": "Visit Scottsdale from The Bachelor. Desert spas, golf, and Sonoran romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottsdale%20Scottsdale"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottsdale%20Scottsdale",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800"
     },
     {
       "id": "singapore-city",
@@ -12255,7 +12280,8 @@
         "title": "Singapore | Bachelor Asian City Romance",
         "description": "Visit Singapore from The Bachelor. Gardens, hawker food, and futuristic city romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Singapore%20Singapore"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Singapore%20Singapore",
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800"
     },
     {
       "id": "big-sur-california",
@@ -12349,7 +12375,8 @@
         "title": "Big Sur California | Bachelor Coastal Drama",
         "description": "Visit Big Sur from The Bachelor. Cliffside luxury, Bixby Bridge, and coastal majesty await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Big%20Sur%20Big%20Sur"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Big%20Sur%20Big%20Sur",
+      "image": "https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=800"
     }
   ]
 }
