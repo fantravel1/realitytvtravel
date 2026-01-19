@@ -115,12 +115,12 @@
       ],
       "videos": [
         {
-          "title": "Inside the Bachelor Mansion",
+          "title": "Bachelor Mansion Tour",
           "type": "tour",
           "url": "https://www.youtube.com/watch?v=jM7VKUbFAHU"
         },
         {
-          "title": "Malibu Wine Country Tour",
+          "title": "Malibu Wine Country",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qHJp6fC5G3Y"
         },
@@ -342,7 +342,7 @@
       ],
       "videos": [
         {
-          "title": "Turks and Caicos Official Tourism",
+          "title": "Turks and Caicos Official",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
         },
@@ -352,8 +352,8 @@
           "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
         },
         {
-          "title": "Providenciales Island Tour",
-          "type": "tourism",
+          "title": "TCI Island Tour",
+          "type": "experience",
           "url": "https://www.youtube.com/watch?v=5fQ0mAj1L9k"
         }
       ]
@@ -769,7 +769,7 @@
       ],
       "videos": [
         {
-          "title": "Tourism Fiji Official",
+          "title": "Tourism Fiji",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=VyFkwLIi0AU"
         },
@@ -779,7 +779,7 @@
           "url": "https://www.youtube.com/watch?v=mO6_CKPVDWM"
         },
         {
-          "title": "Mamanuca Islands Guide",
+          "title": "Mamanuca Islands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=oQTWPkMv9Ts"
         }
@@ -975,17 +975,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Greece - Santorini",
+          "title": "Discover Greece - Santorini",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=vg4zF9Xd7TM"
         },
         {
-          "title": "Grace Hotel Santorini Tour",
-          "type": "hotel",
-          "url": "https://www.youtube.com/watch?v=oNmN7F1YKAM"
+          "title": "Santorini Island Tour 4K",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Ku3dj5sMlE8"
         },
         {
-          "title": "Santorini Sunset Experience",
+          "title": "Oia Sunset Santorini",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7zMQPJjBjJM"
         }
@@ -1071,17 +1071,17 @@
       ],
       "videos": [
         {
-          "title": "Castle Howard Official Tour",
+          "title": "Castle Howard Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=oR0t_9wZTME"
         },
         {
-          "title": "Yorkshire Estates & Gardens",
+          "title": "Yorkshire Estates",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lSqQ0cVQj7c"
         },
         {
-          "title": "Bridgerton Filming Locations",
+          "title": "Bridgerton Locations",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qQF3K9a-jTc"
         }
@@ -1179,14 +1179,14 @@
       ],
       "videos": [
         {
-          "title": "Esperanza Resort Cabo Tour",
-          "type": "hotel",
-          "url": "https://www.youtube.com/watch?v=EXYcAYs-g7Y"
-        },
-        {
-          "title": "Los Cabos Luxury Experience",
+          "title": "Los Cabos Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=TSFQWP_XTQA"
+        },
+        {
+          "title": "Esperanza Resort Cabo",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=EXYcAYs-g7Y"
         },
         {
           "title": "Cabo Whale Watching",
@@ -1476,12 +1476,12 @@
       ],
       "videos": [
         {
-          "title": "Amazing Thailand Official",
+          "title": "Amazing Thailand",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=LSpk7a9kRoI"
         },
         {
-          "title": "Amanpuri Phuket Resort Tour",
+          "title": "Amanpuri Phuket",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=Mxn_5T0LXYM"
         },
@@ -1590,12 +1590,12 @@
           "url": "https://www.youtube.com/watch?v=m8nYnVz-2nY"
         },
         {
-          "title": "Four Seasons Bali at Sayan",
+          "title": "Four Seasons Bali",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=vPHXAljQh0g"
         },
         {
-          "title": "Ubud Rice Terraces Experience",
+          "title": "Ubud Rice Terraces Bali",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=kQ7s0k9vptk"
         }
@@ -1682,17 +1682,17 @@
       ],
       "videos": [
         {
-          "title": "Inspired by Iceland Official",
+          "title": "Inspired by Iceland",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=QwfT1KoO7nU"
         },
         {
-          "title": "Blue Lagoon Iceland Experience",
+          "title": "Blue Lagoon Iceland",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=2eAZtH2QTBI"
         },
         {
-          "title": "Golden Circle Iceland Tour",
+          "title": "Iceland Golden Circle",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6Zf4WvKi-JU"
         }
@@ -1780,17 +1780,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Jamaica Official",
+          "title": "Visit Jamaica",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=n8cq7v5xQLE"
         },
         {
-          "title": "Sandals Royal Caribbean Tour",
+          "title": "Sandals Jamaica Resort",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=vF3TzWUwrMw"
         },
         {
-          "title": "Dunn's River Falls Experience",
+          "title": "Dunn's River Falls",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Ht5MrP3jZgE"
         }
@@ -1893,12 +1893,12 @@
           "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
         },
         {
-          "title": "Conrad Maldives Rangali Island",
+          "title": "Conrad Maldives Resort",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=rNz-83RpVKk"
         },
         {
-          "title": "Underwater Restaurant Maldives",
+          "title": "Maldives Overwater Villa",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=vE4kFwJNXtA"
         }
@@ -1992,12 +1992,12 @@
           "url": "https://www.youtube.com/watch?v=P8PLiaYXmfY"
         },
         {
-          "title": "Queenstown Adventure Capital",
+          "title": "Queenstown Adventure",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=1vvJIJMgJVI"
         },
         {
-          "title": "Milford Sound Cruise",
+          "title": "Milford Sound NZ",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=BvKd8Mf8o7I"
         }
@@ -2084,17 +2084,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Scotland Official",
+          "title": "Visit Scotland",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=fInoNz-5Rho"
         },
         {
-          "title": "Loch Ness & Highlands Tour",
+          "title": "Loch Ness Highlands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=kAZD3OQhxPQ"
         },
         {
-          "title": "Isle of Skye Journey",
+          "title": "Isle of Skye",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=3vvN8GHOQTI"
         }
@@ -2193,17 +2193,17 @@
       ],
       "videos": [
         {
-          "title": "Paris Je T'aime Official",
+          "title": "Paris - City of Love",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=XKf8jSiaghU"
         },
         {
-          "title": "Eiffel Tower Experience",
+          "title": "Eiffel Tower Paris",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=dt_N2SfMt7M"
         },
         {
-          "title": "Romantic Paris Walking Tour",
+          "title": "Paris Walking Tour 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=rKPJl6lhMmU"
         }
@@ -2297,12 +2297,12 @@
           "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
         },
         {
-          "title": "Grace Bay Beach Experience",
+          "title": "Grace Bay Experience",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
         },
         {
-          "title": "Providenciales Island Tour",
+          "title": "Providenciales Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=5fQ0mAj1L9k"
         }
@@ -2486,19 +2486,19 @@
       ],
       "videos": [
         {
-          "title": "Visit Dubai Official",
+          "title": "Visit Dubai - Dubai Awaits",
           "type": "tourism",
-          "url": "https://www.youtube.com/watch?v=WmzMoGdqEEU"
+          "url": "https://www.youtube.com/watch?v=kH2vXqkZ-tQ"
         },
         {
-          "title": "Atlantis The Palm Tour",
+          "title": "Atlantis The Palm Dubai",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=Kz1mzVPsXkg"
         },
         {
-          "title": "Dubai Aquarium & Underwater Zoo",
+          "title": "Dubai City Tour 4K",
           "type": "experience",
-          "url": "https://www.youtube.com/watch?v=zF3_m8JNHWE"
+          "url": "https://www.youtube.com/watch?v=SXGt0EeOwFg"
         }
       ]
     },
@@ -2589,7 +2589,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Mallorca Official",
+          "title": "Visit Mallorca",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=QqvUz0pIpis"
         },
@@ -2599,7 +2599,7 @@
           "url": "https://www.youtube.com/watch?v=O3iqhXsUd5Y"
         },
         {
-          "title": "Mallorca Beach Guide",
+          "title": "Mallorca Beaches",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=NmvmIGLH0qw"
         }
@@ -2685,17 +2685,17 @@
       ],
       "videos": [
         {
-          "title": "South Africa Tourism Official",
+          "title": "South Africa Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=hMZ0eFwBdMU"
         },
         {
-          "title": "Table Mountain Cable Car",
+          "title": "Table Mountain",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7Fq3kR3O2jU"
         },
         {
-          "title": "Cape Winelands Tour",
+          "title": "Cape Winelands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=yVvxl5O3YDk"
         }
@@ -2782,17 +2782,17 @@
       ],
       "videos": [
         {
-          "title": "Croatia Full of Life Official",
+          "title": "Croatia Full of Life",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=_J5_Rf5R6dY"
         },
         {
-          "title": "Dubrovnik Old Town Tour",
+          "title": "Dubrovnik Old Town",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=9D0LNnFSI0E"
         },
         {
-          "title": "Game of Thrones Dubrovnik",
+          "title": "Game of Thrones Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mLKHaakPJSE"
         }
@@ -2880,12 +2880,12 @@
       ],
       "videos": [
         {
-          "title": "Visit Las Vegas Official",
+          "title": "Visit Las Vegas",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Be2NK8HQNYY"
         },
         {
-          "title": "Las Vegas Strip Walking Tour",
+          "title": "Las Vegas Strip Walk 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=PxWkv2sTFwQ"
         },
@@ -2982,12 +2982,12 @@
           "url": "https://www.youtube.com/watch?v=t5R0zVvILs8"
         },
         {
-          "title": "South Beach Art Deco Tour",
+          "title": "South Beach Art Deco",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7WrGy3p9kn8"
         },
         {
-          "title": "Miami Beach Nightlife Guide",
+          "title": "Miami Beach Walk 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=a8tq4GdPfUI"
         }
@@ -3073,17 +3073,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Music City Official",
+          "title": "Visit Music City",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=QkhZuYDv5zE"
         },
         {
-          "title": "Broadway Honky Tonks Tour",
+          "title": "Broadway Nashville Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8R-bL0hKpM8"
         },
         {
-          "title": "Nashville Food Tour",
+          "title": "Nashville Food & Music",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=QY3pPn12ql8"
         }
@@ -3169,17 +3169,17 @@
       ],
       "videos": [
         {
-          "title": "Choose Chicago Official",
+          "title": "Choose Chicago",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=hqd3O-yP6zQ"
         },
         {
-          "title": "Chicago Architecture Boat Tour",
+          "title": "Chicago Architecture Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TxK7VCVs7DU"
         },
         {
-          "title": "Millennium Park & The Bean",
+          "title": "Millennium Park Chicago",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=DHq6dQ0ATDY"
         }
@@ -3267,17 +3267,17 @@
       ],
       "videos": [
         {
-          "title": "Go Dominican Republic",
+          "title": "Dominican Republic Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=5pGYp8Yl8Ek"
         },
         {
-          "title": "Punta Cana Beach Resort Life",
+          "title": "Punta Cana Resorts",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TrMX1dVV_FM"
         },
         {
-          "title": "Saona Island Day Trip",
+          "title": "Saona Island Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=WxPyJEJO9g0"
         }
@@ -3362,17 +3362,17 @@
       ],
       "videos": [
         {
-          "title": "Colombia Travel Official",
+          "title": "Colombia Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Q3xfZh9r-vs"
         },
         {
-          "title": "Cartagena Walled City Tour",
+          "title": "Cartagena Walled City",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8dKGqTgKHyM"
         },
         {
-          "title": "Rosario Islands Boat Trip",
+          "title": "Rosario Islands Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mV9qe8jABFk"
         }
@@ -3457,17 +3457,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Stockholm Official",
+          "title": "Visit Stockholm",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
         },
         {
-          "title": "Gamla Stan Old Town Walk",
+          "title": "Gamla Stan Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=PmP6WKXn5aM"
         },
         {
-          "title": "ABBA Museum Experience",
+          "title": "ABBA Museum",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=4bGHsZGPrzA"
         }
@@ -3552,17 +3552,17 @@
       ],
       "videos": [
         {
-          "title": "Tokyo Tokyo Official",
+          "title": "Tokyo Tokyo - Always Discovering",
           "type": "tourism",
-          "url": "https://www.youtube.com/watch?v=DJLvyFjdqXU"
+          "url": "https://www.youtube.com/watch?v=A0F61fsD2g0"
         },
         {
-          "title": "Shibuya Crossing Experience",
+          "title": "Tokyo City Walk 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6q5USYTnfqo"
         },
         {
-          "title": "Tokyo Street Food Tour",
+          "title": "Shibuya Crossing Tokyo",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=sQRpz_1p7iU"
         }
@@ -3655,12 +3655,12 @@
           "url": "https://www.youtube.com/watch?v=5mKzXk_lqAI"
         },
         {
-          "title": "Visit Manchester Official",
+          "title": "Visit Manchester",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=s3lL8FFdPZU"
         },
         {
-          "title": "The Circle Filming Location",
+          "title": "The Circle Location",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=wXvJ1YqvXoA"
         }
@@ -3762,12 +3762,12 @@
           "url": "https://www.youtube.com/watch?v=c0ijYCIbfag"
         },
         {
-          "title": "North Shore Surf Guide",
+          "title": "North Shore Oahu Surf",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=2RWrFJp3hLU"
         },
         {
-          "title": "Pipeline & Waimea Bay",
+          "title": "Pipeline Beach Hawaii",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=dPvZdjRtE3c"
         }
@@ -3854,17 +3854,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Morocco Official",
+          "title": "Visit Morocco",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=nGfnxUK5bLs"
         },
         {
-          "title": "Marrakech Medina Tour",
+          "title": "Marrakech Medina",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=1GW-JdU1l2c"
         },
         {
-          "title": "Atlas Mountains Day Trip",
+          "title": "Atlas Mountains Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Qp-4nJpJJPk"
         }
@@ -3951,7 +3951,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Korea Official",
+          "title": "Visit Korea",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=KD3C5nPJHj4"
         },
@@ -3961,7 +3961,7 @@
           "url": "https://www.youtube.com/watch?v=m2UKbDLuD2w"
         },
         {
-          "title": "Korean Islands Paradise",
+          "title": "Korean Islands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Z4HKQG-1z7E"
         }
@@ -4050,17 +4050,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Atlanta Official",
+          "title": "Visit Atlanta",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=sKxYRLH7YEY"
         },
         {
-          "title": "Atlanta Entertainment District",
+          "title": "Atlanta Attractions",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=y8rPoHI5MFU"
         },
         {
-          "title": "Georgia Aquarium & Attractions",
+          "title": "Georgia Aquarium",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=SqcFZ5VJZy0"
         }
@@ -4149,12 +4149,12 @@
       ],
       "videos": [
         {
-          "title": "Visit Washington DC Official",
+          "title": "Visit Washington DC",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=A-Y9Aopq-RA"
         },
         {
-          "title": "DC Monuments & Museums",
+          "title": "DC Monuments",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=T0Jqdjbed40"
         },
@@ -4261,7 +4261,7 @@
           "url": "https://www.youtube.com/watch?v=_0_oVZdGT4E"
         },
         {
-          "title": "Paulista Avenue & Ibirapuera",
+          "title": "Paulista Avenue",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=b-KLqTTp7QA"
         }
@@ -4353,7 +4353,7 @@
         {
           "title": "Tokyo Tourism Official",
           "type": "tourism",
-          "url": "https://www.youtube.com/watch?v=DJLvyFjdqXU"
+          "url": "https://www.youtube.com/watch?v=A0F61fsD2g0"
         },
         {
           "title": "Tokyo Dating Spots",
@@ -4361,7 +4361,7 @@
           "url": "https://www.youtube.com/watch?v=7FJMB_f0VB4"
         },
         {
-          "title": "Shibuya & Harajuku",
+          "title": "Shibuya & Harajuku Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6q5USYTnfqo"
         }
@@ -4450,7 +4450,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Stockholm Official",
+          "title": "Visit Stockholm",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
         },
@@ -4460,7 +4460,7 @@
           "url": "https://www.youtube.com/watch?v=8sFKBBZjrQE"
         },
         {
-          "title": "Swedish Lifestyle & Culture",
+          "title": "Swedish Culture",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=2GKxqQ9WNUA"
         }
@@ -4568,7 +4568,7 @@
           "url": "https://www.youtube.com/watch?v=Iq_M3C8a7kQ"
         },
         {
-          "title": "Malibu Wine Safari",
+          "title": "Malibu Wine Country",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=4m9vJhPwqkQ"
         }
@@ -4675,7 +4675,7 @@
           "url": "https://www.youtube.com/watch?v=VmH89aNQo4A"
         },
         {
-          "title": "Sedona Vortex Experience",
+          "title": "Sedona Vortex Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qMxM7b4jxXo"
         }
@@ -4771,17 +4771,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Victoria Official",
+          "title": "Visit Victoria - Melbourne",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=XnqfAzevVLY"
         },
         {
-          "title": "Melbourne Laneways & Street Art",
+          "title": "Melbourne Laneways",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_oW7p_KLF5o"
         },
         {
-          "title": "Great Ocean Road Drive",
+          "title": "Great Ocean Road",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=3X85s2e0jRo"
         }
@@ -4878,12 +4878,12 @@
       ],
       "videos": [
         {
-          "title": "Tourism Fiji Official",
+          "title": "Tourism Fiji",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=VyFkwLIi0AU"
         },
         {
-          "title": "Denarau Island Resort Tour",
+          "title": "Denarau Island Resort",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=9V_R5AaYhB8"
         },
@@ -4985,7 +4985,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Barcelona Official",
+          "title": "Visit Barcelona",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=khWzf-b5vU0"
         },
@@ -4995,7 +4995,7 @@
           "url": "https://www.youtube.com/watch?v=kkNGdzo_3EA"
         },
         {
-          "title": "Barcelona Beach & Nightlife",
+          "title": "Barcelona City Walk 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=cJcVCXnUa-4"
         }
@@ -5107,12 +5107,12 @@
           "url": "https://www.youtube.com/watch?v=E5Q7CcILxyU"
         },
         {
-          "title": "Tulum Ruins & Beach",
+          "title": "Tulum Ruins Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=XFW-qwA5M7E"
         },
         {
-          "title": "Cenotes of Tulum",
+          "title": "Tulum Cenotes",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=X5s0z9BxaUU"
         }
@@ -5215,15 +5215,15 @@
         {
           "title": "Visit Dubai Official",
           "type": "tourism",
-          "url": "https://www.youtube.com/watch?v=WmzMoGdqEEU"
+          "url": "https://www.youtube.com/watch?v=kH2vXqkZ-tQ"
         },
         {
-          "title": "Burj Khalifa At The Top",
+          "title": "Burj Khalifa Experience",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=I3Bs7cA8G-g"
         },
         {
-          "title": "Desert Safari Dubai",
+          "title": "Dubai Desert Safari",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TgI-71KlsQw"
         }
@@ -5312,17 +5312,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Argentina Official",
+          "title": "Visit Argentina",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=WDNwzMbhq7g"
         },
         {
-          "title": "Buenos Aires Tango Show",
+          "title": "Buenos Aires Tango",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=E3eBePq6dls"
         },
         {
-          "title": "La Boca & San Telmo Tour",
+          "title": "La Boca Buenos Aires",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=5L5HqUc4IWE"
         }
@@ -5411,17 +5411,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Berlin Official",
+          "title": "Visit Berlin",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Zj8n-J_RFVU"
         },
         {
-          "title": "Berlin Wall & History Tour",
+          "title": "Berlin Wall History",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=fzn-j5k8bKE"
         },
         {
-          "title": "Berlin Nightlife Guide",
+          "title": "Berlin Nightlife",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=FqL5i_r1dJA"
         }
@@ -5511,17 +5511,17 @@
       ],
       "videos": [
         {
-          "title": "Destination NSW - Hunter Valley",
+          "title": "Visit NSW - Hunter Valley",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=WTWbCrpZTGU"
         },
         {
-          "title": "Hunter Valley Wine Tasting",
+          "title": "Hunter Valley Wine",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8sSKHFDPV2s"
         },
         {
-          "title": "Hot Air Balloon Hunter Valley",
+          "title": "Hot Air Balloon",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=iJ3MrLqQ_Yk"
         }
@@ -5612,17 +5612,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Mexico - Puerto Vallarta",
+          "title": "Visit Puerto Vallarta",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=7Q8pJpKz-lw"
         },
         {
-          "title": "Malecon Boardwalk Tour",
+          "title": "Malecon Boardwalk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=UEn1x8vqVgg"
         },
         {
-          "title": "Marietas Islands Hidden Beach",
+          "title": "Marietas Islands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=lPX8qNMBCXU"
         }
@@ -5713,17 +5713,17 @@
       ],
       "videos": [
         {
-          "title": "Visit French Riviera Official",
+          "title": "French Riviera Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=3GnNLQFhF80"
         },
         {
-          "title": "Cannes Film Festival Vibes",
+          "title": "Cannes Film Festival",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=xkBQN3dy3Uk"
         },
         {
-          "title": "C\u00f4te d'Azur Beach Guide",
+          "title": "C\u00f4te d'Azur Beaches",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=pXDYFYdDXOo"
         }
@@ -5813,17 +5813,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Cotswolds Official",
+          "title": "Visit Cotswolds",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=nT4k-lxGZLA"
         },
         {
-          "title": "Cotswolds Villages Tour",
+          "title": "Cotswolds Villages",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6KfnBcHBLFQ"
         },
         {
-          "title": "English Countryside Charm",
+          "title": "English Countryside",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=2sQPKP-hNls"
         }
@@ -5922,7 +5922,7 @@
           "url": "https://www.youtube.com/watch?v=Lr5gE8EO7lY"
         },
         {
-          "title": "Andes Mountain Views",
+          "title": "Andes Mountains",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mYrj3NmJHuk"
         }
@@ -6012,17 +6012,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Bavaria Official",
+          "title": "Visit Bavaria",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=VjwQc_sIjKU"
         },
         {
-          "title": "Neuschwanstein Castle Tour",
+          "title": "Neuschwanstein Castle",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=n7MI7XPJcI0"
         },
         {
-          "title": "Bavarian Alps Adventure",
+          "title": "Bavarian Alps",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=RZZJqfq-8mE"
         }
@@ -6113,7 +6113,7 @@
       ],
       "videos": [
         {
-          "title": "Explore Charleston Official",
+          "title": "Explore Charleston",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=7B0U3DpZXog"
         },
@@ -6123,7 +6123,7 @@
           "url": "https://www.youtube.com/watch?v=ufDc7knQqKc"
         },
         {
-          "title": "Rainbow Row & Waterfront",
+          "title": "Rainbow Row Charleston",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mJQVJvnH1H0"
         }
@@ -6313,17 +6313,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Costa Rica Official",
+          "title": "Visit Costa Rica",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=RLYoqGh5wZU"
         },
         {
-          "title": "Manuel Antonio National Park",
+          "title": "Manuel Antonio Park",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=zZLfxnuW1Jg"
         },
         {
-          "title": "Costa Rica Wildlife & Beaches",
+          "title": "Costa Rica Wildlife",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=wXLB5sXbRGo"
         }
@@ -6414,17 +6414,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Panama Official",
+          "title": "Visit Panama",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=0R-4-kJCsA4"
         },
         {
-          "title": "Bocas del Toro Islands",
+          "title": "Bocas del Toro",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_4mBJRlN0qg"
         },
         {
-          "title": "Panama Beaches & Jungle",
+          "title": "Panama Beaches",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=K8bEWuqfusc"
         }
@@ -6515,17 +6515,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Lake Tahoe Official",
+          "title": "Visit Lake Tahoe",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=E9cLq8n5CbE"
         },
         {
-          "title": "Emerald Bay State Park",
+          "title": "Emerald Bay Tahoe",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=OGRNdv1xVWQ"
         },
         {
-          "title": "Lake Tahoe Skiing & Beach",
+          "title": "Lake Tahoe Activities",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=N5R1Q6Pb0ac"
         }
@@ -6617,7 +6617,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Auckland Official",
+          "title": "Visit Auckland",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=TBNzRfLl8kE"
         },
@@ -6627,7 +6627,7 @@
           "url": "https://www.youtube.com/watch?v=OqQPK6h_eiM"
         },
         {
-          "title": "Waiheke Island Wine Tour",
+          "title": "Waiheke Island Wine",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=fYX_5dqL0qY"
         }
@@ -6724,17 +6724,17 @@
       ],
       "videos": [
         {
-          "title": "Destination NSW Official",
+          "title": "Visit NSW - Sydney",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=WQ_jKp3W1Tg"
         },
         {
-          "title": "Sydney Opera House Tour",
+          "title": "Sydney Opera House",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=e4aGH-BxGXE"
         },
         {
-          "title": "Bondi to Coogee Walk",
+          "title": "Bondi Beach Sydney",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=LT4BhNo_ixU"
         }
@@ -6824,17 +6824,17 @@
       ],
       "videos": [
         {
-          "title": "South Africa Tourism - Joburg",
+          "title": "South Africa - Joburg",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=sXFMBWJDxsA"
         },
         {
-          "title": "Apartheid Museum Tour",
+          "title": "Apartheid Museum",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mHjk0v3hLQ4"
         },
         {
-          "title": "Soweto Tour Experience",
+          "title": "Soweto Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=4LzHDa8W_Zk"
         }
@@ -6929,12 +6929,12 @@
           "url": "https://www.youtube.com/watch?v=wHkj4SVFXEY"
         },
         {
-          "title": "Knysna & Plettenberg Bay",
+          "title": "Knysna Plettenberg Bay",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=KmCbgGa3v0c"
         },
         {
-          "title": "Tsitsikamma National Park",
+          "title": "Tsitsikamma Park",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=DKA9bWfxMVU"
         }
@@ -7030,12 +7030,12 @@
           "url": "https://www.youtube.com/watch?v=fInoNz-5Rho"
         },
         {
-          "title": "Scottish Highlands Road Trip",
+          "title": "Highlands Road Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=3vvN8GHOQTI"
         },
         {
-          "title": "Loch Ness & Inverness",
+          "title": "Loch Ness Inverness",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=kAZD3OQhxPQ"
         }
@@ -7142,17 +7142,17 @@
       ],
       "videos": [
         {
-          "title": "Aspen Snowmass Official",
+          "title": "Aspen Snowmass",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=V8XqRaafBFQ"
         },
         {
-          "title": "Aspen Skiing Experience",
+          "title": "Aspen Skiing",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_2WYU8ZxF0s"
         },
         {
-          "title": "Maroon Bells Scenic Area",
+          "title": "Maroon Bells Aspen",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7Wm4xgE1eCk"
         }
@@ -7263,12 +7263,12 @@
           "url": "https://www.youtube.com/watch?v=OWY_V_j6bxE"
         },
         {
-          "title": "Road to Hana Journey",
+          "title": "Road to Hana Maui",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=NKUn1_3BO7g"
         },
         {
-          "title": "Maui Sunrise at Haleakala",
+          "title": "Maui Beaches Guide",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Pt7r4D5N_pM"
         }
@@ -7460,17 +7460,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Los Cabos Official",
+          "title": "Visit Los Cabos",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=TSFQWP_XTQA"
         },
         {
-          "title": "El Arco Boat Tour",
+          "title": "El Arco Cabo Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=R_PqD9E5FwU"
         },
         {
-          "title": "Cabo Beach & Resort Guide",
+          "title": "Cabo Beach Guide",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=P9Gp1Y1Q-Ks"
         }
@@ -7564,12 +7564,12 @@
           "url": "https://www.youtube.com/watch?v=7sW7cH8nPew"
         },
         {
-          "title": "Seven Mile Beach Guide",
+          "title": "Seven Mile Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=QlLJSdqnJPo"
         },
         {
-          "title": "Stingray City Adventure",
+          "title": "Stingray City Cayman",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=sF8RFGN2n_U"
         }
@@ -7668,7 +7668,7 @@
           "url": "https://www.youtube.com/watch?v=5pGYp8Yl8Ek"
         },
         {
-          "title": "Punta Cana All-Inclusive Life",
+          "title": "Punta Cana Beach Life",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TrMX1dVV_FM"
         },
@@ -7769,12 +7769,12 @@
           "url": "https://www.youtube.com/watch?v=uEKMhLQ2HdA"
         },
         {
-          "title": "Gateway of India Tour",
+          "title": "Gateway of India",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=N8R0Pk_JxGE"
         },
         {
-          "title": "Mumbai Street Food Tour",
+          "title": "Mumbai Street Food",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=CnKGSoxQSxU"
         }
@@ -7869,7 +7869,7 @@
           "url": "https://www.youtube.com/watch?v=hkOTJq2oYQY"
         },
         {
-          "title": "Tel Aviv Beach Life",
+          "title": "Tel Aviv Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=NuB7QhU9RcA"
         },
@@ -7964,17 +7964,17 @@
       "image": "https://images.unsplash.com/photo-1545419913-775e2e0c79db?w=800",
       "videos": [
         {
-          "title": "Visit Music City Official",
+          "title": "Visit Music City",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=QkhZuYDv5zE"
         },
         {
-          "title": "Broadway Honky Tonks Tour",
+          "title": "Broadway Nashville Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8R-bL0hKpM8"
         },
         {
-          "title": "Nashville Food Tour",
+          "title": "Nashville Food & Music",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=QY3pPn12ql8"
         }
@@ -8063,17 +8063,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Boston Official",
+          "title": "Visit Boston",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=0PMC6LeE1OM"
         },
         {
-          "title": "Freedom Trail Walking Tour",
+          "title": "Freedom Trail Boston",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8xfPVkJKSgE"
         },
         {
-          "title": "Boston Harbor & Waterfront",
+          "title": "Boston Harbor Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qEQlz-ZqZEk"
         }
@@ -8164,17 +8164,17 @@
       ],
       "videos": [
         {
-          "title": "San Diego Tourism Official",
+          "title": "San Diego Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=MYe5k3rYn_I"
         },
         {
-          "title": "San Diego Zoo Experience",
+          "title": "San Diego Zoo Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=zQMZPJ2HmUk"
         },
         {
-          "title": "La Jolla Cove & Beaches",
+          "title": "La Jolla Cove Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=nHDUDN7FOLE"
         }
@@ -8271,17 +8271,17 @@
       ],
       "videos": [
         {
-          "title": "New Orleans Tourism Official",
+          "title": "New Orleans Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=2uCPq5M8HJI"
         },
         {
-          "title": "French Quarter Walking Tour",
+          "title": "French Quarter Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=dJmI7F0FWVU"
         },
         {
-          "title": "New Orleans Jazz & Food",
+          "title": "New Orleans Jazz",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=D6MhMBfkPdM"
         }
@@ -8375,7 +8375,7 @@
           "url": "https://www.youtube.com/watch?v=oR0t_9wZTME"
         },
         {
-          "title": "Visit Yorkshire Official",
+          "title": "Visit Yorkshire",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=_k8yPvJpK6Y"
         },
@@ -8476,12 +8476,12 @@
           "url": "https://www.youtube.com/watch?v=oFdUHrFgTS8"
         },
         {
-          "title": "Jaipur Pink City Tour",
+          "title": "Jaipur Pink City",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=s9S5K0gNz8E"
         },
         {
-          "title": "Udaipur Palace & Lakes",
+          "title": "Udaipur Palace",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=JlgQXlKfRvM"
         }
@@ -8571,17 +8571,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Greater Palm Springs",
+          "title": "Greater Palm Springs",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Nd7TfNrBXhQ"
         },
         {
-          "title": "Palm Springs Aerial Tramway",
+          "title": "Palm Springs Tramway",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_2eXvmTh2sU"
         },
         {
-          "title": "Joshua Tree Day Trip",
+          "title": "Joshua Tree Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=HJWfG5Phjzk"
         }
@@ -8771,7 +8771,7 @@
       ],
       "videos": [
         {
-          "title": "Travel Alaska Official",
+          "title": "Travel Alaska",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=G6BtSYkE5zE"
         },
@@ -8872,17 +8872,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Ethiopia Official",
+          "title": "Visit Ethiopia",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=pPPUO4eW7Rs"
         },
         {
-          "title": "Addis Ababa City Tour",
+          "title": "Addis Ababa Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=HLBY9yDqeOc"
         },
         {
-          "title": "Ethiopian Coffee Ceremony",
+          "title": "Ethiopian Coffee",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=XKf3vWGLJVg"
         }
@@ -8973,17 +8973,17 @@
       ],
       "videos": [
         {
-          "title": "Go Turkey Official",
+          "title": "Go Turkey",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=s2aVXzGBYXs"
         },
         {
-          "title": "Hagia Sophia & Blue Mosque",
+          "title": "Hagia Sophia Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=9RXKR5mJ1K8"
         },
         {
-          "title": "Grand Bazaar Shopping",
+          "title": "Grand Bazaar Istanbul",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=R5rVcQRBhfQ"
         }
@@ -9073,12 +9073,12 @@
       ],
       "videos": [
         {
-          "title": "Mauritius Tourism Official",
+          "title": "Mauritius Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=5nTj5bWBJzY"
         },
         {
-          "title": "Le Morne Beach & Mountain",
+          "title": "Le Morne Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=YR7NKBhTjEU"
         },
@@ -9174,12 +9174,12 @@
       ],
       "videos": [
         {
-          "title": "Sunny Side of Life Maldives",
+          "title": "Maldives - Sunny Side of Life",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
         },
         {
-          "title": "Maldives Luxury Resort Life",
+          "title": "Maldives Resort Tour",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=hnKpL4p8UxU"
         },
@@ -9286,12 +9286,12 @@
       ],
       "videos": [
         {
-          "title": "Imagine Your Korea Official",
+          "title": "Imagine Your Korea",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=WvRQ6lKTvpg"
         },
         {
-          "title": "Myeongdong Shopping District",
+          "title": "Myeongdong Seoul",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6u_h4QrdQl8"
         },
@@ -9388,17 +9388,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Jeju Official",
+          "title": "Visit Jeju Island",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=nWIQo1HZpVY"
         },
         {
-          "title": "Hallasan Mountain Hike",
+          "title": "Hallasan Mountain",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Dn8qMI6v_kI"
         },
         {
-          "title": "Jeju Beach & Waterfalls",
+          "title": "Jeju Beaches",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=CwCnEqRj7N0"
         }
@@ -9492,12 +9492,12 @@
           "url": "https://www.youtube.com/watch?v=R9-gB-q7LQU"
         },
         {
-          "title": "Karuizawa Resort Town",
+          "title": "Karuizawa Resort",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=87pLwfJCvH4"
         },
         {
-          "title": "Stone Church Karuizawa",
+          "title": "Stone Church",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mM_HS_FX7fY"
         }
@@ -9589,7 +9589,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Kyoto Official",
+          "title": "Discover Kyoto Japan",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=xOVF5WKN3CE"
         },
@@ -9599,7 +9599,7 @@
           "url": "https://www.youtube.com/watch?v=CfBDYr7vfNQ"
         },
         {
-          "title": "Arashiyama Bamboo Grove",
+          "title": "Arashiyama Bamboo Forest",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qCQaNcvnmQ0"
         }
@@ -9689,17 +9689,17 @@
       "image": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800",
       "videos": [
         {
-          "title": "Visit Stockholm Official",
+          "title": "Visit Stockholm",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
         },
         {
-          "title": "Gamla Stan Old Town Walk",
+          "title": "Gamla Stan Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=PmP6WKXn5aM"
         },
         {
-          "title": "ABBA Museum Experience",
+          "title": "ABBA Museum",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=4bGHsZGPrzA"
         }
@@ -9793,17 +9793,17 @@
       ],
       "videos": [
         {
-          "title": "Tourism Whitsundays Official",
+          "title": "Tourism Whitsundays",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=tLGAVKC8fmo"
         },
         {
-          "title": "Whitehaven Beach Experience",
+          "title": "Whitehaven Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=5Ga7HxKxFPA"
         },
         {
-          "title": "Great Barrier Reef Snorkeling",
+          "title": "Great Barrier Reef",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=P8gYs6pkxMM"
         }
@@ -9895,7 +9895,7 @@
       ],
       "videos": [
         {
-          "title": "Visit Italy - Amalfi Coast",
+          "title": "Visit Italy - Amalfi",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=RiLknkUVnvg"
         },
@@ -9905,7 +9905,7 @@
           "url": "https://www.youtube.com/watch?v=tPc1V2P5_5M"
         },
         {
-          "title": "Amalfi Coast Boat Tour",
+          "title": "Amalfi Coast Boat",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8J7HgVZxNbY"
         }
@@ -10101,17 +10101,17 @@
       ],
       "videos": [
         {
-          "title": "Visit Manchester Official",
+          "title": "Visit Manchester",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=s3lL8FFdPZU"
         },
         {
-          "title": "Manchester Football & Culture",
+          "title": "Manchester Football",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=a1LfBb6FvJU"
         },
         {
-          "title": "Northern Quarter Tour",
+          "title": "Northern Quarter",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=3pFlbvA6fwY"
         }
@@ -10207,7 +10207,7 @@
           "url": "https://www.youtube.com/watch?v=8-Dv0_DzjsU"
         },
         {
-          "title": "Coral Coast Beach Life",
+          "title": "Coral Coast Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=kJhzHxnqKrY"
         },
@@ -10654,12 +10654,12 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=St.%20Thomas%2C%20U.S.%20Virgin%20Islands%20Charlotte%20Amalie",
       "videos": [
         {
-          "title": "Visit USVI Official",
+          "title": "Visit USVI",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=VTcYl4bRTfI"
         },
         {
-          "title": "St. Thomas Beaches Guide",
+          "title": "St. Thomas Beaches",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_eiKYlJvXYI"
         },
@@ -10771,7 +10771,7 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Iceland%20Reykjavik",
       "videos": [
         {
-          "title": "Inspired by Iceland Official",
+          "title": "Inspired by Iceland",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=QwfT1KoO7nU"
         },
@@ -10781,7 +10781,7 @@
           "url": "https://www.youtube.com/watch?v=Q3HJm0jVL3Q"
         },
         {
-          "title": "Iceland Golden Circle",
+          "title": "Northern Lights Iceland",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=6Zf4WvKi-JU"
         }
@@ -10883,17 +10883,17 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Antigua%20St.%20John%27s",
       "videos": [
         {
-          "title": "Visit Antigua Official",
+          "title": "Visit Antigua",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lWcKR8aqbXU"
         },
         {
-          "title": "365 Beaches of Antigua",
+          "title": "365 Beaches Antigua",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=N3D8jqLNBU4"
         },
         {
-          "title": "Nelson's Dockyard Tour",
+          "title": "Nelson's Dockyard",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=sW5LT1ZDZ5k"
         }
@@ -11001,17 +11001,17 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Swiss%20Alps%20Interlaken",
       "videos": [
         {
-          "title": "Switzerland Tourism Official",
+          "title": "Switzerland Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=eJpgmc5JwYU"
         },
         {
-          "title": "Swiss Alps Train Journey",
+          "title": "Swiss Alps Train",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=5aD7Sn1dO0Y"
         },
         {
-          "title": "Interlaken & Jungfrau",
+          "title": "Interlaken Jungfrau",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=gWcORsZTmZY"
         }
@@ -11126,12 +11126,12 @@
           "url": "https://www.youtube.com/watch?v=vg4zF9Xd7TM"
         },
         {
-          "title": "Oia Sunset Experience",
+          "title": "Santorini Walking Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Ku3dj5sMlE8"
         },
         {
-          "title": "Santorini Wine Tasting",
+          "title": "Santorini Caldera Views",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=F8oE7LJMhMI"
         }
@@ -11252,7 +11252,7 @@
           "url": "https://www.youtube.com/watch?v=RiLknkUVnvg"
         },
         {
-          "title": "Positano Beach & Village",
+          "title": "Positano Beach Village",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=tPc1V2P5_5M"
         },
@@ -11370,12 +11370,12 @@
           "url": "https://www.youtube.com/watch?v=m8nYnVz-2nY"
         },
         {
-          "title": "Ubud Temple & Rice Fields",
+          "title": "Bali Island Guide",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=kQ7s0k9vptk"
         },
         {
-          "title": "Bali Beach Club Life",
+          "title": "Bali Beach & Culture",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=_ND7L3j9fOM"
         }
@@ -11498,17 +11498,17 @@
       "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800",
       "videos": [
         {
-          "title": "South Africa Tourism Official",
+          "title": "South Africa Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=hMZ0eFwBdMU"
         },
         {
-          "title": "Table Mountain Cable Car",
+          "title": "Table Mountain",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7Fq3kR3O2jU"
         },
         {
-          "title": "Cape Winelands Tour",
+          "title": "Cape Winelands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=yVvxl5O3YDk"
         }
@@ -11625,7 +11625,7 @@
           "url": "https://www.youtube.com/watch?v=GNJLpF_BF_A"
         },
         {
-          "title": "Phi Phi Islands Day Trip",
+          "title": "Phi Phi Islands Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TMZ5LMVTEZM"
         }
@@ -11733,7 +11733,7 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Queenstown%20Queenstown",
       "videos": [
         {
-          "title": "100% Pure New Zealand - Queenstown",
+          "title": "100% Pure New Zealand",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=P8PLiaYXmfY"
         },
@@ -11743,7 +11743,7 @@
           "url": "https://www.youtube.com/watch?v=z4VZqS1bXkY"
         },
         {
-          "title": "Milford Sound Day Trip",
+          "title": "Milford Sound Cruise",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=BvKd8Mf8o7I"
         }
@@ -11965,17 +11965,17 @@
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Napa%20Valley%20Napa",
       "videos": [
         {
-          "title": "Visit Napa Valley Official",
+          "title": "Visit Napa Valley",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=1c6vUg-a96E"
         },
         {
-          "title": "Napa Wine Train Experience",
+          "title": "Napa Wine Train",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Gn_vBQKKJ7U"
         },
         {
-          "title": "Hot Air Balloon Wine Country",
+          "title": "Hot Air Balloon Napa",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=SzZvfaAm6_A"
         }
@@ -12078,7 +12078,7 @@
       "image": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?w=800",
       "videos": [
         {
-          "title": "Visit Savannah Official",
+          "title": "Visit Savannah",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Hk9RXkL0Ez8"
         },
@@ -12088,7 +12088,7 @@
           "url": "https://www.youtube.com/watch?v=KZlQ5sDPflo"
         },
         {
-          "title": "Forsyth Park & Squares",
+          "title": "Forsyth Park Savannah",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=7LmL3hWxxEw"
         }
@@ -12211,7 +12211,7 @@
           "url": "https://www.youtube.com/watch?v=VmH89aNQo4A"
         },
         {
-          "title": "Sedona Vortex Experience",
+          "title": "Sedona Vortex Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qMxM7b4jxXo"
         }
@@ -12321,12 +12321,12 @@
           "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
         },
         {
-          "title": "Grace Bay Beach Tour",
+          "title": "Grace Bay Beach",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
         },
         {
-          "title": "Turks and Caicos Snorkeling",
+          "title": "TCI Snorkeling",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mHYvJqeblcU"
         }
@@ -12429,7 +12429,7 @@
       "image": "https://images.unsplash.com/photo-1555990538-1d0d55a56d36?w=800",
       "videos": [
         {
-          "title": "Croatia Tourism Official",
+          "title": "Croatia Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=_J5_Rf5R6dY"
         },
@@ -12439,7 +12439,7 @@
           "url": "https://www.youtube.com/watch?v=9D0LNnFSI0E"
         },
         {
-          "title": "Croatia Island Hopping",
+          "title": "Croatia Islands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=AYMHYz1w4yE"
         }
@@ -12545,17 +12545,17 @@
       "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
       "videos": [
         {
-          "title": "Paris Je T'aime Official",
+          "title": "Paris - City of Love",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=XKf8jSiaghU"
         },
         {
-          "title": "Eiffel Tower Experience",
+          "title": "Eiffel Tower Paris",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=dt_N2SfMt7M"
         },
         {
-          "title": "Romantic Paris Walking Tour",
+          "title": "Paris Walking Tour 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=rKPJl6lhMmU"
         }
@@ -12662,12 +12662,12 @@
           "url": "https://www.youtube.com/watch?v=j_S4B0ecbAU"
         },
         {
-          "title": "Lisbon Tram 28 Experience",
+          "title": "Lisbon Tram 28 Ride",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=u3jQcYECeyI"
         },
         {
-          "title": "Sintra Day Trip from Lisbon",
+          "title": "Sintra Day Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=CRJ2hxcOLgk"
         }
@@ -12774,12 +12774,12 @@
           "url": "https://www.youtube.com/watch?v=O68nh7LqxnA"
         },
         {
-          "title": "Amsterdam Canal Cruise",
+          "title": "Amsterdam Canal Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=MxJhQl5kw1w"
         },
         {
-          "title": "Anne Frank House & Museum District",
+          "title": "Amsterdam Walking Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=L5jRwnfMuH8"
         }
@@ -12882,17 +12882,17 @@
       "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
       "videos": [
         {
-          "title": "Visit Vietnam - Ha Long Bay",
+          "title": "Visit Vietnam",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=ZfSAq0kcNJQ"
         },
         {
-          "title": "Ha Long Bay Cruise Experience",
+          "title": "Ha Long Bay Cruise",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=LJb-w-sUPP4"
         },
         {
-          "title": "Kayaking Ha Long Bay",
+          "title": "Ha Long Bay Kayak",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=nC_N4EfWOlo"
         }
@@ -13000,12 +13000,12 @@
           "url": "https://www.youtube.com/watch?v=nGfnxUK5bLs"
         },
         {
-          "title": "Marrakech Souks & Medina",
+          "title": "Marrakech Souks Tour",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=1GW-JdU1l2c"
         },
         {
-          "title": "Majorelle Garden & Riads",
+          "title": "Majorelle Garden",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=hA5XKHw3TYk"
         }
@@ -13110,17 +13110,17 @@
       "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
       "videos": [
         {
-          "title": "Destination NSW - Byron Bay",
+          "title": "Visit NSW - Byron Bay",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=1hRGPqPcz8s"
         },
         {
-          "title": "Byron Bay Lighthouse Walk",
+          "title": "Byron Bay Lighthouse",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Z5tL8mjqJf0"
         },
         {
-          "title": "Byron Bay Beach & Surf",
+          "title": "Byron Bay Surf",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=YhJhTGYe0E0"
         }
@@ -13231,12 +13231,12 @@
       "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
       "videos": [
         {
-          "title": "Visit Maldives Official",
+          "title": "Visit Maldives",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
         },
         {
-          "title": "Maldives Overwater Villa Tour",
+          "title": "Overwater Villa Experience",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=TnZ_nh9jvzQ"
         },
@@ -13343,19 +13343,19 @@
       "image": "https://images.unsplash.com/photo-1579687196544-08b3e76c3131?w=800",
       "videos": [
         {
-          "title": "Discover Puerto Rico Official",
+          "title": "Discover Puerto Rico",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=I5pOKI6jgcs"
         },
         {
-          "title": "Old San Juan Walking Tour",
+          "title": "Old San Juan Walk",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=O7lzBu3NL7E"
         },
         {
-          "title": "Bioluminescent Bay",
+          "title": "Puerto Rico Beaches",
           "type": "experience",
-          "url": "https://www.youtube.com/watch?v=O7lzBu3NL7E"
+          "url": "https://www.youtube.com/watch?v=wZTkZeZRbhA"
         }
       ]
     },
@@ -13460,12 +13460,12 @@
           "url": "https://www.youtube.com/watch?v=4FIpE8sqvFE"
         },
         {
-          "title": "Key West Sunset Celebration",
+          "title": "Key West Sunset",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=HCRiYYrP5yk"
         },
         {
-          "title": "Duval Street & Old Town",
+          "title": "Duval Street Key West",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=AJQb4cBT5vU"
         }
@@ -13575,7 +13575,7 @@
       "image": "https://images.unsplash.com/photo-1569262587021-19635f0c3e5d?w=800",
       "videos": [
         {
-          "title": "Explore Charleston Official",
+          "title": "Explore Charleston SC",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=7B0U3DpZXog"
         },
@@ -13585,7 +13585,7 @@
           "url": "https://www.youtube.com/watch?v=PWf6t8aSHnE"
         },
         {
-          "title": "Magnolia Plantation & Gardens",
+          "title": "Magnolia Plantation",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=YFPD_90nrYA"
         }
@@ -13692,7 +13692,7 @@
           "url": "https://www.youtube.com/watch?v=fFLJwK_oSFg"
         },
         {
-          "title": "Bellagio & Villa Tours",
+          "title": "Bellagio Lake Como",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mEFd_C-sVbk"
         },
@@ -13800,17 +13800,17 @@
       "image": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?w=800",
       "videos": [
         {
-          "title": "Tahiti Tourism Official",
+          "title": "Tahiti Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=NNWvZZGkLbs"
         },
         {
-          "title": "Overwater Bungalow Experience",
+          "title": "Overwater Bungalow",
           "type": "hotel",
           "url": "https://www.youtube.com/watch?v=tl1E8yC-c4w"
         },
         {
-          "title": "Bora Bora Lagoon Snorkeling",
+          "title": "Bora Bora Lagoon",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=c8n_L6mf9Wc"
         }
@@ -13922,7 +13922,7 @@
       "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800",
       "videos": [
         {
-          "title": "Visit Barcelona Official",
+          "title": "Visit Barcelona",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=khWzf-b5vU0"
         },
@@ -13932,7 +13932,7 @@
           "url": "https://www.youtube.com/watch?v=kkNGdzo_3EA"
         },
         {
-          "title": "Barcelona Beach & Nightlife",
+          "title": "Barcelona City Walk 4K",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=cJcVCXnUa-4"
         }
@@ -14046,17 +14046,17 @@
       "image": "https://images.unsplash.com/photo-1583531172005-814892794972?w=800",
       "videos": [
         {
-          "title": "Colombia Travel Official",
+          "title": "Colombia Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=Q3xfZh9r-vs"
         },
         {
-          "title": "Cartagena Walled City Tour",
+          "title": "Cartagena Walled City",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8dKGqTgKHyM"
         },
         {
-          "title": "Rosario Islands Boat Trip",
+          "title": "Rosario Islands Trip",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=mV9qe8jABFk"
         }
@@ -14165,7 +14165,7 @@
       "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800",
       "videos": [
         {
-          "title": "Bahamas Tourism Official",
+          "title": "Bahamas Tourism",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=wGGsqZBfRKk"
         },
@@ -14175,7 +14175,7 @@
           "url": "https://www.youtube.com/watch?v=dYr9KxJ14Os"
         },
         {
-          "title": "Nassau & Paradise Island",
+          "title": "Nassau Paradise Island",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=KgFsXJAJbTQ"
         }
@@ -14277,17 +14277,17 @@
       "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=800",
       "videos": [
         {
-          "title": "Visit Vienna Official",
+          "title": "Visit Vienna",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=N6jXRKJY6YU"
         },
         {
-          "title": "Sch\u00f6nbrunn Palace Tour",
+          "title": "Sch\u00f6nbrunn Palace",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=iO4pI3hPXnY"
         },
         {
-          "title": "Vienna Coffee House Culture",
+          "title": "Vienna Coffee Culture",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=8tXUl-8Xf_U"
         }
@@ -14389,17 +14389,17 @@
       "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?w=800",
       "videos": [
         {
-          "title": "Go Hawaii - Kauai Garden Isle",
+          "title": "Go Hawaii - Kauai",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=IZTF7CBJPZU"
         },
         {
-          "title": "Na Pali Coast Tour",
+          "title": "Na Pali Coast Kauai",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=fF_qoTpSjgE"
         },
         {
-          "title": "Waimea Canyon Grand Canyon of Pacific",
+          "title": "Waimea Canyon Hawaii",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=TrWMBu8y5_g"
         }
@@ -14613,17 +14613,17 @@
       "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800",
       "videos": [
         {
-          "title": "Visit Singapore Official",
+          "title": "Visit Singapore",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=N5NcIBVJQWo"
         },
         {
-          "title": "Marina Bay Sands Experience",
+          "title": "Marina Bay Sands",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=q1bHZ5hHQWo"
         },
         {
-          "title": "Gardens by the Bay Night Show",
+          "title": "Gardens by the Bay",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=Ps1Z3ZxzPWg"
         }
@@ -14735,7 +14735,7 @@
           "url": "https://www.youtube.com/watch?v=5zABtgG7mvU"
         },
         {
-          "title": "McWay Falls & Bixby Bridge",
+          "title": "Bixby Bridge Big Sur",
           "type": "experience",
           "url": "https://www.youtube.com/watch?v=qWfuH7NvhFI"
         }
