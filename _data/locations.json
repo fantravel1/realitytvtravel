@@ -112,6 +112,23 @@
           "type": "nature",
           "distance": "10 miles"
         }
+      ],
+      "videos": [
+        {
+          "title": "Inside the Bachelor Mansion",
+          "type": "tour",
+          "url": "https://www.youtube.com/watch?v=jM7VKUbFAHU"
+        },
+        {
+          "title": "Malibu Wine Country Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qHJp6fC5G3Y"
+        },
+        {
+          "title": "Visit California - Malibu",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Xs2nQBAjy1Q"
+        }
       ]
     },
     {
@@ -212,6 +229,23 @@
           "type": "city",
           "distance": "45 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Sayulita Travel Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=PcjTLb5FUvo"
+        },
+        {
+          "title": "Riviera Nayarit Mexico",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=9l1Z1r7aRlU"
+        },
+        {
+          "title": "Hidden Beach Paradise Mexico",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kN-5KZPQ-Cw"
+        }
       ]
     },
     {
@@ -305,6 +339,23 @@
           "type": "snorkeling",
           "distance": "15 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Turks and Caicos Official Tourism",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
+        },
+        {
+          "title": "Grace Bay Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
+        },
+        {
+          "title": "Providenciales Island Tour",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=5fQ0mAj1L9k"
+        }
       ]
     },
     {
@@ -396,6 +447,23 @@
           "type": "activity",
           "distance": "boat trip"
         }
+      ],
+      "videos": [
+        {
+          "title": "Punta Mita Luxury Villas",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=dBF0Dz-GGvE"
+        },
+        {
+          "title": "Riviera Nayarit Beach Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=9l1Z1r7aRlU"
+        },
+        {
+          "title": "Mexico Pacific Coast",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=sWGJVSz_x-E"
+        }
       ]
     },
     {
@@ -486,6 +554,23 @@
           "name": "Akumal Beach",
           "type": "beach",
           "distance": "20 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Grand Velas Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=JWJ_NwvUGYw"
+        },
+        {
+          "title": "Riviera Maya Cenotes",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=X5s0z9BxaUU"
+        },
+        {
+          "title": "Playa del Carmen Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=oSYAqvD5ZxA"
         }
       ]
     },
@@ -582,6 +667,23 @@
           "type": "golf",
           "distance": "5 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Andaz Maui Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=u4j3-3qZFmw"
+        },
+        {
+          "title": "Wailea Beach Maui",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=HUYH3iDj8fM"
+        },
+        {
+          "title": "South Maui Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=OWY_V_j6bxE"
+        }
       ]
     },
     {
@@ -664,6 +766,23 @@
           "type": "landmark",
           "distance": "45 min boat"
         }
+      ],
+      "videos": [
+        {
+          "title": "Tourism Fiji Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=VyFkwLIi0AU"
+        },
+        {
+          "title": "Tokoriki Island Resort",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=mO6_CKPVDWM"
+        },
+        {
+          "title": "Mamanuca Islands Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=oQTWPkMv9Ts"
+        }
       ]
     },
     {
@@ -743,6 +862,23 @@
           "name": "Nosara Beaches",
           "type": "beach",
           "distance": "45 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Costa Rica - Guanacaste",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=4mEHUbJSqn8"
+        },
+        {
+          "title": "Playa Samara Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=M2o1ZWC8mao"
+        },
+        {
+          "title": "Costa Rica Surf Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=EXk1-E3J_fc"
         }
       ]
     },
@@ -836,6 +972,23 @@
           "type": "historical",
           "distance": "25 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Greece - Santorini",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=vg4zF9Xd7TM"
+        },
+        {
+          "title": "Grace Hotel Santorini Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=oNmN7F1YKAM"
+        },
+        {
+          "title": "Santorini Sunset Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7zMQPJjBjJM"
+        }
       ]
     },
     {
@@ -914,6 +1067,23 @@
           "name": "North York Moors National Park",
           "type": "nature",
           "distance": "25 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Castle Howard Official Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=oR0t_9wZTME"
+        },
+        {
+          "title": "Yorkshire Estates & Gardens",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lSqQ0cVQj7c"
+        },
+        {
+          "title": "Bridgerton Filming Locations",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qQF3K9a-jTc"
         }
       ]
     },
@@ -1006,6 +1176,23 @@
           "type": "activity",
           "distance": "45 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Esperanza Resort Cabo Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=EXYcAYs-g7Y"
+        },
+        {
+          "title": "Los Cabos Luxury Experience",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=TSFQWP_XTQA"
+        },
+        {
+          "title": "Cabo Whale Watching",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=FGNkbh8jvgw"
+        }
       ]
     },
     {
@@ -1083,6 +1270,23 @@
           "type": "shopping",
           "distance": "10 min walk"
         }
+      ],
+      "videos": [
+        {
+          "title": "New Orleans Food Scene",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=D6MhMBfkPdM"
+        },
+        {
+          "title": "French Quarter Dining",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dJmI7F0FWVU"
+        },
+        {
+          "title": "New Orleans Tourism",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=2uCPq5M8HJI"
+        }
       ]
     },
     {
@@ -1159,6 +1363,23 @@
           "name": "6th Street Entertainment",
           "type": "entertainment",
           "distance": "5 min walk"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Austin Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=EYTfAq_s_sE"
+        },
+        {
+          "title": "Rainey Street Bar Hopping",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=KD1C5ysBGpI"
+        },
+        {
+          "title": "Austin Food & Music Scene",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=LLNvgP5bTnc"
         }
       ]
     },
@@ -1252,6 +1473,23 @@
           "type": "neighborhood",
           "distance": "25 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Amazing Thailand Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=LSpk7a9kRoI"
+        },
+        {
+          "title": "Amanpuri Phuket Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=Mxn_5T0LXYM"
+        },
+        {
+          "title": "Phuket Island Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=4L3EuxBYDqk"
+        }
       ]
     },
     {
@@ -1344,6 +1582,23 @@
           "type": "activity",
           "distance": "on-site"
         }
+      ],
+      "videos": [
+        {
+          "title": "Wonderful Indonesia - Bali",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=m8nYnVz-2nY"
+        },
+        {
+          "title": "Four Seasons Bali at Sayan",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=vPHXAljQh0g"
+        },
+        {
+          "title": "Ubud Rice Terraces Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kQ7s0k9vptk"
+        }
       ]
     },
     {
@@ -1423,6 +1678,23 @@
           "name": "Fagradalsfjall Volcano",
           "type": "nature",
           "distance": "20 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Inspired by Iceland Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=QwfT1KoO7nU"
+        },
+        {
+          "title": "Blue Lagoon Iceland Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=2eAZtH2QTBI"
+        },
+        {
+          "title": "Golden Circle Iceland Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6Zf4WvKi-JU"
         }
       ]
     },
@@ -1504,6 +1776,23 @@
           "name": "Dunn's River Falls",
           "type": "nature",
           "distance": "1.5 hr drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Jamaica Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=n8cq7v5xQLE"
+        },
+        {
+          "title": "Sandals Royal Caribbean Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=vF3TzWUwrMw"
+        },
+        {
+          "title": "Dunn's River Falls Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Ht5MrP3jZgE"
         }
       ]
     },
@@ -1596,6 +1885,23 @@
           "type": "city",
           "distance": "seaplane"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Maldives Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
+        },
+        {
+          "title": "Conrad Maldives Rangali Island",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=rNz-83RpVKk"
+        },
+        {
+          "title": "Underwater Restaurant Maldives",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=vE4kFwJNXtA"
+        }
       ]
     },
     {
@@ -1678,6 +1984,23 @@
           "type": "town",
           "distance": "20 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "100% Pure New Zealand",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=P8PLiaYXmfY"
+        },
+        {
+          "title": "Queenstown Adventure Capital",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=1vvJIJMgJVI"
+        },
+        {
+          "title": "Milford Sound Cruise",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=BvKd8Mf8o7I"
+        }
       ]
     },
     {
@@ -1757,6 +2080,23 @@
           "name": "Cairngorms National Park",
           "type": "nature",
           "distance": "45 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Scotland Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=fInoNz-5Rho"
+        },
+        {
+          "title": "Loch Ness & Highlands Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kAZD3OQhxPQ"
+        },
+        {
+          "title": "Isle of Skye Journey",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=3vvN8GHOQTI"
         }
       ]
     },
@@ -1850,6 +2190,23 @@
           "type": "neighborhood",
           "distance": "varies"
         }
+      ],
+      "videos": [
+        {
+          "title": "Paris Je T'aime Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=XKf8jSiaghU"
+        },
+        {
+          "title": "Eiffel Tower Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dt_N2SfMt7M"
+        },
+        {
+          "title": "Romantic Paris Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=rKPJl6lhMmU"
+        }
       ]
     },
     {
@@ -1932,6 +2289,23 @@
           "type": "nature",
           "distance": "30 min boat"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Turks and Caicos",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
+        },
+        {
+          "title": "Grace Bay Beach Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
+        },
+        {
+          "title": "Providenciales Island Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5fQ0mAj1L9k"
+        }
       ]
     },
     {
@@ -2012,6 +2386,23 @@
           "type": "nature",
           "distance": "10 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Atlanta Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=sKxYRLH7YEY"
+        },
+        {
+          "title": "Buckhead Nightlife & Dining",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7LqsRBjvPhI"
+        },
+        {
+          "title": "Atlanta City Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=y8rPoHI5MFU"
+        }
       ]
     },
     {
@@ -2091,6 +2482,23 @@
           "name": "Palm Jumeirah Boardwalk",
           "type": "activity",
           "distance": "5 min walk"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Dubai Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WmzMoGdqEEU"
+        },
+        {
+          "title": "Atlantis The Palm Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=Kz1mzVPsXkg"
+        },
+        {
+          "title": "Dubai Aquarium & Underwater Zoo",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=zF3_m8JNHWE"
         }
       ]
     },
@@ -2178,6 +2586,23 @@
           "type": "city",
           "distance": "1 hr drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Mallorca Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=QqvUz0pIpis"
+        },
+        {
+          "title": "Love Island Villa Area",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=O3iqhXsUd5Y"
+        },
+        {
+          "title": "Mallorca Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=NmvmIGLH0qw"
+        }
       ]
     },
     {
@@ -2256,6 +2681,23 @@
           "name": "Cape Point",
           "type": "nature",
           "distance": "1 hr drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "South Africa Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=hMZ0eFwBdMU"
+        },
+        {
+          "title": "Table Mountain Cable Car",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7Fq3kR3O2jU"
+        },
+        {
+          "title": "Cape Winelands Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=yVvxl5O3YDk"
         }
       ]
     },
@@ -2336,6 +2778,23 @@
           "name": "Mount Srd Cable Car",
           "type": "activity",
           "distance": "10 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Croatia Full of Life Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=_J5_Rf5R6dY"
+        },
+        {
+          "title": "Dubrovnik Old Town Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=9D0LNnFSI0E"
+        },
+        {
+          "title": "Game of Thrones Dubrovnik",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mLKHaakPJSE"
         }
       ]
     },
@@ -2418,6 +2877,23 @@
           "type": "entertainment",
           "distance": "15 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Las Vegas Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Be2NK8HQNYY"
+        },
+        {
+          "title": "Las Vegas Strip Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=PxWkv2sTFwQ"
+        },
+        {
+          "title": "Bellagio Fountains Show",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=jLLB1IAEDyY"
+        }
       ]
     },
     {
@@ -2498,6 +2974,23 @@
           "type": "nature",
           "distance": "1 hr drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Florida - Miami",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=t5R0zVvILs8"
+        },
+        {
+          "title": "South Beach Art Deco Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7WrGy3p9kn8"
+        },
+        {
+          "title": "Miami Beach Nightlife Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=a8tq4GdPfUI"
+        }
       ]
     },
     {
@@ -2577,6 +3070,23 @@
           "type": "landmark",
           "distance": "downtown"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Music City Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=QkhZuYDv5zE"
+        },
+        {
+          "title": "Broadway Honky Tonks Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8R-bL0hKpM8"
+        },
+        {
+          "title": "Nashville Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=QY3pPn12ql8"
+        }
       ]
     },
     {
@@ -2655,6 +3165,23 @@
           "name": "Art Institute of Chicago",
           "type": "museum",
           "distance": "downtown"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Choose Chicago Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=hqd3O-yP6zQ"
+        },
+        {
+          "title": "Chicago Architecture Boat Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TxK7VCVs7DU"
+        },
+        {
+          "title": "Millennium Park & The Bean",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=DHq6dQ0ATDY"
         }
       ]
     },
@@ -2737,6 +3264,23 @@
           "type": "landmark",
           "distance": "45 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Go Dominican Republic",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=5pGYp8Yl8Ek"
+        },
+        {
+          "title": "Punta Cana Beach Resort Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TrMX1dVV_FM"
+        },
+        {
+          "title": "Saona Island Day Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=WxPyJEJO9g0"
+        }
       ]
     },
     {
@@ -2814,6 +3358,23 @@
           "name": "Castillo San Felipe",
           "type": "landmark",
           "distance": "10 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Colombia Travel Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Q3xfZh9r-vs"
+        },
+        {
+          "title": "Cartagena Walled City Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8dKGqTgKHyM"
+        },
+        {
+          "title": "Rosario Islands Boat Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mV9qe8jABFk"
         }
       ]
     },
@@ -2893,6 +3454,23 @@
           "type": "museum",
           "distance": "15 min walk"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Stockholm Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
+        },
+        {
+          "title": "Gamla Stan Old Town Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=PmP6WKXn5aM"
+        },
+        {
+          "title": "ABBA Museum Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=4bGHsZGPrzA"
+        }
       ]
     },
     {
@@ -2970,6 +3548,23 @@
           "name": "Tokyo Skytree",
           "type": "landmark",
           "distance": "25 min metro"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Tokyo Tokyo Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=DJLvyFjdqXU"
+        },
+        {
+          "title": "Shibuya Crossing Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6q5USYTnfqo"
+        },
+        {
+          "title": "Tokyo Street Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=sQRpz_1p7iU"
         }
       ]
     },
@@ -3051,6 +3646,23 @@
           "name": "The Lowry",
           "type": "entertainment",
           "distance": "5 min walk"
+        }
+      ],
+      "videos": [
+        {
+          "title": "MediaCityUK Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5mKzXk_lqAI"
+        },
+        {
+          "title": "Visit Manchester Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=s3lL8FFdPZU"
+        },
+        {
+          "title": "The Circle Filming Location",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=wXvJ1YqvXoA"
         }
       ]
     },
@@ -3142,6 +3754,23 @@
           "type": "attraction",
           "distance": "20 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Go Hawaii - Oahu",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=c0ijYCIbfag"
+        },
+        {
+          "title": "North Shore Surf Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=2RWrFJp3hLU"
+        },
+        {
+          "title": "Pipeline & Waimea Bay",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dPvZdjRtE3c"
+        }
       ]
     },
     {
@@ -3222,6 +3851,23 @@
           "type": "nature",
           "distance": "1 hr drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Morocco Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=nGfnxUK5bLs"
+        },
+        {
+          "title": "Marrakech Medina Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=1GW-JdU1l2c"
+        },
+        {
+          "title": "Atlas Mountains Day Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Qp-4nJpJJPk"
+        }
       ]
     },
     {
@@ -3301,6 +3947,23 @@
           "name": "Bukchon Hanok Village",
           "type": "landmark",
           "distance": "in Seoul"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Korea Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=KD3C5nPJHj4"
+        },
+        {
+          "title": "Seoul City Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=m2UKbDLuD2w"
+        },
+        {
+          "title": "Korean Islands Paradise",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Z4HKQG-1z7E"
         }
       ]
     },
@@ -3384,6 +4047,23 @@
           "type": "shopping",
           "distance": "10 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Atlanta Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=sKxYRLH7YEY"
+        },
+        {
+          "title": "Atlanta Entertainment District",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=y8rPoHI5MFU"
+        },
+        {
+          "title": "Georgia Aquarium & Attractions",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=SqcFZ5VJZy0"
+        }
       ]
     },
     {
@@ -3465,6 +4145,23 @@
           "name": "Georgetown Waterfront",
           "type": "entertainment",
           "distance": "20 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Washington DC Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=A-Y9Aopq-RA"
+        },
+        {
+          "title": "DC Monuments & Museums",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=T0Jqdjbed40"
+        },
+        {
+          "title": "Georgetown Waterfront",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=ksB85RAuT3M"
         }
       ]
     },
@@ -3551,6 +4248,23 @@
           "type": "museum",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Brazil - S\u00e3o Paulo",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=5b_oe5oVFOU"
+        },
+        {
+          "title": "S\u00e3o Paulo City Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_0_oVZdGT4E"
+        },
+        {
+          "title": "Paulista Avenue & Ibirapuera",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=b-KLqTTp7QA"
+        }
       ]
     },
     {
@@ -3634,6 +4348,23 @@
           "type": "museum",
           "distance": "30 min metro"
         }
+      ],
+      "videos": [
+        {
+          "title": "Tokyo Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=DJLvyFjdqXU"
+        },
+        {
+          "title": "Tokyo Dating Spots",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7FJMB_f0VB4"
+        },
+        {
+          "title": "Shibuya & Harajuku",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6q5USYTnfqo"
+        }
       ]
     },
     {
@@ -3715,6 +4446,23 @@
           "name": "Fotografiska",
           "type": "museum",
           "distance": "20 min walk"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Stockholm Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
+        },
+        {
+          "title": "Stockholm Archipelago",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8sFKBBZjrQE"
+        },
+        {
+          "title": "Swedish Lifestyle & Culture",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=2GKxqQ9WNUA"
         }
       ]
     },
@@ -3807,6 +4555,23 @@
           "type": "museum",
           "distance": "20 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit California - Malibu",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Xs2nQBAjy1Q"
+        },
+        {
+          "title": "Malibu Beach Drive",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Iq_M3C8a7kQ"
+        },
+        {
+          "title": "Malibu Wine Safari",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=4m9vJhPwqkQ"
+        }
       ]
     },
     {
@@ -3897,6 +4662,23 @@
           "type": "landmark",
           "distance": "10 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Arizona - Sedona",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=xWQH7Wvl_-w"
+        },
+        {
+          "title": "Sedona Red Rocks Hike",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=VmH89aNQo4A"
+        },
+        {
+          "title": "Sedona Vortex Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qMxM7b4jxXo"
+        }
       ]
     },
     {
@@ -3985,6 +4767,23 @@
           "name": "Royal Botanic Gardens",
           "type": "nature",
           "distance": "15 min walk"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Victoria Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=XnqfAzevVLY"
+        },
+        {
+          "title": "Melbourne Laneways & Street Art",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_oW7p_KLF5o"
+        },
+        {
+          "title": "Great Ocean Road Drive",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=3X85s2e0jRo"
         }
       ]
     },
@@ -4076,6 +4875,23 @@
           "type": "town",
           "distance": "15 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Tourism Fiji Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=VyFkwLIi0AU"
+        },
+        {
+          "title": "Denarau Island Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=9V_R5AaYhB8"
+        },
+        {
+          "title": "Fiji Island Hopping",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=RqWb_1KpKjg"
+        }
       ]
     },
     {
@@ -4165,6 +4981,23 @@
           "name": "La Rambla",
           "type": "landmark",
           "distance": "in city"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Barcelona Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=khWzf-b5vU0"
+        },
+        {
+          "title": "Sagrada Familia Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kkNGdzo_3EA"
+        },
+        {
+          "title": "Barcelona Beach & Nightlife",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=cJcVCXnUa-4"
         }
       ]
     },
@@ -4266,6 +5099,23 @@
           "type": "nature",
           "distance": "15 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Mexico - Tulum",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=E5Q7CcILxyU"
+        },
+        {
+          "title": "Tulum Ruins & Beach",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=XFW-qwA5M7E"
+        },
+        {
+          "title": "Cenotes of Tulum",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=X5s0z9BxaUU"
+        }
       ]
     },
     {
@@ -4360,6 +5210,23 @@
           "type": "activity",
           "distance": "1 hour drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Dubai Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WmzMoGdqEEU"
+        },
+        {
+          "title": "Burj Khalifa At The Top",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=I3Bs7cA8G-g"
+        },
+        {
+          "title": "Desert Safari Dubai",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TgI-71KlsQw"
+        }
       ]
     },
     {
@@ -4441,6 +5308,23 @@
           "name": "Teatro Col\u00f3n",
           "type": "landmark",
           "distance": "in city"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Argentina Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WDNwzMbhq7g"
+        },
+        {
+          "title": "Buenos Aires Tango Show",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=E3eBePq6dls"
+        },
+        {
+          "title": "La Boca & San Telmo Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5L5HqUc4IWE"
         }
       ]
     },
@@ -4524,6 +5408,23 @@
           "type": "museum",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Berlin Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Zj8n-J_RFVU"
+        },
+        {
+          "title": "Berlin Wall & History Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=fzn-j5k8bKE"
+        },
+        {
+          "title": "Berlin Nightlife Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=FqL5i_r1dJA"
+        }
       ]
     },
     {
@@ -4606,6 +5507,23 @@
           "name": "Brokenback Range",
           "type": "nature",
           "distance": "15 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Destination NSW - Hunter Valley",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WTWbCrpZTGU"
+        },
+        {
+          "title": "Hunter Valley Wine Tasting",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8sSKHFDPV2s"
+        },
+        {
+          "title": "Hot Air Balloon Hunter Valley",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=iJ3MrLqQ_Yk"
         }
       ]
     },
@@ -4691,6 +5609,23 @@
           "type": "nature",
           "distance": "1 hr boat"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Mexico - Puerto Vallarta",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=7Q8pJpKz-lw"
+        },
+        {
+          "title": "Malecon Boardwalk Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=UEn1x8vqVgg"
+        },
+        {
+          "title": "Marietas Islands Hidden Beach",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=lPX8qNMBCXU"
+        }
       ]
     },
     {
@@ -4775,6 +5710,23 @@
           "type": "city",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit French Riviera Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=3GnNLQFhF80"
+        },
+        {
+          "title": "Cannes Film Festival Vibes",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=xkBQN3dy3Uk"
+        },
+        {
+          "title": "C\u00f4te d'Azur Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=pXDYFYdDXOo"
+        }
       ]
     },
     {
@@ -4858,6 +5810,23 @@
           "type": "landmark",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Cotswolds Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=nT4k-lxGZLA"
+        },
+        {
+          "title": "Cotswolds Villages Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6KfnBcHBLFQ"
+        },
+        {
+          "title": "English Countryside Charm",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=2sQPKP-hNls"
+        }
       ]
     },
     {
@@ -4939,6 +5908,23 @@
           "name": "Potrerillos Reservoir",
           "type": "nature",
           "distance": "1 hr drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Argentina - Mendoza",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=K5HEmRpJIFg"
+        },
+        {
+          "title": "Mendoza Wine Tours",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Lr5gE8EO7lY"
+        },
+        {
+          "title": "Andes Mountain Views",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mYrj3NmJHuk"
         }
       ]
     },
@@ -5022,6 +6008,23 @@
           "name": "Oberammergau",
           "type": "town",
           "distance": "varies"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Bavaria Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=VjwQc_sIjKU"
+        },
+        {
+          "title": "Neuschwanstein Castle Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=n7MI7XPJcI0"
+        },
+        {
+          "title": "Bavarian Alps Adventure",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=RZZJqfq-8mE"
         }
       ]
     },
@@ -5107,6 +6110,23 @@
           "type": "nature",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Explore Charleston Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=7B0U3DpZXog"
+        },
+        {
+          "title": "Charleston Historic Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=ufDc7knQqKc"
+        },
+        {
+          "title": "Rainbow Row & Waterfront",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mJQVJvnH1H0"
+        }
       ]
     },
     {
@@ -5188,6 +6208,23 @@
           "name": "Frida Kahlo Museum",
           "type": "museum",
           "distance": "30 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Mexico - CDMX",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=nf5M_vqLm4A"
+        },
+        {
+          "title": "Mexico City Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=9iGmQg7Nqog"
+        },
+        {
+          "title": "Teotihuacan Pyramids",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=tQvHJx0DCUU"
         }
       ]
     },
@@ -5273,6 +6310,23 @@
           "type": "activity",
           "distance": "in area"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Costa Rica Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=RLYoqGh5wZU"
+        },
+        {
+          "title": "Manuel Antonio National Park",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=zZLfxnuW1Jg"
+        },
+        {
+          "title": "Costa Rica Wildlife & Beaches",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=wXLB5sXbRGo"
+        }
       ]
     },
     {
@@ -5356,6 +6410,23 @@
           "name": "Bioluminescent Bay",
           "type": "nature",
           "distance": "night tour"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Panama Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=0R-4-kJCsA4"
+        },
+        {
+          "title": "Bocas del Toro Islands",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_4mBJRlN0qg"
+        },
+        {
+          "title": "Panama Beaches & Jungle",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=K8bEWuqfusc"
         }
       ]
     },
@@ -5441,6 +6512,23 @@
           "type": "beach",
           "distance": "25 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Lake Tahoe Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=E9cLq8n5CbE"
+        },
+        {
+          "title": "Emerald Bay State Park",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=OGRNdv1xVWQ"
+        },
+        {
+          "title": "Lake Tahoe Skiing & Beach",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=N5R1Q6Pb0ac"
+        }
       ]
     },
     {
@@ -5525,6 +6613,23 @@
           "name": "Rangitoto Island",
           "type": "nature",
           "distance": "25 min ferry"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Auckland Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=TBNzRfLl8kE"
+        },
+        {
+          "title": "Sky Tower Auckland",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=OqQPK6h_eiM"
+        },
+        {
+          "title": "Waiheke Island Wine Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=fYX_5dqL0qY"
         }
       ]
     },
@@ -5616,6 +6721,23 @@
           "type": "landmark",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Destination NSW Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WQ_jKp3W1Tg"
+        },
+        {
+          "title": "Sydney Opera House Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=e4aGH-BxGXE"
+        },
+        {
+          "title": "Bondi to Coogee Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=LT4BhNo_ixU"
+        }
       ]
     },
     {
@@ -5698,6 +6820,23 @@
           "name": "Soweto",
           "type": "landmark",
           "distance": "30 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "South Africa Tourism - Joburg",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=sXFMBWJDxsA"
+        },
+        {
+          "title": "Apartheid Museum Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mHjk0v3hLQ4"
+        },
+        {
+          "title": "Soweto Tour Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=4LzHDa8W_Zk"
         }
       ]
     },
@@ -5782,6 +6921,23 @@
           "type": "beach",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "South Africa - Garden Route",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=wHkj4SVFXEY"
+        },
+        {
+          "title": "Knysna & Plettenberg Bay",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=KmCbgGa3v0c"
+        },
+        {
+          "title": "Tsitsikamma National Park",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=DKA9bWfxMVU"
+        }
       ]
     },
     {
@@ -5865,6 +7021,23 @@
           "name": "Glen Coe",
           "type": "nature",
           "distance": "1.5 hr drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Scotland - Highlands",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=fInoNz-5Rho"
+        },
+        {
+          "title": "Scottish Highlands Road Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=3vvN8GHOQTI"
+        },
+        {
+          "title": "Loch Ness & Inverness",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kAZD3OQhxPQ"
         }
       ]
     },
@@ -5966,6 +7139,23 @@
           "type": "nature",
           "distance": "nearby"
         }
+      ],
+      "videos": [
+        {
+          "title": "Aspen Snowmass Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=V8XqRaafBFQ"
+        },
+        {
+          "title": "Aspen Skiing Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_2WYU8ZxF0s"
+        },
+        {
+          "title": "Maroon Bells Scenic Area",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7Wm4xgE1eCk"
+        }
       ]
     },
     {
@@ -6065,6 +7255,23 @@
           "type": "nature",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Go Hawaii - Maui",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=OWY_V_j6bxE"
+        },
+        {
+          "title": "Road to Hana Journey",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=NKUn1_3BO7g"
+        },
+        {
+          "title": "Maui Sunrise at Haleakala",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Pt7r4D5N_pM"
+        }
       ]
     },
     {
@@ -6146,6 +7353,23 @@
           "name": "Chain of Lakes",
           "type": "nature",
           "distance": "15 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Meet Minneapolis Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=FMz5rL5SxGM"
+        },
+        {
+          "title": "Minneapolis Lakes & Parks",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=q2KWrHF7jEI"
+        },
+        {
+          "title": "Mall of America Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=QxYPd0xXYIM"
         }
       ]
     },
@@ -6233,6 +7457,23 @@
           "type": "town",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Los Cabos Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=TSFQWP_XTQA"
+        },
+        {
+          "title": "El Arco Boat Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=R_PqD9E5FwU"
+        },
+        {
+          "title": "Cabo Beach & Resort Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=P9Gp1Y1Q-Ks"
+        }
       ]
     },
     {
@@ -6314,6 +7555,23 @@
           "name": "George Town",
           "type": "town",
           "distance": "10 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Cayman Islands",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=7sW7cH8nPew"
+        },
+        {
+          "title": "Seven Mile Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=QlLJSdqnJPo"
+        },
+        {
+          "title": "Stingray City Adventure",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=sF8RFGN2n_U"
         }
       ]
     },
@@ -6402,6 +7660,23 @@
           "type": "beach",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Go Dominican Republic",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=5pGYp8Yl8Ek"
+        },
+        {
+          "title": "Punta Cana All-Inclusive Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TrMX1dVV_FM"
+        },
+        {
+          "title": "Dominican Republic Beaches",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=yUF3qAEP_ZY"
+        }
       ]
     },
     {
@@ -6486,6 +7761,23 @@
           "type": "landmark",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Incredible India - Mumbai",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=uEKMhLQ2HdA"
+        },
+        {
+          "title": "Gateway of India Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=N8R0Pk_JxGE"
+        },
+        {
+          "title": "Mumbai Street Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=CnKGSoxQSxU"
+        }
       ]
     },
     {
@@ -6568,6 +7860,23 @@
           "name": "Jerusalem",
           "type": "city",
           "distance": "1 hr drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Israel - Tel Aviv",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=hkOTJq2oYQY"
+        },
+        {
+          "title": "Tel Aviv Beach Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=NuB7QhU9RcA"
+        },
+        {
+          "title": "Old Jaffa Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Kc-PWQT5xqA"
         }
       ]
     },
@@ -6652,7 +7961,24 @@
           "distance": "downtown"
         }
       ],
-      "image": "https://images.unsplash.com/photo-1545419913-775e2e0c79db?w=800"
+      "image": "https://images.unsplash.com/photo-1545419913-775e2e0c79db?w=800",
+      "videos": [
+        {
+          "title": "Visit Music City Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=QkhZuYDv5zE"
+        },
+        {
+          "title": "Broadway Honky Tonks Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8R-bL0hKpM8"
+        },
+        {
+          "title": "Nashville Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=QY3pPn12ql8"
+        }
+      ]
     },
     {
       "id": "boston-massachusetts",
@@ -6733,6 +8059,23 @@
           "name": "Harvard Square",
           "type": "landmark",
           "distance": "20 min metro"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Boston Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=0PMC6LeE1OM"
+        },
+        {
+          "title": "Freedom Trail Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8xfPVkJKSgE"
+        },
+        {
+          "title": "Boston Harbor & Waterfront",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qEQlz-ZqZEk"
         }
       ]
     },
@@ -6817,6 +8160,23 @@
           "name": "Gaslamp Quarter",
           "type": "entertainment",
           "distance": "downtown"
+        }
+      ],
+      "videos": [
+        {
+          "title": "San Diego Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=MYe5k3rYn_I"
+        },
+        {
+          "title": "San Diego Zoo Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=zQMZPJ2HmUk"
+        },
+        {
+          "title": "La Jolla Cove & Beaches",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=nHDUDN7FOLE"
         }
       ]
     },
@@ -6908,6 +8268,23 @@
           "type": "landmark",
           "distance": "15 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "New Orleans Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=2uCPq5M8HJI"
+        },
+        {
+          "title": "French Quarter Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dJmI7F0FWVU"
+        },
+        {
+          "title": "New Orleans Jazz & Food",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=D6MhMBfkPdM"
+        }
       ]
     },
     {
@@ -6989,6 +8366,23 @@
           "name": "Kirkham Priory",
           "type": "landmark",
           "distance": "15 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Castle Howard Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=oR0t_9wZTME"
+        },
+        {
+          "title": "Visit Yorkshire Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=_k8yPvJpK6Y"
+        },
+        {
+          "title": "Yorkshire Countryside",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=ufEn9LXevmA"
         }
       ]
     },
@@ -7074,6 +8468,23 @@
           "type": "landmark",
           "distance": "in Jaipur"
         }
+      ],
+      "videos": [
+        {
+          "title": "Incredible India - Rajasthan",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=oFdUHrFgTS8"
+        },
+        {
+          "title": "Jaipur Pink City Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=s9S5K0gNz8E"
+        },
+        {
+          "title": "Udaipur Palace & Lakes",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=JlgQXlKfRvM"
+        }
       ]
     },
     {
@@ -7156,6 +8567,23 @@
           "name": "Palm Canyon Drive",
           "type": "shopping",
           "distance": "in city"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Greater Palm Springs",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Nd7TfNrBXhQ"
+        },
+        {
+          "title": "Palm Springs Aerial Tramway",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_2eXvmTh2sU"
+        },
+        {
+          "title": "Joshua Tree Day Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=HJWfG5Phjzk"
         }
       ]
     },
@@ -7240,6 +8668,23 @@
           "type": "landmark",
           "distance": "45 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Dallas Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=vGzJYgpcfYI"
+        },
+        {
+          "title": "Dallas Arts District",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=U4Ew_QUbJPc"
+        },
+        {
+          "title": "Fort Worth Stockyards",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=RqGz_8kRVhU"
+        }
       ]
     },
     {
@@ -7322,6 +8767,23 @@
           "name": "Northern Lights Viewing",
           "type": "activity",
           "distance": "in area"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Travel Alaska Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=G6BtSYkE5zE"
+        },
+        {
+          "title": "Denali National Park",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kLJr9sW5rHE"
+        },
+        {
+          "title": "Northern Lights Alaska",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=pqJyNqLXuao"
         }
       ]
     },
@@ -7407,6 +8869,23 @@
           "type": "nature",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Ethiopia Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=pPPUO4eW7Rs"
+        },
+        {
+          "title": "Addis Ababa City Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=HLBY9yDqeOc"
+        },
+        {
+          "title": "Ethiopian Coffee Ceremony",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=XKf3vWGLJVg"
+        }
       ]
     },
     {
@@ -7491,6 +8970,23 @@
           "type": "shopping",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Go Turkey Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=s2aVXzGBYXs"
+        },
+        {
+          "title": "Hagia Sophia & Blue Mosque",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=9RXKR5mJ1K8"
+        },
+        {
+          "title": "Grand Bazaar Shopping",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=R5rVcQRBhfQ"
+        }
       ]
     },
     {
@@ -7573,6 +9069,23 @@
           "name": "Black River Gorges",
           "type": "nature",
           "distance": "varies"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Mauritius Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=5nTj5bWBJzY"
+        },
+        {
+          "title": "Le Morne Beach & Mountain",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=YR7NKBhTjEU"
+        },
+        {
+          "title": "Chamarel Colored Earth",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5z1mQQVc99M"
         }
       ]
     },
@@ -7657,6 +9170,23 @@
           "name": "Sandbank Excursions",
           "type": "activity",
           "distance": "varies"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Sunny Side of Life Maldives",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
+        },
+        {
+          "title": "Maldives Luxury Resort Life",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=hnKpL4p8UxU"
+        },
+        {
+          "title": "Maldives Diving Paradise",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=0qVPy6b3T7o"
         }
       ]
     },
@@ -7753,6 +9283,23 @@
           "type": "entertainment",
           "distance": "in city"
         }
+      ],
+      "videos": [
+        {
+          "title": "Imagine Your Korea Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=WvRQ6lKTvpg"
+        },
+        {
+          "title": "Myeongdong Shopping District",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6u_h4QrdQl8"
+        },
+        {
+          "title": "Korean Palace Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=FmNDxLXYjP4"
+        }
       ]
     },
     {
@@ -7838,6 +9385,23 @@
           "type": "attraction",
           "distance": "30 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Jeju Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=nWIQo1HZpVY"
+        },
+        {
+          "title": "Hallasan Mountain Hike",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Dn8qMI6v_kI"
+        },
+        {
+          "title": "Jeju Beach & Waterfalls",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=CwCnEqRj7N0"
+        }
       ]
     },
     {
@@ -7919,6 +9483,23 @@
           "name": "Stone Church",
           "type": "landmark",
           "distance": "15 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Japan - Nagano",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=R9-gB-q7LQU"
+        },
+        {
+          "title": "Karuizawa Resort Town",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=87pLwfJCvH4"
+        },
+        {
+          "title": "Stone Church Karuizawa",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mM_HS_FX7fY"
         }
       ]
     },
@@ -8005,6 +9586,23 @@
           "type": "nature",
           "distance": "20 min train"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Kyoto Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=xOVF5WKN3CE"
+        },
+        {
+          "title": "Fushimi Inari Shrine Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=CfBDYr7vfNQ"
+        },
+        {
+          "title": "Arashiyama Bamboo Grove",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qCQaNcvnmQ0"
+        }
       ]
     },
     {
@@ -8088,7 +9686,24 @@
           "distance": "15 min walk"
         }
       ],
-      "image": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800"
+      "image": "https://images.unsplash.com/photo-1509356843151-3e7d96241e11?w=800",
+      "videos": [
+        {
+          "title": "Visit Stockholm Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lgEFzCIJnfk"
+        },
+        {
+          "title": "Gamla Stan Old Town Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=PmP6WKXn5aM"
+        },
+        {
+          "title": "ABBA Museum Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=4bGHsZGPrzA"
+        }
+      ]
     },
     {
       "id": "whitsundays-australia",
@@ -8175,6 +9790,23 @@
           "type": "nature",
           "distance": "scenic flight"
         }
+      ],
+      "videos": [
+        {
+          "title": "Tourism Whitsundays Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=tLGAVKC8fmo"
+        },
+        {
+          "title": "Whitehaven Beach Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5Ga7HxKxFPA"
+        },
+        {
+          "title": "Great Barrier Reef Snorkeling",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=P8gYs6pkxMM"
+        }
       ]
     },
     {
@@ -8260,6 +9892,23 @@
           "type": "nature",
           "distance": "20 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Italy - Amalfi Coast",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=RiLknkUVnvg"
+        },
+        {
+          "title": "Positano Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=tPc1V2P5_5M"
+        },
+        {
+          "title": "Amalfi Coast Boat Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8J7HgVZxNbY"
+        }
       ]
     },
     {
@@ -8341,6 +9990,23 @@
           "name": "Trapp Family Lodge",
           "type": "landmark",
           "distance": "10 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Visit Vermont - Stowe",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=m3nqy6Yz3jE"
+        },
+        {
+          "title": "Stowe Mountain Resort",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=OCFUWNnj0po"
+        },
+        {
+          "title": "Trapp Family Lodge",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=xM2B5_cQRhY"
         }
       ]
     },
@@ -8432,6 +10098,23 @@
           "type": "landmark",
           "distance": "20 min drive"
         }
+      ],
+      "videos": [
+        {
+          "title": "Visit Manchester Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=s3lL8FFdPZU"
+        },
+        {
+          "title": "Manchester Football & Culture",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=a1LfBb6FvJU"
+        },
+        {
+          "title": "Northern Quarter Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=3pFlbvA6fwY"
+        }
       ]
     },
     {
@@ -8515,6 +10198,23 @@
           "name": "Natadola Beach",
           "type": "beach",
           "distance": "25 min drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Tourism Fiji - Coral Coast",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=8-Dv0_DzjsU"
+        },
+        {
+          "title": "Coral Coast Beach Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kJhzHxnqKrY"
+        },
+        {
+          "title": "Sigatoka Sand Dunes",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=tS7Mq8pMK8E"
         }
       ]
     },
@@ -8616,7 +10316,24 @@
       "meta": {
         "title": "Nemacolin Resort | Bachelor Filming Location Pennsylvania",
         "description": "Stay at Nemacolin Resort, home of multiple Bachelor and Bachelorette seasons. Book the same suites where contestants stayed."
-      }
+      },
+      "videos": [
+        {
+          "title": "Nemacolin Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=Q5hM7V-nzBY"
+        },
+        {
+          "title": "Pennsylvania Laurel Highlands",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=tI5sqYprCZA"
+        },
+        {
+          "title": "Nemacolin Activities",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=WI3tG0iC37I"
+        }
+      ]
     },
     {
       "id": "la-quinta-palm-springs",
@@ -8712,7 +10429,24 @@
       "meta": {
         "title": "La Quinta Resort | Bachelor Date Location Palm Springs",
         "description": "Experience Old Hollywood romance at La Quinta Resort, featured on The Bachelor. Historic casitas and desert luxury await."
-      }
+      },
+      "videos": [
+        {
+          "title": "La Quinta Resort Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=jL9QxwYrR3s"
+        },
+        {
+          "title": "Greater Palm Springs",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Nd7TfNrBXhQ"
+        },
+        {
+          "title": "Desert Golf & Spa",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=g-yKKJQwQWs"
+        }
+      ]
     },
     {
       "id": "san-juan-islands-washington",
@@ -8806,7 +10540,24 @@
         "title": "San Juan Islands | Bachelor Helicopter Date Location Washington",
         "description": "Visit the San Juan Islands from The Bachelor. Whale watching, seaplane tours, and Pacific Northwest romance."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Juan%20Islands%20Friday%20Harbor"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Juan%20Islands%20Friday%20Harbor",
+      "videos": [
+        {
+          "title": "San Juan Islands Tourism",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=0Pr4hIjJpJw"
+        },
+        {
+          "title": "Whale Watching San Juans",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=j7aW8_T7nZE"
+        },
+        {
+          "title": "Friday Harbor & Island Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=bLJJ5kqVnT8"
+        }
+      ]
     },
     {
       "id": "virgin-islands-st-thomas",
@@ -8900,7 +10651,24 @@
         "title": "St. Thomas U.S. Virgin Islands | Bachelor Fantasy Suite Destination",
         "description": "Visit St. Thomas from The Bachelor. Passport-free Caribbean paradise with world-class beaches."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=St.%20Thomas%2C%20U.S.%20Virgin%20Islands%20Charlotte%20Amalie"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=St.%20Thomas%2C%20U.S.%20Virgin%20Islands%20Charlotte%20Amalie",
+      "videos": [
+        {
+          "title": "Visit USVI Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=VTcYl4bRTfI"
+        },
+        {
+          "title": "St. Thomas Beaches Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_eiKYlJvXYI"
+        },
+        {
+          "title": "Magens Bay Beach",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=i9ys3c3aBjY"
+        }
+      ]
     },
     {
       "id": "iceland-reykjavik",
@@ -9000,7 +10768,24 @@
         "title": "Iceland | Bachelor Adventure Date Destination",
         "description": "Visit Iceland's glaciers, Northern Lights, and hot springs from The Bachelor. Fire and ice romance awaits."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Iceland%20Reykjavik"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Iceland%20Reykjavik",
+      "videos": [
+        {
+          "title": "Inspired by Iceland Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=QwfT1KoO7nU"
+        },
+        {
+          "title": "Reykjavik City Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Q3HJm0jVL3Q"
+        },
+        {
+          "title": "Iceland Golden Circle",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=6Zf4WvKi-JU"
+        }
+      ]
     },
     {
       "id": "antigua-caribbean",
@@ -9095,7 +10880,24 @@
         "title": "Antigua | Bachelor Fantasy Suite Caribbean Destination",
         "description": "Visit Antigua's 365 beaches and exclusive resorts from The Bachelor. Caribbean luxury and colonial charm."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Antigua%20St.%20John%27s"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Antigua%20St.%20John%27s",
+      "videos": [
+        {
+          "title": "Visit Antigua Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lWcKR8aqbXU"
+        },
+        {
+          "title": "365 Beaches of Antigua",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=N3D8jqLNBU4"
+        },
+        {
+          "title": "Nelson's Dockyard Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=sW5LT1ZDZ5k"
+        }
+      ]
     },
     {
       "id": "switzerland-alps",
@@ -9196,7 +10998,24 @@
         "title": "Swiss Alps | Bachelor Helicopter Date Destination",
         "description": "Visit the Swiss Alps from The Bachelor. Glacier landings, mountain peaks, and European romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Swiss%20Alps%20Interlaken"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Swiss%20Alps%20Interlaken",
+      "videos": [
+        {
+          "title": "Switzerland Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=eJpgmc5JwYU"
+        },
+        {
+          "title": "Swiss Alps Train Journey",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5aD7Sn1dO0Y"
+        },
+        {
+          "title": "Interlaken & Jungfrau",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=gWcORsZTmZY"
+        }
+      ]
     },
     {
       "id": "santorini-greece",
@@ -9299,7 +11118,24 @@
         "title": "Santorini Greece | Bachelor Sunset Romance Destination",
         "description": "Visit Santorini's caldera views and sunsets from The Bachelor. Greek island romance at its finest."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Santorini%20Fira"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Santorini%20Fira",
+      "videos": [
+        {
+          "title": "Visit Greece - Santorini",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=vg4zF9Xd7TM"
+        },
+        {
+          "title": "Oia Sunset Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Ku3dj5sMlE8"
+        },
+        {
+          "title": "Santorini Wine Tasting",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=F8oE7LJMhMI"
+        }
+      ]
     },
     {
       "id": "amalfi-positano-italy",
@@ -9408,7 +11244,24 @@
         "title": "Positano & Amalfi Coast | Bachelor Italian Romance Destination",
         "description": "Visit the Amalfi Coast from The Bachelor. Cliffside villages, boat tours, and Italian la dolce vita."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Positano%20%26%20Amalfi%20Coast%20Positano"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Positano%20%26%20Amalfi%20Coast%20Positano",
+      "videos": [
+        {
+          "title": "Visit Italy - Amalfi Coast",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=RiLknkUVnvg"
+        },
+        {
+          "title": "Positano Beach & Village",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=tPc1V2P5_5M"
+        },
+        {
+          "title": "Amalfi Coast Road Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=pDGXYqVNunk"
+        }
+      ]
     },
     {
       "id": "bali-indonesia",
@@ -9509,7 +11362,24 @@
         "title": "Bali Indonesia | Too Hot to Handle & Bachelor Destination",
         "description": "Visit Bali from Too Hot to Handle. Rice terraces, temples, and island romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bali%20Ubud%20%26%20Seminyak"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bali%20Ubud%20%26%20Seminyak",
+      "videos": [
+        {
+          "title": "Wonderful Indonesia - Bali",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=m8nYnVz-2nY"
+        },
+        {
+          "title": "Ubud Temple & Rice Fields",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kQ7s0k9vptk"
+        },
+        {
+          "title": "Bali Beach Club Life",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=_ND7L3j9fOM"
+        }
+      ]
     },
     {
       "id": "cape-town-south-africa",
@@ -9625,7 +11495,24 @@
         "description": "Visit Cape Town from The Bachelor and Love Island SA. Table Mountain, winelands, and African adventure."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cape%20Town%20Cape%20Town",
-      "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800"
+      "image": "https://images.unsplash.com/photo-1580060839134-75a5edca2e99?w=800",
+      "videos": [
+        {
+          "title": "South Africa Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=hMZ0eFwBdMU"
+        },
+        {
+          "title": "Table Mountain Cable Car",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7Fq3kR3O2jU"
+        },
+        {
+          "title": "Cape Winelands Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=yVvxl5O3YDk"
+        }
+      ]
     },
     {
       "id": "phuket-thailand",
@@ -9725,7 +11612,24 @@
         "title": "Phuket Thailand | Bachelor & Dating Show Destination",
         "description": "Visit Phuket from The Bachelor. Thai islands, temples, and luxury at incredible value."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Phuket%20Patong"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Phuket%20Patong",
+      "videos": [
+        {
+          "title": "Amazing Thailand - Phuket",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=4L3EuxBYDqk"
+        },
+        {
+          "title": "Phuket Beach Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=GNJLpF_BF_A"
+        },
+        {
+          "title": "Phi Phi Islands Day Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TMZ5LMVTEZM"
+        }
+      ]
     },
     {
       "id": "queenstown-new-zealand",
@@ -9826,7 +11730,24 @@
         "title": "Queenstown New Zealand | Bachelor Adventure Destination",
         "description": "Visit Queenstown from The Bachelor. Bungee jumping, Milford Sound, and adventure romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Queenstown%20Queenstown"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Queenstown%20Queenstown",
+      "videos": [
+        {
+          "title": "100% Pure New Zealand - Queenstown",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=P8PLiaYXmfY"
+        },
+        {
+          "title": "Queenstown Bungy Jump",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=z4VZqS1bXkY"
+        },
+        {
+          "title": "Milford Sound Day Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=BvKd8Mf8o7I"
+        }
+      ]
     },
     {
       "id": "sayulita-mexico",
@@ -9922,7 +11843,24 @@
         "title": "Sayulita Mexico | Bachelor Beach Town Destination",
         "description": "Visit Sayulita from The Bachelor. Surf, tacos, mezcal, and bohemian beach romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sayulita%20Sayulita"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sayulita%20Sayulita",
+      "videos": [
+        {
+          "title": "Visit Mexico - Riviera Nayarit",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=9l1Z1r7aRlU"
+        },
+        {
+          "title": "Sayulita Surf Town Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=PcjTLb5FUvo"
+        },
+        {
+          "title": "Sayulita Beach & Culture",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=EMYDUcE8mCY"
+        }
+      ]
     },
     {
       "id": "napa-valley-california",
@@ -10024,7 +11962,24 @@
         "title": "Napa Valley California | Bachelor Wine Country Romance",
         "description": "Visit Napa Valley from The Bachelor. Hot air balloons, wine tasting, and Michelin-star romance await."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Napa%20Valley%20Napa"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Napa%20Valley%20Napa",
+      "videos": [
+        {
+          "title": "Visit Napa Valley Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=1c6vUg-a96E"
+        },
+        {
+          "title": "Napa Wine Train Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Gn_vBQKKJ7U"
+        },
+        {
+          "title": "Hot Air Balloon Wine Country",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=SzZvfaAm6_A"
+        }
+      ]
     },
     {
       "id": "savannah-georgia",
@@ -10120,7 +12075,24 @@
         "description": "Visit Savannah from The Bachelor. Spanish moss, historic squares, and Southern charm await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Savannah%20Savannah",
-      "image": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?w=800"
+      "image": "https://images.unsplash.com/photo-1589083130544-0d6a2926e519?w=800",
+      "videos": [
+        {
+          "title": "Visit Savannah Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Hk9RXkL0Ez8"
+        },
+        {
+          "title": "Savannah Historic District",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=KZlQ5sDPflo"
+        },
+        {
+          "title": "Forsyth Park & Squares",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=7LmL3hWxxEw"
+        }
+      ]
     },
     {
       "id": "sedona-arizona",
@@ -10226,7 +12198,24 @@
         "description": "Visit Sedona from The Bachelor. Red rocks, vortexes, and desert luxury await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sedona%20Sedona",
-      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800"
+      "image": "https://images.unsplash.com/photo-1500534623283-312aade485b7?w=800",
+      "videos": [
+        {
+          "title": "Visit Arizona - Sedona",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=xWQH7Wvl_-w"
+        },
+        {
+          "title": "Sedona Red Rocks Hike",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=VmH89aNQo4A"
+        },
+        {
+          "title": "Sedona Vortex Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qMxM7b4jxXo"
+        }
+      ]
     },
     {
       "id": "turks-and-caicos",
@@ -10324,7 +12313,24 @@
         "description": "Visit Turks and Caicos from The Bachelor. Grace Bay Beach and Caribbean luxury await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Turks%20and%20Caicos%20Providenciales",
-      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800"
+      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800",
+      "videos": [
+        {
+          "title": "Turks and Caicos Tourism",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=e8wJgLY6jjE"
+        },
+        {
+          "title": "Grace Bay Beach Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=gT2ys_RDPsk"
+        },
+        {
+          "title": "Turks and Caicos Snorkeling",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mHYvJqeblcU"
+        }
+      ]
     },
     {
       "id": "dubrovnik-croatia",
@@ -10420,7 +12426,24 @@
         "description": "Visit Dubrovnik from The Bachelor. Medieval walls, Adriatic waters, and Game of Thrones magic await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubrovnik%20Dubrovnik",
-      "image": "https://images.unsplash.com/photo-1555990538-1d0d55a56d36?w=800"
+      "image": "https://images.unsplash.com/photo-1555990538-1d0d55a56d36?w=800",
+      "videos": [
+        {
+          "title": "Croatia Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=_J5_Rf5R6dY"
+        },
+        {
+          "title": "Dubrovnik Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=9D0LNnFSI0E"
+        },
+        {
+          "title": "Croatia Island Hopping",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=AYMHYz1w4yE"
+        }
+      ]
     },
     {
       "id": "paris-france",
@@ -10519,7 +12542,24 @@
         "description": "Visit Paris from The Bachelor. Eiffel Tower, Seine cruises, and the world's most romantic city await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Paris%20Paris",
-      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800"
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=800",
+      "videos": [
+        {
+          "title": "Paris Je T'aime Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=XKf8jSiaghU"
+        },
+        {
+          "title": "Eiffel Tower Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dt_N2SfMt7M"
+        },
+        {
+          "title": "Romantic Paris Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=rKPJl6lhMmU"
+        }
+      ]
     },
     {
       "id": "lisbon-portugal",
@@ -10614,7 +12654,24 @@
         "description": "Visit Lisbon from The Bachelor. Fado, viewpoints, and Portuguese charm await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lisbon%20Lisbon",
-      "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800"
+      "image": "https://images.unsplash.com/photo-1555881400-74d7acaacd8b?w=800",
+      "videos": [
+        {
+          "title": "Visit Portugal - Lisbon",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=j_S4B0ecbAU"
+        },
+        {
+          "title": "Lisbon Tram 28 Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=u3jQcYECeyI"
+        },
+        {
+          "title": "Sintra Day Trip from Lisbon",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=CRJ2hxcOLgk"
+        }
+      ]
     },
     {
       "id": "amsterdam-netherlands",
@@ -10709,7 +12766,24 @@
         "description": "Visit Amsterdam from The Bachelor. Canals, museums, and Dutch gezelligheid await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amsterdam%20Amsterdam",
-      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=800"
+      "image": "https://images.unsplash.com/photo-1534351590666-13e3e96b5017?w=800",
+      "videos": [
+        {
+          "title": "I Amsterdam Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=O68nh7LqxnA"
+        },
+        {
+          "title": "Amsterdam Canal Cruise",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=MxJhQl5kw1w"
+        },
+        {
+          "title": "Anne Frank House & Museum District",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=L5jRwnfMuH8"
+        }
+      ]
     },
     {
       "id": "vietnam-halong-bay",
@@ -10805,7 +12879,24 @@
         "description": "Visit Ha Long Bay from reality TV. Limestone karsts, junk boats, and Vietnamese romance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Ha%20Long%20Bay%20Ha%20Long",
-      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800"
+      "image": "https://images.unsplash.com/photo-1528127269322-539801943592?w=800",
+      "videos": [
+        {
+          "title": "Visit Vietnam - Ha Long Bay",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=ZfSAq0kcNJQ"
+        },
+        {
+          "title": "Ha Long Bay Cruise Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=LJb-w-sUPP4"
+        },
+        {
+          "title": "Kayaking Ha Long Bay",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=nC_N4EfWOlo"
+        }
+      ]
     },
     {
       "id": "marrakech-morocco",
@@ -10901,7 +12992,24 @@
         "description": "Visit Marrakech from The Bachelor. Riads, souks, and Moroccan magic await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Marrakech%20Marrakech",
-      "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=800"
+      "image": "https://images.unsplash.com/photo-1539020140153-e479b8c22e70?w=800",
+      "videos": [
+        {
+          "title": "Visit Morocco Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=nGfnxUK5bLs"
+        },
+        {
+          "title": "Marrakech Souks & Medina",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=1GW-JdU1l2c"
+        },
+        {
+          "title": "Majorelle Garden & Riads",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=hA5XKHw3TYk"
+        }
+      ]
     },
     {
       "id": "byron-bay-australia",
@@ -10999,7 +13107,24 @@
         "description": "Visit Byron Bay from Australian dating shows. Surf, wellness, and bohemian romance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Byron%20Bay%20Byron%20Bay",
-      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800"
+      "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
+      "videos": [
+        {
+          "title": "Destination NSW - Byron Bay",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=1hRGPqPcz8s"
+        },
+        {
+          "title": "Byron Bay Lighthouse Walk",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Z5tL8mjqJf0"
+        },
+        {
+          "title": "Byron Bay Beach & Surf",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=YhJhTGYe0E0"
+        }
+      ]
     },
     {
       "id": "maldives-overwater",
@@ -11103,7 +13228,24 @@
         "description": "Visit the Maldives from The Bachelor. Overwater villas, private islands, and unmatched luxury await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Overwater%20Villas%20North%20Mal%C3%A9%20Atoll",
-      "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800"
+      "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
+      "videos": [
+        {
+          "title": "Visit Maldives Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=lKNO3JrwlZE"
+        },
+        {
+          "title": "Maldives Overwater Villa Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=TnZ_nh9jvzQ"
+        },
+        {
+          "title": "Maldives Underwater World",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=p_p2A4-4gQ0"
+        }
+      ]
     },
     {
       "id": "puerto-rico-san-juan",
@@ -11198,7 +13340,24 @@
         "description": "Visit San Juan from The Bachelor. Old Town charm, bio bays, and Caribbean magic\u2014no passport needed."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Juan%2C%20Puerto%20Rico%20San%20Juan",
-      "image": "https://images.unsplash.com/photo-1579687196544-08b3e76c3131?w=800"
+      "image": "https://images.unsplash.com/photo-1579687196544-08b3e76c3131?w=800",
+      "videos": [
+        {
+          "title": "Discover Puerto Rico Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=I5pOKI6jgcs"
+        },
+        {
+          "title": "Old San Juan Walking Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=O7lzBu3NL7E"
+        },
+        {
+          "title": "Bioluminescent Bay",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=O7lzBu3NL7E"
+        }
+      ]
     },
     {
       "id": "key-west-florida",
@@ -11293,7 +13452,24 @@
         "description": "Visit Key West from The Bachelor. Sunset celebrations, coral reefs, and island vibes await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Key%20West%20Key%20West",
-      "image": "https://images.unsplash.com/photo-1580192985016-7e15ef081dd8?w=800"
+      "image": "https://images.unsplash.com/photo-1580192985016-7e15ef081dd8?w=800",
+      "videos": [
+        {
+          "title": "Florida Keys Tourism",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=4FIpE8sqvFE"
+        },
+        {
+          "title": "Key West Sunset Celebration",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=HCRiYYrP5yk"
+        },
+        {
+          "title": "Duval Street & Old Town",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=AJQb4cBT5vU"
+        }
+      ]
     },
     {
       "id": "charleston-south-carolina",
@@ -11396,7 +13572,24 @@
         "description": "Visit Charleston from The Bachelor. Rainbow Row, Lowcountry cuisine, and Southern charm await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Charleston%20Charleston",
-      "image": "https://images.unsplash.com/photo-1569262587021-19635f0c3e5d?w=800"
+      "image": "https://images.unsplash.com/photo-1569262587021-19635f0c3e5d?w=800",
+      "videos": [
+        {
+          "title": "Explore Charleston Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=7B0U3DpZXog"
+        },
+        {
+          "title": "Charleston Food Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=PWf6t8aSHnE"
+        },
+        {
+          "title": "Magnolia Plantation & Gardens",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=YFPD_90nrYA"
+        }
+      ]
     },
     {
       "id": "lake-como-italy",
@@ -11491,7 +13684,24 @@
         "description": "Visit Lake Como from The Bachelor. Villas, boat tours, and Italian elegance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake%20Como%20Bellagio",
-      "image": "https://images.unsplash.com/photo-1537859668476-8988f857a60b?w=800"
+      "image": "https://images.unsplash.com/photo-1537859668476-8988f857a60b?w=800",
+      "videos": [
+        {
+          "title": "Visit Italy - Lake Como",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=fFLJwK_oSFg"
+        },
+        {
+          "title": "Bellagio & Villa Tours",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mEFd_C-sVbk"
+        },
+        {
+          "title": "Lake Como Boat Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=2HXtB5j4hpE"
+        }
+      ]
     },
     {
       "id": "bora-bora-tahiti",
@@ -11587,7 +13797,24 @@
         "description": "Visit Bora Bora from The Bachelor. Overwater bungalows, Mount Otemanu, and lagoon paradise await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%20Vaitape",
-      "image": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?w=800"
+      "image": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?w=800",
+      "videos": [
+        {
+          "title": "Tahiti Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=NNWvZZGkLbs"
+        },
+        {
+          "title": "Overwater Bungalow Experience",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=tl1E8yC-c4w"
+        },
+        {
+          "title": "Bora Bora Lagoon Snorkeling",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=c8n_L6mf9Wc"
+        }
+      ]
     },
     {
       "id": "barcelona-spain",
@@ -11692,7 +13919,24 @@
         "description": "Visit Barcelona from The Bachelor. Gaud\u00ed, beaches, tapas, and Spanish passion await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Barcelona%20Barcelona",
-      "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800"
+      "image": "https://images.unsplash.com/photo-1583422409516-2895a77efded?w=800",
+      "videos": [
+        {
+          "title": "Visit Barcelona Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=khWzf-b5vU0"
+        },
+        {
+          "title": "Sagrada Familia Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=kkNGdzo_3EA"
+        },
+        {
+          "title": "Barcelona Beach & Nightlife",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=cJcVCXnUa-4"
+        }
+      ]
     },
     {
       "id": "cartagena-colombia",
@@ -11799,7 +14043,24 @@
         "description": "Visit Cartagena from The Bachelor. Colonial walls, Caribbean waters, and Colombian passion await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cartagena%20Cartagena",
-      "image": "https://images.unsplash.com/photo-1583531172005-814892794972?w=800"
+      "image": "https://images.unsplash.com/photo-1583531172005-814892794972?w=800",
+      "videos": [
+        {
+          "title": "Colombia Travel Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Q3xfZh9r-vs"
+        },
+        {
+          "title": "Cartagena Walled City Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8dKGqTgKHyM"
+        },
+        {
+          "title": "Rosario Islands Boat Trip",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=mV9qe8jABFk"
+        }
+      ]
     },
     {
       "id": "bahamas-nassau-exumas",
@@ -11901,7 +14162,24 @@
         "description": "Visit The Bahamas from The Bachelor. Swimming pigs, crystal waters, and Caribbean paradise await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Bahamas%20Nassau%20%26%20Exumas",
-      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800"
+      "image": "https://images.unsplash.com/photo-1548574505-5e239809ee19?w=800",
+      "videos": [
+        {
+          "title": "Bahamas Tourism Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=wGGsqZBfRKk"
+        },
+        {
+          "title": "Swimming Pigs Exuma",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=dYr9KxJ14Os"
+        },
+        {
+          "title": "Nassau & Paradise Island",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=KgFsXJAJbTQ"
+        }
+      ]
     },
     {
       "id": "vienna-austria",
@@ -11996,7 +14274,24 @@
         "description": "Visit Vienna from The Bachelor. Palaces, opera, coffee houses, and imperial elegance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Vienna%20Vienna",
-      "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=800"
+      "image": "https://images.unsplash.com/photo-1516550893923-42d28e5677af?w=800",
+      "videos": [
+        {
+          "title": "Visit Vienna Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=N6jXRKJY6YU"
+        },
+        {
+          "title": "Sch\u00f6nbrunn Palace Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=iO4pI3hPXnY"
+        },
+        {
+          "title": "Vienna Coffee House Culture",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=8tXUl-8Xf_U"
+        }
+      ]
     },
     {
       "id": "kauai-hawaii",
@@ -12091,7 +14386,24 @@
         "description": "Visit Kauai from The Bachelor. Na Pali cliffs, helicopter tours, and Hawaiian paradise await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kauai%20Lihue",
-      "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?w=800"
+      "image": "https://images.unsplash.com/photo-1505852679233-d9fd70aff56d?w=800",
+      "videos": [
+        {
+          "title": "Go Hawaii - Kauai Garden Isle",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=IZTF7CBJPZU"
+        },
+        {
+          "title": "Na Pali Coast Tour",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=fF_qoTpSjgE"
+        },
+        {
+          "title": "Waimea Canyon Grand Canyon of Pacific",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=TrWMBu8y5_g"
+        }
+      ]
     },
     {
       "id": "scottsdale-arizona",
@@ -12186,7 +14498,24 @@
         "description": "Visit Scottsdale from The Bachelor. Desert spas, golf, and Sonoran romance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottsdale%20Scottsdale",
-      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800"
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=800",
+      "videos": [
+        {
+          "title": "Experience Scottsdale Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=4_ePP14P8Cw"
+        },
+        {
+          "title": "Scottsdale Old Town",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=tJ5O6u_GnUQ"
+        },
+        {
+          "title": "Scottsdale Golf & Spa",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=g-yKKJQwQWs"
+        }
+      ]
     },
     {
       "id": "singapore-city",
@@ -12281,7 +14610,24 @@
         "description": "Visit Singapore from The Bachelor. Gardens, hawker food, and futuristic city romance await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Singapore%20Singapore",
-      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800"
+      "image": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?w=800",
+      "videos": [
+        {
+          "title": "Visit Singapore Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=N5NcIBVJQWo"
+        },
+        {
+          "title": "Marina Bay Sands Experience",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=q1bHZ5hHQWo"
+        },
+        {
+          "title": "Gardens by the Bay Night Show",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=Ps1Z3ZxzPWg"
+        }
+      ]
     },
     {
       "id": "big-sur-california",
@@ -12376,7 +14722,24 @@
         "description": "Visit Big Sur from The Bachelor. Cliffside luxury, Bixby Bridge, and coastal majesty await."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Big%20Sur%20Big%20Sur",
-      "image": "https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=800"
+      "image": "https://images.unsplash.com/photo-1519821172144-4f87d85de2a1?w=800",
+      "videos": [
+        {
+          "title": "Visit California - Big Sur",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=wWA9nWuJSAs"
+        },
+        {
+          "title": "Big Sur Scenic Drive",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=5zABtgG7mvU"
+        },
+        {
+          "title": "McWay Falls & Bixby Bridge",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=qWfuH7NvhFI"
+        }
+      ]
     }
   ]
 }

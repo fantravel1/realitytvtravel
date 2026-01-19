@@ -2476,3 +2476,33 @@ h1, h2, h3, h4, h5, h6 {
 .editors-pick-card:hover .editors-pick-cta::after {
   transform: translateX(4px);
 }
+
+/* ============================================
+   Video Cards & Attraction Cards
+   ============================================ */
+
+.video-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.video-card:hover h4 {
+  color: var(--color-primary);
+}
+
+.attraction-card {
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.attraction-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.videos-grid {
+  margin-top: var(--space-lg);
+}
+
+.attractions-grid {
+  margin-top: var(--space-lg);
+}

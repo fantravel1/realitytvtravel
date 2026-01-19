@@ -1057,6 +1057,57 @@ async function loadLocationDetail() {
           </div>
         ` : ''}
 
+        ${location.videos?.length > 0 ? `
+          <div class="detail-section">
+            <h2>🎬 Destination Videos</h2>
+            <p class="section-intro">Explore ${location.name} through these official tourism and experience videos</p>
+            <div class="videos-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-lg);">
+              ${location.videos.map(video => `
+                <a href="${video.url}" target="_blank" rel="noopener" class="video-card" style="display: block; background: var(--color-gray-50); border-radius: var(--radius-lg); overflow: hidden; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s;">
+                  <div style="position: relative; padding-top: 56.25%; background: linear-gradient(135deg, var(--color-primary-light), var(--color-primary));">
+                    <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;">
+                      <span style="font-size: 3rem; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">▶️</span>
+                    </div>
+                    <span style="position: absolute; top: var(--space-sm); right: var(--space-sm); background: rgba(0,0,0,0.7); color: white; padding: 2px 8px; border-radius: var(--radius-sm); font-size: 0.75rem; text-transform: capitalize;">${video.type}</span>
+                  </div>
+                  <div style="padding: var(--space-md);">
+                    <h4 style="margin: 0; color: var(--color-gray-900); font-size: 0.95rem;">${video.title}</h4>
+                    <p style="margin: var(--space-xs) 0 0; color: var(--color-gray-500); font-size: 0.8rem;">Watch on YouTube →</p>
+                  </div>
+                </a>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
+        ${location.nearbyAttractions?.length > 0 ? `
+          <div class="detail-section">
+            <h2>🗺️ Nearby Attractions</h2>
+            <p class="section-intro">Explore these popular attractions near ${location.name}</p>
+            <div class="attractions-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: var(--space-md);">
+              ${location.nearbyAttractions.map(attraction => {
+                const typeEmojis = {
+                  'landmark': '🏛️', 'beach': '🏖️', 'nature': '🌿', 'museum': '🖼️',
+                  'shopping': '🛍️', 'entertainment': '🎭', 'activity': '🎯', 'town': '🏘️',
+                  'city': '🏙️', 'tour': '🚌', 'hotel': '🏨', 'bar': '🍹', 'dining': '🍽️',
+                  'experience': '✨', 'attraction': '🎡'
+                };
+                return `
+                  <div class="attraction-card" style="background: var(--color-gray-50); padding: var(--space-md); border-radius: var(--radius-md); display: flex; align-items: flex-start; gap: var(--space-sm);">
+                    <span style="font-size: 1.5rem;">${typeEmojis[attraction.type] || '📍'}</span>
+                    <div>
+                      <h4 style="margin: 0; font-size: 0.95rem; color: var(--color-gray-900);">${attraction.name}</h4>
+                      <p style="margin: var(--space-xs) 0 0; font-size: 0.8rem; color: var(--color-gray-500);">
+                        ${attraction.distance} • ${attraction.type.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                      </p>
+                    </div>
+                  </div>
+                `;
+              }).join('')}
+            </div>
+          </div>
+        ` : ''}
+
         <div class="detail-section magazine-section">
           <h2>📍 Location Details</h2>
           <div class="location-info-grid">
