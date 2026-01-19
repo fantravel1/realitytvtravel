@@ -47,6 +47,105 @@ async function initData() {
 }
 
 // ============================================
+// SEO: JSON-LD Structured Data
+// ============================================
+
+function injectStructuredData(data) {
+  // Remove any existing JSON-LD script
+  const existingScript = document.querySelector('script[type="application/ld+json"][data-dynamic="true"]');
+  if (existingScript) {
+    existingScript.remove();
+  }
+
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.setAttribute('data-dynamic', 'true');
+  script.textContent = JSON.stringify(data);
+  document.head.appendChild(script);
+}
+
+function createShowStructuredData(show, locations) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "name": show.name,
+    "description": show.longDescription || show.description,
+    "numberOfSeasons": show.seasons,
+    "datePublished": show.yearStarted ? `${show.yearStarted}-01-01` : undefined,
+    "productionCompany": {
+      "@type": "Organization",
+      "name": show.network
+    },
+    "aggregateRating": show.viewerRating ? {
+      "@type": "AggregateRating",
+      "ratingValue": show.viewerRating,
+      "bestRating": 5,
+      "worstRating": 1
+    } : undefined,
+    "contentLocation": locations.map(loc => ({
+      "@type": "Place",
+      "name": loc.name,
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": loc.country,
+        "addressRegion": loc.region
+      }
+    })),
+    "url": `https://realitytvtravel.com/show.html?id=${show.id}`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "RealityTVTravel",
+      "url": "https://realitytvtravel.com"
+    }
+  };
+}
+
+function createLocationStructuredData(location, shows) {
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    "name": location.name,
+    "description": location.longDescription || location.description,
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": location.country,
+      "addressRegion": location.region
+    },
+    "url": `https://realitytvtravel.com/location.html?id=${location.id}`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "RealityTVTravel",
+      "url": "https://realitytvtravel.com"
+    }
+  };
+
+  if (location.image) {
+    structuredData.image = location.image;
+  }
+
+  if (location.priceRange) {
+    structuredData.priceRange = location.priceRange;
+  }
+
+  if (location.highlights?.length) {
+    structuredData.amenityFeature = location.highlights.map(h => ({
+      "@type": "LocationFeatureSpecification",
+      "name": h
+    }));
+  }
+
+  if (shows?.length) {
+    structuredData.subjectOf = shows.map(show => ({
+      "@type": "TVSeries",
+      "name": show.name,
+      "description": show.description
+    }));
+  }
+
+  return structuredData;
+}
+
+// ============================================
 // Lazy Loading for Images
 // ============================================
 
@@ -689,8 +788,18 @@ async function loadShowDetail() {
 
   document.title = `${show.name} Filming Locations | RealityTVTravel`;
 
+  // Inject JSON-LD structured data for SEO
+  const structuredData = createShowStructuredData(show, showLocations);
+  injectStructuredData(structuredData);
+
+  // Update meta description dynamically
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute('content', `Explore ${showLocations.length} filming locations from ${show.name} on ${show.network}. ${show.description}`);
+  }
+
   container.innerHTML = `
-    <div class="detail-header" style="background: ${colors.bg}">
+    <div class="detail-header" style="background: ${colors.bg}">`
       <div class="container">
         <div class="detail-breadcrumb">
           <a href="/">Home</a>
@@ -880,6 +989,21 @@ async function loadLocationDetail() {
   }) || [];
 
   document.title = `${location.name} | RealityTVTravel`;
+
+  // Get show objects for structured data
+  const locationShows = location.shows?.map(showId =>
+    showsData?.shows?.find(s => s.id === showId)
+  ).filter(Boolean) || [];
+
+  // Inject JSON-LD structured data for SEO
+  const structuredData = createLocationStructuredData(location, locationShows);
+  injectStructuredData(structuredData);
+
+  // Update meta description dynamically
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute('content', `Visit ${location.name} in ${location.country} - a filming location from ${showNames.join(', ')}. ${location.description}`);
+  }
 
   const amenityEmojis = {
     'pool': '🏊', 'infinity-pool': '🏊', 'spa': '💆', 'beach-access': '🏖️',
