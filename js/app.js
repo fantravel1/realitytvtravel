@@ -743,7 +743,8 @@ async function loadShowDetail() {
               </div>
             ` : ''}
             <div class="sidebar-cta">
-              <a href="locations.html" class="btn btn-primary" style="width: 100%; margin-bottom: var(--space-sm);">Browse Locations</a>
+              ${show.trailerUrl ? `<a href="${show.trailerUrl}" target="_blank" rel="noopener" class="btn btn-primary" style="width: 100%; margin-bottom: var(--space-sm);">▶️ Watch Trailer</a>` : ''}
+              <a href="locations.html" class="btn ${show.trailerUrl ? 'btn-outline' : 'btn-primary'}" style="width: 100%; margin-bottom: var(--space-sm);">Browse Locations</a>
               <a href="shows.html" class="btn btn-outline" style="width: 100%;">All Shows</a>
             </div>
           </div>
