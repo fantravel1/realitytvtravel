@@ -47,6 +47,105 @@ async function initData() {
 }
 
 // ============================================
+// SEO: JSON-LD Structured Data
+// ============================================
+
+function injectStructuredData(data) {
+  // Remove any existing JSON-LD script
+  const existingScript = document.querySelector('script[type="application/ld+json"][data-dynamic="true"]');
+  if (existingScript) {
+    existingScript.remove();
+  }
+
+  const script = document.createElement('script');
+  script.type = 'application/ld+json';
+  script.setAttribute('data-dynamic', 'true');
+  script.textContent = JSON.stringify(data);
+  document.head.appendChild(script);
+}
+
+function createShowStructuredData(show, locations) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "TVSeries",
+    "name": show.name,
+    "description": show.longDescription || show.description,
+    "numberOfSeasons": show.seasons,
+    "datePublished": show.yearStarted ? `${show.yearStarted}-01-01` : undefined,
+    "productionCompany": {
+      "@type": "Organization",
+      "name": show.network
+    },
+    "aggregateRating": show.viewerRating ? {
+      "@type": "AggregateRating",
+      "ratingValue": show.viewerRating,
+      "bestRating": 5,
+      "worstRating": 1
+    } : undefined,
+    "contentLocation": locations.map(loc => ({
+      "@type": "Place",
+      "name": loc.name,
+      "address": {
+        "@type": "PostalAddress",
+        "addressCountry": loc.country,
+        "addressRegion": loc.region
+      }
+    })),
+    "url": `https://realitytvtravel.com/show.html?id=${show.id}`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "RealityTVTravel",
+      "url": "https://realitytvtravel.com"
+    }
+  };
+}
+
+function createLocationStructuredData(location, shows) {
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "TouristDestination",
+    "name": location.name,
+    "description": location.longDescription || location.description,
+    "address": {
+      "@type": "PostalAddress",
+      "addressCountry": location.country,
+      "addressRegion": location.region
+    },
+    "url": `https://realitytvtravel.com/location.html?id=${location.id}`,
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "RealityTVTravel",
+      "url": "https://realitytvtravel.com"
+    }
+  };
+
+  if (location.image) {
+    structuredData.image = location.image;
+  }
+
+  if (location.priceRange) {
+    structuredData.priceRange = location.priceRange;
+  }
+
+  if (location.highlights?.length) {
+    structuredData.amenityFeature = location.highlights.map(h => ({
+      "@type": "LocationFeatureSpecification",
+      "name": h
+    }));
+  }
+
+  if (shows?.length) {
+    structuredData.subjectOf = shows.map(show => ({
+      "@type": "TVSeries",
+      "name": show.name,
+      "description": show.description
+    }));
+  }
+
+  return structuredData;
+}
+
+// ============================================
 // Lazy Loading for Images
 // ============================================
 
@@ -689,8 +788,18 @@ async function loadShowDetail() {
 
   document.title = `${show.name} Filming Locations | RealityTVTravel`;
 
+  // Inject JSON-LD structured data for SEO
+  const structuredData = createShowStructuredData(show, showLocations);
+  injectStructuredData(structuredData);
+
+  // Update meta description dynamically
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute('content', `Explore ${showLocations.length} filming locations from ${show.name} on ${show.network}. ${show.description}`);
+  }
+
   container.innerHTML = `
-    <div class="detail-header" style="background: ${colors.bg}">
+    <div class="detail-header" style="background: ${colors.bg}">`
       <div class="container">
         <div class="detail-breadcrumb">
           <a href="/">Home</a>
@@ -881,6 +990,21 @@ async function loadLocationDetail() {
 
   document.title = `${location.name} | RealityTVTravel`;
 
+  // Get show objects for structured data
+  const locationShows = location.shows?.map(showId =>
+    showsData?.shows?.find(s => s.id === showId)
+  ).filter(Boolean) || [];
+
+  // Inject JSON-LD structured data for SEO
+  const structuredData = createLocationStructuredData(location, locationShows);
+  injectStructuredData(structuredData);
+
+  // Update meta description dynamically
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) {
+    metaDesc.setAttribute('content', `Visit ${location.name} in ${location.country} - a filming location from ${showNames.join(', ')}. ${location.description}`);
+  }
+
   const amenityEmojis = {
     'pool': '🏊', 'infinity-pool': '🏊', 'spa': '💆', 'beach-access': '🏖️',
     'restaurant': '🍽️', 'bar': '🍹', 'chef-available': '👨‍🍳', 'private-chef': '👨‍🍳',
@@ -1053,6 +1177,57 @@ async function loadLocationDetail() {
                   </div>
                 </div>
               `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
+        ${location.videos?.length > 0 ? `
+          <div class="detail-section">
+            <h2>🎬 Destination Videos</h2>
+            <p class="section-intro">Explore ${location.name} through these official tourism and experience videos</p>
+            <div class="videos-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: var(--space-lg);">
+              ${location.videos.map(video => `
+                <a href="${video.url}" target="_blank" rel="noopener" class="video-card" style="display: block; background: var(--color-gray-50); border-radius: var(--radius-lg); overflow: hidden; text-decoration: none; transition: transform 0.2s, box-shadow 0.2s;">
+                  <div style="position: relative; padding-top: 56.25%; background: linear-gradient(135deg, var(--color-primary-light), var(--color-primary));">
+                    <div style="position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;">
+                      <span style="font-size: 3rem; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">▶️</span>
+                    </div>
+                    <span style="position: absolute; top: var(--space-sm); right: var(--space-sm); background: rgba(0,0,0,0.7); color: white; padding: 2px 8px; border-radius: var(--radius-sm); font-size: 0.75rem; text-transform: capitalize;">${video.type}</span>
+                  </div>
+                  <div style="padding: var(--space-md);">
+                    <h4 style="margin: 0; color: var(--color-gray-900); font-size: 0.95rem;">${video.title}</h4>
+                    <p style="margin: var(--space-xs) 0 0; color: var(--color-gray-500); font-size: 0.8rem;">Watch on YouTube →</p>
+                  </div>
+                </a>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
+        ${location.nearbyAttractions?.length > 0 ? `
+          <div class="detail-section">
+            <h2>🗺️ Nearby Attractions</h2>
+            <p class="section-intro">Explore these popular attractions near ${location.name}</p>
+            <div class="attractions-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: var(--space-md);">
+              ${location.nearbyAttractions.map(attraction => {
+                const typeEmojis = {
+                  'landmark': '🏛️', 'beach': '🏖️', 'nature': '🌿', 'museum': '🖼️',
+                  'shopping': '🛍️', 'entertainment': '🎭', 'activity': '🎯', 'town': '🏘️',
+                  'city': '🏙️', 'tour': '🚌', 'hotel': '🏨', 'bar': '🍹', 'dining': '🍽️',
+                  'experience': '✨', 'attraction': '🎡'
+                };
+                return `
+                  <div class="attraction-card" style="background: var(--color-gray-50); padding: var(--space-md); border-radius: var(--radius-md); display: flex; align-items: flex-start; gap: var(--space-sm);">
+                    <span style="font-size: 1.5rem;">${typeEmojis[attraction.type] || '📍'}</span>
+                    <div>
+                      <h4 style="margin: 0; font-size: 0.95rem; color: var(--color-gray-900);">${attraction.name}</h4>
+                      <p style="margin: var(--space-xs) 0 0; font-size: 0.8rem; color: var(--color-gray-500);">
+                        ${attraction.distance} • ${attraction.type.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                      </p>
+                    </div>
+                  </div>
+                `;
+              }).join('')}
             </div>
           </div>
         ` : ''}
