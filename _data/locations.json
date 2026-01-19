@@ -647,7 +647,24 @@
         "title": "Sheraton Fiji Tokoriki | Near Love Island USA Villa",
         "description": "Experience Fiji like Love Island USA. Sheraton Tokoriki offers adults-only paradise."
       },
-      "bookingUrl": "https://www.marriott.com/hotels/travel/suvsi-sheraton-resort-and-spa-tokoriki-island-fiji"
+      "bookingUrl": "https://www.marriott.com/hotels/travel/suvsi-sheraton-resort-and-spa-tokoriki-island-fiji",
+      "nearbyAttractions": [
+        {
+          "name": "Cloud 9 Floating Bar",
+          "type": "bar",
+          "distance": "30 min boat"
+        },
+        {
+          "name": "Mamanuca Islands",
+          "type": "beach",
+          "distance": "nearby"
+        },
+        {
+          "name": "Modriki Island (Cast Away)",
+          "type": "landmark",
+          "distance": "45 min boat"
+        }
+      ]
     },
     {
       "id": "azura-beach-resort",
@@ -710,7 +727,24 @@
         "title": "Azura Beach Resort | Bachelor in Paradise Season 10",
         "description": "Stay at the new Bachelor in Paradise resort in Costa Rica."
       },
-      "bookingUrl": "https://www.azuraresort.com"
+      "bookingUrl": "https://www.azuraresort.com",
+      "nearbyAttractions": [
+        {
+          "name": "Playa Carrillo",
+          "type": "beach",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Werner Sauter Biological Reserve",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Nosara Beaches",
+          "type": "beach",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "santorini-grace",
@@ -864,7 +898,24 @@
         "title": "Castle Howard | The Courtship Filming Location",
         "description": "Visit Castle Howard, the stunning English estate from The Courtship."
       },
-      "bookingUrl": "https://www.castlehoward.co.uk/stay"
+      "bookingUrl": "https://www.castlehoward.co.uk/stay",
+      "nearbyAttractions": [
+        {
+          "name": "York Minster",
+          "type": "landmark",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "York City Walls",
+          "type": "landmark",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "North York Moors National Park",
+          "type": "nature",
+          "distance": "25 min drive"
+        }
+      ]
     },
     {
       "id": "cabo-resort",
@@ -1015,7 +1066,24 @@
         "title": "Justine New Orleans | Dating Around Restaurant",
         "description": "Dine at Justine, the romantic restaurant from Dating Around Season 2."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Justine%20Restaurant%20New%20Orleans"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Justine%20Restaurant%20New%20Orleans",
+      "nearbyAttractions": [
+        {
+          "name": "Jackson Square",
+          "type": "landmark",
+          "distance": "5 min walk"
+        },
+        {
+          "name": "Caf\u00e9 Du Monde",
+          "type": "dining",
+          "distance": "5 min walk"
+        },
+        {
+          "name": "French Market",
+          "type": "shopping",
+          "distance": "10 min walk"
+        }
+      ]
     },
     {
       "id": "austin-rainey-street",
@@ -1075,7 +1143,24 @@
       "meta": {
         "title": "Rainey Street Austin | The Ultimatum Bars",
         "description": "Visit Rainey Street, the Austin bar district from The Ultimatum."
-      }
+      },
+      "nearbyAttractions": [
+        {
+          "name": "South Congress Avenue",
+          "type": "entertainment",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Zilker Park",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "6th Street Entertainment",
+          "type": "entertainment",
+          "distance": "5 min walk"
+        }
+      ]
     },
     {
       "id": "thailand-resort",
@@ -1322,7 +1407,24 @@
         "title": "Blue Lagoon Iceland | Bachelor Date Destination",
         "description": "Visit Blue Lagoon, the famous geothermal spa from Bachelor dates."
       },
-      "bookingUrl": "https://www.bluelagoon.com"
+      "bookingUrl": "https://www.bluelagoon.com",
+      "nearbyAttractions": [
+        {
+          "name": "Reykjavik City Center",
+          "type": "city",
+          "distance": "45 min drive"
+        },
+        {
+          "name": "Golden Circle",
+          "type": "nature",
+          "distance": "1.5 hr drive"
+        },
+        {
+          "name": "Fagradalsfjall Volcano",
+          "type": "nature",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "jamaica-sandals",
@@ -1386,7 +1488,24 @@
         "title": "Sandals Jamaica | Love in Paradise Resort",
         "description": "Stay at the all-inclusive Jamaica resort from Love in Paradise."
       },
-      "bookingUrl": "https://www.sandals.com/jamaica"
+      "bookingUrl": "https://www.sandals.com/jamaica",
+      "nearbyAttractions": [
+        {
+          "name": "Rose Hall Great House",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Doctor's Cave Beach",
+          "type": "beach",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Dunn's River Falls",
+          "type": "nature",
+          "distance": "1.5 hr drive"
+        }
+      ]
     },
     {
       "id": "maldives-resort",
@@ -1542,7 +1661,24 @@
         "title": "Queenstown New Zealand | Bachelor Adventure Destination",
         "description": "Visit Queenstown, the adventure destination from The Bachelor."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Queenstown%2C%20New%20Zealand%20Queenstown"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Queenstown%2C%20New%20Zealand%20Queenstown",
+      "nearbyAttractions": [
+        {
+          "name": "Milford Sound",
+          "type": "nature",
+          "distance": "4 hr drive"
+        },
+        {
+          "name": "Skyline Queenstown Gondola",
+          "type": "activity",
+          "distance": "5 min drive"
+        },
+        {
+          "name": "Arrowtown",
+          "type": "town",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "scotland-highlands",
@@ -1605,7 +1741,24 @@
         "title": "Scottish Highlands | Bachelorette Castle Destination",
         "description": "Visit the Scottish Highlands featured in The Bachelorette."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottish%20Highlands%20Inverness"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottish%20Highlands%20Inverness",
+      "nearbyAttractions": [
+        {
+          "name": "Loch Ness",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Urquhart Castle",
+          "type": "landmark",
+          "distance": "35 min drive"
+        },
+        {
+          "name": "Cairngorms National Park",
+          "type": "nature",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "paris-france",
@@ -1762,7 +1915,24 @@
         "title": "Grace Bay Beach | Too Hot to Handle Paradise",
         "description": "Visit Grace Bay, the world's best beach near Too Hot to Handle filming."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grace%20Bay%20Beach%20Providenciales"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grace%20Bay%20Beach%20Providenciales",
+      "nearbyAttractions": [
+        {
+          "name": "Chalk Sound National Park",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Sapodilla Bay Beach",
+          "type": "beach",
+          "distance": "25 min drive"
+        },
+        {
+          "name": "Iguana Island",
+          "type": "nature",
+          "distance": "30 min boat"
+        }
+      ]
     },
     {
       "id": "atlanta-buckhead",
@@ -1825,7 +1995,24 @@
         "title": "Buckhead Atlanta | Love Is Blind Neighborhood",
         "description": "Explore Buckhead, the Atlanta neighborhood from Love Is Blind."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Buckhead%2C%20Atlanta%20Atlanta"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Buckhead%2C%20Atlanta%20Atlanta",
+      "nearbyAttractions": [
+        {
+          "name": "Lenox Square Mall",
+          "type": "shopping",
+          "distance": "5 min drive"
+        },
+        {
+          "name": "Atlanta History Center",
+          "type": "museum",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Chastain Park",
+          "type": "nature",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "dubai-resort",
@@ -1888,7 +2075,24 @@
         "title": "Atlantis Dubai | Bachelor Luxury Resort",
         "description": "Stay at the iconic Dubai resort featured in The Bachelor."
       },
-      "bookingUrl": "https://www.booking.com/city/ae/dubai.html"
+      "bookingUrl": "https://www.booking.com/city/ae/dubai.html",
+      "nearbyAttractions": [
+        {
+          "name": "Burj Khalifa",
+          "type": "landmark",
+          "distance": "25 min drive"
+        },
+        {
+          "name": "Dubai Mall",
+          "type": "shopping",
+          "distance": "25 min drive"
+        },
+        {
+          "name": "Palm Jumeirah Boardwalk",
+          "type": "activity",
+          "distance": "5 min walk"
+        }
+      ]
     },
     {
       "id": "mallorca-villa",
@@ -1957,7 +2161,24 @@
         "title": "Love Island UK Villa Area | Mallorca Spain",
         "description": "Visit Mallorca where Love Island UK films each summer."
       },
-      "bookingUrl": "https://www.airbnb.com/s/Mallorca--Spain"
+      "bookingUrl": "https://www.airbnb.com/s/Mallorca--Spain",
+      "nearbyAttractions": [
+        {
+          "name": "Porto Cristo Caves",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Cala Millor Beach",
+          "type": "beach",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Palma de Mallorca",
+          "type": "city",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "cape-town-south-africa",
@@ -2019,7 +2240,24 @@
         "title": "Cape Town South Africa | Love Island Winter Location",
         "description": "Visit Cape Town, home to Love Island UK winter seasons."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Camps%20Bay%20%26%20Cape%20Town%20Cape%20Town"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Camps%20Bay%20%26%20Cape%20Town%20Cape%20Town",
+      "nearbyAttractions": [
+        {
+          "name": "Table Mountain",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "V&A Waterfront",
+          "type": "shopping",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Cape Point",
+          "type": "nature",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "croatia-dubrovnik",
@@ -2082,7 +2320,24 @@
         "title": "Dubrovnik Croatia | Bachelor Adriatic Destination",
         "description": "Visit Dubrovnik, the stunning Croatian city from Bachelor dates."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubrovnik%20%26%20Croatian%20Islands%20Dubrovnik"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubrovnik%20%26%20Croatian%20Islands%20Dubrovnik",
+      "nearbyAttractions": [
+        {
+          "name": "Dubrovnik Old Town",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Lokrum Island",
+          "type": "nature",
+          "distance": "15 min ferry"
+        },
+        {
+          "name": "Mount Srd Cable Car",
+          "type": "activity",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "las-vegas-strip",
@@ -2146,7 +2401,24 @@
         "title": "Las Vegas | Love Island USA & Bachelor Destination",
         "description": "Visit Las Vegas, home to Love Island USA Season 2."
       },
-      "bookingUrl": "https://www.booking.com/city/us/las-vegas.html"
+      "bookingUrl": "https://www.booking.com/city/us/las-vegas.html",
+      "nearbyAttractions": [
+        {
+          "name": "Bellagio Fountains",
+          "type": "landmark",
+          "distance": "on strip"
+        },
+        {
+          "name": "Grand Canyon",
+          "type": "nature",
+          "distance": "4.5 hr drive"
+        },
+        {
+          "name": "Fremont Street",
+          "type": "entertainment",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "miami-south-beach",
@@ -2209,7 +2481,24 @@
         "title": "South Beach Miami | Bachelor & MAFS Destination",
         "description": "Visit Miami's South Beach featured in reality TV dating shows."
       },
-      "bookingUrl": "https://www.booking.com/district/us/miami/south-beach.html"
+      "bookingUrl": "https://www.booking.com/district/us/miami/south-beach.html",
+      "nearbyAttractions": [
+        {
+          "name": "Art Deco Historic District",
+          "type": "landmark",
+          "distance": "walking"
+        },
+        {
+          "name": "Vizcaya Museum",
+          "type": "museum",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Everglades National Park",
+          "type": "nature",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "nashville-tennessee",
@@ -2271,7 +2560,24 @@
         "title": "Nashville Tennessee | Married at First Sight City",
         "description": "Visit Nashville, home to MAFS and Bachelor dates."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Nashville%20Nashville"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Nashville%20Nashville",
+      "nearbyAttractions": [
+        {
+          "name": "Broadway Honky Tonks",
+          "type": "entertainment",
+          "distance": "downtown"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "type": "entertainment",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Ryman Auditorium",
+          "type": "landmark",
+          "distance": "downtown"
+        }
+      ]
     },
     {
       "id": "chicago-illinois",
@@ -2333,7 +2639,24 @@
         "title": "Chicago | Love Is Blind Season 2 City",
         "description": "Visit Chicago, home to Love Is Blind Season 2."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Chicago%20Chicago"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Chicago%20Chicago",
+      "nearbyAttractions": [
+        {
+          "name": "Millennium Park & The Bean",
+          "type": "landmark",
+          "distance": "downtown"
+        },
+        {
+          "name": "Navy Pier",
+          "type": "entertainment",
+          "distance": "downtown"
+        },
+        {
+          "name": "Art Institute of Chicago",
+          "type": "museum",
+          "distance": "downtown"
+        }
+      ]
     },
     {
       "id": "punta-cana-dr",
@@ -2397,7 +2720,24 @@
         "title": "Punta Cana | Are You The One Caribbean",
         "description": "Visit Punta Cana, the Dominican destination from AYTO."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Punta%20Cana%20Punta%20Cana"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Punta%20Cana%20Punta%20Cana",
+      "nearbyAttractions": [
+        {
+          "name": "Saona Island",
+          "type": "beach",
+          "distance": "1 hr boat"
+        },
+        {
+          "name": "Hoyo Azul Cenote",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Altos de Chav\u00f3n",
+          "type": "landmark",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "cartagena-colombia",
@@ -2458,7 +2798,24 @@
         "title": "Cartagena Colombia | Are You The One Destination",
         "description": "Visit Cartagena, the Colombian city from AYTO."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cartagena%20Cartagena"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cartagena%20Cartagena",
+      "nearbyAttractions": [
+        {
+          "name": "Walled City (Ciudad Amurallada)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Rosario Islands",
+          "type": "beach",
+          "distance": "1 hr boat"
+        },
+        {
+          "name": "Castillo San Felipe",
+          "type": "landmark",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "stockholm-sweden",
@@ -2519,7 +2876,24 @@
         "title": "Stockholm Sweden | Love Without Borders",
         "description": "Visit Stockholm from Love Without Borders."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stockholm%20Stockholm"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stockholm%20Stockholm",
+      "nearbyAttractions": [
+        {
+          "name": "Gamla Stan (Old Town)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Vasa Museum",
+          "type": "museum",
+          "distance": "15 min walk"
+        },
+        {
+          "name": "ABBA The Museum",
+          "type": "museum",
+          "distance": "15 min walk"
+        }
+      ]
     },
     {
       "id": "tokyo-japan",
@@ -2580,7 +2954,24 @@
         "title": "Tokyo Japan | Love Without Borders",
         "description": "Visit Tokyo from Love Without Borders."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tokyo%20Tokyo"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tokyo%20Tokyo",
+      "nearbyAttractions": [
+        {
+          "name": "Shibuya Crossing",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Senso-ji Temple",
+          "type": "landmark",
+          "distance": "30 min metro"
+        },
+        {
+          "name": "Tokyo Skytree",
+          "type": "landmark",
+          "distance": "25 min metro"
+        }
+      ]
     },
     {
       "id": "salford-the-circle",
@@ -2644,7 +3035,24 @@
       "meta": {
         "title": "The Circle Apartments Salford | Filming Location",
         "description": "Visit the area around The Circle filming in Salford."
-      }
+      },
+      "nearbyAttractions": [
+        {
+          "name": "MediaCityUK",
+          "type": "landmark",
+          "distance": "5 min walk"
+        },
+        {
+          "name": "Manchester City Centre",
+          "type": "city",
+          "distance": "15 min tram"
+        },
+        {
+          "name": "The Lowry",
+          "type": "entertainment",
+          "distance": "5 min walk"
+        }
+      ]
     },
     {
       "id": "hawaii-north-shore",
@@ -2797,7 +3205,24 @@
         "title": "Marrakech Morocco | Bachelor Date Destination",
         "description": "Visit Marrakech, the Moroccan city from Bachelor dates."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Marrakech%20Marrakech"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Marrakech%20Marrakech",
+      "nearbyAttractions": [
+        {
+          "name": "Jemaa el-Fnaa Square",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Majorelle Garden",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Atlas Mountains",
+          "type": "nature",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "korea-single-inferno",
@@ -2860,7 +3285,24 @@
         "title": "Seoul Korea | Single's Inferno Filming Locations",
         "description": "Visit the Single's Inferno filming locations in South Korea."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Single%27s%20Inferno%20Island%20%26%20Seoul%20Seoul"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Single%27s%20Inferno%20Island%20%26%20Seoul%20Seoul",
+      "nearbyAttractions": [
+        {
+          "name": "Namsan Tower",
+          "type": "landmark",
+          "distance": "in Seoul"
+        },
+        {
+          "name": "Gyeongbokgung Palace",
+          "type": "landmark",
+          "distance": "in Seoul"
+        },
+        {
+          "name": "Bukchon Hanok Village",
+          "type": "landmark",
+          "distance": "in Seoul"
+        }
+      ]
     },
     {
       "id": "love-is-blind-atlanta",
@@ -2925,7 +3367,24 @@
         "title": "Love Is Blind Atlanta Filming Locations | Georgia Guide",
         "description": "Visit Love Is Blind Atlanta filming locations and couple date spots."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Atlanta%20Pods%20%26%20Retreat%20Atlanta"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Atlanta%20Pods%20%26%20Retreat%20Atlanta",
+      "nearbyAttractions": [
+        {
+          "name": "Georgia Aquarium",
+          "type": "attraction",
+          "distance": "downtown"
+        },
+        {
+          "name": "Piedmont Park",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Ponce City Market",
+          "type": "shopping",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "love-is-blind-dc",
@@ -2990,7 +3449,24 @@
         "title": "Love Is Blind DC Filming Locations | Washington Guide",
         "description": "Explore Love Is Blind DC filming locations and date spots."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20DC%20Pods%20%26%20Retreat%20Washington"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20DC%20Pods%20%26%20Retreat%20Washington",
+      "nearbyAttractions": [
+        {
+          "name": "National Mall",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Smithsonian Museums",
+          "type": "museum",
+          "distance": "in city"
+        },
+        {
+          "name": "Georgetown Waterfront",
+          "type": "entertainment",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "brazil-sao-paulo-lib",
@@ -3058,7 +3534,24 @@
         "title": "Love Is Blind Brazil S\u00e3o Paulo | Filming Locations",
         "description": "Visit Love Is Blind Brazil filming locations in S\u00e3o Paulo."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Brazil%20-%20S%C3%A3o%20Paulo%20S%C3%A3o%20Paulo"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Brazil%20-%20S%C3%A3o%20Paulo%20S%C3%A3o%20Paulo",
+      "nearbyAttractions": [
+        {
+          "name": "Paulista Avenue",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Ibirapuera Park",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "S\u00e3o Paulo Museum of Art",
+          "type": "museum",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "japan-tokyo-lib",
@@ -3124,7 +3617,24 @@
         "title": "Love Is Blind Japan Tokyo | Filming Locations",
         "description": "Visit Love Is Blind Japan filming locations across Tokyo."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Japan%20-%20Tokyo%20Tokyo"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Japan%20-%20Tokyo%20Tokyo",
+      "nearbyAttractions": [
+        {
+          "name": "Meiji Shrine",
+          "type": "landmark",
+          "distance": "20 min metro"
+        },
+        {
+          "name": "Harajuku",
+          "type": "shopping",
+          "distance": "25 min metro"
+        },
+        {
+          "name": "teamLab Borderless",
+          "type": "museum",
+          "distance": "30 min metro"
+        }
+      ]
     },
     {
       "id": "sweden-lib",
@@ -3189,7 +3699,24 @@
         "title": "Love Is Blind Sweden Stockholm | Filming Locations",
         "description": "Explore Love Is Blind Sweden filming locations in Stockholm."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Sweden%20-%20Stockholm%20Stockholm"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Love%20Is%20Blind%20Sweden%20-%20Stockholm%20Stockholm",
+      "nearbyAttractions": [
+        {
+          "name": "Stockholm Old Town",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Djurg\u00e5rden Island",
+          "type": "nature",
+          "distance": "15 min walk"
+        },
+        {
+          "name": "Fotografiska",
+          "type": "museum",
+          "distance": "20 min walk"
+        }
+      ]
     },
     {
       "id": "malibu-beach-house",
@@ -3263,7 +3790,24 @@
         "title": "Malibu Beach Houses | Reality TV Filming Locations",
         "description": "Rent Malibu beach houses seen on reality dating shows."
       },
-      "bookingUrl": "https://www.airbnb.com/s/Malibu%2C%20USA"
+      "bookingUrl": "https://www.airbnb.com/s/Malibu%2C%20USA",
+      "nearbyAttractions": [
+        {
+          "name": "Point Dume",
+          "type": "beach",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Malibu Pier",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Getty Villa",
+          "type": "museum",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "sedona-arizona",
@@ -3336,7 +3880,24 @@
         "title": "Sedona Arizona | Cosmic Love & Bachelor Filming",
         "description": "Visit Sedona's mystical filming locations from Cosmic Love and The Bachelor."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sedona%20Desert%20Retreat%20Sedona"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sedona%20Desert%20Retreat%20Sedona",
+      "nearbyAttractions": [
+        {
+          "name": "Cathedral Rock",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Bell Rock",
+          "type": "nature",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Chapel of the Holy Cross",
+          "type": "landmark",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "melbourne-australia",
@@ -3408,7 +3969,24 @@
         "title": "Melbourne Australia | Reality TV Dating Show Locations",
         "description": "Explore Melbourne's reality TV filming locations and date spots."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Melbourne%20Melbourne"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Melbourne%20Melbourne",
+      "nearbyAttractions": [
+        {
+          "name": "Federation Square",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Great Ocean Road",
+          "type": "nature",
+          "distance": "1.5 hr drive"
+        },
+        {
+          "name": "Royal Botanic Gardens",
+          "type": "nature",
+          "distance": "15 min walk"
+        }
+      ]
     },
     {
       "id": "fiji-denarau",
@@ -3481,7 +4059,24 @@
         "title": "Fiji Denarau Island | Love Island Australia Filming",
         "description": "Visit the Fiji resorts from Love Island Australia and Bachelor dates."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Denarau%20Island%20Nadi"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Denarau%20Island%20Nadi",
+      "nearbyAttractions": [
+        {
+          "name": "Port Denarau Marina",
+          "type": "entertainment",
+          "distance": "5 min drive"
+        },
+        {
+          "name": "Garden of the Sleeping Giant",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Nadi Town",
+          "type": "town",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "barcelona-spain",
@@ -3554,7 +4149,24 @@
         "title": "Barcelona Spain | Real Love Boat & Bachelor Destination",
         "description": "Visit Barcelona's romantic locations from reality dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Barcelona%20Barcelona"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Barcelona%20Barcelona",
+      "nearbyAttractions": [
+        {
+          "name": "La Sagrada Familia",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Park G\u00fcell",
+          "type": "nature",
+          "distance": "20 min metro"
+        },
+        {
+          "name": "La Rambla",
+          "type": "landmark",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "tulum-mexico",
@@ -3813,7 +4425,24 @@
         "title": "Buenos Aires Argentina | Love Is Blind Filming",
         "description": "Visit Love Is Blind Argentina filming locations in Buenos Aires."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Buenos%20Aires%20Buenos%20Aires"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Buenos%20Aires%20Buenos%20Aires",
+      "nearbyAttractions": [
+        {
+          "name": "La Boca",
+          "type": "landmark",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Recoleta Cemetery",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Teatro Col\u00f3n",
+          "type": "landmark",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "berlin-germany",
@@ -3878,7 +4507,24 @@
         "title": "Berlin Germany | Love Is Blind Filming",
         "description": "Visit Love Is Blind Germany filming locations in Berlin."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Berlin%20Berlin"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Berlin%20Berlin",
+      "nearbyAttractions": [
+        {
+          "name": "Brandenburg Gate",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "East Side Gallery",
+          "type": "landmark",
+          "distance": "20 min metro"
+        },
+        {
+          "name": "Museum Island",
+          "type": "museum",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "hunter-valley-australia",
@@ -3944,7 +4590,24 @@
         "title": "Hunter Valley Australia | MAFS Wedding Venues",
         "description": "Visit Married at First Sight Australia wedding venues in Hunter Valley."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hunter%20Valley%20Cessnock"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Hunter%20Valley%20Cessnock",
+      "nearbyAttractions": [
+        {
+          "name": "Hunter Valley Gardens",
+          "type": "nature",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Hot Air Balloon Rides",
+          "type": "activity",
+          "distance": "in region"
+        },
+        {
+          "name": "Brokenback Range",
+          "type": "nature",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "puerto-vallarta-mexico",
@@ -4011,7 +4674,24 @@
         "title": "Puerto Vallarta Mexico | Couple to Throuple Filming",
         "description": "Visit the Puerto Vallarta villa from Couple to Throuple."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Puerto%20Vallarta%20Puerto%20Vallarta"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Puerto%20Vallarta%20Puerto%20Vallarta",
+      "nearbyAttractions": [
+        {
+          "name": "Malec\u00f3n Boardwalk",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Zona Rom\u00e1ntica",
+          "type": "entertainment",
+          "distance": "in city"
+        },
+        {
+          "name": "Marietas Islands",
+          "type": "nature",
+          "distance": "1 hr boat"
+        }
+      ]
     },
     {
       "id": "french-riviera-cannes",
@@ -4078,7 +4758,24 @@
         "title": "French Riviera Cannes | Dated and Related Filming",
         "description": "Visit the Dated and Related villa on the French Riviera."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=French%20Riviera%20-%20Cannes%20Cannes"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=French%20Riviera%20-%20Cannes%20Cannes",
+      "nearbyAttractions": [
+        {
+          "name": "La Croisette",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "\u00cele Sainte-Marguerite",
+          "type": "nature",
+          "distance": "15 min ferry"
+        },
+        {
+          "name": "Nice",
+          "type": "city",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "cotswolds-uk",
@@ -4144,7 +4841,24 @@
         "title": "Cotswolds UK | Love Is Blind UK Retreat Location",
         "description": "Visit the Love Is Blind UK couples' retreat in the Cotswolds."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Cotswolds%20Various%20Villages"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=The%20Cotswolds%20Various%20Villages",
+      "nearbyAttractions": [
+        {
+          "name": "Bourton-on-the-Water",
+          "type": "town",
+          "distance": "in region"
+        },
+        {
+          "name": "Bibury",
+          "type": "town",
+          "distance": "in region"
+        },
+        {
+          "name": "Blenheim Palace",
+          "type": "landmark",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "mendoza-wine-country",
@@ -4209,7 +4923,24 @@
         "title": "Mendoza Argentina Wine Country | Love Is Blind Retreat",
         "description": "Visit the Love Is Blind Argentina retreat in Mendoza wine country."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mendoza%20Wine%20Country%20Mendoza"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mendoza%20Wine%20Country%20Mendoza",
+      "nearbyAttractions": [
+        {
+          "name": "Malbec Wine Tours",
+          "type": "activity",
+          "distance": "in region"
+        },
+        {
+          "name": "Aconcagua Provincial Park",
+          "type": "nature",
+          "distance": "2 hr drive"
+        },
+        {
+          "name": "Potrerillos Reservoir",
+          "type": "nature",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "bavaria-germany",
@@ -4275,7 +5006,24 @@
         "title": "Bavaria Germany | Love Is Blind Alpine Retreat",
         "description": "Visit the Love Is Blind Germany retreat in beautiful Bavaria."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bavaria%20-%20Alps%20%26%20Castles%20Various"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bavaria%20-%20Alps%20%26%20Castles%20Various",
+      "nearbyAttractions": [
+        {
+          "name": "Neuschwanstein Castle",
+          "type": "landmark",
+          "distance": "varies"
+        },
+        {
+          "name": "Zugspitze",
+          "type": "nature",
+          "distance": "varies"
+        },
+        {
+          "name": "Oberammergau",
+          "type": "town",
+          "distance": "varies"
+        }
+      ]
     },
     {
       "id": "charleston-sc",
@@ -4342,7 +5090,24 @@
         "title": "Charleston SC | Golden Bachelor Filming Locations",
         "description": "Visit The Golden Bachelor date locations in Charleston."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Charleston%20Charleston"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Charleston%20Charleston",
+      "nearbyAttractions": [
+        {
+          "name": "Rainbow Row",
+          "type": "landmark",
+          "distance": "downtown"
+        },
+        {
+          "name": "Fort Sumter",
+          "type": "landmark",
+          "distance": "30 min ferry"
+        },
+        {
+          "name": "Magnolia Plantation",
+          "type": "nature",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "mexico-city-cdmx",
@@ -4407,7 +5172,24 @@
         "title": "Mexico City | Love Is Blind Mexico Filming",
         "description": "Visit Love Is Blind Mexico filming locations in CDMX."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mexico%20City%20Mexico%20City"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mexico%20City%20Mexico%20City",
+      "nearbyAttractions": [
+        {
+          "name": "Z\u00f3calo (Main Square)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Chapultepec Castle",
+          "type": "landmark",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Frida Kahlo Museum",
+          "type": "museum",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "costa-rica-retreat",
@@ -4474,7 +5256,24 @@
         "title": "Costa Rica | The One That Got Away & Bachelor Filming",
         "description": "Visit Costa Rica's reality TV filming locations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Costa%20Rica%20Pacific%20Coast%20Manuel%20Antonio"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Costa%20Rica%20Pacific%20Coast%20Manuel%20Antonio",
+      "nearbyAttractions": [
+        {
+          "name": "Manuel Antonio National Park",
+          "type": "nature",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Nauyaca Waterfalls",
+          "type": "nature",
+          "distance": "45 min drive"
+        },
+        {
+          "name": "Whale Watching Tours",
+          "type": "activity",
+          "distance": "in area"
+        }
+      ]
     },
     {
       "id": "panama-islands",
@@ -4541,7 +5340,24 @@
         "title": "Bocas del Toro Panama | Dating Naked Filming Location",
         "description": "Visit the Dating Naked archipelago in Panama."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bocas%20del%20Toro%20Bocas%20del%20Toro"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bocas%20del%20Toro%20Bocas%20del%20Toro",
+      "nearbyAttractions": [
+        {
+          "name": "Starfish Beach",
+          "type": "beach",
+          "distance": "15 min boat"
+        },
+        {
+          "name": "Red Frog Beach",
+          "type": "beach",
+          "distance": "10 min boat"
+        },
+        {
+          "name": "Bioluminescent Bay",
+          "type": "nature",
+          "distance": "night tour"
+        }
+      ]
     },
     {
       "id": "lake-tahoe-lodge",
@@ -4608,7 +5424,24 @@
         "title": "Lake Tahoe | 12 Dates of Christmas & Winter Romance",
         "description": "Visit Lake Tahoe for your own winter dating adventure."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake%20Tahoe%20Lake%20Tahoe"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Lake%20Tahoe%20Lake%20Tahoe",
+      "nearbyAttractions": [
+        {
+          "name": "Emerald Bay State Park",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Heavenly Ski Resort",
+          "type": "activity",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Sand Harbor Beach",
+          "type": "beach",
+          "distance": "25 min drive"
+        }
+      ]
     },
     {
       "id": "auckland-new-zealand",
@@ -4676,7 +5509,24 @@
         "title": "Auckland New Zealand | Bachelor NZ Filming Locations",
         "description": "Visit The Bachelor New Zealand locations in Auckland."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Auckland%20Auckland"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Auckland%20Auckland",
+      "nearbyAttractions": [
+        {
+          "name": "Sky Tower",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Waiheke Island",
+          "type": "nature",
+          "distance": "40 min ferry"
+        },
+        {
+          "name": "Rangitoto Island",
+          "type": "nature",
+          "distance": "25 min ferry"
+        }
+      ]
     },
     {
       "id": "sydney-australia",
@@ -4749,7 +5599,24 @@
         "title": "Sydney Australia | Bachelorette & MAFS Filming",
         "description": "Visit Sydney's reality TV dating show locations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sydney%20Sydney"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Sydney%20Sydney",
+      "nearbyAttractions": [
+        {
+          "name": "Sydney Opera House",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Bondi Beach",
+          "type": "beach",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Sydney Harbour Bridge",
+          "type": "landmark",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "johannesburg-south-africa",
@@ -4815,7 +5682,24 @@
         "title": "Johannesburg South Africa | Ultimatum SA Filming",
         "description": "Visit The Ultimatum South Africa filming locations in Joburg."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Johannesburg%20Johannesburg"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Johannesburg%20Johannesburg",
+      "nearbyAttractions": [
+        {
+          "name": "Apartheid Museum",
+          "type": "museum",
+          "distance": "in city"
+        },
+        {
+          "name": "Lion & Safari Park",
+          "type": "nature",
+          "distance": "45 min drive"
+        },
+        {
+          "name": "Soweto",
+          "type": "landmark",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "garden-route-south-africa",
@@ -4881,7 +5765,24 @@
         "title": "Garden Route South Africa | Romantic Road Trip",
         "description": "Visit the Garden Route from South African dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Garden%20Route%20Knysna"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Garden%20Route%20Knysna",
+      "nearbyAttractions": [
+        {
+          "name": "Knysna Heads",
+          "type": "nature",
+          "distance": "in area"
+        },
+        {
+          "name": "Tsitsikamma National Park",
+          "type": "nature",
+          "distance": "1 hr drive"
+        },
+        {
+          "name": "Plettenberg Bay",
+          "type": "beach",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "scottish-highlands",
@@ -4948,7 +5849,24 @@
         "title": "Scottish Highlands | Love Is Blind UK Retreat",
         "description": "Visit the Scottish Highlands from Love Is Blind UK."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottish%20Highlands%20Inverness"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Scottish%20Highlands%20Inverness",
+      "nearbyAttractions": [
+        {
+          "name": "Loch Ness",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Isle of Skye",
+          "type": "nature",
+          "distance": "2.5 hr drive"
+        },
+        {
+          "name": "Glen Coe",
+          "type": "nature",
+          "distance": "1.5 hr drive"
+        }
+      ]
     },
     {
       "id": "aspen-colorado",
@@ -5212,7 +6130,24 @@
         "title": "Minneapolis Minnesota | Ultimatum Queer Love",
         "description": "Visit The Ultimatum: Queer Love filming locations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Minneapolis%20Minneapolis"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Minneapolis%20Minneapolis",
+      "nearbyAttractions": [
+        {
+          "name": "Mall of America",
+          "type": "shopping",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Stone Arch Bridge",
+          "type": "landmark",
+          "distance": "downtown"
+        },
+        {
+          "name": "Chain of Lakes",
+          "type": "nature",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "cabo-san-lucas",
@@ -5281,7 +6216,24 @@
         "title": "Cabo San Lucas Mexico | FBoy Island",
         "description": "Visit FBoy Island filming location in Cabo."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cabo%20San%20Lucas%20Cabo%20San%20Lucas"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Cabo%20San%20Lucas%20Cabo%20San%20Lucas",
+      "nearbyAttractions": [
+        {
+          "name": "El Arco de Cabo San Lucas",
+          "type": "landmark",
+          "distance": "10 min boat"
+        },
+        {
+          "name": "Lover's Beach",
+          "type": "beach",
+          "distance": "10 min boat"
+        },
+        {
+          "name": "San Jos\u00e9 del Cabo",
+          "type": "town",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "cayman-islands",
@@ -5346,7 +6298,24 @@
         "title": "Cayman Islands | FBoy Island Season 1",
         "description": "Visit FBoy Island Season 1 filming location."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand%20Cayman%20George%20Town"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Grand%20Cayman%20George%20Town",
+      "nearbyAttractions": [
+        {
+          "name": "Seven Mile Beach",
+          "type": "beach",
+          "distance": "in area"
+        },
+        {
+          "name": "Stingray City",
+          "type": "activity",
+          "distance": "30 min boat"
+        },
+        {
+          "name": "George Town",
+          "type": "town",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "punta-cana",
@@ -5416,7 +6385,24 @@
         "title": "Punta Cana Dominican Republic | Dating Show Paradise",
         "description": "Visit Are You The One filming location in Punta Cana."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Punta%20Cana%20Punta%20Cana"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Punta%20Cana%20Punta%20Cana",
+      "nearbyAttractions": [
+        {
+          "name": "Bavaro Beach",
+          "type": "beach",
+          "distance": "in area"
+        },
+        {
+          "name": "Indigenous Eyes Ecological Park",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Macao Beach",
+          "type": "beach",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "mumbai-india",
@@ -5483,7 +6469,24 @@
         "title": "Mumbai India | Indian Matchmaking",
         "description": "Visit Indian Matchmaking locations in Mumbai."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mumbai%20Mumbai"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mumbai%20Mumbai",
+      "nearbyAttractions": [
+        {
+          "name": "Gateway of India",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Elephanta Caves",
+          "type": "landmark",
+          "distance": "1 hr ferry"
+        },
+        {
+          "name": "Marine Drive",
+          "type": "landmark",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "tel-aviv-israel",
@@ -5549,7 +6552,24 @@
         "title": "Tel Aviv Israel | Jewish Matchmaking",
         "description": "Visit Jewish Matchmaking locations in Tel Aviv."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tel%20Aviv%20Tel%20Aviv"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tel%20Aviv%20Tel%20Aviv",
+      "nearbyAttractions": [
+        {
+          "name": "Old Jaffa",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Carmel Market",
+          "type": "shopping",
+          "distance": "in city"
+        },
+        {
+          "name": "Jerusalem",
+          "type": "city",
+          "distance": "1 hr drive"
+        }
+      ]
     },
     {
       "id": "nashville-tennessee",
@@ -5614,7 +6634,24 @@
         "title": "Nashville Tennessee | Married at First Sight",
         "description": "Visit MAFS filming locations in Nashville."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Nashville%20Nashville"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Nashville%20Nashville",
+      "nearbyAttractions": [
+        {
+          "name": "Broadway Honky Tonks",
+          "type": "entertainment",
+          "distance": "downtown"
+        },
+        {
+          "name": "Grand Ole Opry",
+          "type": "entertainment",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Ryman Auditorium",
+          "type": "landmark",
+          "distance": "downtown"
+        }
+      ]
     },
     {
       "id": "boston-massachusetts",
@@ -5679,7 +6716,24 @@
         "title": "Boston Massachusetts | Married at First Sight",
         "description": "Visit MAFS filming locations in Boston."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Boston%20Boston"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Boston%20Boston",
+      "nearbyAttractions": [
+        {
+          "name": "Freedom Trail",
+          "type": "landmark",
+          "distance": "downtown"
+        },
+        {
+          "name": "Fenway Park",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Harvard Square",
+          "type": "landmark",
+          "distance": "20 min metro"
+        }
+      ]
     },
     {
       "id": "san-diego-california",
@@ -5746,7 +6800,24 @@
         "title": "San Diego California | Married at First Sight",
         "description": "Visit MAFS filming locations in San Diego."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Diego%20San%20Diego"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=San%20Diego%20San%20Diego",
+      "nearbyAttractions": [
+        {
+          "name": "San Diego Zoo",
+          "type": "attraction",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "La Jolla Cove",
+          "type": "beach",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Gaslamp Quarter",
+          "type": "entertainment",
+          "distance": "downtown"
+        }
+      ]
     },
     {
       "id": "new-orleans-louisiana",
@@ -5819,7 +6890,24 @@
         "title": "New Orleans Louisiana | Dating Around & MAFS",
         "description": "Visit Dating Around filming locations in New Orleans."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=New%20Orleans%20New%20Orleans"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=New%20Orleans%20New%20Orleans",
+      "nearbyAttractions": [
+        {
+          "name": "French Quarter",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Bourbon Street",
+          "type": "entertainment",
+          "distance": "in city"
+        },
+        {
+          "name": "Garden District",
+          "type": "landmark",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "castle-howard-yorkshire",
@@ -5884,7 +6972,24 @@
         "title": "Castle Howard Yorkshire | The Courtship",
         "description": "Visit The Courtship filming location at Castle Howard."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Castle%20Howard%20York"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Castle%20Howard%20York",
+      "nearbyAttractions": [
+        {
+          "name": "York City Centre",
+          "type": "city",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Rievaulx Abbey",
+          "type": "landmark",
+          "distance": "25 min drive"
+        },
+        {
+          "name": "Kirkham Priory",
+          "type": "landmark",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "rajasthan-india",
@@ -5951,7 +7056,24 @@
         "title": "Rajasthan India | Indian Matchmaking Palaces",
         "description": "Visit Indian Matchmaking locations in Rajasthan."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Rajasthan%20Jaipur"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Rajasthan%20Jaipur",
+      "nearbyAttractions": [
+        {
+          "name": "Amber Fort",
+          "type": "landmark",
+          "distance": "in Jaipur"
+        },
+        {
+          "name": "Hawa Mahal",
+          "type": "landmark",
+          "distance": "in Jaipur"
+        },
+        {
+          "name": "Jal Mahal",
+          "type": "landmark",
+          "distance": "in Jaipur"
+        }
+      ]
     },
     {
       "id": "palm-springs-california",
@@ -6017,7 +7139,24 @@
         "title": "Palm Springs California | Ultimatum Queer Love",
         "description": "Visit The Ultimatum: Queer Love filming locations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Palm%20Springs%20Palm%20Springs"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Palm%20Springs%20Palm%20Springs",
+      "nearbyAttractions": [
+        {
+          "name": "Palm Springs Aerial Tramway",
+          "type": "activity",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Joshua Tree National Park",
+          "type": "nature",
+          "distance": "45 min drive"
+        },
+        {
+          "name": "Palm Canyon Drive",
+          "type": "shopping",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "dallas-texas",
@@ -6083,7 +7222,24 @@
         "title": "Dallas Texas | Ready to Love",
         "description": "Visit Ready to Love filming locations in Dallas."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dallas%20Dallas"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dallas%20Dallas",
+      "nearbyAttractions": [
+        {
+          "name": "Dallas Arts District",
+          "type": "landmark",
+          "distance": "downtown"
+        },
+        {
+          "name": "Sixth Floor Museum",
+          "type": "museum",
+          "distance": "downtown"
+        },
+        {
+          "name": "Fort Worth Stockyards",
+          "type": "landmark",
+          "distance": "45 min drive"
+        }
+      ]
     },
     {
       "id": "alaska-wilderness",
@@ -6149,7 +7305,24 @@
         "title": "Alaska Interior | Love Off the Grid",
         "description": "Visit Love Off the Grid locations in Alaska."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Alaska%20Interior%20Fairbanks"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Alaska%20Interior%20Fairbanks",
+      "nearbyAttractions": [
+        {
+          "name": "Denali National Park",
+          "type": "nature",
+          "distance": "2 hr drive"
+        },
+        {
+          "name": "Chena Hot Springs",
+          "type": "activity",
+          "distance": "1 hr drive"
+        },
+        {
+          "name": "Northern Lights Viewing",
+          "type": "activity",
+          "distance": "in area"
+        }
+      ]
     },
     {
       "id": "ethiopia-addis-ababa",
@@ -6216,7 +7389,24 @@
         "title": "Addis Ababa Ethiopia | 90 Day Fianc\u00e9",
         "description": "Visit 90 Day Fianc\u00e9 filming locations in Ethiopia."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Addis%20Ababa%20Addis%20Ababa"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Addis%20Ababa%20Addis%20Ababa",
+      "nearbyAttractions": [
+        {
+          "name": "National Museum of Ethiopia",
+          "type": "museum",
+          "distance": "in city"
+        },
+        {
+          "name": "Holy Trinity Cathedral",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Entoto Mountain",
+          "type": "nature",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "istanbul-turkey",
@@ -6283,7 +7473,24 @@
         "title": "Istanbul Turkey | 90 Day Fianc\u00e9",
         "description": "Visit 90 Day Fianc\u00e9 filming locations in Istanbul."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Istanbul%20Istanbul"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Istanbul%20Istanbul",
+      "nearbyAttractions": [
+        {
+          "name": "Hagia Sophia",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Blue Mosque",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Grand Bazaar",
+          "type": "shopping",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "mauritius-island",
@@ -6349,7 +7556,24 @@
         "title": "Mauritius Island | MAFS UK Honeymoon",
         "description": "Visit MAFS UK honeymoon destinations in Mauritius."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mauritius%20Port%20Louis"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mauritius%20Port%20Louis",
+      "nearbyAttractions": [
+        {
+          "name": "Le Morne Brabant",
+          "type": "nature",
+          "distance": "varies"
+        },
+        {
+          "name": "Chamarel Colored Earth",
+          "type": "nature",
+          "distance": "varies"
+        },
+        {
+          "name": "Black River Gorges",
+          "type": "nature",
+          "distance": "varies"
+        }
+      ]
     },
     {
       "id": "maldives-islands",
@@ -6416,7 +7640,24 @@
         "title": "Maldives Islands | Luxury Honeymoon Paradise",
         "description": "Visit the Maldives honeymoon destinations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Mal%C3%A9"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Mal%C3%A9",
+      "nearbyAttractions": [
+        {
+          "name": "Male City",
+          "type": "city",
+          "distance": "varies"
+        },
+        {
+          "name": "Snorkeling Reefs",
+          "type": "activity",
+          "distance": "at resort"
+        },
+        {
+          "name": "Sandbank Excursions",
+          "type": "activity",
+          "distance": "varies"
+        }
+      ]
     },
     {
       "id": "seoul-south-korea",
@@ -6494,7 +7735,24 @@
         "title": "Seoul South Korea | Korean Dating Shows",
         "description": "Visit Korean dating show filming locations in Seoul."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Seoul%20Seoul"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Seoul%20Seoul",
+      "nearbyAttractions": [
+        {
+          "name": "Myeongdong Shopping District",
+          "type": "shopping",
+          "distance": "in city"
+        },
+        {
+          "name": "Changdeokgung Palace",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Hongdae",
+          "type": "entertainment",
+          "distance": "in city"
+        }
+      ]
     },
     {
       "id": "jeju-island-korea",
@@ -6562,7 +7820,24 @@
         "title": "Jeju Island Korea | Romantic Destination",
         "description": "Visit Jeju Island from Korean dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Jeju%20Island%20Jeju%20City"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Jeju%20Island%20Jeju%20City",
+      "nearbyAttractions": [
+        {
+          "name": "Hallasan Mountain",
+          "type": "nature",
+          "distance": "central island"
+        },
+        {
+          "name": "Seongsan Ilchulbong",
+          "type": "nature",
+          "distance": "1 hr drive"
+        },
+        {
+          "name": "Jeju Loveland",
+          "type": "attraction",
+          "distance": "30 min drive"
+        }
+      ]
     },
     {
       "id": "karuizawa-japan",
@@ -6627,7 +7902,24 @@
         "title": "Karuizawa Japan | Terrace House Filming Location",
         "description": "Visit Terrace House: Opening New Doors location."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Karuizawa%20Karuizawa"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Karuizawa%20Karuizawa",
+      "nearbyAttractions": [
+        {
+          "name": "Shiraito Falls",
+          "type": "nature",
+          "distance": "25 min drive"
+        },
+        {
+          "name": "Karuizawa Prince Shopping Plaza",
+          "type": "shopping",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Stone Church",
+          "type": "landmark",
+          "distance": "15 min drive"
+        }
+      ]
     },
     {
       "id": "kyoto-japan",
@@ -6695,7 +7987,24 @@
         "title": "Kyoto Japan | Japanese Dating Show Romance",
         "description": "Visit Kyoto from Japanese dating shows."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kyoto%20Kyoto"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Kyoto%20Kyoto",
+      "nearbyAttractions": [
+        {
+          "name": "Fushimi Inari Shrine",
+          "type": "landmark",
+          "distance": "15 min train"
+        },
+        {
+          "name": "Kinkaku-ji (Golden Pavilion)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Arashiyama Bamboo Grove",
+          "type": "nature",
+          "distance": "20 min train"
+        }
+      ]
     },
     {
       "id": "stockholm-sweden",
@@ -6760,7 +8069,24 @@
         "title": "Stockholm Sweden | Love Is Blind Sweden",
         "description": "Visit Love Is Blind: Sweden filming locations."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stockholm%20Stockholm"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stockholm%20Stockholm",
+      "nearbyAttractions": [
+        {
+          "name": "Gamla Stan (Old Town)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Vasa Museum",
+          "type": "museum",
+          "distance": "15 min walk"
+        },
+        {
+          "name": "ABBA The Museum",
+          "type": "museum",
+          "distance": "15 min walk"
+        }
+      ]
     },
     {
       "id": "whitsundays-australia",
@@ -6830,7 +8156,24 @@
         "title": "Whitsunday Islands Australia | MAFS Honeymoon",
         "description": "Visit MAFS Australia honeymoon destination."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Whitsunday%20Islands%20Airlie%20Beach"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Whitsunday%20Islands%20Airlie%20Beach",
+      "nearbyAttractions": [
+        {
+          "name": "Whitehaven Beach",
+          "type": "beach",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Great Barrier Reef",
+          "type": "nature",
+          "distance": "boat trip"
+        },
+        {
+          "name": "Heart Reef",
+          "type": "nature",
+          "distance": "scenic flight"
+        }
+      ]
     },
     {
       "id": "amalfi-coast-italy",
@@ -6898,7 +8241,24 @@
         "title": "Amalfi Coast Italy | First Dates Hotel",
         "description": "Visit First Dates Hotel location on the Amalfi Coast."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amalfi%20Coast%20Positano"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amalfi%20Coast%20Positano",
+      "nearbyAttractions": [
+        {
+          "name": "Positano Village",
+          "type": "town",
+          "distance": "in area"
+        },
+        {
+          "name": "Path of the Gods Hike",
+          "type": "activity",
+          "distance": "in area"
+        },
+        {
+          "name": "Ravello Gardens",
+          "type": "nature",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "stowe-vermont",
@@ -6963,7 +8323,24 @@
         "title": "Stowe Vermont | Bachelor Winter Games",
         "description": "Visit The Bachelor Winter Games filming location."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stowe%20Stowe"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Stowe%20Stowe",
+      "nearbyAttractions": [
+        {
+          "name": "Stowe Mountain Resort",
+          "type": "activity",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Ben & Jerry's Factory",
+          "type": "attraction",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Trapp Family Lodge",
+          "type": "landmark",
+          "distance": "10 min drive"
+        }
+      ]
     },
     {
       "id": "manchester-uk",
@@ -7036,7 +8413,24 @@
         "title": "Manchester UK | The Circle Filming",
         "description": "Visit The Circle filming location in Manchester."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Manchester%20Manchester"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Manchester%20Manchester",
+      "nearbyAttractions": [
+        {
+          "name": "Old Trafford Stadium",
+          "type": "landmark",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Northern Quarter",
+          "type": "entertainment",
+          "distance": "in city"
+        },
+        {
+          "name": "MediaCityUK (The Circle)",
+          "type": "landmark",
+          "distance": "20 min drive"
+        }
+      ]
     },
     {
       "id": "fiji-mango-bay",
@@ -7103,7 +8497,24 @@
         "title": "Mango Bay Resort Fiji | Bachelor in Paradise Australia",
         "description": "Stay at the Bachelor in Paradise Australia resort."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mango%20Bay%20Resort%20Coral%20Coast"
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Mango%20Bay%20Resort%20Coral%20Coast",
+      "nearbyAttractions": [
+        {
+          "name": "Sigatoka Sand Dunes",
+          "type": "nature",
+          "distance": "30 min drive"
+        },
+        {
+          "name": "Kula Eco Park",
+          "type": "nature",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Natadola Beach",
+          "type": "beach",
+          "distance": "25 min drive"
+        }
+      ]
     },
     {
       "id": "nemacolin-pennsylvania",
@@ -8166,11 +9577,21 @@
         }
       ],
       "nearbyAttractions": [
-        "Stellenbosch wine region",
-        "Franschhoek",
-        "Garden Route",
-        "Hermanus whale watching",
-        "Private game reserves"
+        {
+          "name": "Table Mountain",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "V&A Waterfront",
+          "type": "shopping",
+          "distance": "20 min drive"
+        },
+        {
+          "name": "Cape Point",
+          "type": "nature",
+          "distance": "1 hr drive"
+        }
       ],
       "insiderTips": [
         "Book Table Mountain cable car online to skip lines",
@@ -8759,11 +10180,21 @@
         }
       ],
       "nearbyAttractions": [
-        "Grand Canyon (2 hours)",
-        "Jerome ghost town",
-        "Montezuma Castle",
-        "Verde Valley Wine Trail",
-        "Slide Rock State Park"
+        {
+          "name": "Cathedral Rock",
+          "type": "nature",
+          "distance": "15 min drive"
+        },
+        {
+          "name": "Bell Rock",
+          "type": "nature",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Chapel of the Holy Cross",
+          "type": "landmark",
+          "distance": "10 min drive"
+        }
       ],
       "insiderTips": [
         "Book restaurant reservations for sunset timing",
@@ -10200,11 +11631,21 @@
         }
       ],
       "nearbyAttractions": [
-        "Montserrat monastery",
-        "Costa Brava beaches",
-        "Girona old town",
-        "Sitges beach town",
-        "Wine regions (Pened\u00e8s)"
+        {
+          "name": "La Sagrada Familia",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Park G\u00fcell",
+          "type": "nature",
+          "distance": "20 min metro"
+        },
+        {
+          "name": "La Rambla",
+          "type": "landmark",
+          "distance": "in city"
+        }
       ],
       "insiderTips": [
         "Book Sagrada Fam\u00edlia tickets online months ahead",
@@ -10296,11 +11737,21 @@
         }
       ],
       "nearbyAttractions": [
-        "Rosario Islands",
-        "Playa Blanca",
-        "Volc\u00e1n de Lodo El Totumo (mud volcano)",
-        "Islas del Rosario",
-        "Bar\u00fa Peninsula"
+        {
+          "name": "Walled City (Ciudad Amurallada)",
+          "type": "landmark",
+          "distance": "in city"
+        },
+        {
+          "name": "Rosario Islands",
+          "type": "beach",
+          "distance": "1 hr boat"
+        },
+        {
+          "name": "Castillo San Felipe",
+          "type": "landmark",
+          "distance": "10 min drive"
+        }
       ],
       "insiderTips": [
         "Stay inside the walled city for best experience",
