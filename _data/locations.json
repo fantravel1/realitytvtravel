@@ -85,6 +85,26 @@
         "title": "Bachelor Mansion | Book the Iconic Villa de la Vina",
         "description": "Rent the Bachelor Mansion for your own rose ceremony. The iconic California estate from The Bachelor is available on Airbnb."
       },
+      "showMoments": [
+        {
+          "quote": "Will you accept this rose?",
+          "context": "The iconic phrase spoken at every rose ceremony in this very mansion",
+          "show": "The Bachelor",
+          "episode": "Every episode"
+        },
+        {
+          "quote": "I didn't come here to make friends, I came here to find love.",
+          "context": "Classic contestant line heard countless times in the mansion's living room",
+          "show": "The Bachelor",
+          "episode": "Multiple seasons"
+        },
+        {
+          "quote": "Can I steal you for a second?",
+          "context": "The famous interruption phrase echoed through these halls during every cocktail party",
+          "show": "The Bachelor/Bachelorette",
+          "episode": "Every cocktail party"
+        }
+      ],
       "bookingUrl": "https://www.airbnb.com/rooms/21304943",
       "nearbyAttractions": [
         {
@@ -203,6 +223,32 @@
         "title": "Playa Escondida - Bachelor in Paradise Resort | Sayulita Mexico",
         "description": "Stay at the Bachelor in Paradise resort in Sayulita. Book the Boom Boom Room and experience 9 seasons of romance."
       },
+      "showMoments": [
+        {
+          "quote": "Will you accept this date card?",
+          "context": "The exciting moment when contestants receive coveted date cards at the palapa bar",
+          "show": "Bachelor in Paradise",
+          "episode": "Multiple episodes"
+        },
+        {
+          "quote": "Welcome to Paradise!",
+          "context": "Wells Adams greeting new arrivals as they walk down the sandy steps to the beach",
+          "show": "Bachelor in Paradise",
+          "episode": "Every premiere"
+        },
+        {
+          "quote": "Let's go to the Boom Boom Room.",
+          "context": "The infamous invitation to the only air-conditioned room on the property",
+          "show": "Bachelor in Paradise",
+          "episode": "Multiple seasons"
+        },
+        {
+          "quote": "I came here to find love, and I found it.",
+          "context": "Emotional declarations made on this very beach during sunset proposals",
+          "show": "Bachelor in Paradise",
+          "episode": "Season finales"
+        }
+      ],
       "nearbyAttractions": [
         {
           "name": "Sayulita Beach",
@@ -312,6 +358,26 @@
         "title": "Emerald Pavilion | Too Hot to Handle Villa Turks and Caicos",
         "description": "Rent the Too Hot to Handle villa in Turks and Caicos. Emerald Pavilion offers luxury Caribbean living from $8,700/night."
       },
+      "showMoments": [
+        {
+          "quote": "There's someone I'd like you to meet. My name is Lana.",
+          "context": "The moment contestants first meet the AI host and learn the rules at this very villa",
+          "show": "Too Hot to Handle",
+          "episode": "Season premiere"
+        },
+        {
+          "quote": "A]rule break has occurred. $3,000 has been deducted from the prize fund.",
+          "context": "Lana's famous announcement echoing through the villa after forbidden physical contact",
+          "show": "Too Hot to Handle",
+          "episode": "Multiple episodes"
+        },
+        {
+          "quote": "This retreat is going to change your lives.",
+          "context": "Lana's promise to contestants as they arrive at this transformative paradise",
+          "show": "Too Hot to Handle",
+          "episode": "Episode 1"
+        }
+      ],
       "bookingUrl": "https://www.turksandcaicossir.com/emerald-pavilion",
       "nearbyAttractions": [
         {
@@ -528,6 +594,26 @@
         "title": "Grand Velas Riviera Maya | Love Is Blind Resort Mexico",
         "description": "Stay at the Love Is Blind resort. Grand Velas Riviera Maya offers all-inclusive luxury from $800/night."
       },
+      "showMoments": [
+        {
+          "quote": "I'm ready to see my person.",
+          "context": "The moment engaged couples first lay eyes on each other at this resort's reveal area",
+          "show": "Love Is Blind",
+          "episode": "The Reveal episode"
+        },
+        {
+          "quote": "Is love truly blind? We're about to find out.",
+          "context": "Nick Lachey's introduction as couples begin their journey at this stunning resort",
+          "show": "Love Is Blind",
+          "episode": "Season premiere"
+        },
+        {
+          "quote": "I fell in love with your soul before I ever saw your face.",
+          "context": "Romantic declarations made by couples exploring the resort's beautiful grounds",
+          "show": "Love Is Blind",
+          "episode": "Multiple seasons"
+        }
+      ],
       "bookingUrl": "https://www.grandvelas.com/riviera-maya",
       "nearbyAttractions": [
         {
@@ -640,6 +726,26 @@
         "title": "Andaz Maui Wailea | Temptation Island Resort Hawaii",
         "description": "Stay at the Temptation Island resort in Maui. Andaz Maui at Wailea offers luxury Hawaiian hospitality."
       },
+      "showMoments": [
+        {
+          "quote": "Welcome to Temptation Island.",
+          "context": "Mark L. Walberg's iconic introduction as couples arrive at this stunning Maui resort",
+          "show": "Temptation Island",
+          "episode": "Season premiere"
+        },
+        {
+          "quote": "The ultimate test of your relationship begins now.",
+          "context": "The challenge issued as couples are separated into different villas at this resort",
+          "show": "Temptation Island",
+          "episode": "Episode 1"
+        },
+        {
+          "quote": "I need to show you something at the bonfire.",
+          "context": "The dreaded words before couples see video clips of their partners at weekly bonfires",
+          "show": "Temptation Island",
+          "episode": "Bonfire episodes"
+        }
+      ],
       "bookingUrl": "https://www.hyatt.com/en-US/hotel/hawaii/andaz-maui-at-wailea-resort/oggan",
       "nearbyAttractions": [
         {
@@ -945,6 +1051,26 @@
         "title": "Grace Santorini | Bachelor Fantasy Suite Hotel",
         "description": "Stay at the romantic Santorini hotel featured in The Bachelor."
       },
+      "showMoments": [
+        {
+          "quote": "I'm falling in love with you.",
+          "context": "Romantic confessions made overlooking the caldera during fantasy suite dates",
+          "show": "The Bachelor",
+          "episode": "Fantasy Suite episodes"
+        },
+        {
+          "quote": "This is the most beautiful place I've ever seen.",
+          "context": "Contestants' first glimpse of the stunning Santorini sunset from the infinity pool",
+          "show": "The Bachelor/Bachelorette",
+          "episode": "Fantasy Suite episodes"
+        },
+        {
+          "quote": "I want to spend the rest of my life with you.",
+          "context": "Heartfelt declarations made under the Greek stars at this iconic hotel",
+          "show": "The Bachelor",
+          "episode": "Season 20"
+        }
+      ],
       "bookingUrl": "https://aubergeresorts.com/gracesantorini",
       "nearbyAttractions": [
         {
@@ -2370,6 +2496,26 @@
         "title": "Buckhead Atlanta | Love Is Blind Neighborhood",
         "description": "Explore Buckhead, the Atlanta neighborhood from Love Is Blind."
       },
+      "showMoments": [
+        {
+          "quote": "Will you marry me?",
+          "context": "The proposal through the wall that happened before couples ever saw each other in the pods",
+          "show": "Love Is Blind",
+          "episode": "Pod proposal episodes"
+        },
+        {
+          "quote": "I choose you.",
+          "context": "The declaration made by couples navigating relationships in Atlanta apartments",
+          "show": "Love Is Blind",
+          "episode": "Multiple episodes"
+        },
+        {
+          "quote": "I do... NOT.",
+          "context": "The shocking altar decision heard 'round the world from Season 1",
+          "show": "Love Is Blind",
+          "episode": "Season 1 Finale"
+        }
+      ],
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Buckhead%2C%20Atlanta%20Atlanta",
       "nearbyAttractions": [
         {
@@ -2570,6 +2716,32 @@
         "title": "Love Island UK Villa Area | Mallorca Spain",
         "description": "Visit Mallorca where Love Island UK films each summer."
       },
+      "showMoments": [
+        {
+          "quote": "I've got a text!",
+          "context": "The famous phrase that echoes through the villa whenever a dramatic announcement arrives",
+          "show": "Love Island UK",
+          "episode": "Every episode"
+        },
+        {
+          "quote": "Can I pull you for a chat?",
+          "context": "The classic line used around the villa's firepit and daybeds for serious conversations",
+          "show": "Love Island UK",
+          "episode": "Multiple episodes"
+        },
+        {
+          "quote": "My head's been turned.",
+          "context": "The dreaded phrase heard during recouplings that signals trouble in paradise",
+          "show": "Love Island UK",
+          "episode": "Multiple seasons"
+        },
+        {
+          "quote": "It is what it is.",
+          "context": "The iconic acceptance phrase used after dramatic villa moments",
+          "show": "Love Island UK",
+          "episode": "Multiple seasons"
+        }
+      ],
       "bookingUrl": "https://www.airbnb.com/s/Mallorca--Spain",
       "nearbyAttractions": [
         {
@@ -3633,6 +3805,32 @@
         "title": "The Circle Apartments Salford | Filming Location",
         "description": "Visit the area around The Circle filming in Salford."
       },
+      "showMoments": [
+        {
+          "quote": "Circle, open chat with...",
+          "context": "Players communicate only through Circle's voice-activated interface from their isolated apartments",
+          "show": "The Circle",
+          "episode": "Every episode"
+        },
+        {
+          "quote": "I'm playing as myself... mostly.",
+          "context": "The classic catfish confession made within these apartment walls",
+          "show": "The Circle",
+          "episode": "Multiple seasons"
+        },
+        {
+          "quote": "Circle, I am ready to rank.",
+          "context": "The tense moment when players rate each other, determining who gets blocked",
+          "show": "The Circle",
+          "episode": "Ranking episodes"
+        },
+        {
+          "quote": "You have been blocked.",
+          "context": "The devastating message that ends a player's journey in the game",
+          "show": "The Circle",
+          "episode": "Blocking episodes"
+        }
+      ],
       "nearbyAttractions": [
         {
           "name": "MediaCityUK",
@@ -5074,6 +5272,20 @@
         "title": "Tulum Mexico | Reality TV Beach Destination",
         "description": "Visit Tulum's stunning locations featured on reality dating shows."
       },
+      "showMoments": [
+        {
+          "quote": "This is the most romantic place I've ever been.",
+          "context": "Contestants' reactions upon arriving at Tulum's stunning cenotes and beaches",
+          "show": "Multiple Shows",
+          "episode": "Date episodes"
+        },
+        {
+          "quote": "I could see myself living here forever.",
+          "context": "Couples dreaming of their future while exploring Tulum's bohemian paradise",
+          "show": "Perfect Match",
+          "episode": "Multiple episodes"
+        }
+      ],
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Tulum%20Tulum",
       "nearbyAttractions": [
         {
