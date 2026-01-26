@@ -799,7 +799,7 @@ async function loadShowDetail() {
   }
 
   container.innerHTML = `
-    <div class="detail-header" style="background: ${colors.bg}">`
+    <div class="detail-header" style="background: ${colors.bg}">
       <div class="container">
         <div class="detail-breadcrumb">
           <a href="/">Home</a>
