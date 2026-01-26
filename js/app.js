@@ -1181,6 +1181,26 @@ async function loadLocationDetail() {
           </div>
         ` : ''}
 
+        ${location.showMoments?.length > 0 ? `
+          <div class="detail-section">
+            <h2>📺 Memorable Moments</h2>
+            <p class="section-intro">Iconic quotes and scenes filmed at ${location.name}</p>
+            <div class="show-moments-grid" style="display: grid; gap: var(--space-lg);">
+              ${location.showMoments.map(moment => `
+                <blockquote class="show-moment" style="background: linear-gradient(135deg, var(--color-gray-50), var(--color-gray-100)); border-left: 4px solid var(--color-primary); padding: var(--space-lg); border-radius: 0 var(--radius-lg) var(--radius-lg) 0; margin: 0;">
+                  <p style="font-size: 1.25rem; font-style: italic; color: var(--color-gray-900); margin: 0 0 var(--space-md) 0; line-height: 1.6;">"${moment.quote}"</p>
+                  <footer style="display: flex; flex-wrap: wrap; gap: var(--space-sm); align-items: center;">
+                    <cite style="font-style: normal; font-weight: 600; color: var(--color-primary);">${moment.show}</cite>
+                    <span style="color: var(--color-gray-400);">•</span>
+                    <span style="color: var(--color-gray-600); font-size: 0.9rem;">${moment.episode}</span>
+                  </footer>
+                  <p style="margin: var(--space-sm) 0 0 0; font-size: 0.85rem; color: var(--color-gray-500);">${moment.context}</p>
+                </blockquote>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
         ${location.videos?.length > 0 ? `
           <div class="detail-section">
             <h2>🎬 Destination Videos</h2>
