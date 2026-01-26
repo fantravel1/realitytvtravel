@@ -13,7 +13,7 @@ async function loadData(filename, retries = 3) {
   console.log(`loadData: fetching ${filename}`);
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
-      const response = await fetch(`_data/${filename}`);
+      const response = await fetch(`data/${filename}`);
       console.log(`loadData: ${filename} response status ${response.status}`);
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const data = await response.json();
