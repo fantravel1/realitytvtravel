@@ -10,11 +10,15 @@ let showsData = null;
 let locationsData = null;
 
 async function loadData(filename, retries = 3) {
+  console.log(`loadData: fetching ${filename}`);
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
       const response = await fetch(`_data/${filename}`);
+      console.log(`loadData: ${filename} response status ${response.status}`);
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      return await response.json();
+      const data = await response.json();
+      console.log(`loadData: ${filename} loaded successfully`);
+      return data;
     } catch (error) {
       console.error(`Error loading ${filename} (attempt ${attempt}/${retries}):`, error);
       if (attempt < retries) {
@@ -22,6 +26,7 @@ async function loadData(filename, retries = 3) {
       }
     }
   }
+  console.log(`loadData: ${filename} failed after ${retries} attempts`);
   return null;
 }
 
@@ -418,20 +423,32 @@ function createSkeletonCard() {
 }
 
 async function loadShowsGrid() {
+  console.log('loadShowsGrid: starting');
   const grid = document.getElementById('shows-grid');
-  if (!grid) return;
+  if (!grid) {
+    console.log('loadShowsGrid: no grid element found');
+    return;
+  }
 
   // Show skeletons while loading
   grid.innerHTML = Array(8).fill(createSkeletonCard()).join('');
 
-  const data = showsData || await loadData('shows.json');
-  if (!data?.shows) {
-    showLoadError(grid, 'shows');
-    return;
-  }
+  try {
+    const data = showsData || await loadData('shows.json');
+    console.log('loadShowsGrid: data loaded', data?.shows?.length, 'shows');
+    if (!data?.shows) {
+      console.log('loadShowsGrid: no shows data');
+      showLoadError(grid, 'shows');
+      return;
+    }
 
-  // Show first 8 on homepage for more variety
-  grid.innerHTML = data.shows.slice(0, 8).map(show => createShowCard(show)).join('');
+    // Show first 8 on homepage for more variety
+    grid.innerHTML = data.shows.slice(0, 8).map(show => createShowCard(show)).join('');
+    console.log('loadShowsGrid: rendered', data.shows.slice(0, 8).length, 'cards');
+  } catch (error) {
+    console.error('loadShowsGrid error:', error);
+    showLoadError(grid, 'shows');
+  }
 }
 
 // ============================================
