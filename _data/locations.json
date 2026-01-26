@@ -1309,6 +1309,7 @@
         "the-ultimatum"
       ],
       "bookable": false,
+      "bookingUrl": "https://www.austintexas.org/listings/rainey-street-historic-district/3731/",
       "priceRange": {
         "min": 0,
         "max": 50,
@@ -3588,6 +3589,7 @@
         "the-circle"
       ],
       "bookable": false,
+      "bookingUrl": "https://www.visitmanchester.com/where-to-stay/salford-quays",
       "priceRange": {
         "min": 80,
         "max": 200,

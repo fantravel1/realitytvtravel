@@ -382,21 +382,21 @@ function createShowCard(show) {
   const ratingStars = show.viewerRating ? '★'.repeat(Math.floor(show.viewerRating)) + (show.viewerRating % 1 >= 0.5 ? '½' : '') : '';
 
   return `
-    <a href="show.html?id=${show.id}" class="show-card">
-      <div class="show-card-image" style="background: ${colors.bg}">
+    <a href="show.html?id=${show.id}" class="show-card" aria-label="View ${show.name} filming locations on ${show.network}">
+      <div class="show-card-image" style="background: ${colors.bg}" role="img" aria-label="${show.name} show image">
         <span class="show-card-network" style="color: ${colors.accent}">${show.network}</span>
-        ${isTrending ? '<span class="badge badge-trending">🔥 Trending</span>' : ''}
-        ${isNew ? '<span class="badge badge-new">✨ New</span>' : ''}
-        <span class="show-card-emoji">${emoji}</span>
+        ${isTrending ? '<span class="badge badge-trending" aria-label="Trending show">🔥 Trending</span>' : ''}
+        ${isNew ? '<span class="badge badge-new" aria-label="New show">✨ New</span>' : ''}
+        <span class="show-card-emoji" aria-hidden="true">${emoji}</span>
       </div>
       <div class="show-card-body">
         <h3 class="show-card-title">${show.name}</h3>
         ${show.tagline ? `<p class="show-card-tagline">"${show.tagline}"</p>` : ''}
         <div class="show-card-meta">
           <span>${show.seasons} Seasons</span>
-          <span>•</span>
+          <span aria-hidden="true">•</span>
           <span>${show.destinations?.length || 0} Locations</span>
-          ${show.viewerRating ? `<span>•</span><span class="show-rating" title="${show.viewerRating}/5">${ratingStars} ${show.viewerRating}</span>` : ''}
+          ${show.viewerRating ? `<span aria-hidden="true">•</span><span class="show-rating" title="${show.viewerRating} out of 5 stars" aria-label="Rating: ${show.viewerRating} out of 5">${ratingStars} ${show.viewerRating}</span>` : ''}
         </div>
         <p class="show-card-description">${show.description.slice(0, 150)}${show.description.length > 150 ? '...' : ''}</p>
       </div>
@@ -482,9 +482,9 @@ function createLocationCard(location, shows) {
   };
 
   return `
-    <div class="location-card" data-country="${location.country}" data-region="${location.region || ''}" data-price="${location.priceRange?.min || 0}">
-      <div class="location-card-image" style="background: ${initialBg}" ${lazyAttr}>
-        <button class="favorite-btn ${favoriteClass}" data-location-id="${location.id}" onclick="toggleFavorite('${location.id}', event)" title="${isFavorite(location.id) ? 'Remove from wishlist' : 'Add to wishlist'}">
+    <article class="location-card" data-country="${location.country}" data-region="${location.region || ''}" data-price="${location.priceRange?.min || 0}" aria-label="${location.name} in ${location.city}, ${location.country}">
+      <div class="location-card-image" style="background: ${initialBg}" ${lazyAttr} role="img" aria-label="${location.name} destination image">
+        <button class="favorite-btn ${favoriteClass}" data-location-id="${location.id}" onclick="toggleFavorite('${location.id}', event)" title="${isFavorite(location.id) ? 'Remove from wishlist' : 'Add to wishlist'}" aria-label="${isFavorite(location.id) ? 'Remove ' + location.name + ' from wishlist' : 'Add ' + location.name + ' to wishlist'}" aria-pressed="${isFavorite(location.id)}">
           ${favoriteIcon}
         </button>
         <div class="location-card-badges">
