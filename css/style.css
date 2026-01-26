@@ -374,6 +374,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero-content {
   text-align: center;
   max-width: 900px;
+  padding-bottom: 5rem;
   animation: fadeInUp 1s ease-out;
 }
 
