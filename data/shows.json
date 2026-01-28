@@ -34,33 +34,110 @@
       ],
       "viewerRating": 4.2,
       "avgEpisodeLength": 120,
+      "recentSeasonLocations": [
+        {
+          "season": 28,
+          "year": 2024,
+          "bachelor": "Joey Graziadei",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["Malta", "Montreal", "Spain"],
+          "fantasySuites": "Tulum, Mexico",
+          "finalRose": "Tulum, Mexico"
+        },
+        {
+          "season": 27,
+          "year": 2023,
+          "bachelor": "Zach Shallcross",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["London", "Estonia", "Budapest"],
+          "fantasySuites": "Krabi, Thailand",
+          "finalRose": "Krabi, Thailand"
+        },
+        {
+          "season": 26,
+          "year": 2022,
+          "bachelor": "Clayton Echard",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["Houston", "Toronto", "Croatia"],
+          "fantasySuites": "Iceland",
+          "finalRose": "Iceland"
+        },
+        {
+          "season": 25,
+          "year": 2021,
+          "bachelor": "Matt James",
+          "mansion": "Nemacolin Resort, PA (COVID bubble)",
+          "destinations": ["Nemacolin Resort only"],
+          "fantasySuites": "Nemacolin Resort",
+          "finalRose": "Nemacolin Resort",
+          "note": "Entirely filmed at one resort due to COVID-19"
+        },
+        {
+          "season": 24,
+          "year": 2020,
+          "bachelor": "Peter Weber",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["Cleveland", "Costa Rica", "Chile"],
+          "fantasySuites": "Gold Coast, Australia",
+          "finalRose": "Gold Coast, Australia"
+        }
+      ],
+      "filmingDetails": {
+        "mansionLocation": "Villa de la Vina, 2351 Kanan Road, Agoura Hills, California 91301",
+        "mansionSince": "Season 11 (2007) - current",
+        "mansionAvailable": true,
+        "mansionPrice": "$6,000-30,000/night via Airbnb",
+        "mansionSize": "10 acres with 9 bedrooms, Mediterranean architecture",
+        "filmingDuration": "Approximately 6-8 weeks per season, mansion used for ~42 days",
+        "internationalTravel": "Mid-season typically features 2-4 international destinations for group and one-on-one dates",
+        "fantasySuiteNote": "Fantasy Suites are typically filmed at luxury resorts in exotic locations (Santorini, Bali, Thailand, Iceland)",
+        "hometownDates": "Usually filmed in contestants' actual home cities across the US"
+      },
       "faqs": [
         {
           "question": "Where is The Bachelor Mansion located?",
-          "answer": "The Bachelor Mansion, officially named Villa de la Vina, is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles in the Santa Monica Mountains. The 10-acre estate features Mediterranean architecture, stunning gardens, and that iconic driveway."
+          "answer": "The Bachelor Mansion, officially named Villa de la Vina, is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles in the Santa Monica Mountains. The 10-acre estate features Mediterranean architecture, stunning gardens, and that iconic driveway where contestants make their first impression."
         },
         {
           "question": "Can you visit The Bachelor Mansion?",
-          "answer": "Yes! The Bachelor Mansion is available for rent on Airbnb. Nightly rates range from $6,000 to $30,000 depending on the season. The property hosts weddings, proposals, and special events when not filming. Many couples have gotten engaged on the same spot as their favorite Bachelor moments."
+          "answer": "Yes! The Bachelor Mansion is available for rent on Airbnb when not filming. Nightly rates range from $6,000 to $30,000 depending on the season. The property hosts weddings, proposals, anniversary stays, and special events. Many couples have gotten engaged on the same spot as their favorite Bachelor moments."
         },
         {
           "question": "How long has The Bachelor filmed at the mansion?",
-          "answer": "The Bachelor has filmed at Villa de la Vina since Season 11 in 2007. The production rents the property for approximately 42 days per season. Before this mansion, the show used different locations including a mansion in Malibu."
+          "answer": "The Bachelor has filmed at Villa de la Vina since Season 11 in 2007. The production rents the property for approximately 42 days per season. Before this mansion, the show used different locations including a mansion in Malibu for earlier seasons."
+        },
+        {
+          "question": "Where was The Bachelor Season 25 filmed?",
+          "answer": "The Bachelor Season 25 (Matt James, 2021) was entirely filmed at Nemacolin Resort in Farmington, Pennsylvania due to COVID-19 restrictions. This was the only season filmed entirely at one location. The luxury resort offered multiple venues for dates, ceremonies, and the Fantasy Suites."
         },
         {
           "question": "What international destinations has The Bachelor visited?",
-          "answer": "The Bachelor has traveled to over 50 countries including France, Italy, Switzerland, Thailand, New Zealand, Iceland, the Bahamas, Malta, Spain, and many more. Fantasy Suite destinations often include Santorini, Bali, and the Maldives."
+          "answer": "The Bachelor has traveled to over 50 countries across 29 seasons including France, Italy, Switzerland, Thailand, New Zealand, Iceland, the Bahamas, Malta, Spain, Croatia, Vietnam, South Africa, Japan, and many more. Popular Fantasy Suite destinations include Santorini, Bali, the Maldives, and Tulum."
+        },
+        {
+          "question": "Where are Bachelor Fantasy Suites filmed?",
+          "answer": "Fantasy Suites are typically filmed at luxury resorts in romantic destinations. Recent locations include Tulum, Mexico (S28), Krabi, Thailand (S27), Iceland (S26), and Gold Coast, Australia (S24). The show partners with high-end resorts like Four Seasons, Conrad, and boutique luxury properties."
+        },
+        {
+          "question": "Can you stay at the Bachelor Fantasy Suite resorts?",
+          "answer": "Yes! Unlike the mansion, Fantasy Suite resorts are publicly bookable hotels and resorts. Popular locations include Conrad Bora Bora, Four Seasons Bali, Grace Santorini, and various Thailand resorts. Expect rates from $400-2,000+/night at these luxury properties."
+        },
+        {
+          "question": "Is The Bachelor filmed on location or in studios?",
+          "answer": "The Bachelor is primarily filmed on location. The mansion in Agoura Hills is a real private estate. International travel segments are filmed in actual countries. Only some interviews and confessionals are recorded in studio-like settings within the locations. The show is known for its authentic exotic destinations."
         }
       ],
       "travelTips": [
-        "Book the Bachelor Mansion months in advance - it fills up fast during proposal season",
-        "Visit Agoura Hills in spring for the best garden views",
-        "The nearby Malibu Wine Safari offers similar wine country vibes",
-        "Consider a helicopter tour to see the property from above"
+        "Book the Bachelor Mansion months in advance via Airbnb - it fills up fast during engagement season and show airings",
+        "Visit Agoura Hills in spring (March-May) for the best garden views and perfect weather",
+        "The nearby Malibu Wine Safari offers similar wine country vibes and makes a great day trip",
+        "Consider a helicopter tour of the Santa Monica Mountains to see the property from above",
+        "Nemacolin Resort (Season 25) is open year-round with spa, golf, and adventure activities",
+        "For Fantasy Suite vibes, book Conrad Maldives, Four Seasons Bora Bora, or Grace Santorini"
       ],
       "meta": {
-        "title": "The Bachelor Filming Locations | Every Destination, Resort & Date Spot",
-        "description": "Complete guide to every Bachelor filming location across 29 seasons. Visit the Bachelor Mansion, Fantasy Suite resorts, international destinations, and hometown date spots."
+        "title": "The Bachelor Filming Locations | Bachelor Mansion, Fantasy Suites & Every Destination",
+        "description": "Complete guide to every Bachelor filming location across 29 seasons. Book the Bachelor Mansion on Airbnb ($6,000-30,000/night), visit Fantasy Suite resorts, and explore all international destinations."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=M7z1-U5ZWWY"
     },
@@ -94,36 +171,105 @@
       ],
       "viewerRating": 4.3,
       "avgEpisodeLength": 120,
+      "recentSeasonLocations": [
+        {
+          "season": 21,
+          "year": 2025,
+          "bachelorette": "Jenn Tran",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["Melbourne, Australia", "New Zealand"],
+          "fantasySuites": "Hawaii",
+          "finalRose": "Hawaii"
+        },
+        {
+          "season": 20,
+          "year": 2024,
+          "bachelorette": "Charity Lawson",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["New Orleans", "Los Angeles", "Fiji"],
+          "fantasySuites": "Fiji",
+          "finalRose": "Fiji"
+        },
+        {
+          "season": 19,
+          "year": 2023,
+          "bachelorette": "Rachel Recchia & Gabby Windey",
+          "mansion": "Bachelor Mansion, Agoura Hills, CA",
+          "destinations": ["Paris", "Belgium", "Amsterdam"],
+          "fantasySuites": "Mexico",
+          "finalRose": "Mexico",
+          "note": "First season with two Bachelorettes"
+        },
+        {
+          "season": 18,
+          "year": 2022,
+          "bachelorette": "Michelle Young",
+          "mansion": "The Renaissance Esmeralda Resort, Palm Springs, CA",
+          "destinations": ["Minneapolis", "Las Vegas"],
+          "fantasySuites": "Tulum, Mexico",
+          "finalRose": "Tulum, Mexico",
+          "note": "COVID-era filming at resort bubble"
+        },
+        {
+          "season": 17,
+          "year": 2021,
+          "bachelorette": "Katie Thurston",
+          "mansion": "Hyatt Regency Tamaya Resort, New Mexico",
+          "destinations": ["New Mexico only"],
+          "fantasySuites": "Hyatt Regency Tamaya",
+          "finalRose": "Hyatt Regency Tamaya",
+          "note": "COVID bubble season filmed entirely at one resort"
+        }
+      ],
+      "filmingDetails": {
+        "mansionLocation": "Villa de la Vina, Agoura Hills, California (same mansion as The Bachelor)",
+        "mansionAvailable": true,
+        "mansionPrice": "$6,000-30,000/night via Airbnb",
+        "covidAlternatives": "During 2020-2021, filmed at resort bubbles including Hyatt Regency Tamaya (New Mexico) and Renaissance Esmeralda (Palm Springs)",
+        "internationalTravel": "Typically visits 2-3 international destinations for romantic dates and adventures",
+        "fantasySuiteNote": "Fantasy Suites filmed at luxury resorts - recent locations include Fiji, Mexico, and tropical destinations"
+      },
       "faqs": [
         {
           "question": "Does The Bachelorette film at the Bachelor Mansion?",
-          "answer": "Yes, The Bachelorette uses the same Bachelor Mansion (Villa de la Vina) for the first few weeks of filming before traveling to various domestic and international destinations. The mansion provides the iconic backdrop for those first night arrivals and early rose ceremonies."
+          "answer": "Yes, The Bachelorette uses the same Bachelor Mansion (Villa de la Vina) in Agoura Hills, California for the first few weeks of filming. The mansion provides the iconic backdrop for night-one arrivals, cocktail parties, and rose ceremonies before the cast travels to exotic destinations."
+        },
+        {
+          "question": "Where was The Bachelorette Season 21 filmed?",
+          "answer": "The Bachelorette Season 21 (Jenn Tran, 2025) filmed at the Bachelor Mansion in Agoura Hills before traveling to Melbourne, Australia and New Zealand for dates. Fantasy Suites and the final rose ceremony took place in Hawaii."
         },
         {
           "question": "What are the most romantic Bachelorette destinations?",
-          "answer": "Fan favorites include Santorini, Greece for its stunning sunsets, the Scottish Highlands for dramatic landscapes, Thailand for its beautiful temples and beaches, and New Zealand for adventure dates like bungee jumping and helicopter tours."
+          "answer": "Fan-favorite Bachelorette destinations include Santorini, Greece for stunning sunsets; the Scottish Highlands for dramatic castle dates; Thailand for temples and beaches; New Zealand for adventure activities; and Fiji for tropical romance. These locations offer a mix of culture, adventure, and romance."
         },
         {
-          "question": "Where can I watch The Bachelorette?",
-          "answer": "The Bachelorette airs on ABC and is available to stream on Hulu. Past seasons may also be available on other streaming platforms."
+          "question": "Where were the COVID Bachelorette seasons filmed?",
+          "answer": "During COVID-19, The Bachelorette filmed at resort bubbles: Season 17 (Katie Thurston) at Hyatt Regency Tamaya Resort in New Mexico, and Season 18 (Michelle Young) at The Renaissance Esmeralda Resort in Palm Springs. Both resorts are open for public booking."
         },
         {
-          "question": "Can I visit the filming locations from The Bachelorette?",
-          "answer": "Yes! Many filming locations from The Bachelorette are real places you can visit. The primary location is bachelor-mansion. Check our location guides for booking information and travel tips."
+          "question": "Can you visit Bachelorette filming locations?",
+          "answer": "Yes! The Bachelor Mansion is available on Airbnb ($6,000-30,000/night). International destinations are real locations open to tourists - from Santorini hotels to Thailand resorts. COVID-era bubble resorts (Hyatt Regency Tamaya, Renaissance Esmeralda) are also bookable year-round."
         },
         {
-          "question": "How many seasons of The Bachelorette are there?",
-          "answer": "The Bachelorette currently has 21 seasons. The show is still active and started in 2003."
+          "question": "Where are Bachelorette Fantasy Suites filmed?",
+          "answer": "Fantasy Suites are filmed at luxury resorts worldwide. Recent locations include Fiji (S20), Tulum, Mexico (S18), and Hawaii (S21). The show typically chooses romantic, secluded resorts with stunning views. These are real hotels you can book for your own romantic getaway."
+        },
+        {
+          "question": "How do Bachelorette filming locations differ between seasons?",
+          "answer": "Each season visits different destinations based on production partnerships and travel logistics. Pre-COVID seasons featured extensive international travel (Europe, Asia, Caribbean). COVID seasons stayed at US resorts. Recent seasons have returned to international destinations including Australia, New Zealand, and Europe."
         }
       ],
       "travelTips": [
-        "Santorini's Oia is especially magical at sunset - arrive early for the best spots",
-        "Scotland filming locations often include historic castles open for tours",
-        "Book a Thailand temple tour similar to the cultural dates on the show"
+        "Book the Bachelor Mansion via Airbnb for the full Bachelorette night-one experience",
+        "Santorini's Oia is especially magical at sunset - arrive early for the best viewing spots",
+        "Scotland filming locations often include historic castles like Eilean Donan that offer tours",
+        "Hyatt Regency Tamaya (Season 17 location) offers spa, golf, and Pueblo cultural experiences in New Mexico",
+        "Thailand temple tours similar to the cultural dates on the show run $50-100 per person",
+        "Visit Fiji's Mamanuca Islands for similar tropical vibes to recent Fantasy Suite locations"
       ],
       "meta": {
-        "title": "The Bachelorette Filming Locations | Complete Destination Guide",
-        "description": "Explore every Bachelorette filming location. From the iconic mansion to fantasy suite destinations around the world."
+        "title": "The Bachelorette Filming Locations | Mansion, Fantasy Suites & Every Destination",
+        "description": "Complete guide to every Bachelorette filming location across 21 seasons. Visit the Bachelor Mansion, book Fantasy Suite resorts in Fiji and Mexico, and explore all international destinations."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=_JbBXTWNLJc"
     },
@@ -158,33 +304,143 @@
       ],
       "viewerRating": 4.5,
       "avgEpisodeLength": 60,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2020,
+          "city": "Atlanta, Georgia",
+          "podStudio": "Trilith Studios, Fayetteville, GA",
+          "resort": "Grand Velas Riviera Maya",
+          "resortLocation": "Playa del Carmen, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$800-1,500/night all-inclusive",
+          "apartmentArea": "Buckhead, Atlanta"
+        },
+        {
+          "season": 2,
+          "year": 2022,
+          "city": "Chicago, Illinois",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "TRS Coral Hotel",
+          "resortLocation": "Cancún, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$400-800/night all-inclusive",
+          "apartmentArea": "River North & Gold Coast, Chicago"
+        },
+        {
+          "season": 3,
+          "year": 2022,
+          "city": "Dallas, Texas",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "TRS Yucatan Hotel",
+          "resortLocation": "Riviera Maya, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$400-900/night all-inclusive",
+          "apartmentArea": "Uptown & Downtown Dallas"
+        },
+        {
+          "season": 4,
+          "year": 2023,
+          "city": "Seattle, Washington",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "TRS Yucatan Hotel",
+          "resortLocation": "Riviera Maya, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$400-900/night all-inclusive",
+          "apartmentArea": "Capitol Hill & Downtown Seattle"
+        },
+        {
+          "season": 5,
+          "year": 2023,
+          "city": "Houston, Texas",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "Grand Velas Riviera Maya",
+          "resortLocation": "Playa del Carmen, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$800-1,500/night all-inclusive",
+          "apartmentArea": "River Oaks & Montrose, Houston"
+        },
+        {
+          "season": 6,
+          "year": 2024,
+          "city": "Charlotte, North Carolina",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "Royalton CHIC Punta Cana",
+          "resortLocation": "Punta Cana, Dominican Republic",
+          "resortBookable": true,
+          "resortPrice": "$350-700/night all-inclusive",
+          "apartmentArea": "South End & Uptown Charlotte"
+        },
+        {
+          "season": 7,
+          "year": 2024,
+          "city": "Washington DC / Maryland",
+          "podStudio": "LA North Studios, Santa Clarita, CA",
+          "resort": "Kimpton Mas Olas Resort & Spa",
+          "resortLocation": "Playa Hermosa, Costa Rica",
+          "resortBookable": true,
+          "resortPrice": "$300-600/night",
+          "apartmentArea": "Georgetown & Capitol Hill, DC"
+        }
+      ],
+      "filmingDetails": {
+        "podLocation": "LA North Studios, Santa Clarita, California (30 miles north of Los Angeles)",
+        "podLocationSeason1": "Trilith Studios, Fayetteville, Georgia (20 miles south of Atlanta)",
+        "podSetup": "Each pod is approximately 12x12 feet with a blue couch on one side and gold couch on the other. The wall between pods glows blue when contestants are present.",
+        "podsDuration": "Pod dates typically film over 10-14 days with contestants staying in nearby hotels",
+        "resortDuration": "Couples stay at the resort for approximately 4 weeks after getting engaged",
+        "cityFilming": "After the resort, couples move to shared apartments in their home city for 4-6 weeks until the wedding",
+        "studioVsLocation": "The pods are filmed in a controlled studio environment, while resort scenes and city life are filmed on location"
+      },
       "faqs": [
         {
           "question": "Where are the Love Is Blind pods located?",
-          "answer": "The Love Is Blind pods are located at LA North Studios in Santa Clarita, California. Season 1 filmed at Trilith Studios in Fayetteville, Georgia. The pods are approximately 12x12 feet each, with a blue couch on one side and a gold couch on the other."
+          "answer": "The Love Is Blind pods are located at LA North Studios in Santa Clarita, California, about 30 miles north of Los Angeles. Season 1 originally filmed at Trilith Studios in Fayetteville, Georgia. Each pod is approximately 12x12 feet with a blue couch on one side and a gold couch on the other, separated by a glowing blue wall."
         },
         {
           "question": "Where does Love Is Blind film the Mexico retreat?",
-          "answer": "Love Is Blind has filmed couple retreats at Grand Velas Riviera Maya (Seasons 1, 5), TRS Coral Hotel in Canc\u00fan (Season 2), TRS Yucatan (Season 4), and various all-inclusive resorts in Mexico's Riviera Maya. These resorts offer the perfect romantic backdrop for newly engaged couples."
+          "answer": "Love Is Blind has filmed couple retreats at several all-inclusive resorts: Grand Velas Riviera Maya in Playa del Carmen (Seasons 1, 5), TRS Coral Hotel in Cancún (Season 2), TRS Yucatan in Riviera Maya (Seasons 3-4), Royalton CHIC in Punta Cana, Dominican Republic (Season 6), and Kimpton Mas Olas in Costa Rica (Season 7)."
         },
         {
           "question": "Can you book the Love Is Blind resort?",
-          "answer": "Yes! The Mexico resorts used for Love Is Blind are publicly bookable. Grand Velas Riviera Maya starts around $800-1,500/night all-inclusive, and TRS Hotels range from $400-1,000/night, all-inclusive. Request a room in the zen section for the same villa experience."
+          "answer": "Yes! All Love Is Blind resorts are publicly bookable. Grand Velas Riviera Maya runs $800-1,500/night all-inclusive. TRS Hotels (Coral and Yucatan) range from $400-900/night all-inclusive. Royalton CHIC Punta Cana is $350-700/night. Request the Zen Grand or Ambassador sections for the same villa experience seen on the show."
         },
         {
           "question": "What cities has Love Is Blind filmed in?",
-          "answer": "Love Is Blind has featured singles from Atlanta (Seasons 1, 7), Chicago (Season 2), Dallas (Season 3), Seattle (Season 4), Houston (Season 5), Charlotte (Season 6), and Washington DC (Season 7). Each season explores different neighborhoods and venues in these cities."
+          "answer": "Love Is Blind has featured singles from Atlanta (Season 1), Chicago (Season 2), Dallas (Season 3), Seattle (Season 4), Houston (Season 5), Charlotte (Season 6), and Washington DC/Maryland (Season 7). Each season showcases the city's unique neighborhoods, restaurants, and date spots."
+        },
+        {
+          "question": "Where was Love Is Blind Season 7 filmed?",
+          "answer": "Love Is Blind Season 7 featured singles from Washington DC and Maryland. The pods filmed at LA North Studios in Santa Clarita, California. The couples' resort retreat was at Kimpton Mas Olas Resort & Spa in Playa Hermosa, Costa Rica. Couple apartments were located throughout the DC metro area including Georgetown and Capitol Hill."
+        },
+        {
+          "question": "Is the Love Is Blind resort open to visitors?",
+          "answer": "Yes! All resorts used on Love Is Blind are fully open to the public and accepting reservations. Grand Velas and TRS properties are all-inclusive luxury resorts with pools, spas, multiple restaurants, and beach access. You can book the exact pool areas and beach spots seen in episodes."
+        },
+        {
+          "question": "How do Love Is Blind filming locations differ between seasons?",
+          "answer": "Each season features a different US city for the singles, though all pods (except Season 1) film at LA North Studios. Resort locations rotate between Mexico (Riviera Maya, Cancún), Dominican Republic, and Costa Rica. The apartments where couples live are always in their home city shown on the season."
+        },
+        {
+          "question": "What beach resort was used in Season 6 of Love Is Blind?",
+          "answer": "Love Is Blind Season 6 (Charlotte) filmed the couples' retreat at Royalton CHIC Punta Cana, an adults-only all-inclusive resort in the Dominican Republic. This was a departure from the show's usual Mexican resort locations. The resort offers swim-out suites, multiple pools, and beachfront access starting around $350-700/night."
+        },
+        {
+          "question": "Is Love Is Blind filmed on location or in studios?",
+          "answer": "Love Is Blind uses a hybrid approach: the pods segment is filmed entirely in a studio (LA North Studios in Santa Clarita), while the resort retreat and city apartment scenes are filmed on location. The wedding venues are real locations in each season's featured city."
         }
       ],
       "travelTips": [
-        "Grand Velas offers the exact pool and beach setup from the show",
-        "Request the Ambassador or Grand Class suites for the villa experience",
-        "Atlanta's Buckhead neighborhood has many filming locations",
-        "Chicago's River North area features heavily in Season 2"
+        "Book Grand Velas Riviera Maya for the authentic Season 1 & 5 experience - request a Zen Grand Suite with private plunge pool",
+        "TRS Hotels offer excellent value at $400-900/night all-inclusive with similar luxury vibes",
+        "Visit Atlanta's Buckhead neighborhood to see Season 1 apartment buildings and date spots",
+        "Chicago's River North and Gold Coast neighborhoods feature heavily in Season 2",
+        "For Season 6 fans, Royalton CHIC Punta Cana offers adults-only all-inclusive starting at $350/night",
+        "The pods at LA North Studios are not open to public tours, but you can drive by the studio complex"
       ],
       "meta": {
-        "title": "Love Is Blind Filming Locations | Pods, Mexico Resorts & City Venues",
-        "description": "Complete guide to Love Is Blind filming locations. Visit the pods in Santa Clarita, book the Mexico retreat resorts, and explore date venues in all 9 cities."
+        "title": "Love Is Blind Filming Locations | Every Season's Pods, Resorts & Cities",
+        "description": "Complete guide to all Love Is Blind filming locations by season. Find the pods studio in Santa Clarita, book Mexico retreat resorts (Grand Velas, TRS), and explore date venues in Atlanta, Chicago, Dallas, Seattle, Houston, Charlotte, and DC."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=gLVF1_JpO7Y"
     },
@@ -213,29 +469,130 @@
       ],
       "viewerRating": 4.0,
       "avgEpisodeLength": 45,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2020,
+          "villa": "Casa Tau",
+          "villaLocation": "Punta Mita, Nayarit, Mexico",
+          "villaBookable": true,
+          "villaPrice": "$11,500-15,660/night",
+          "sleeps": 22,
+          "bookingUrl": "Casa Bay Villas",
+          "nearestAirport": "Puerto Vallarta (PVR)",
+          "nearestBeach": "Punta Mita Beach"
+        },
+        {
+          "season": 2,
+          "year": 2021,
+          "villa": "Turtle Tail Estate",
+          "villaLocation": "Turks and Caicos",
+          "villaBookable": false,
+          "villaNote": "Sold for $20.25 million in 2022, no longer available for rent",
+          "sleeps": 20,
+          "nearestAirport": "Providenciales (PLS)",
+          "nearestBeach": "Sapodilla Bay Beach"
+        },
+        {
+          "season": 3,
+          "year": 2022,
+          "villa": "Turtle Tail Estate",
+          "villaLocation": "Turks and Caicos",
+          "villaBookable": false,
+          "villaNote": "Final season at this location before it was sold",
+          "sleeps": 20,
+          "nearestAirport": "Providenciales (PLS)",
+          "nearestBeach": "Sapodilla Bay Beach"
+        },
+        {
+          "season": 4,
+          "year": 2022,
+          "villa": "Emerald Pavilion",
+          "villaLocation": "Leeward, Providenciales, Turks and Caicos",
+          "villaBookable": true,
+          "villaPrice": "$8,700-27,000/night",
+          "sleeps": 18,
+          "bookingUrl": "Turks and Caicos Sotheby's",
+          "nearestAirport": "Providenciales (PLS)",
+          "nearestBeach": "Grace Bay Beach"
+        },
+        {
+          "season": 5,
+          "year": 2023,
+          "villa": "Emerald Pavilion",
+          "villaLocation": "Leeward, Providenciales, Turks and Caicos",
+          "villaBookable": true,
+          "villaPrice": "$8,700-27,000/night",
+          "sleeps": 18,
+          "bookingUrl": "Turks and Caicos Sotheby's",
+          "nearestAirport": "Providenciales (PLS)",
+          "nearestBeach": "Grace Bay Beach"
+        },
+        {
+          "season": 6,
+          "year": 2024,
+          "villa": "Emerald Pavilion",
+          "villaLocation": "Leeward, Providenciales, Turks and Caicos",
+          "villaBookable": true,
+          "villaPrice": "$8,700-27,000/night",
+          "sleeps": 18,
+          "bookingUrl": "Turks and Caicos Sotheby's",
+          "nearestAirport": "Providenciales (PLS)",
+          "nearestBeach": "Grace Bay Beach"
+        }
+      ],
+      "filmingDetails": {
+        "filmingDuration": "Approximately 4-5 weeks per season",
+        "villaSetup": "All filming takes place on-location at private luxury villas with production crews on-site 24/7",
+        "lanaLocation": "Lana (the AI cone) is a custom prop placed in the main living area of each villa",
+        "workshopLocations": "Workshops and retreats are filmed at nearby beaches, spas, and outdoor locations",
+        "productionBase": "Production teams stay at nearby hotels with equipment and facilities"
+      },
       "faqs": [
         {
           "question": "Where is the Too Hot to Handle villa?",
-          "answer": "Too Hot to Handle has filmed at multiple stunning villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3), and Emerald Pavilion in Turks and Caicos (Seasons 4-6). Each villa features infinity pools, ocean views, and luxury amenities."
+          "answer": "Too Hot to Handle has filmed at three stunning villas: Casa Tau in Punta Mita, Mexico (Season 1), Turtle Tail Estate in Turks and Caicos (Seasons 2-3, now sold), and Emerald Pavilion in Turks and Caicos (Seasons 4-6). Each location features infinity pools, ocean views, private beaches, and full staff."
         },
         {
           "question": "Can you rent the Too Hot to Handle villa?",
-          "answer": "Yes! Casa Tau rents for $11,500-15,660/night through Casa Bay Villas and sleeps up to 22 guests. Emerald Pavilion rents for $8,700-27,000/night and accommodates 18 guests. Turtle Tail Estate was sold for $20.25 million and is no longer available for rent."
+          "answer": "Yes for most! Casa Tau (Season 1) rents for $11,500-15,660/night through Casa Bay Villas, sleeping 22 guests with full staff. Emerald Pavilion (Seasons 4-6) rents for $8,700-27,000/night, sleeping 18 guests. However, Turtle Tail Estate (Seasons 2-3) was sold for $20.25 million in 2022 and is no longer available."
+        },
+        {
+          "question": "Where was Too Hot to Handle Season 1 filmed?",
+          "answer": "Too Hot to Handle Season 1 was filmed at Casa Tau, a stunning 10-bedroom villa in Punta Mita, Mexico. The villa sits on the Nayarit coast about 45 minutes from Puerto Vallarta airport. It features an infinity pool, private beach, spa, gym, and full staff including chef and butler. You can rent it for $11,500-15,660/night."
+        },
+        {
+          "question": "Where was Too Hot to Handle Season 4/5/6 filmed?",
+          "answer": "Too Hot to Handle Seasons 4, 5, and 6 were all filmed at Emerald Pavilion in Leeward, Providenciales, Turks and Caicos. This 9-bedroom oceanfront villa features an elevator, wine cellar, infinity pool, floating dock, and is near the world-famous Grace Bay Beach. It rents for $8,700-27,000/night."
+        },
+        {
+          "question": "How do Too Hot to Handle filming locations differ between seasons?",
+          "answer": "Season 1 filmed in Mexico (Casa Tau in Punta Mita), while Seasons 2-6 all filmed in Turks and Caicos. The show moved from Turtle Tail Estate (Seasons 2-3) to Emerald Pavilion (Seasons 4-6) after Turtle Tail was sold. The Caribbean locations offer similar crystal-clear waters and white sand beaches."
+        },
+        {
+          "question": "Is the Too Hot to Handle villa open to visitors?",
+          "answer": "The villas are private rental properties, not resorts. Casa Tau and Emerald Pavilion are available for weekly rentals with minimum stays. You'll need to book the entire villa - there are no individual room bookings. Both include full staff, chef, and butler service in the rental price."
         },
         {
           "question": "What amenities do the THTH villas have?",
-          "answer": "The villas feature infinity pools, private beaches, full staff including chefs and butlers, outdoor dining areas, fire pits, and multiple bedroom suites. Casa Tau includes a spa, gym, and private pier. Emerald Pavilion has an elevator, wine cellar, and floating dock."
+          "answer": "Casa Tau (Season 1) includes 10 bedrooms, infinity pool, spa, gym, private pier, chef, and butler. Emerald Pavilion (Seasons 4-6) offers 9 bedrooms, infinity pool, elevator, wine cellar, floating dock, outdoor cinema, and is steps from Grace Bay Beach. Both feature the iconic fire pit area and outdoor shower seen on the show."
+        },
+        {
+          "question": "Which beach was used in Too Hot to Handle?",
+          "answer": "Season 1 used the private beach at Casa Tau in Punta Mita and nearby Punta Mita Beach in Mexico. Seasons 4-6 at Emerald Pavilion are near Grace Bay Beach in Turks and Caicos, consistently rated one of the world's best beaches. Seasons 2-3 at Turtle Tail Estate used Sapodilla Bay Beach."
         }
       ],
       "travelTips": [
-        "Book Casa Tau for a group trip - it sleeps 22 and has full staff",
-        "Punta Mita offers world-class surfing and golf nearby",
-        "Turks and Caicos' Grace Bay Beach is consistently rated best in the world",
-        "Visit during shoulder season (May-June) for lower rates"
+        "Casa Tau (Season 1) is ideal for groups of 15-22 - you get private chef, butler, and the full villa experience from the show",
+        "Emerald Pavilion requires booking the whole villa but splits well between 9 couples at ~$1,000/couple/night",
+        "If the THTH villas are out of budget, stay at Grace Bay resorts and visit the nearby beaches for the same scenery",
+        "Punta Mita offers world-class surfing at La Lancha beach and golf at the Four Seasons course",
+        "Grace Bay Beach is public - you can walk the same sand as the contestants even without renting the villa",
+        "Visit Turks and Caicos during May-June for lower rates and fewer crowds (shoulder season)"
       ],
       "meta": {
-        "title": "Too Hot to Handle Villa Locations | Rent the THTH House",
-        "description": "Rent the Too Hot to Handle villas! Complete guide to Casa Tau ($11,500/night), Emerald Pavilion ($8,700/night), and all THTH filming locations."
+        "title": "Too Hot to Handle Villa Locations | Rent the THTH House by Season",
+        "description": "Complete guide to every Too Hot to Handle filming location. Rent Casa Tau ($11,500/night) from Season 1 or Emerald Pavilion ($8,700/night) from Seasons 4-6. Find all villa details, prices, and booking info."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=oJhLjqHE4EM"
     },
@@ -264,6 +621,84 @@
       ],
       "viewerRating": 4.1,
       "avgEpisodeLength": 50,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2019,
+          "villa": "Villa in Fiji",
+          "villaLocation": "Fiji (original US series)",
+          "villaBookable": false,
+          "note": "First attempt at US version, aired on CBS",
+          "nearestAirport": "Nadi (NAN)"
+        },
+        {
+          "season": 2,
+          "year": 2020,
+          "villa": "The Cromwell Las Vegas",
+          "villaLocation": "Las Vegas, Nevada",
+          "villaBookable": true,
+          "villaPrice": "From $200-500/night",
+          "note": "COVID-era production filmed in a Las Vegas hotel rooftop",
+          "nearestAirport": "Las Vegas (LAS)"
+        },
+        {
+          "season": 3,
+          "year": 2021,
+          "villa": "Ninole Estate",
+          "villaLocation": "Hawaii Big Island",
+          "villaBookable": true,
+          "villaPrice": "From $5,000/night",
+          "note": "First season back to traditional villa format post-COVID",
+          "nearestAirport": "Kona (KOA)"
+        },
+        {
+          "season": 4,
+          "year": 2022,
+          "villa": "Custom Villa",
+          "villaLocation": "Santa Barbara, California",
+          "villaBookable": false,
+          "note": "Private estate used for production",
+          "nearestAirport": "Santa Barbara (SBA)"
+        },
+        {
+          "season": 5,
+          "year": 2023,
+          "villa": "Custom-Built Love Island Villa",
+          "villaLocation": "Mamanuca Islands, Fiji",
+          "villaBookable": false,
+          "villaNote": "45,000 sq ft villa built specifically for the show",
+          "nearestAirport": "Nadi (NAN)",
+          "nearestResort": "Sheraton Tokoriki Island Resort"
+        },
+        {
+          "season": 6,
+          "year": 2024,
+          "villa": "Custom-Built Love Island Villa",
+          "villaLocation": "Mamanuca Islands, Fiji",
+          "villaBookable": false,
+          "villaNote": "Same villa as Season 5, production home base",
+          "nearestAirport": "Nadi (NAN)",
+          "nearestResort": "Sheraton Tokoriki Island Resort"
+        },
+        {
+          "season": 7,
+          "year": 2025,
+          "villa": "Custom-Built Love Island Villa",
+          "villaLocation": "Mamanuca Islands, Fiji",
+          "villaBookable": false,
+          "villaNote": "Continued filming at Fiji villa",
+          "nearestAirport": "Nadi (NAN)",
+          "nearestResort": "Matamanoa Island Resort"
+        }
+      ],
+      "filmingDetails": {
+        "mainVillaSize": "45,000 square feet (Fiji villa, Seasons 5+)",
+        "villaFeatures": "Multiple bedroom suites, infinity pool, fire pit, outdoor shower, beach access",
+        "casaAmor": "Casa Amor is a separate secondary villa used for the mid-season twist where couples are separated and tempted by new singles",
+        "filmingDuration": "Approximately 6-8 weeks per season",
+        "challengeLocations": "Challenges filmed at the villa and nearby beach locations",
+        "productionNote": "The Fiji villa was custom-built by production and is not available for public rental"
+      },
       "faqs": [
         {
           "question": "Where is the Love Island USA villa?",
@@ -271,22 +706,44 @@
         },
         {
           "question": "Can you visit the Love Island USA villa in Fiji?",
-          "answer": "The Love Island USA villa is custom-built for production and not publicly available. However, nearby resorts like Sheraton Tokoriki Island and Matamanoa Island Resort offer similar Fiji experiences with crystal-clear waters and luxury accommodations."
+          "answer": "The Love Island USA Fiji villa is custom-built for production and not publicly available for booking. However, nearby resorts like Sheraton Tokoriki Island ($400-800/night), Matamanoa Island Resort ($350-600/night), and Likuliku Lagoon Resort offer similar Fiji experiences with crystal-clear waters and luxury overwater bungalows."
+        },
+        {
+          "question": "Where was Love Island USA Season 5 filmed?",
+          "answer": "Love Island USA Season 5 (2023) was filmed at a custom-built villa in Fiji's Mamanuca Islands, about 30 minutes by boat from Nadi. This was the first season at the new permanent Fiji location. The 45,000 sq ft villa was constructed specifically for the show."
+        },
+        {
+          "question": "Where was Love Island USA Season 2 filmed?",
+          "answer": "Love Island USA Season 2 (2020) was filmed at The Cromwell hotel rooftop in Las Vegas due to COVID-19 travel restrictions. This was the only season not filmed at a traditional villa location. The Cromwell is a boutique hotel on the Las Vegas Strip, starting around $200-500/night."
         },
         {
           "question": "What is Casa Amor on Love Island?",
-          "answer": "Casa Amor is a second villa where half the contestants are sent to be tempted by new singles. It's a pivotal moment each season that tests relationships and often results in dramatic recouplings. The Casa Amor villa is usually located near the main villa."
+          "answer": "Casa Amor is Love Island's famous mid-season twist where contestants are split up - half stay at the main villa while half go to a second 'Casa Amor' villa with new single contestants. It tests existing couples and often results in dramatic recouplings and breakups. Casa Amor is usually located near the main villa."
+        },
+        {
+          "question": "How do Love Island USA filming locations differ between seasons?",
+          "answer": "Love Island USA has moved around significantly: Season 1 (Fiji), Season 2 (Las Vegas hotel due to COVID), Season 3 (Hawaii), Season 4 (Santa Barbara), and Seasons 5-7 (permanent Fiji villa). The show settled on Fiji as its permanent home starting Season 5 with a custom-built villa."
+        },
+        {
+          "question": "Is the Love Island villa open to visitors?",
+          "answer": "The Love Island USA Fiji villa is a private production facility not open to visitors or rentals. However, you can visit the Mamanuca Islands and stay at nearby resorts like Sheraton Tokoriki or Matamanoa Island Resort to experience the same stunning Fiji scenery, beaches, and crystal-clear waters."
+        },
+        {
+          "question": "Which island is Love Island USA filmed on?",
+          "answer": "Love Island USA (Seasons 5+) is filmed in Fiji's Mamanuca Islands, a volcanic archipelago west of Nadi. The exact island is kept private for security, but the Mamanucas are famous for their white sand beaches and appeared in the movie 'Cast Away'. Fly into Nadi International Airport (NAN)."
         }
       ],
       "travelTips": [
-        "Fiji's Mamanuca Islands offer similar vibes to the show's setting",
-        "Stay at Sheraton Tokoriki for the closest experience to the villa",
-        "Book a private island resort for ultimate Love Island fantasy",
-        "Visit during Fiji's dry season (May-October) for best weather"
+        "The Mamanuca Islands are accessible by boat or seaplane from Nadi - book transfers through your resort",
+        "Sheraton Tokoriki Island ($400-800/night) offers the closest Love Island villa vibes with beachfront rooms",
+        "Matamanoa Island Resort is adults-only and perfect for couples seeking romance",
+        "Visit during Fiji's dry season (May-October) for best weather and clearer waters",
+        "If visiting Vegas, you can stay at The Cromwell (Season 2 location) and book Drai's rooftop for similar views",
+        "Consider island hopping - you can visit multiple Mamanuca resorts on day trips"
       ],
       "meta": {
-        "title": "Love Island USA Villa Location | Fiji, Las Vegas & All Filming Sites",
-        "description": "Where is the Love Island USA villa? Complete guide to the Fiji villa, Casa Amor locations, and all 7 seasons of filming locations."
+        "title": "Love Island USA Villa Location | Fiji Villa, Casa Amor & All Seasons",
+        "description": "Where is the Love Island USA villa? Complete guide to the Fiji villa location (Seasons 5-7), Las Vegas, Hawaii, and all filming locations. Find nearby hotels and how to visit."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=q8M-U4LBPHA"
     },
@@ -315,33 +772,92 @@
       ],
       "viewerRating": 4.0,
       "avgEpisodeLength": 90,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2014,
+          "resort": "Playa Escondida Resort",
+          "location": "Sayulita, Nayarit, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$165-495/night",
+          "nearestAirport": "Puerto Vallarta (PVR)",
+          "nearestTown": "Sayulita"
+        },
+        {
+          "season": "2-9",
+          "years": "2015-2023",
+          "resort": "Playa Escondida Resort",
+          "location": "Sayulita, Nayarit, Mexico",
+          "resortBookable": true,
+          "resortPrice": "$165-495/night",
+          "nearestAirport": "Puerto Vallarta (PVR)",
+          "note": "Long-running home of BIP with iconic beach and Boom Boom Room"
+        },
+        {
+          "season": 10,
+          "year": 2025,
+          "resort": "Azura Beach Resort",
+          "location": "Playa Samara, Guanacaste, Costa Rica",
+          "resortBookable": true,
+          "resortPrice": "$200-600/night",
+          "nearestAirport": "Liberia (LIR)",
+          "note": "New location for fresh start after 8 seasons in Mexico"
+        }
+      ],
+      "filmingDetails": {
+        "mexicoResort": "Playa Escondida Resort, Sayulita - 45 minutes from Puerto Vallarta airport (PVR)",
+        "costaRicaResort": "Azura Beach Resort, Playa Samara - 90 minutes from Liberia airport (LIR)",
+        "boomBoomRoom": "The iconic air-conditioned room at Playa Escondida where couples have private time - yes, you can book it!",
+        "filmingDuration": "Approximately 3-4 weeks per season",
+        "beachSetup": "The famous beach palapa and day beds are set up specifically for filming but the beach itself is real and walkable",
+        "dateCardLocations": "Date cards take couples to local spots including Sayulita town, whale watching, surfing, and nearby islands"
+      },
       "faqs": [
         {
           "question": "Where is Bachelor in Paradise filmed?",
-          "answer": "Bachelor in Paradise filmed at Playa Escondida Resort in Sayulita, Mexico for Seasons 2-9 (2015-2023). Season 10 (2025) moved to Azura Beach Resort in Playa Samara, Costa Rica for a fresh setting."
+          "answer": "Bachelor in Paradise filmed at Playa Escondida Resort in Sayulita, Mexico for Seasons 1-9 (2014-2023). Season 10 (2025) moved to Azura Beach Resort in Playa Samara, Costa Rica for a fresh setting. Both are real resorts open to the public."
         },
         {
           "question": "Can you stay at the Bachelor in Paradise resort?",
-          "answer": "Yes! Playa Escondida Resort in Sayulita is fully bookable ($165-495/night) and proudly markets itself as the BIP filming location. The new Azura Beach Resort in Costa Rica is also publicly bookable. You can literally sleep in the same beds as your favorite contestants."
+          "answer": "Yes! Playa Escondida Resort in Sayulita is fully bookable ($165-495/night) and proudly markets itself as the BIP filming location. The new Azura Beach Resort in Costa Rica ($200-600/night) is also publicly bookable. You can literally sleep in the same rooms as your favorite contestants."
+        },
+        {
+          "question": "Where was Bachelor in Paradise Season 10 filmed?",
+          "answer": "Bachelor in Paradise Season 10 (2025) was filmed at Azura Beach Resort in Playa Samara, Costa Rica. This was a major change after 9 seasons at the Mexico location. Azura is a boutique beachfront resort about 90 minutes from Liberia International Airport."
         },
         {
           "question": "What is the Boom Boom Room on Bachelor in Paradise?",
-          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where couples can have private time. It has become iconic in BIP lore and is equipped with hidden cameras for the show. Regular guests can actually book this room!"
+          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida Resort, where couples go for private time. It has become iconic in BIP lore and features hidden cameras for the show. Regular guests can actually book this exact room - it's listed on their website!"
+        },
+        {
+          "question": "Can you visit the Bachelor in Paradise beach?",
+          "answer": "Yes! The beach at Playa Escondida is real and accessible to resort guests. While the show's signature day beds and palapa structure are set up for filming, you can walk the same sand, swim in the same water, and enjoy the same sunset views. The resort is open year-round."
         },
         {
           "question": "What is Sayulita like as a destination?",
-          "answer": "Sayulita is a charming surf town about 45 minutes from Puerto Vallarta. It's known for its colorful streets, excellent restaurants, surf breaks, and laid-back vibe. Many BIP fans combine a resort stay with exploring the town's galleries, cafes, and beaches."
+          "answer": "Sayulita is a charming surf town about 45 minutes from Puerto Vallarta. It's known for its colorful streets, excellent restaurants, surf breaks, and laid-back vibe. The town has become a tourist destination partly due to BIP fame. Expect art galleries, craft cocktails, taco stands, and Instagram-worthy streets."
+        },
+        {
+          "question": "How do I get to the Bachelor in Paradise resort?",
+          "answer": "For Playa Escondida (Mexico): Fly into Puerto Vallarta (PVR), then drive 45 minutes north to Sayulita. For Azura Beach Resort (Costa Rica): Fly into Liberia (LIR), then drive 90 minutes to Playa Samara. Both resorts can arrange airport transfers."
+        },
+        {
+          "question": "Is Bachelor in Paradise filmed on location or in studios?",
+          "answer": "Bachelor in Paradise is filmed entirely on location at the resort. There are no studio segments. All rose ceremonies, cocktail parties, dates, and drama unfold at the actual beachfront property. The only constructed elements are the signature palapa structure and day bed arrangement on the beach."
         }
       ],
       "travelTips": [
-        "Stay at Playa Escondida during off-season (Sept-Nov) for lower rates",
-        "Sayulita has amazing street tacos and craft cocktails",
-        "Book a surf lesson at one of the town's many schools",
-        "Don't miss the colorful cemetery with ocean views"
+        "Book Playa Escondida during off-season (Sept-Nov) for lower rates and fewer crowds",
+        "Request the Boom Boom Room specifically when booking - it's a real room you can stay in!",
+        "Sayulita has amazing street tacos at Don Pedro's and craft cocktails at Cava Bohemia",
+        "Book a surf lesson at one of Sayulita's many surf schools ($50-80 for beginners)",
+        "Don't miss the colorful Sayulita cemetery with stunning ocean views",
+        "For Costa Rica (Season 10), Playa Samara is quieter and more family-friendly than Sayulita",
+        "Combine your BIP trip with whale watching (Dec-March) or release baby sea turtles (July-Dec)"
       ],
       "meta": {
-        "title": "Bachelor in Paradise Filming Location | Playa Escondida & Azura Resort",
-        "description": "Stay at the Bachelor in Paradise resort! Book Playa Escondida in Mexico ($165/night) or the new Azura Beach Resort in Costa Rica. Complete visitor guide."
+        "title": "Bachelor in Paradise Filming Location | Playa Escondida Mexico & Costa Rica Resort",
+        "description": "Stay at the Bachelor in Paradise resort! Book Playa Escondida in Sayulita, Mexico ($165/night) or the new Azura Beach Resort in Costa Rica. Complete guide to visiting the BIP filming locations."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=x8kJ3kqVzoI"
     },
@@ -657,33 +1173,162 @@
       ],
       "viewerRating": 4.4,
       "avgEpisodeLength": 60,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2015,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "nearestAirport": "Palma de Mallorca (PMI)",
+          "nearestTown": "Porto Cristo"
+        },
+        {
+          "season": 2,
+          "year": 2016,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "nearestAirport": "Palma de Mallorca (PMI)",
+          "nearestTown": "Porto Cristo"
+        },
+        {
+          "season": 3,
+          "year": 2017,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Breakout season with Kem & Amber, Chris & Olivia",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 4,
+          "year": 2018,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Dani Dyer and Jack Fincham season",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 5,
+          "year": 2019,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Molly-Mae and Tommy Fury season",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 6,
+          "year": 2020,
+          "villa": "Winter Love Island Villa",
+          "villaLocation": "Constantia, Cape Town, South Africa",
+          "villaBookable": false,
+          "note": "First winter edition filmed in South Africa",
+          "nearestAirport": "Cape Town (CPT)",
+          "nearestArea": "Camps Bay"
+        },
+        {
+          "season": 7,
+          "year": 2021,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Post-COVID return to Mallorca",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 8,
+          "year": 2022,
+          "villa": "NEW Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Brand new villa built on same property - Ekin-Su & Davide season",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 9,
+          "year": 2023,
+          "villa": "Winter Love Island Villa",
+          "villaLocation": "Franschhoek Valley, South Africa",
+          "villaBookable": false,
+          "note": "Winter season in South African wine country",
+          "nearestAirport": "Cape Town (CPT)",
+          "nearestArea": "Stellenbosch Wine Region"
+        },
+        {
+          "season": 10,
+          "year": 2023,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Summer season returned to Mallorca",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        },
+        {
+          "season": 11,
+          "year": 2024,
+          "villa": "Love Island Villa",
+          "villaLocation": "Sant Llorenç des Cardassar, Mallorca, Spain",
+          "villaBookable": false,
+          "note": "Maya Jama hosting era",
+          "nearestAirport": "Palma de Mallorca (PMI)"
+        }
+      ],
+      "filmingDetails": {
+        "mainVillaLocation": "Sant Llorenç des Cardassar, eastern Mallorca, approximately 1 hour from Palma airport",
+        "villaSetup": "The villa is rebuilt and redesigned each summer season with new layouts, bedrooms, and the famous firepit area",
+        "casaAmorMallorca": "Casa Amor is a separate villa located nearby in Mallorca for the mid-season twist",
+        "winterVillaLocation": "Winter editions filmed near Cape Town, South Africa - Constantia (S6) and Franschhoek (S9)",
+        "filmingDuration": "8 weeks per season, filming daily with live broadcasts",
+        "challengeLocations": "Challenges and dates filmed around Mallorca including beaches, restaurants, and the Port Adriano marina"
+      },
       "faqs": [
         {
           "question": "Where is the Love Island UK villa?",
-          "answer": "The Love Island UK villa is located in Sant Llorenc des Cardassar, Mallorca, Spain. The show uses a custom villa that's rebuilt and redesigned each year. Winter seasons have filmed in South Africa near Cape Town."
+          "answer": "The Love Island UK villa is located in Sant Llorenç des Cardassar, Mallorca, Spain, about 1 hour east of Palma airport. The show has used the same property since Season 1, though the villa itself is rebuilt and redesigned each season. Winter editions film near Cape Town, South Africa."
         },
         {
           "question": "Can you visit the Love Island villa?",
-          "answer": "The villa itself is private and used exclusively for production. However, the surrounding area of Mallorca offers similar vibes with beautiful beaches, nightclubs, and Mediterranean charm. Many fans visit Mallorca during Love Island season."
+          "answer": "The villa itself is private production property and not accessible to visitors. However, you can stay in the Sant Llorenç area of Mallorca, visit nearby Porto Cristo and its stunning caves, or book a similar-style villa through rental sites. Many fans visit Mallorca during filming (June-August) to soak up the Love Island atmosphere."
         },
         {
-          "question": "Where can I watch Love Island UK?",
-          "answer": "Love Island UK airs on ITV in the UK and is available on ITVX or All 4. International viewers can often find it on streaming services like Hulu or Peacock."
+          "question": "Where was Love Island UK Season 8 filmed?",
+          "answer": "Love Island UK Season 8 (2022, Ekin-Su & Davide) was filmed at a brand new villa built on the same property in Sant Llorenç des Cardassar, Mallorca. The new villa was significantly larger with updated features including a bigger pool, new bedroom layouts, and the famous terrace overlooking the hills."
         },
         {
-          "question": "How many seasons of Love Island UK are there?",
-          "answer": "Love Island UK currently has 11 seasons. The show is still active and started in 2015."
+          "question": "Where is Love Island Winter filmed?",
+          "answer": "Love Island UK Winter editions are filmed in South Africa. Season 6 (2020) filmed in Constantia near Cape Town, and Season 9 (2023) filmed in the Franschhoek Valley wine region. Both locations offer stunning mountain backdrops and warm weather during UK winter months."
+        },
+        {
+          "question": "Which season of Love Island UK was filmed in South Africa?",
+          "answer": "Two seasons of Love Island UK were filmed in South Africa: Season 6 (Winter 2020) in Constantia, Cape Town, and Season 9 (Winter 2023) in Franschhoek Valley. These winter editions air in January-February when it's summer in South Africa."
+        },
+        {
+          "question": "How do I get to the Love Island villa area in Mallorca?",
+          "answer": "Fly into Palma de Mallorca airport (PMI), then drive approximately 1 hour east to Sant Llorenç des Cardassar. The nearest tourist areas are Porto Cristo (famous for caves), Cala Millor, and Cala Bona beaches. Rent a car for the best experience exploring the area."
+        },
+        {
+          "question": "What is Casa Amor on Love Island UK?",
+          "answer": "Casa Amor is Love Island's iconic mid-season twist where half the islanders stay at the main villa while the other half move to a second villa with new single contestants. In Mallorca, Casa Amor is located nearby but kept secret from the public. The twist tests relationships and often causes dramatic recouplings."
+        },
+        {
+          "question": "Is the Love Island villa open to visitors?",
+          "answer": "No, the Love Island villa is private property used exclusively for production. It's located on a private estate with security. However, you can experience the Mallorca lifestyle by staying in villas in Sant Llorenç, visiting nearby beaches like Cala Millor, or booking a boat trip along the eastern coast."
         }
       ],
       "travelTips": [
-        "Visit Mallorca in June-July during filming for peak Love Island vibes",
-        "Magaluf and Palma offer the nightlife scene featured in challenges",
-        "Book a villa in Sant Llorenc for the closest experience",
-        "Cape Town's Camps Bay has incredible beach villa options"
+        "Visit Mallorca in June-August during filming season for peak Love Island vibes and summer atmosphere",
+        "Stay in Porto Cristo, Cala Millor, or Cala Bona for easy access to the villa area",
+        "Rent a villa in Sant Llorenç des Cardassar through Airbnb or Vrbo for the closest experience ($200-500/night)",
+        "Magaluf and Palma offer the nightlife scene - BH Mallorca hotel has hosted Love Island parties",
+        "For Winter Love Island vibes, visit Cape Town's Camps Bay or book a wine estate in Franschhoek",
+        "The Caves of Drach (Cuevas del Drach) in Porto Cristo are a must-visit just minutes from the villa area"
       ],
       "meta": {
-        "title": "Love Island UK Villa Location | Mallorca Spain Guide",
-        "description": "Visit Love Island UK's Mallorca villa location. Complete guide to the Spanish island and Cape Town winter filming."
+        "title": "Love Island UK Villa Location | Mallorca Spain & Cape Town Guide",
+        "description": "Complete guide to Love Island UK filming locations. Find the Mallorca villa in Sant Llorenç des Cardassar and Cape Town winter villa. Includes all 11 seasons, nearby hotels, and travel tips."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=LKD9eVUJN3Y"
     },
@@ -709,37 +1354,56 @@
       ],
       "viewerRating": 4.0,
       "avgEpisodeLength": 45,
+      "filmingDetails": {
+        "buildingLocation": "Adelphi Wharf, Salford, Greater Manchester, UK",
+        "buildingType": "Purpose-converted apartment building used exclusively for production",
+        "apartmentSetup": "Each contestant lives in a separate, fully-furnished apartment within the same building",
+        "circleScreen": "Every apartment features the iconic Circle interface - a large TV screen players use to communicate",
+        "isolation": "Contestants never see each other in person until eliminations ('blocking')",
+        "multipleVersions": "The same building hosts The Circle US, UK, France, Brazil, and other international versions",
+        "nearestAirport": "Manchester Airport (MAN) - 25 minutes from Salford"
+      },
       "faqs": [
         {
           "question": "Where is The Circle filmed?",
-          "answer": "The Circle US is filmed in a purpose-built apartment building in Salford, Greater Manchester, UK. The same building is used for multiple international versions including The Circle UK, France, and Brazil."
+          "answer": "The Circle US is filmed at Adelphi Wharf, a purpose-built apartment complex in Salford, Greater Manchester, UK. Despite being an American Netflix show, all US seasons film in the UK. The same building hosts multiple international versions including The Circle UK, France, and Brazil."
         },
         {
           "question": "Are The Circle apartments real?",
-          "answer": "Yes, contestants live in real, fully functional apartments in the same building but are completely isolated from each other. The building was converted specifically for the show and features the signature Circle screens in each unit."
+          "answer": "Yes, contestants live in real, fully functional apartments in the same building but are completely isolated from each other. The building at Adelphi Wharf was converted specifically for production. Each apartment features the signature Circle screen interface that players use to communicate."
         },
         {
-          "question": "Where can I watch The Circle?",
-          "answer": "The Circle is available to stream exclusively on Netflix. New seasons typically drop all episodes at once."
+          "question": "Can you visit The Circle building?",
+          "answer": "The Circle apartments at Adelphi Wharf are not open to public tours or visits - it's an active production facility. However, you can visit the Salford area, see the building exterior, and explore nearby MediaCityUK which is home to BBC and ITV studios."
         },
         {
-          "question": "Can I visit the filming locations from The Circle?",
-          "answer": "Yes! Many filming locations from The Circle are real places you can visit. The primary location is the-circle-apartments. Check our location guides for booking information and travel tips."
+          "question": "Why is The Circle US filmed in the UK?",
+          "answer": "The Circle US films in the UK because the original format was British (Channel 4), and the production infrastructure was already established at Adelphi Wharf in Salford. Using the same building for multiple international versions is more cost-effective than building new sets."
         },
         {
-          "question": "How many seasons of The Circle are there?",
-          "answer": "The Circle currently has 7 seasons. The show is still active and started in 2020."
+          "question": "Where do The Circle contestants stay between seasons?",
+          "answer": "The Adelphi Wharf building is used exclusively for Circle productions. Between filming, the apartments may be reconfigured for different international versions. The building is not available for public rental or hotel stays."
+        },
+        {
+          "question": "What is The Circle meeting location?",
+          "answer": "When players are 'blocked' (eliminated), they get to meet one player of their choice in the building's common area. The finale also features an in-person meeting. These scenes happen within the same Salford building."
+        },
+        {
+          "question": "Is The Circle filmed in real-time?",
+          "answer": "Yes, The Circle films over approximately 2-3 weeks with contestants living in the apartments full-time. Unlike some reality shows, the conversations and relationships unfold in real-time through the Circle app interface."
         }
       ],
       "travelTips": [
-        "Salford's MediaCity offers behind-the-scenes TV experiences",
-        "Manchester's Northern Quarter has the trendy vibes of the show",
-        "The building isn't open to public but the area is worth visiting",
-        "Combine with a visit to Manchester's excellent food scene"
+        "Visit Salford's MediaCityUK for BBC and ITV studio tours - it's just minutes from The Circle building",
+        "Manchester's Northern Quarter has the trendy coffee shop vibes featured in contestant profiles",
+        "The Adelphi Wharf building is visible from outside but no public access inside",
+        "Combine with a visit to Manchester's excellent food scene - try the curry mile in Rusholme",
+        "Book a Manchester United or Manchester City stadium tour while you're in the area",
+        "Stay in Salford Quays for waterfront hotels near the filming location ($100-200/night)"
       ],
       "meta": {
-        "title": "The Circle Filming Location | Salford Apartments Guide",
-        "description": "Discover where The Circle is filmed. Visit the Salford apartment building and explore the Manchester area."
+        "title": "The Circle Filming Location | Where Are The Circle Apartments?",
+        "description": "Discover where The Circle is filmed. The US version films at Adelphi Wharf in Salford, UK. Complete guide to visiting the apartment building and Manchester area."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=PIPIqJhRYBk"
     },
