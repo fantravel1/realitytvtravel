@@ -903,6 +903,51 @@ async function loadShowDetail() {
           </div>
         ` : '<div class="detail-section"><p>No bookable locations available for this show yet.</p></div>'}
 
+        ${(show.seasonLocations?.length > 0 || show.recentSeasonLocations?.length > 0) ? `
+          <div class="detail-section magazine-section">
+            <h2>🎬 Season-by-Season Filming Locations</h2>
+            <p class="section-intro">Where was ${show.name} filmed? Here's the breakdown by season.</p>
+            <div class="season-locations-grid" style="display: grid; gap: var(--space-md); margin-top: var(--space-lg);">
+              ${(show.seasonLocations || show.recentSeasonLocations).map(sl => `
+                <div class="season-location-item" style="background: var(--color-gray-50); border-radius: var(--radius-lg); padding: var(--space-lg); border-left: 4px solid var(--color-primary);">
+                  <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: var(--space-sm);">
+                    <h4 style="margin: 0; font-size: 1.1rem; color: var(--color-gray-900);">
+                      ${sl.season ? `Season ${sl.season}` : sl.seasons ? `Seasons ${sl.seasons}` : ''}
+                      ${sl.year ? `<span style="color: var(--color-gray-500); font-weight: normal;"> (${sl.year})</span>` : sl.years ? `<span style="color: var(--color-gray-500); font-weight: normal;"> (${sl.years})</span>` : ''}
+                    </h4>
+                    ${sl.resortBookable || sl.villaBookable ? '<span style="background: #22c55e; color: white; font-size: 0.7rem; padding: 2px 8px; border-radius: 20px;">Bookable</span>' : ''}
+                  </div>
+                  ${sl.bachelor || sl.bachelorette ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem; color: var(--color-gray-600);"><strong>${sl.bachelor || sl.bachelorette}</strong></p>` : ''}
+                  ${sl.city ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>City:</strong> ${sl.city}</p>` : ''}
+                  ${sl.villa || sl.resort || sl.mansion ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>${sl.villa ? 'Villa' : sl.resort ? 'Resort' : 'Mansion'}:</strong> ${sl.villa || sl.resort || sl.mansion}</p>` : ''}
+                  ${sl.villaLocation || sl.resortLocation || sl.location ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>Location:</strong> ${sl.villaLocation || sl.resortLocation || sl.location}</p>` : ''}
+                  ${sl.podStudio ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>Pods Studio:</strong> ${sl.podStudio}</p>` : ''}
+                  ${sl.destinations ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>Destinations:</strong> ${Array.isArray(sl.destinations) ? sl.destinations.join(', ') : sl.destinations}</p>` : ''}
+                  ${sl.fantasySuites ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>Fantasy Suites:</strong> ${sl.fantasySuites}</p>` : ''}
+                  ${sl.villaPrice || sl.resortPrice ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem; color: #22c55e;"><strong>Price:</strong> ${sl.villaPrice || sl.resortPrice}</p>` : ''}
+                  ${sl.nearestAirport ? `<p style="margin: 0 0 var(--space-xs); font-size: 0.875rem;"><strong>Nearest Airport:</strong> ${sl.nearestAirport}</p>` : ''}
+                  ${sl.note || sl.villaNote ? `<p style="margin: var(--space-sm) 0 0; font-size: 0.8rem; color: var(--color-gray-500); font-style: italic;">${sl.note || sl.villaNote}</p>` : ''}
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
+        ${show.filmingDetails ? `
+          <div class="detail-section magazine-section">
+            <h2>🎥 Behind the Scenes</h2>
+            <p class="section-intro">How and where ${show.name} is produced.</p>
+            <div class="filming-details-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-md); margin-top: var(--space-lg);">
+              ${Object.entries(show.filmingDetails).map(([key, value]) => `
+                <div style="background: var(--color-gray-50); padding: var(--space-md); border-radius: var(--radius-md);">
+                  <div style="font-size: 0.75rem; text-transform: uppercase; color: var(--color-gray-500); margin-bottom: var(--space-xs);">${key.replace(/([A-Z])/g, ' $1').replace(/^./, str => str.toUpperCase())}</div>
+                  <div style="font-size: 0.9rem; color: var(--color-gray-800);">${value}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
         ${show.travelTips?.length > 0 ? `
           <div class="detail-section magazine-section">
             <h2>✈️ Travel Tips</h2>
