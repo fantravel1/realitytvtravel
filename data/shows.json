@@ -882,36 +882,67 @@
       ],
       "viewerRating": 3.8,
       "avgEpisodeLength": 55,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2023,
+          "villa": "Private Luxury Villa",
+          "villaLocation": "Panama",
+          "villaBookable": false,
+          "note": "Exact villa location kept private, filmed in Panama's tropical region",
+          "nearestAirport": "Panama City (PTY)",
+          "castFrom": ["Love Is Blind", "Too Hot to Handle", "The Circle", "Selling Sunset", "The Mole"]
+        },
+        {
+          "season": 2,
+          "year": 2024,
+          "villa": "Private Luxury Villa",
+          "villaLocation": "Panama",
+          "villaBookable": false,
+          "note": "Return to Panama with larger cast from expanded Netflix universe",
+          "nearestAirport": "Panama City (PTY)",
+          "castFrom": ["Love Is Blind", "Too Hot to Handle", "The Circle", "Dated & Related", "Sexy Beasts"]
+        }
+      ],
+      "filmingDetails": {
+        "location": "Panama - exact villa location kept private for security during production",
+        "villaStyle": "Tropical luxury villa with pool, ocean views, and multiple bedroom suites",
+        "format": "Netflix crossover event featuring alumni from multiple Netflix dating shows",
+        "matchingBoard": "Contestants use 'The Board' to make strategic matches and compete for compatibility",
+        "filmingDuration": "Approximately 3-4 weeks per season"
+      },
       "faqs": [
         {
           "question": "Where is Perfect Match filmed?",
-          "answer": "Perfect Match films at a luxury villa in Panama. While the exact location is kept private during production, the villa features a stunning pool, ocean views, and the tropical ambiance perfect for romance and drama."
+          "answer": "Perfect Match films at a luxury villa in Panama. While the exact villa location is kept private during production, it features a stunning infinity pool, ocean views, and tropical landscaping. The setting provides the perfect backdrop for Netflix's ultimate dating crossover."
         },
         {
-          "question": "Which Netflix shows are contestants from?",
-          "answer": "Perfect Match features alumni from Love Is Blind, Too Hot to Handle, The Circle, Selling Sunset, Dated & Related, The Mole, and other Netflix reality series. It's a who's who of Netflix reality royalty."
+          "question": "Can you visit the Perfect Match villa?",
+          "answer": "The exact Perfect Match villa location hasn't been publicly disclosed. However, Panama offers many similar luxury villa rentals. Check out Bocas del Toro, the Pearl Islands, or Panama City's beachfront properties for comparable tropical experiences starting around $300-1,000/night."
         },
         {
-          "question": "Where can I watch Perfect Match?",
-          "answer": "Perfect Match is available to stream exclusively on Netflix. New seasons typically drop all episodes at once."
+          "question": "Which Netflix shows are Perfect Match contestants from?",
+          "answer": "Perfect Match features alumni from Love Is Blind, Too Hot to Handle, The Circle, Selling Sunset, Dated & Related, The Mole, Sexy Beasts, and other Netflix reality series. Season 2 expanded the cast to include even more fan favorites from across the Netflix dating universe."
         },
         {
-          "question": "Can I visit the filming locations from Perfect Match?",
-          "answer": "Yes! Many filming locations from Perfect Match are real places you can visit. The primary location is perfect-match-villa. Check our location guides for booking information and travel tips."
+          "question": "Where was Perfect Match Season 2 filmed?",
+          "answer": "Perfect Match Season 2 (2024) was filmed in Panama, returning to the same tropical region as Season 1. The production used a luxury villa setting with pool, beach access, and the signature matching board setup."
         },
         {
-          "question": "How many seasons of Perfect Match are there?",
-          "answer": "Perfect Match currently has 2 seasons. The show is still active and started in 2023."
+          "question": "Is Perfect Match filmed on location or in studios?",
+          "answer": "Perfect Match is filmed entirely on location at a private villa in Panama. There are no studio segments - all the drama, matches, and eliminations happen at the villa. Confessionals are filmed in dedicated areas within the property."
         }
       ],
       "travelTips": [
-        "Panama City offers a mix of modern skyline and historic Casco Viejo",
-        "The San Blas Islands provide a similar tropical villa experience",
-        "Bocas del Toro is perfect for beach lovers seeking paradise"
+        "Panama City offers a mix of modern skyline and historic Casco Viejo - perfect for a pre/post villa trip",
+        "The San Blas Islands (Guna Yala) provide stunning private island experiences similar to the show's tropical vibe",
+        "Bocas del Toro offers affordable luxury villas ($200-500/night) with similar Caribbean atmosphere",
+        "The Pearl Islands (Islas Perlas) are Panama's luxury beach destination, 1 hour by boat from Panama City",
+        "Visit during dry season (December-April) for best weather"
       ],
       "meta": {
-        "title": "Perfect Match Filming Location | Netflix Villa Guide",
-        "description": "Discover where Perfect Match is filmed. Complete guide to the Netflix dating show's Panama villa location."
+        "title": "Perfect Match Filming Location | Where Is the Netflix Villa?",
+        "description": "Discover where Perfect Match is filmed in Panama. Complete guide to the Netflix crossover show's villa location, nearby resorts, and how to visit similar destinations."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=sT0bFBZJj4w"
     },
@@ -938,37 +969,80 @@
       ],
       "viewerRating": 3.9,
       "avgEpisodeLength": 55,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2022,
+          "city": "Austin, Texas",
+          "apartmentBuilding": "Luxury apartments in downtown Austin",
+          "format": "Straight couples",
+          "weddingVenue": "Austin venues",
+          "nearestAirport": "Austin-Bergstrom (AUS)"
+        },
+        {
+          "season": 2,
+          "year": 2023,
+          "city": "Austin, Texas",
+          "subtitle": "Queer Love",
+          "apartmentBuilding": "Luxury apartments in downtown Austin",
+          "format": "LGBTQ+ couples",
+          "note": "First queer-focused season of the franchise",
+          "nearestAirport": "Austin-Bergstrom (AUS)"
+        },
+        {
+          "season": 3,
+          "year": 2024,
+          "city": "Austin, Texas",
+          "apartmentBuilding": "Luxury apartments in downtown Austin",
+          "format": "Straight couples",
+          "nearestAirport": "Austin-Bergstrom (AUS)"
+        }
+      ],
+      "filmingDetails": {
+        "primaryCity": "Austin, Texas",
+        "apartmentSetup": "Production rents multiple apartments in the same luxury building so couples can be near each other",
+        "trialMarriageDuration": "3 weeks living with a new partner, then 3 weeks back with original partner",
+        "groupGatherings": "Filmed at Austin event spaces, restaurants, and rooftop bars",
+        "weddingCeremonies": "Final decisions filmed at Austin wedding venues",
+        "filmingDuration": "Approximately 8-10 weeks per season"
+      },
       "faqs": [
         {
           "question": "Where is The Ultimatum filmed?",
-          "answer": "The Ultimatum primarily films in Austin, Texas. The show uses various apartments and venues around the city for the trial marriages and group gatherings. Some seasons have also filmed in Los Angeles."
+          "answer": "The Ultimatum films primarily in Austin, Texas. The show uses luxury apartments in downtown Austin where couples live during both their trial marriages and reunion phases. Group gatherings, dates, and the final wedding ceremonies are filmed at various Austin venues."
         },
         {
           "question": "Are the apartments on The Ultimatum real?",
-          "answer": "Yes, the apartments shown on The Ultimatum are real furnished apartments in Austin. The production rents multiple units in the same building to facilitate filming and allow for dramatic drop-bys between couples."
+          "answer": "Yes, the apartments shown on The Ultimatum are real furnished apartments in Austin. Production rents multiple units in the same building to facilitate filming and allow for the dramatic drop-bys between couples. The apartments are high-end rentals in the downtown Austin area."
         },
         {
-          "question": "Where can I watch The Ultimatum: Marry or Move On?",
-          "answer": "The Ultimatum: Marry or Move On is available to stream exclusively on Netflix. New seasons typically drop all episodes at once."
+          "question": "Where was The Ultimatum Season 2 (Queer Love) filmed?",
+          "answer": "The Ultimatum: Queer Love (Season 2) was filmed in Austin, Texas, using the same format as Season 1. This was the first LGBTQ+-focused season of the franchise, featuring lesbian and queer couples going through the ultimatum experiment."
         },
         {
-          "question": "Can I visit the filming locations from The Ultimatum: Marry or Move On?",
-          "answer": "Yes! Many filming locations from The Ultimatum: Marry or Move On are real places you can visit. The primary location is austin-texas. Check our location guides for booking information and travel tips."
+          "question": "Can you visit The Ultimatum filming locations?",
+          "answer": "Yes! Austin is a major tourist destination. While the specific apartments aren't publicly disclosed, you can visit many of the restaurants, bars, and date locations featured on the show. Downtown Austin, South Congress (SoCo), and Lake Austin are frequently featured areas."
         },
         {
-          "question": "How many seasons of The Ultimatum: Marry or Move On are there?",
-          "answer": "The Ultimatum: Marry or Move On currently has 3 seasons. The show is still active and started in 2022."
+          "question": "What venues does The Ultimatum use for weddings?",
+          "answer": "The Ultimatum films final ceremonies at various Austin wedding venues. These include upscale event spaces, historic venues, and scenic outdoor locations. Many are available for public bookings if you're planning your own Austin wedding."
+        },
+        {
+          "question": "Is The Ultimatum filmed on location or in studios?",
+          "answer": "The Ultimatum is filmed entirely on location in Austin, Texas. The apartments, date spots, group events, and wedding venues are all real Austin locations. There are no studio segments - even confessionals are filmed within the apartment settings."
         }
       ],
       "travelTips": [
-        "Austin's South Congress (SoCo) area is perfect for date spots",
-        "Many reunion scenes film at rooftop bars downtown",
-        "The food scene is incredible - don't miss Franklin BBQ",
-        "Lake Austin offers romantic boat tours like those seen on dates"
+        "Austin's South Congress (SoCo) area is perfect for date spots and features many restaurants seen on the show",
+        "Many reunion scenes film at rooftop bars downtown - check out the W Austin or The LINE hotel rooftops",
+        "The food scene is incredible - don't miss Franklin BBQ (get there early!) and Uchi for upscale Japanese",
+        "Lake Austin offers romantic boat tours similar to those seen on dates",
+        "Stay in a downtown Austin luxury apartment via Airbnb for the authentic Ultimatum experience ($200-400/night)",
+        "Visit during SXSW (March) or Austin City Limits (October) to combine your trip with a major festival"
       ],
       "meta": {
-        "title": "The Ultimatum Filming Locations | Austin & LA Venues",
-        "description": "Explore The Ultimatum filming locations in Austin, Texas and Los Angeles."
+        "title": "The Ultimatum Filming Locations | Austin Texas Apartments & Venues",
+        "description": "Where is The Ultimatum filmed? Complete guide to Austin, Texas filming locations including apartments, date spots, and wedding venues from all 3 seasons."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=V8rPz6BI0ds"
     },
@@ -995,37 +1069,100 @@
       ],
       "viewerRating": 3.7,
       "avgEpisodeLength": 60,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2019,
+          "location": "Maui, Hawaii",
+          "mensVilla": "Private villa in Wailea area",
+          "womensVilla": "Private villa in Wailea area",
+          "dateResort": "Andaz Maui at Wailea",
+          "bonfireBeach": "Private beach in South Maui",
+          "nearestAirport": "Kahului (OGG)"
+        },
+        {
+          "season": 2,
+          "year": 2020,
+          "location": "Maui, Hawaii",
+          "mensVilla": "Private villa in Wailea area",
+          "womensVilla": "Private villa in Wailea area",
+          "dateResort": "Andaz Maui at Wailea",
+          "nearestAirport": "Kahului (OGG)"
+        },
+        {
+          "season": 3,
+          "year": 2021,
+          "location": "Maui, Hawaii",
+          "mensVilla": "Private villa in Wailea area",
+          "womensVilla": "Private villa in Wailea area",
+          "dateResort": "Andaz Maui at Wailea",
+          "nearestAirport": "Kahului (OGG)"
+        },
+        {
+          "season": 4,
+          "year": 2022,
+          "location": "Maui, Hawaii",
+          "mensVilla": "Private villa in Wailea area",
+          "womensVilla": "Private villa in Wailea area",
+          "dateResort": "Andaz Maui at Wailea",
+          "nearestAirport": "Kahului (OGG)"
+        },
+        {
+          "season": 5,
+          "year": 2023,
+          "location": "Maui, Hawaii",
+          "mensVilla": "Private villa in Wailea area",
+          "womensVilla": "Private villa in Wailea area",
+          "dateResort": "Andaz Maui at Wailea",
+          "note": "Final season of the revival",
+          "nearestAirport": "Kahului (OGG)"
+        }
+      ],
+      "filmingDetails": {
+        "island": "Maui, Hawaii - specifically the Wailea resort area on the south shore",
+        "villaSetup": "Men and women live in separate luxury villas with their respective singles",
+        "bonfires": "The dramatic bonfire scenes are filmed on private beaches in South Maui",
+        "dateLocations": "Andaz Maui at Wailea and various Maui adventure spots",
+        "filmingDuration": "Approximately 4-5 weeks per season",
+        "originalSeries": "The original 2001-2003 version filmed in Belize"
+      },
       "faqs": [
         {
           "question": "Where is Temptation Island filmed?",
-          "answer": "The revival of Temptation Island films in Maui, Hawaii. The show uses luxury villas for the men's and women's houses and the Andaz Maui resort for various date locations. The dramatic bonfire scenes are filmed on private beaches."
+          "answer": "The revival of Temptation Island (2019-2023) filmed in Maui, Hawaii, specifically in the Wailea resort area. The show used private luxury villas for the men's and women's houses, the Andaz Maui for dates, and private beaches for the dramatic bonfire scenes."
         },
         {
           "question": "What resort is featured on Temptation Island?",
-          "answer": "The Andaz Maui at Wailea Resort is featured prominently for dates and challenges. This five-star resort offers stunning ocean views, multiple pools, and the Morimoto Maui restaurant."
+          "answer": "The Andaz Maui at Wailea Resort is featured prominently for dates and challenges. This five-star Hyatt property offers stunning Pacific views, infinity pools, private beach access, and the Morimoto Maui restaurant. Rooms start around $600-1,200/night."
         },
         {
-          "question": "Where can I watch Temptation Island?",
-          "answer": "Temptation Island airs on USA Network. Check your local streaming services or the network's official app for availability in your region."
+          "question": "Can you stay at the Temptation Island villas?",
+          "answer": "The exact villas used on Temptation Island aren't publicly disclosed, but the Wailea area has many similar luxury villa rentals through VRBO and Airbnb. Expect $1,000-5,000/night for comparable multi-bedroom luxury villas with ocean views."
         },
         {
-          "question": "Can I visit the filming locations from Temptation Island?",
-          "answer": "Yes! Many filming locations from Temptation Island are real places you can visit. The primary location is temptation-island-maui. Check our location guides for booking information and travel tips."
+          "question": "Where are the Temptation Island bonfires filmed?",
+          "answer": "The dramatic bonfire scenes are filmed on private beaches in South Maui. While the exact locations are kept private, beaches like Big Beach (Makena) and Wailea Beach offer similar stunning sunset backdrops open to the public."
         },
         {
-          "question": "How many seasons of Temptation Island are there?",
-          "answer": "Temptation Island currently has 5 seasons. The show has concluded and started in 2019."
+          "question": "Where was the original Temptation Island filmed?",
+          "answer": "The original Temptation Island (2001-2003) was filmed in Belize. When the show was revived in 2019, production moved to Maui, Hawaii, providing a more luxurious and accessible filming location."
+        },
+        {
+          "question": "Is Temptation Island still filming?",
+          "answer": "Temptation Island's revival ran for 5 seasons (2019-2023) and has concluded. However, all seasons remain available for streaming, and fans can still visit the Maui filming locations including the Andaz resort and Wailea beaches."
         }
       ],
       "travelTips": [
-        "Stay at Andaz Maui for the full Temptation Island experience",
-        "Wailea Beach is perfect for sunset walks like on the show",
-        "Book a luau for that island romance vibe",
-        "Drive the Road to Hana for adventure dates"
+        "Stay at Andaz Maui at Wailea ($600-1,200/night) for the authentic Temptation Island date experience",
+        "Wailea Beach is perfect for sunset walks - it's public and right in front of the resort area",
+        "Book the Feast at Mokapu luau at Andaz for a romantic island dinner experience",
+        "Drive the Road to Hana for adventure date vibes - it's a full day trip",
+        "Visit Big Beach (Makena) for stunning sunsets similar to the bonfire scenes",
+        "Best weather is April-October; whale watching season is December-March"
       ],
       "meta": {
-        "title": "Temptation Island Filming Location | Maui Hawaii Guide",
-        "description": "Visit the Temptation Island filming location in Maui, Hawaii. Stay at the same resorts and visit the beaches from the show."
+        "title": "Temptation Island Filming Location | Maui Hawaii Resort & Beach Guide",
+        "description": "Where is Temptation Island filmed? Complete guide to Maui, Hawaii filming locations including Andaz Maui resort, bonfire beaches, and luxury villas in Wailea."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=z4CbYkKwXso"
     },
@@ -1052,33 +1189,78 @@
       ],
       "viewerRating": 3.8,
       "avgEpisodeLength": 45,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2021,
+          "location": "Grand Cayman, Cayman Islands",
+          "villa": "Private luxury villa",
+          "villaBookable": false,
+          "nearestAirport": "Owen Roberts International (GCM)",
+          "nearestBeach": "Seven Mile Beach"
+        },
+        {
+          "season": 2,
+          "year": 2022,
+          "location": "Cabo San Lucas, Mexico",
+          "villa": "Luxury resort villa",
+          "nearestAirport": "San Jose del Cabo (SJD)",
+          "nearestBeach": "Medano Beach",
+          "note": "Moved to Mexico for Season 2"
+        },
+        {
+          "season": 3,
+          "year": 2023,
+          "location": "New Caledonia, South Pacific",
+          "villa": "Private villa on French territory",
+          "nearestAirport": "La Tontouta (NOU)",
+          "note": "Exotic South Pacific location - French territory east of Australia"
+        }
+      ],
+      "filmingDetails": {
+        "format": "3 women date 24 men - 12 Nice Guys and 12 FBoys competing for $100,000",
+        "host": "Nikki Glaser hosts all seasons with comedic commentary",
+        "limboDock": "Eliminated contestants go to 'Limbo' at a separate location before reveals",
+        "filmingDuration": "Approximately 3-4 weeks per season",
+        "revealFormat": "Men reveal if they're Nice Guys or FBoys at elimination, with strategic gameplay"
+      },
       "faqs": [
         {
           "question": "Where is FBoy Island filmed?",
-          "answer": "FBoy Island Season 1 filmed in the Cayman Islands at a private villa. Season 2 filmed in Cabo San Lucas, Mexico at a luxury resort, and Season 3 filmed in New Caledonia, a French territory in the South Pacific."
+          "answer": "FBoy Island has filmed in three different locations: Season 1 in the Cayman Islands, Season 2 in Cabo San Lucas, Mexico, and Season 3 in New Caledonia, a French territory in the South Pacific. Each season features a private villa with pool, beach access, and tropical setting."
         },
         {
-          "question": "Can you visit the FBoy Island locations?",
-          "answer": "While the private villas aren't available, you can visit all three destinations. The Cayman Islands offer world-class diving, Cabo has incredible resorts and nightlife, and New Caledonia provides off-the-beaten-path tropical adventure."
+          "question": "Where was FBoy Island Season 1 filmed?",
+          "answer": "FBoy Island Season 1 (2021) was filmed in Grand Cayman, Cayman Islands, at a private luxury villa. The Caribbean location provided stunning beaches, crystal-clear water, and the perfect backdrop for the show's beachside eliminations and pool parties."
         },
         {
-          "question": "Where can I watch FBoy Island?",
-          "answer": "FBoy Island is available on Max (formerly HBO Max). You can also find episodes on demand through most cable providers."
+          "question": "Where was FBoy Island Season 2 filmed?",
+          "answer": "FBoy Island Season 2 (2022) was filmed in Cabo San Lucas, Mexico. The production used a luxury resort setting with views of the Pacific Ocean and easy access to Cabo's famous nightlife and beach scene."
         },
         {
-          "question": "How many seasons of FBoy Island are there?",
-          "answer": "FBoy Island currently has 3 seasons. The show is still active and started in 2021."
+          "question": "Where was FBoy Island Season 3 filmed?",
+          "answer": "FBoy Island Season 3 (2023) was filmed in New Caledonia, a French territory in the South Pacific located east of Australia. This exotic location offered a unique cultural blend of French and Melanesian influences with pristine beaches."
+        },
+        {
+          "question": "Can you visit the FBoy Island villa?",
+          "answer": "The specific villas used on FBoy Island are private production locations. However, all three destinations - Cayman Islands, Cabo San Lucas, and New Caledonia - offer similar luxury villa rentals and resort experiences open to the public."
+        },
+        {
+          "question": "How do FBoy Island filming locations differ between seasons?",
+          "answer": "Each season of FBoy Island features a completely different destination: Caribbean (Cayman Islands S1), Mexican Pacific (Cabo S2), and South Pacific (New Caledonia S3). This variety gives fans multiple tropical destinations to explore if visiting filming locations."
         }
       ],
       "travelTips": [
-        "Cabo's Medano Beach has similar vibes to the Season 2 setting",
-        "Grand Cayman's Seven Mile Beach is worth the visit",
-        "New Caledonia is a hidden gem with French-Polynesian culture",
-        "All locations offer amazing snorkeling and diving"
+        "Grand Cayman (Season 1): Seven Mile Beach offers similar luxury vibes - stay at The Ritz-Carlton or Kimpton Seafire",
+        "Cabo San Lucas (Season 2): Medano Beach has the nightlife and resort scene; stay at Montage Los Cabos or One&Only Palmilla",
+        "New Caledonia (Season 3): A hidden gem - fly to Nouméa and explore the stunning Isle of Pines and Loyalty Islands",
+        "All three locations offer world-class snorkeling and diving experiences",
+        "Cabo is the most accessible from the US with direct flights from most major cities",
+        "New Caledonia requires connections through Australia, New Zealand, or Japan - plan for a longer trip"
       ],
       "meta": {
-        "title": "FBoy Island Filming Locations | Cabo, Cayman Islands & More",
-        "description": "Discover FBoy Island filming locations across the Cayman Islands, Cabo San Lucas, and New Caledonia."
+        "title": "FBoy Island Filming Locations | Cayman Islands, Cabo & New Caledonia",
+        "description": "Where is FBoy Island filmed? Complete guide to all 3 seasons: Cayman Islands (S1), Cabo San Lucas Mexico (S2), and New Caledonia (S3). Find nearby resorts and travel tips."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=UuPU-kOXkGE"
     },
@@ -1115,37 +1297,75 @@
       ],
       "viewerRating": 4.1,
       "avgEpisodeLength": 90,
+      "seasonLocations": [
+        {"season": 1, "year": 2014, "city": "New York City, NY"},
+        {"season": 2, "year": 2015, "city": "New York City, NY"},
+        {"season": 3, "year": 2016, "city": "Atlanta, GA"},
+        {"season": 4, "year": 2016, "city": "Miami, FL"},
+        {"season": 5, "year": 2017, "city": "Chicago, IL"},
+        {"season": 6, "year": 2018, "city": "Boston, MA"},
+        {"season": 7, "year": 2018, "city": "Dallas, TX"},
+        {"season": 8, "year": 2019, "city": "Philadelphia, PA"},
+        {"season": 9, "year": 2019, "city": "Charlotte, NC", "note": "Fan-favorite season"},
+        {"season": 10, "year": 2020, "city": "Washington, DC"},
+        {"season": 11, "year": 2020, "city": "New Orleans, LA", "note": "Highly rated season"},
+        {"season": 12, "year": 2021, "city": "Atlanta, GA"},
+        {"season": 13, "year": 2021, "city": "Houston, TX"},
+        {"season": 14, "year": 2022, "city": "Boston, MA"},
+        {"season": 15, "year": 2022, "city": "San Diego, CA", "note": "Beach ceremonies"},
+        {"season": 16, "year": 2023, "city": "Nashville, TN", "note": "Music city backdrop"},
+        {"season": 17, "year": 2023, "city": "Denver, CO"},
+        {"season": 18, "year": 2024, "city": "Chicago, IL"}
+      ],
+      "filmingDetails": {
+        "format": "Strangers matched by experts are legally married when they first meet at the altar",
+        "experimentDuration": "8 weeks living together before Decision Day",
+        "apartmentSetup": "Couples live in furnished apartments in the filming city, usually in the same complex",
+        "honeymoon": "Couples travel to a destination honeymoon (often Puerto Rico, Jamaica, or Mexico) before moving in together",
+        "decisionDay": "After 8 weeks, couples decide to 'stay married' or 'get a divorce'",
+        "experts": "Matched by a panel including Pastor Cal Roberson, Dr. Pepper Schwartz, and Dr. Viviana Coles"
+      },
       "faqs": [
         {
           "question": "Where does Married at First Sight film?",
-          "answer": "MAFS films in different cities each season, including Atlanta, Boston, Chicago, Dallas, Denver, Houston, Los Angeles, Nashville, New Orleans, Philadelphia, San Diego, and Washington DC. Couples live in apartments in the filming city during the experiment."
+          "answer": "MAFS films in different US cities each season. Cities include Atlanta, Boston, Chicago, Dallas, Denver, Houston, Nashville, New Orleans, Philadelphia, San Diego, and Washington DC. The show rotates cities to feature diverse dating scenes and local cultures."
+        },
+        {
+          "question": "Where was Married at First Sight Season 16 filmed?",
+          "answer": "Married at First Sight Season 16 (2023) was filmed in Nashville, Tennessee. The Music City setting featured country music venues, honky-tonks, and southern hospitality. Couples lived in downtown Nashville apartments and explored the city's famous Broadway strip."
+        },
+        {
+          "question": "Where was Married at First Sight Season 15 filmed?",
+          "answer": "Married at First Sight Season 15 (2022) was filmed in San Diego, California. The beach city setting allowed for oceanside dates, outdoor ceremonies, and the laid-back SoCal lifestyle. Wedding ceremonies featured stunning Pacific Ocean backdrops."
         },
         {
           "question": "Where do MAFS weddings take place?",
-          "answer": "Weddings are filmed at various venues in each city, often at elegant hotels, estates, or event spaces. The exact venues are usually revealed after the season airs, and many are available for public bookings."
+          "answer": "Weddings are filmed at elegant venues in each city - hotels, estates, historic buildings, and event spaces. Many venues are available for public bookings. Past venues include The Estate at Florentine Gardens (NJ), The Bell Tower on 34th (Houston), and various Atlanta estates."
         },
         {
-          "question": "Where can I watch Married at First Sight?",
-          "answer": "Married at First Sight airs on Lifetime. Check your local streaming services or the network's official app for availability in your region."
+          "question": "Where do MAFS couples go on honeymoon?",
+          "answer": "MAFS honeymoons are filmed at all-inclusive resorts, typically in Puerto Rico, Jamaica, Mexico, or Panama. Popular resorts include El San Juan Hotel (Puerto Rico), Secrets Resorts (various locations), and beach properties in Cancún."
         },
         {
-          "question": "Can I visit the filming locations from Married at First Sight?",
-          "answer": "Yes! Many filming locations from Married at First Sight are real places you can visit. The primary location is varies-by-season. Check our location guides for booking information and travel tips."
+          "question": "Can you visit Married at First Sight filming locations?",
+          "answer": "Yes! All MAFS cities are major US destinations. Wedding venues often accept public bookings, honeymoon resorts are publicly available, and the restaurants/bars featured on dates are regular establishments. The apartment complexes are typically standard rental buildings."
         },
         {
-          "question": "How many seasons of Married at First Sight are there?",
-          "answer": "Married at First Sight currently has 18 seasons. The show is still active and started in 2014."
+          "question": "Which city has hosted Married at First Sight the most?",
+          "answer": "Atlanta and Chicago have hosted multiple seasons of MAFS. Atlanta has been featured in Seasons 3 and 12, while Chicago appeared in Seasons 5 and 18. The show seems to favor cities with diverse populations and strong dating scenes."
         }
       ],
       "travelTips": [
-        "Each city offers unique date spots featured on the show",
-        "Nashville seasons showcase the city's music scene",
-        "New Orleans episodes highlight Cajun cuisine and culture",
-        "San Diego seasons feature beautiful beach ceremonies"
+        "Nashville (S16): Walk Broadway's honky-tonks and visit the Grand Ole Opry for the full MAFS Nashville experience",
+        "San Diego (S15): Beaches like La Jolla and Coronado feature in many episodes - perfect for a romantic getaway",
+        "New Orleans (S11): French Quarter, Café du Monde, and jazz clubs provide the most unique MAFS backdrop",
+        "Boston (S6, S14): Explore Beacon Hill and the waterfront areas featured in couple dates",
+        "Atlanta (S3, S12): Buckhead restaurants and Piedmont Park appear frequently in episodes",
+        "Honeymoon resorts like Secrets and El San Juan Hotel are fully bookable - request oceanview rooms"
       ],
       "meta": {
-        "title": "Married at First Sight Filming Locations | All Cities Guide",
-        "description": "Explore MAFS filming locations across America. Wedding venues, apartments, and date spots from all 18 seasons."
+        "title": "Married at First Sight Filming Locations | Every City by Season",
+        "description": "Complete guide to all 18 MAFS filming cities. Find wedding venues, apartments, honeymoon resorts, and date spots from Atlanta to San Diego, Nashville to Boston."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=HzLNEsFFVhM"
     },

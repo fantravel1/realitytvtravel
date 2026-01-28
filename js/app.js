@@ -1224,6 +1224,21 @@ async function loadLocationDetail() {
           </div>
         ` : ''}
 
+        ${location.visitorInfo ? `
+          <div class="detail-section magazine-section">
+            <h2>✈️ Visitor Information</h2>
+            <p class="section-intro">Everything you need to know to plan your visit</p>
+            <div class="visitor-info-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: var(--space-md); margin-top: var(--space-lg);">
+              ${Object.entries(location.visitorInfo).map(([key, value]) => `
+                <div style="background: var(--color-gray-50); padding: var(--space-md); border-radius: var(--radius-md);">
+                  <div style="font-size: 0.75rem; text-transform: uppercase; color: var(--color-gray-500); margin-bottom: var(--space-xs);">${key.replace(/([A-Z])/g, ' $1').replace(/^./, str => str.toUpperCase())}</div>
+                  <div style="font-size: 0.9rem; color: var(--color-gray-800);">${value}</div>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
+
         ${location.faqs?.length > 0 ? `
           <div class="detail-section">
             <h2>❓ Frequently Asked Questions</h2>

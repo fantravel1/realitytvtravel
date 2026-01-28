@@ -209,19 +209,47 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly at playaescondida.com - mention Bachelor in Paradise for special packages",
+        "roomTypes": "Various suites including the famous Boom Boom Room",
+        "boomBoomRoom": "The only air-conditioned room on property - book specifically by name!",
+        "nearestAirport": "Puerto Vallarta International Airport (PVR) - 45 minute drive",
+        "nearestTown": "Sayulita surf town - 5 minute walk",
+        "transportation": "Shuttle service from PVR airport; walking distance to Sayulita town"
+      },
       "faqs": [
         {
           "question": "Can you stay at the Bachelor in Paradise resort?",
-          "answer": "Yes! Playa Escondida is fully bookable and actively markets itself as the BIP filming location."
+          "answer": "Yes! Playa Escondida Resort in Sayulita, Mexico is fully open to the public and actively markets itself as the BIP filming location. Book directly at playaescondida.com for rates starting at $165-495/night."
+        },
+        {
+          "question": "Can I book the Boom Boom Room?",
+          "answer": "Yes! The famous Boom Boom Room is a real room you can book at Playa Escondida. It's the only air-conditioned suite at the resort. Request it specifically when booking - it's popular with Bachelor fans so book early!"
+        },
+        {
+          "question": "Where is the Bachelor in Paradise resort?",
+          "answer": "Playa Escondida is located in Sayulita, Nayarit, Mexico - about 45 minutes north of Puerto Vallarta International Airport (PVR). Sayulita is a charming surf town known for colorful streets, great tacos, and laid-back beach vibes."
         },
         {
           "question": "What is the Boom Boom Room?",
-          "answer": "The Boom Boom Room is the only air-conditioned room at the resort, famous for private couple time on the show."
+          "answer": "The Boom Boom Room is the only air-conditioned room at Playa Escondida, famous on Bachelor in Paradise as the private suite where couples go for alone time. It's become iconic in BIP lore and yes, it has cameras for filming!"
+        },
+        {
+          "question": "Which seasons of Bachelor in Paradise filmed at Playa Escondida?",
+          "answer": "Bachelor in Paradise filmed at Playa Escondida for Seasons 2-9 (2015-2023). Season 10 moved to Costa Rica. The resort hosted 8 seasons of rose ceremonies, dramatic arrivals, and romantic proposals on their famous beach."
+        },
+        {
+          "question": "Is Playa Escondida filming Bachelor in Paradise now?",
+          "answer": "Bachelor in Paradise moved to Azura Beach Resort in Costa Rica for Season 10 (2025). However, Playa Escondida remains open to visitors and proudly celebrates its 8-season BIP history. You can still experience the beach, palapa bar, and Boom Boom Room."
+        },
+        {
+          "question": "What is Sayulita like as a destination?",
+          "answer": "Sayulita is a vibrant surf town with colorful streets, excellent restaurants, craft cocktails, surf breaks, and a laid-back Mexican beach vibe. It's become a popular tourist destination partly due to BIP fame. Don't miss the street tacos, cemetery with ocean views, and sunset drinks at Playa Escondida."
         }
       ],
       "meta": {
-        "title": "Playa Escondida - Bachelor in Paradise Resort | Sayulita Mexico",
-        "description": "Stay at the Bachelor in Paradise resort in Sayulita. Book the Boom Boom Room and experience 9 seasons of romance."
+        "title": "Playa Escondida Resort | Bachelor in Paradise Filming Location Sayulita",
+        "description": "Stay at the Bachelor in Paradise resort in Sayulita, Mexico. Book the famous Boom Boom Room at Playa Escondida from $165/night. Home of BIP Seasons 2-9."
       },
       "showMoments": [
         {
@@ -348,15 +376,44 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Contact Turks and Caicos Sotheby's International Realty or luxury villa rental agencies",
+        "minimumStay": "7 nights typically required",
+        "bestFor": "Group trips, bachelor/bachelorette parties, special occasions",
+        "included": "Full staff including butler, private chef, housekeeping, groundskeeper",
+        "nearestAirport": "Providenciales International Airport (PLS) - 15 minute drive",
+        "nearestBeach": "Grace Bay Beach - consistently rated world's best beach, 10 minutes away",
+        "transportation": "Airport transfers can be arranged; rental car recommended for exploring"
+      },
       "faqs": [
         {
           "question": "Can you rent the Too Hot to Handle villa?",
-          "answer": "Yes! Emerald Pavilion rents for $8,700-27,000 per night and accommodates 18 guests."
+          "answer": "Yes! Emerald Pavilion is available for rent through luxury villa agencies at $8,700-27,000 per night. The villa sleeps 18 guests in 9 bedrooms and includes full staff (butler, chef, housekeeping). Minimum 7-night stay typically required."
+        },
+        {
+          "question": "Where is the Too Hot to Handle villa located?",
+          "answer": "Emerald Pavilion is located in Long Bay, Providenciales, Turks and Caicos. It's about 15 minutes from Providenciales International Airport (PLS) and 10 minutes from the famous Grace Bay Beach."
+        },
+        {
+          "question": "How do I book the Too Hot to Handle villa?",
+          "answer": "Contact Turks and Caicos Sotheby's International Realty or search for 'Emerald Pavilion Turks and Caicos' on luxury villa rental sites. Booking well in advance is recommended, especially for December-April peak season."
+        },
+        {
+          "question": "What amenities does Emerald Pavilion have?",
+          "answer": "Emerald Pavilion features 9 bedrooms, infinity pool, private beach access, full staff (butler, private chef), gym, wine cellar, home theater, elevator, floating dock, and stunning ocean views - exactly as seen on Too Hot to Handle."
+        },
+        {
+          "question": "Is the Too Hot to Handle villa open to day visitors?",
+          "answer": "No, Emerald Pavilion is a private villa rental. You must book the entire property. However, you can experience similar Turks and Caicos luxury at nearby resorts like Grace Bay Club or The Shore Club."
+        },
+        {
+          "question": "Which seasons of Too Hot to Handle were filmed at Emerald Pavilion?",
+          "answer": "Emerald Pavilion was the filming location for Too Hot to Handle Seasons 4, 5, and 6. Seasons 2-3 filmed at nearby Turtle Tail Estate (now sold). Season 1 filmed at Casa Tau in Mexico."
         }
       ],
       "meta": {
-        "title": "Emerald Pavilion | Too Hot to Handle Villa Turks and Caicos",
-        "description": "Rent the Too Hot to Handle villa in Turks and Caicos. Emerald Pavilion offers luxury Caribbean living from $8,700/night."
+        "title": "Emerald Pavilion | Rent the Too Hot to Handle Villa in Turks and Caicos",
+        "description": "Book Emerald Pavilion, the Too Hot to Handle villa from Seasons 4-6. Located in Turks and Caicos, this luxury 9-bedroom villa rents for $8,700-27,000/night with full staff."
       },
       "showMoments": [
         {
@@ -366,7 +423,7 @@
           "episode": "Season premiere"
         },
         {
-          "quote": "A]rule break has occurred. $3,000 has been deducted from the prize fund.",
+          "quote": "A rule break has occurred. $3,000 has been deducted from the prize fund.",
           "context": "Lana's famous announcement echoing through the villa after forbidden physical contact",
           "show": "Too Hot to Handle",
           "episode": "Multiple episodes"
@@ -584,10 +641,38 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly at grandvelas.com or through Hotels.com, Expedia, or travel agents",
+        "roomTypes": "Zen Grand (adults-only), Ambassador (family), Grand Class (ultra-luxury)",
+        "included": "All meals at 8 restaurants, premium alcoholic beverages, 24-hour room service, fitness classes, non-motorized water sports",
+        "nearestAirport": "Cancún International Airport (CUN) - 45 minute drive",
+        "loveIsBlindArea": "Request Zen Grand section for the same pool and beach area seen on Love Is Blind",
+        "transportation": "Airport transfers available for purchase; taxi or rental car for exploring"
+      },
       "faqs": [
         {
+          "question": "Is Grand Velas the Love Is Blind resort?",
+          "answer": "Yes! Grand Velas Riviera Maya was the filming location for Love Is Blind Seasons 1 and 5. The resort's Zen Grand section (adults-only) is where couples had their first face-to-face meeting and spent their romantic retreat after the pods."
+        },
+        {
+          "question": "Can you book the Love Is Blind resort?",
+          "answer": "Absolutely! Grand Velas Riviera Maya is a publicly bookable all-inclusive resort. Rates start at $800-1,500/night per room. Book through grandvelas.com, Hotels.com, or Expedia. Request the Zen Grand section for the Love Is Blind experience."
+        },
+        {
           "question": "Is Grand Velas all-inclusive?",
-          "answer": "Yes, Grand Velas is fully all-inclusive with gourmet dining, premium drinks, and 24-hour room service."
+          "answer": "Yes, Grand Velas is fully all-inclusive luxury. Your rate includes gourmet dining at 8 restaurants, premium alcoholic beverages, 24-hour room service, fitness classes, non-motorized water sports, and access to SE Spa."
+        },
+        {
+          "question": "Which area of Grand Velas was in Love Is Blind?",
+          "answer": "Love Is Blind filmed primarily in the Zen Grand section - the adults-only area of the resort. Request a Zen Grand suite with private plunge pool to get the closest experience to what you see on the show."
+        },
+        {
+          "question": "How far is Grand Velas from Cancún airport?",
+          "answer": "Grand Velas Riviera Maya is about 45 minutes (62 km) south of Cancún International Airport (CUN). The resort offers airport transfers, or you can arrange a private shuttle or rental car."
+        },
+        {
+          "question": "What's included at Grand Velas Riviera Maya?",
+          "answer": "Everything! 8 gourmet restaurants (no reservations needed), premium open bar, 24-hour room service, daily refreshed minibar, fitness center, non-motorized water sports, daily activities, and SE Spa access. Motorized water sports and spa treatments are additional."
         }
       ],
       "meta": {
