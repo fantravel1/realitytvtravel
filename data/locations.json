@@ -71,19 +71,52 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book through Airbnb listing or contact the property directly for wedding/event inquiries",
+        "minimumStay": "1 night minimum, though most bookings are multi-night for events",
+        "bestFor": "Weddings, proposals, bachelor/bachelorette parties, corporate retreats, milestone celebrations",
+        "included": "Full estate access including pool, spa, wine cellar, event spaces; private chef and catering available for additional fee",
+        "nearestAirport": "Los Angeles International Airport (LAX) - 45 minutes; Burbank Airport (BUR) - 40 minutes",
+        "nearestBeach": "Malibu beaches (Zuma, Point Dume) - 15 miles/25 minutes",
+        "transportation": "Rental car essential; property includes parking for multiple vehicles; no public transit access"
+      },
       "faqs": [
         {
-          "question": "Where is The Bachelor Mansion located?",
-          "answer": "The Bachelor Mansion is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles."
+          "question": "Can you rent The Bachelor Mansion?",
+          "answer": "Yes! Villa de la Vina (The Bachelor Mansion) is available on Airbnb for $6,000-$30,000 per night depending on the season and day of week. The property accommodates up to 20 guests and is popular for weddings, proposals, and Bachelor-themed parties."
         },
         {
-          "question": "Can you visit The Bachelor Mansion?",
-          "answer": "Yes! You can rent the mansion on Airbnb for $6,000-$30,000 per night. It hosts weddings, proposals, and special events."
+          "question": "Where is The Bachelor Mansion located?",
+          "answer": "The Bachelor Mansion is located at 2351 Kanan Road in Agoura Hills, California, about 35 miles northwest of downtown Los Angeles in the scenic Malibu wine country region of the Santa Monica Mountains."
+        },
+        {
+          "question": "How do I get to The Bachelor Mansion from LAX?",
+          "answer": "From LAX, take the 405 North to the 101 North, then exit at Kanan Road and head south. The drive takes about 45 minutes without traffic. The property is about 8 miles from the 101 freeway in a rural, mountainous setting. A rental car is essential."
+        },
+        {
+          "question": "Which seasons of The Bachelor were filmed at the mansion?",
+          "answer": "Villa de la Vina has been the primary filming location for The Bachelor since Season 11 (2007), appearing in over 20 seasons of The Bachelor and The Bachelorette. Every iconic rose ceremony, dramatic first night, and cocktail party has been filmed here."
+        },
+        {
+          "question": "Can I have a rose ceremony at The Bachelor Mansion?",
+          "answer": "Absolutely! The property is popular for Bachelor-themed weddings and proposals. Many couples recreate the iconic rose ceremony in the same location seen on TV. The estate includes the famous grand staircase, driveway for limo arrivals, and pool area."
+        },
+        {
+          "question": "What is included when you rent The Bachelor Mansion?",
+          "answer": "Your rental includes access to the full 10-acre estate: main house with multiple bedrooms, pool and spa, wine cellar, home theater, event lawn, and the famous rose ceremony areas. Private chef, catering, and event planning services are available for additional fees."
+        },
+        {
+          "question": "How many guests can stay at The Bachelor Mansion?",
+          "answer": "The mansion accommodates up to 20 overnight guests with 6 bedrooms. For events, the property can host up to 150 guests on the grounds. Wedding ceremonies and receptions regularly take place on the estate's manicured lawns."
+        },
+        {
+          "question": "Is The Bachelor Mansion open for tours?",
+          "answer": "No public tours are available - the only way to visit is by booking the property on Airbnb. However, you can drive by the exterior on Kanan Road. The property is a private residence when not being rented or used for filming."
         }
       ],
       "meta": {
-        "title": "Bachelor Mansion | Book the Iconic Villa de la Vina",
-        "description": "Rent the Bachelor Mansion for your own rose ceremony. The iconic California estate from The Bachelor is available on Airbnb."
+        "title": "The Bachelor Mansion | Rent Villa de la Vina for Your Rose Ceremony",
+        "description": "Book The Bachelor Mansion (Villa de la Vina) in Agoura Hills, CA. The iconic estate from 20+ seasons is available on Airbnb from $6,000/night for weddings, proposals, and events."
       },
       "showMoments": [
         {
@@ -533,16 +566,73 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book through Casa Bay Villas, Journey Mexico, or luxury villa rental agencies specializing in Punta Mita",
+        "minimumStay": "4-7 nights typically required depending on season",
+        "bestFor": "Large group celebrations, bachelor/bachelorette parties, corporate retreats, milestone birthdays",
+        "included": "Full staff of 13 including butler, private chef, housekeeping, gardener, night watchman; daily breakfast and lunch included",
+        "nearestAirport": "Puerto Vallarta International Airport (PVR) - 45 minute drive",
+        "nearestBeach": "Private beach access directly from villa; Punta Mita Beach 5-minute walk",
+        "transportation": "Airport transfers can be arranged; golf cart provided for Punta Mita resort; rental car optional for exploring"
+      },
       "faqs": [
         {
-          "question": "How many guests can Casa Tau accommodate?",
-          "answer": "Casa Tau sleeps 22 guests across 11 bedrooms."
+          "question": "Can you rent the original Too Hot to Handle villa?",
+          "answer": "Yes! Casa Tau, the villa from Too Hot to Handle Season 1, is available for rent at $11,500-$15,660 per night. The villa sleeps 22 guests across 11 bedrooms and comes with a full staff of 13, making it perfect for large groups wanting the authentic THTH experience."
+        },
+        {
+          "question": "Where is Casa Tau located?",
+          "answer": "Casa Tau is located in the exclusive Punta Mita resort community in Nayarit, Mexico, about 45 minutes north of Puerto Vallarta International Airport (PVR). It sits on a private peninsula with direct beach access and Pacific Ocean views."
+        },
+        {
+          "question": "How do I book Casa Tau?",
+          "answer": "Book through Casa Bay Villas at casatauvilla.com or luxury villa rental agencies like Journey Mexico. Reservations should be made well in advance, especially for December-April peak season. Minimum stay is typically 4-7 nights."
+        },
+        {
+          "question": "What staff and amenities are included at Casa Tau?",
+          "answer": "Casa Tau includes a full staff of 13: butler, private chef, sous chef, housekeeping, laundress, gardener, and night watchman. Daily breakfast and lunch are included. The property features an infinity pool, gym, spa treatment room, yoga deck, tennis court, and private beach access."
+        },
+        {
+          "question": "Which season of Too Hot to Handle was filmed at Casa Tau?",
+          "answer": "Too Hot to Handle Season 1 (the original 2020 season) was filmed at Casa Tau in Punta Mita, Mexico. This is where Francesca, Harry, and the original cast lived under Lana's watchful eye. Later seasons moved to different locations in Turks and Caicos."
+        },
+        {
+          "question": "How many guests can stay at Casa Tau?",
+          "answer": "Casa Tau accommodates up to 22 guests in 11 luxurious bedrooms, each with ensuite bathrooms. The villa is ideal for bachelor/bachelorette parties, milestone celebrations, or groups wanting to recreate the Too Hot to Handle experience together."
+        },
+        {
+          "question": "What is there to do near Casa Tau?",
+          "answer": "Punta Mita offers world-class golf at Four Seasons and St. Regis courses, boat trips to the Marietas Islands (famous Hidden Beach), whale watching (December-March), surfing in Sayulita (20 min), and dining at Punta Mita's exclusive restaurants."
+        },
+        {
+          "question": "Is Casa Tau part of a resort?",
+          "answer": "Casa Tau is a private villa within the gated Punta Mita resort community, which also includes Four Seasons and St. Regis resorts. Guests have access to Punta Mita amenities including restaurants, beach clubs, golf courses, and water sports facilities."
         }
       ],
       "meta": {
-        "title": "Casa Tau | Too Hot to Handle Season 1 Villa Punta Mita",
-        "description": "Stay at Casa Tau, the original Too Hot to Handle villa in Punta Mita, Mexico."
+        "title": "Casa Tau | Book the Original Too Hot to Handle Villa in Punta Mita Mexico",
+        "description": "Rent Casa Tau, the Too Hot to Handle Season 1 villa in Punta Mita, Mexico. This luxury 11-bedroom villa sleeps 22 guests at $11,500-$15,660/night with full staff of 13 included."
       },
+      "showMoments": [
+        {
+          "quote": "Welcome to the retreat. I'm Lana.",
+          "context": "The moment the original Too Hot to Handle cast first met their AI host at this very villa",
+          "show": "Too Hot to Handle",
+          "episode": "Season 1, Episode 1"
+        },
+        {
+          "quote": "We've just broken the rules. Multiple times.",
+          "context": "Harry and Francesca's confession after their infamous rule breaks in this villa",
+          "show": "Too Hot to Handle",
+          "episode": "Season 1"
+        },
+        {
+          "quote": "The prize fund is now at $75,000.",
+          "context": "Lana's announcement as the original cast's rule breaks depleted the prize at Casa Tau",
+          "show": "Too Hot to Handle",
+          "episode": "Season 1 Finale"
+        }
+      ],
       "bookingUrl": "https://www.casatauvilla.com",
       "nearbyAttractions": [
         {
@@ -746,6 +836,174 @@
       ]
     },
     {
+      "id": "trs-coral-hotel",
+      "name": "TRS Coral Hotel",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "city": "Cancun",
+      "state": "Quintana Roo",
+      "country": "Mexico",
+      "region": "North America",
+      "category": "all-inclusive",
+      "tagline": "Where Love Is Blind couples discover paradise",
+      "description": "The stunning adults-only all-inclusive resort in Cancun's Hotel Zone where Love Is Blind couples have enjoyed romantic retreats and getaways, featuring luxurious swim-out suites and Caribbean beachfront.",
+      "address": "Blvd. Kukulcan Km 12.5, Zona Hotelera, 77500 Cancun, Q.R., Mexico",
+      "coordinates": {
+        "lat": 21.1213,
+        "lng": -86.7615
+      },
+      "shows": [
+        "love-is-blind"
+      ],
+      "bookable": true,
+      "bookingPlatform": "Palladium Hotel Group / Hotels.com / Expedia",
+      "priceRange": {
+        "min": 400,
+        "max": 900,
+        "currency": "USD",
+        "unit": "night"
+      },
+      "amenities": [
+        "all-inclusive",
+        "adults-only",
+        "swim-out-suites",
+        "beach-access",
+        "spa",
+        "fine-dining",
+        "fitness-center",
+        "butler-service",
+        "infinity-pool"
+      ],
+      "highlights": [
+        "Love Is Blind retreat location",
+        "Adults-only all-inclusive",
+        "Swim-out suites available",
+        "Cancun Hotel Zone beachfront"
+      ],
+      "bestTimeToVisit": "December-April for best weather; avoid September-October hurricane season",
+      "featuredSeasons": [
+        {
+          "show": "love-is-blind",
+          "seasons": [
+            3,
+            4,
+            6
+          ]
+        }
+      ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through Palladium Hotel Group, Hotels.com, Expedia, or travel agents specializing in Mexico resorts",
+        "minimumStay": "No minimum stay; 4-5 nights recommended for full experience",
+        "bestFor": "Romantic couples getaways, honeymoons, adults-only escapes, Love Is Blind fans",
+        "included": "All meals at multiple restaurants, premium alcoholic beverages, 24-hour room service, fitness center, non-motorized water sports, entertainment",
+        "nearestAirport": "Cancun International Airport (CUN) - 20-25 minute drive to Hotel Zone",
+        "nearestBeach": "Direct beachfront access to Caribbean Sea; one of Cancun's best stretches of white sand",
+        "transportation": "Airport shuttles available through hotel; taxis and buses run frequently along Hotel Zone; rental car optional"
+      },
+      "faqs": [
+        {
+          "question": "Is TRS Coral Hotel the Love Is Blind resort?",
+          "answer": "Yes! TRS Coral Hotel in Cancun has been a filming location for Love Is Blind, hosting couples during their romantic retreat after the pods. The resort's luxurious adults-only atmosphere and stunning beachfront made it perfect for the show's romantic getaway episodes."
+        },
+        {
+          "question": "Can you book the Love Is Blind Cancun resort?",
+          "answer": "Absolutely! TRS Coral Hotel is a publicly bookable adults-only all-inclusive resort. Rates typically range from $400-900 per night depending on room type and season. Book through the Palladium Hotel Group website, Hotels.com, or Expedia."
+        },
+        {
+          "question": "Is TRS Coral Hotel all-inclusive?",
+          "answer": "Yes! TRS Coral Hotel is a fully all-inclusive resort. Your rate includes gourmet dining at multiple restaurants, premium alcoholic beverages, 24-hour room service, mini-bar, fitness center, non-motorized water sports, and evening entertainment."
+        },
+        {
+          "question": "What are swim-out suites at TRS Coral Hotel?",
+          "answer": "Swim-out suites feature direct pool access from your private terrace, allowing you to slip from your room into the water. These romantic suites are similar to what Love Is Blind couples enjoyed and are perfect for a secluded, intimate getaway."
+        },
+        {
+          "question": "How far is TRS Coral Hotel from Cancun airport?",
+          "answer": "TRS Coral Hotel is located in Cancun's Hotel Zone, about 20-25 minutes (18 km) from Cancun International Airport (CUN). The hotel can arrange airport transfers, or you can take a taxi or shuttle service."
+        },
+        {
+          "question": "Is TRS Coral Hotel adults-only?",
+          "answer": "Yes, TRS Coral Hotel is exclusively adults-only (18+), making it ideal for couples and romantic getaways. This policy ensures a peaceful, sophisticated atmosphere similar to what viewers see on Love Is Blind retreats."
+        },
+        {
+          "question": "What is included at TRS Coral Hotel?",
+          "answer": "Everything! Multiple gourmet restaurants, premium open bar, 24-hour room service, daily refreshed mini-bar, fitness center, beach access with chairs and umbrellas, pools, non-motorized water sports, and nightly entertainment. Butler service available in premium suites."
+        },
+        {
+          "question": "Which seasons of Love Is Blind featured TRS Coral Hotel?",
+          "answer": "TRS Coral Hotel has been featured as a retreat location in Love Is Blind Seasons 3, 4, and 6. The show uses various Mexico resorts for couples' retreats, and TRS Coral's romantic atmosphere makes it a fan-favorite filming location."
+        }
+      ],
+      "meta": {
+        "title": "TRS Coral Hotel Cancun | Love Is Blind Resort Mexico",
+        "description": "Stay at TRS Coral Hotel, a Love Is Blind resort in Cancun. Adults-only all-inclusive with swim-out suites from $400/night. Experience the same romantic retreat as your favorite couples."
+      },
+      "showMoments": [
+        {
+          "quote": "This is the most beautiful place I've ever seen.",
+          "context": "Couples' reactions upon arriving at this stunning Cancun resort for their romantic retreat",
+          "show": "Love Is Blind",
+          "episode": "Resort retreat episodes"
+        },
+        {
+          "quote": "I can't believe we're actually here together.",
+          "context": "The emotional moments when engaged couples experience their first vacation together at this resort",
+          "show": "Love Is Blind",
+          "episode": "Couples retreat"
+        },
+        {
+          "quote": "I'm falling more in love with you every day.",
+          "context": "Romantic declarations made during sunset dinners and pool days at TRS Coral",
+          "show": "Love Is Blind",
+          "episode": "Multiple episodes"
+        }
+      ],
+      "bookingUrl": "https://www.palladiumhotelgroup.com/en/hotels/mexico/cancun/trs-coral-hotel",
+      "nearbyAttractions": [
+        {
+          "name": "Cancun Hotel Zone Beaches",
+          "type": "beach",
+          "distance": "on-site"
+        },
+        {
+          "name": "La Isla Shopping Village",
+          "type": "shopping",
+          "distance": "10 min drive"
+        },
+        {
+          "name": "Chichen Itza",
+          "type": "historical",
+          "distance": "2.5 hour drive"
+        },
+        {
+          "name": "Isla Mujeres",
+          "type": "island",
+          "distance": "30 min ferry"
+        },
+        {
+          "name": "Xcaret Park",
+          "type": "theme park",
+          "distance": "1 hour drive"
+        }
+      ],
+      "videos": [
+        {
+          "title": "TRS Coral Hotel Tour",
+          "type": "hotel",
+          "url": "https://www.youtube.com/watch?v=RbcXvJiMbIo"
+        },
+        {
+          "title": "Cancun Hotel Zone Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=UqMdX8sYJSA"
+        },
+        {
+          "title": "Cancun Travel Guide",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=Z-iJ8pA3wZE"
+        }
+      ]
+    },
+    {
       "id": "andaz-maui",
       "name": "Andaz Maui at Wailea Resort",
       "image": "https://images.unsplash.com/photo-1542259009477-d625272157b7?w=800&h=600&fit=crop",
@@ -801,15 +1059,52 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through Hyatt.com for best rates or use Hotels.com, Expedia, or travel agents; World of Hyatt members earn points",
+        "minimumStay": "No minimum stay required; 3-5 nights recommended to fully experience the resort and island",
+        "bestFor": "Romantic getaways, honeymoons, couples testing their relationships, milestone anniversaries",
+        "included": "Resort fee covers fitness center, beach chairs/umbrellas, cultural activities, lei greeting; rooms include mini-fridge and Keurig",
+        "nearestAirport": "Kahului Airport (OGG) - 25 minute drive to Wailea",
+        "nearestBeach": "Mokapu Beach and Wailea Beach - direct resort access with complimentary beach chairs and umbrellas",
+        "transportation": "Rental car recommended for exploring Maui; resort offers valet parking; hotel can arrange airport shuttles"
+      },
       "faqs": [
         {
+          "question": "Is Andaz Maui the Temptation Island resort?",
+          "answer": "Yes! Andaz Maui at Wailea Resort was the primary filming location for Temptation Island Seasons 1-5. The stunning beachfront property with its cascading infinity pools and lush grounds provided the backdrop for the show's romantic dates and dramatic bonfires."
+        },
+        {
+          "question": "Can you stay at the Temptation Island resort in Maui?",
+          "answer": "Absolutely! Andaz Maui at Wailea is a publicly bookable Hyatt resort. Rooms range from $600-$2,000+ per night depending on room type and season. Book through Hyatt.com, Hotels.com, or Expedia. World of Hyatt members can use points."
+        },
+        {
           "question": "Is Andaz Maui on the beach?",
-          "answer": "Yes, Andaz Maui offers direct access to Mokapu Beach and Wailea Beach."
+          "answer": "Yes! Andaz Maui sits directly on Mokapu Beach with easy walking access to the famous Wailea Beach. The resort provides complimentary beach chairs, umbrellas, and towels. The beachfront is where many Temptation Island romantic scenes were filmed."
+        },
+        {
+          "question": "How do I get to Andaz Maui from the airport?",
+          "answer": "Andaz Maui is about 25 minutes (17 miles) from Kahului Airport (OGG). Rental cars are recommended for exploring Maui. The resort offers valet parking, or you can arrange airport shuttle transfers through the hotel concierge."
+        },
+        {
+          "question": "What amenities does Andaz Maui have?",
+          "answer": "Andaz Maui features 5 cascading infinity pools, direct beach access, Morimoto Maui restaurant (by Iron Chef Masaharu Morimoto), Awili Spa, fitness center, cultural activities, and water sports rentals. The resort fee covers most amenities."
+        },
+        {
+          "question": "Which Temptation Island dates were filmed at Andaz Maui?",
+          "answer": "Many romantic dates from Temptation Island were filmed at Andaz Maui, including poolside hangouts, beach picnics, spa dates, and dinner scenes at the resort restaurants. The iconic bonfire area was also on the property grounds."
+        },
+        {
+          "question": "When is the best time to visit Andaz Maui?",
+          "answer": "April-May and September-November offer the best weather and lower rates. December-March is peak season with higher prices. Maui has great weather year-round, but whale watching season runs December-April if you want to spot humpbacks."
+        },
+        {
+          "question": "Is Andaz Maui good for couples?",
+          "answer": "Andaz Maui is ideal for couples! The resort offers romantic experiences like couples spa treatments, private cabana rentals, sunset dinners at Morimoto Maui, and the same beautiful settings where Temptation Island singles dated."
         }
       ],
       "meta": {
-        "title": "Andaz Maui Wailea | Temptation Island Resort Hawaii",
-        "description": "Stay at the Temptation Island resort in Maui. Andaz Maui at Wailea offers luxury Hawaiian hospitality."
+        "title": "Andaz Maui at Wailea | Stay at the Temptation Island Resort in Hawaii",
+        "description": "Book Andaz Maui at Wailea, the Temptation Island resort from Seasons 1-5. Luxury Hyatt beachfront property with 5 pools, Morimoto restaurant, from $600/night."
       },
       "showMoments": [
         {
@@ -874,6 +1169,172 @@
           "title": "South Maui Guide",
           "type": "tourism",
           "url": "https://www.youtube.com/watch?v=OWY_V_j6bxE"
+        }
+      ]
+    },
+    {
+      "id": "love-island-fiji-villa",
+      "name": "Love Island USA Villa Fiji",
+      "image": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=800&h=600&fit=crop",
+      "city": "Mamanuca Islands",
+      "state": "Western Division",
+      "country": "Fiji",
+      "region": "Oceania",
+      "category": "luxury-villa",
+      "tagline": "The villa where islanders couple up",
+      "description": "The iconic Love Island USA villa in Fiji where American islanders live, couple up, and compete for love. This custom-built production villa offers the same stunning Pacific views and romantic atmosphere seen on CBS and Peacock.",
+      "address": "Mamanuca Islands, Fiji",
+      "coordinates": {
+        "lat": -17.67,
+        "lng": 177.05
+      },
+      "shows": [
+        "love-island-usa"
+      ],
+      "bookable": false,
+      "bookingPlatform": "Not available - Production villa",
+      "priceRange": {
+        "min": 0,
+        "max": 0,
+        "currency": "USD",
+        "unit": "night"
+      },
+      "amenities": [
+        "infinity-pool",
+        "fire-pit",
+        "outdoor-showers",
+        "hideaway-room",
+        "beach-access",
+        "day-beds",
+        "gym",
+        "dressing-room"
+      ],
+      "highlights": [
+        "Love Island USA filming location",
+        "Famous infinity pool",
+        "The Hideaway suite",
+        "Fire pit recoupling ceremonies"
+      ],
+      "bestTimeToVisit": "May-October for Fiji's dry season; show typically films April-June",
+      "featuredSeasons": [
+        {
+          "show": "love-island-usa",
+          "seasons": [
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "visitorInfo": {
+        "bookingMethod": "The Love Island USA villa is a custom production set and is NOT available for public booking. For a similar Fiji experience, stay at nearby resorts like Sheraton Tokoriki, Tokoriki Island Resort, or Likuliku Lagoon Resort",
+        "alternativeStays": "Sheraton Resort & Spa Tokoriki Island ($500-1500/night), Tokoriki Island Resort ($800-2000/night), Likuliku Lagoon Resort ($1200-3000/night)",
+        "bestFor": "Love Island fans should book nearby Mamanuca Islands resorts to experience the same Fijian waters and tropical atmosphere",
+        "nearestAirport": "Nadi International Airport (NAN) - requires helicopter or boat transfer to Mamanuca Islands",
+        "nearestBeach": "The villa sits on a private beach; public beaches throughout Mamanuca Islands offer similar crystal-clear waters",
+        "transportation": "From Nadi airport: helicopter (15 min) or boat transfer (1-2 hours) to Mamanuca Islands resorts"
+      },
+      "faqs": [
+        {
+          "question": "Can you stay at the Love Island USA villa in Fiji?",
+          "answer": "No, the Love Island USA villa is a custom-built production facility specifically for filming the show. It is not available for public rental. However, you can stay at nearby Fiji resorts like Sheraton Tokoriki, Tokoriki Island Resort, or Likuliku Lagoon to experience the same beautiful Mamanuca Islands."
+        },
+        {
+          "question": "Where is the Love Island USA villa located?",
+          "answer": "The Love Island USA villa is located in the Mamanuca Islands of Fiji, a stunning archipelago of about 20 islands west of Nadi. The exact island location is kept private for production security, but it's in the same region as popular tourist resorts."
+        },
+        {
+          "question": "Which seasons of Love Island USA filmed in Fiji?",
+          "answer": "Love Island USA moved to Fiji starting with Season 5 (2023), continuing with Seasons 6 and 7. Earlier seasons filmed in Las Vegas (Season 4) and previously in other locations. The Fiji villa has become iconic for the show's signature tropical aesthetic."
+        },
+        {
+          "question": "How do I get to Fiji to visit Love Island filming areas?",
+          "answer": "Fly into Nadi International Airport (NAN) in Fiji. From there, the Mamanuca Islands are accessible by helicopter (15 minutes) or boat transfers (1-2 hours). Most resorts arrange transfers as part of your booking."
+        },
+        {
+          "question": "What is the closest hotel to the Love Island villa?",
+          "answer": "Several luxury resorts in the Mamanuca Islands offer similar experiences: Sheraton Resort & Spa Tokoriki Island (adults-only), Tokoriki Island Resort, Likuliku Lagoon Resort (overwater bures), and Matamanoa Island Resort. All feature the same crystal-clear Fijian waters seen on the show."
+        },
+        {
+          "question": "What does the Love Island USA villa look like?",
+          "answer": "The villa features the iconic infinity pool where islanders gather, fire pit area for recoupling ceremonies, The Hideaway suite for private dates, outdoor daybeds, gym, communal bedroom with colorful beds, and stunning Pacific Ocean views. The villa was custom-designed for maximum drama and visual appeal."
+        },
+        {
+          "question": "When does Love Island USA film in Fiji?",
+          "answer": "Love Island USA typically films in Fiji during the Southern Hemisphere's dry season, usually April-June. This timing provides the best weather with warm temperatures (75-85F), minimal rain, and ideal conditions for outdoor filming at the villa."
+        },
+        {
+          "question": "Can you visit Fiji during Love Island filming?",
+          "answer": "Yes, you can visit Fiji during the filming period, but the production villa and beach are off-limits to the public. The show films on a private location with security. However, you can enjoy the same beautiful Mamanuca Islands at nearby resorts."
+        }
+      ],
+      "meta": {
+        "title": "Love Island USA Villa Fiji | Can You Stay at the Love Island House?",
+        "description": "The Love Island USA villa in Fiji is where islanders couple up on CBS/Peacock. While not bookable, discover nearby Mamanuca Islands resorts offering the same tropical paradise experience."
+      },
+      "showMoments": [
+        {
+          "quote": "I got a text!",
+          "context": "The iconic announcement when islanders receive messages at this villa that change everything",
+          "show": "Love Island USA",
+          "episode": "Every episode"
+        },
+        {
+          "quote": "Tonight there will be a recoupling.",
+          "context": "The dramatic announcement that sends islanders scrambling at the fire pit",
+          "show": "Love Island USA",
+          "episode": "Recoupling episodes"
+        },
+        {
+          "quote": "Welcome to the villa, bombshell!",
+          "context": "The moment new arrivals shake up the existing couples at this Fiji paradise",
+          "show": "Love Island USA",
+          "episode": "Bombshell arrivals"
+        }
+      ],
+      "bookingUrl": "https://www.fiji.travel/mamanuca-islands",
+      "nearbyAttractions": [
+        {
+          "name": "Cloud 9 Floating Bar",
+          "type": "bar",
+          "distance": "30 min boat"
+        },
+        {
+          "name": "Modriki Island (Cast Away filming)",
+          "type": "landmark",
+          "distance": "45 min boat"
+        },
+        {
+          "name": "Mamanuca Islands",
+          "type": "beach",
+          "distance": "surrounding area"
+        },
+        {
+          "name": "Nadi Town",
+          "type": "town",
+          "distance": "1-2 hour boat"
+        },
+        {
+          "name": "Garden of the Sleeping Giant",
+          "type": "nature",
+          "distance": "near Nadi"
+        }
+      ],
+      "videos": [
+        {
+          "title": "Tourism Fiji Official",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=VyFkwLIi0AU"
+        },
+        {
+          "title": "Mamanuca Islands Guide",
+          "type": "experience",
+          "url": "https://www.youtube.com/watch?v=oQTWPkMv9Ts"
+        },
+        {
+          "title": "Fiji Travel Experience",
+          "type": "tourism",
+          "url": "https://www.youtube.com/watch?v=9xwazD5VYoo"
         }
       ]
     },
@@ -1126,15 +1587,49 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through Auberge Resorts Collection website or luxury travel agents. Peak season (June-September) books months in advance - reserve early for best rooms.",
+        "minimumStay": "No minimum, but 3-4 nights recommended to fully experience the property and island",
+        "bestFor": "Honeymoons, proposals, anniversary trips, romantic getaways, Bachelor fantasy suite recreation",
+        "bestTimeToVisit": "May-June and September-October offer ideal weather with fewer crowds; July-August is peak season with highest prices",
+        "nearestAirport": "Santorini International Airport (JTR) - 20 minutes to hotel; or ferry from Athens (5-8 hours) for scenic arrival",
+        "transportation": "Hotel provides airport/port transfers; rental car or ATV useful for exploring but not essential for Oia stays",
+        "visaRequirements": "EU citizens need valid ID; UK/US/Canada/Australia citizens can stay 90 days within 180-day period visa-free in Schengen Area",
+        "included": "Breakfast included in most rates; some packages include dinner, wine tasting, and sunset sailing experiences"
+      },
       "faqs": [
         {
-          "question": "Is this the hotel from The Bachelor?",
-          "answer": "Grace Santorini and similar luxury caldera hotels have hosted Bachelor fantasy suite dates."
+          "question": "Is Grace Santorini the hotel from The Bachelor?",
+          "answer": "Yes, Grace Santorini (now part of Auberge Resorts) has been featured in Bachelor fantasy suite episodes, including notable seasons. The hotel's iconic infinity pool overlooking the caldera and its elegant white-washed suites have provided the backdrop for many romantic moments on the show."
+        },
+        {
+          "question": "How much does Grace Santorini cost per night?",
+          "answer": "Rates at Grace Santorini range from approximately $800 to $3,000+ per night depending on room category and season. The signature suites with private plunge pools and caldera views command premium rates. Peak season (July-August) is most expensive."
+        },
+        {
+          "question": "What makes Grace Santorini special for couples?",
+          "answer": "Grace Santorini offers world-famous sunset views over the caldera, an infinity pool that seems to merge with the Aegean Sea, champagne lounge experiences, private plunge pools in premium suites, and Michelin-quality dining. The hotel is designed exclusively for romance and adult guests."
+        },
+        {
+          "question": "Can you see the famous Santorini sunset from Grace hotel?",
+          "answer": "Absolutely. Grace Santorini is positioned in Imerovigli, often called the 'balcony of Santorini,' with unobstructed west-facing views. The hotel's infinity pool and champagne bar are ideal sunset viewing spots - exactly as seen in Bachelor fantasy suite episodes."
+        },
+        {
+          "question": "Is Santorini only for couples?",
+          "answer": "While Santorini (and Grace specifically) is famous for romance, the island offers much more: ancient Akrotiri ruins, excellent wineries, volcanic beaches (Red Beach, Perissa), hiking from Fira to Oia, and world-class gastronomy. Solo travelers and friends groups also enjoy the island."
+        },
+        {
+          "question": "What other Bachelor-famous locations are on Santorini?",
+          "answer": "Beyond Grace hotel, The Bachelor has filmed at various Santorini locations including the blue-domed churches of Oia, sunset dinners overlooking the caldera, wine tasting at Santo Wines, sailing excursions in the caldera, and romantic dinners at Amoudi Bay fish tavernas."
+        },
+        {
+          "question": "When should I book Grace Santorini?",
+          "answer": "Book 3-6 months in advance for peak season (June-September), especially for premium suites with private pools. Shoulder season (May, October) may have availability closer to travel dates. Use Auberge Resorts' direct booking for best rates and perks."
         }
       ],
       "meta": {
-        "title": "Grace Santorini | Bachelor Fantasy Suite Hotel",
-        "description": "Stay at the romantic Santorini hotel featured in The Bachelor."
+        "title": "Grace Hotel Santorini | Bachelor Fantasy Suite Destination in Greece",
+        "description": "Book Grace Santorini, the romantic Bachelor fantasy suite hotel in Greece. Caldera views, infinity pool, sunset dining, and the most romantic setting in the Aegean from $800/night."
       },
       "showMoments": [
         {
@@ -2791,15 +3286,45 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book villas through Airbnb, VRBO, or Mallorca-specialist villa rental agencies. The actual Love Island villa is not publicly rentable, but similar luxury villas in the area are available.",
+        "minimumStay": "7 nights during peak summer season, shorter stays possible in off-peak",
+        "bestFor": "Couples seeking the Love Island experience, group villa holidays, hen/stag parties",
+        "bestTimeToVisit": "June-September for Love Island vibes and best weather; May and October offer lower prices and fewer crowds",
+        "nearestAirport": "Palma de Mallorca Airport (PMI) - approximately 1 hour drive to Sant Llorenc des Cardassar area",
+        "transportation": "Rental car strongly recommended for exploring the island; taxis available but expensive",
+        "visaRequirements": "EU citizens need valid ID; UK/US/Canada/Australia citizens can stay 90 days within 180-day period visa-free in Schengen Area",
+        "languageTips": "Spanish and Catalan are official languages; English widely spoken in tourist areas"
+      },
       "faqs": [
         {
           "question": "Can you visit the actual Love Island villa?",
-          "answer": "The villa is private during filming, but you can rent similar luxury villas in the area and visit the nearby beaches and towns."
+          "answer": "The Love Island villa itself is private property and not open to visitors. During filming (June-August), the area has security. However, you can rent similar luxury villas in the Sant Llorenc des Cardassar area with pools, outdoor spaces, and that authentic Mallorcan villa feel."
+        },
+        {
+          "question": "Where exactly is the Love Island villa in Mallorca?",
+          "answer": "The Love Island UK villa is located in Sant Llorenc des Cardassar, a municipality on the eastern coast of Mallorca. The villa is rebuilt and modified each year, but the general filming area remains in this scenic rural region about an hour from Palma airport."
+        },
+        {
+          "question": "What beaches are near the Love Island filming location?",
+          "answer": "The closest beaches to the Love Island villa area include Cala Millor (10 min drive) - a long sandy beach with excellent facilities, Sa Coma, Cala Bona, and the more secluded Cala Varques. These are the beaches contestants visit during challenges and dates."
+        },
+        {
+          "question": "When is the best time to visit Mallorca for a Love Island experience?",
+          "answer": "Visit June-September for authentic Love Island summer vibes - warm weather, pool parties, and vibrant nightlife. However, the villa area is quieter than party destinations like Magaluf. May and October offer great weather with fewer crowds and lower prices."
+        },
+        {
+          "question": "How much does it cost to rent a villa like the Love Island villa?",
+          "answer": "Luxury villas in the Love Island area with pools, multiple bedrooms, and grounds typically cost EUR 200-1,500 per night depending on size and amenities. A comparable 6-bedroom villa with pool runs approximately EUR 500-800/night in peak season."
+        },
+        {
+          "question": "What else is there to do near the Love Island villa location?",
+          "answer": "Beyond beaches, explore Porto Cristo Caves (Cuevas del Drach), visit the medieval town of Arta, wine taste in Petra, hike in Llevant Natural Park, or take a boat trip along the coast. Palma de Mallorca offers world-class dining, nightlife, and the stunning La Seu Cathedral."
         }
       ],
       "meta": {
-        "title": "Love Island UK Villa Area | Mallorca Spain",
-        "description": "Visit Mallorca where Love Island UK films each summer."
+        "title": "Love Island Villa Mallorca | Visit the UK Love Island Filming Location",
+        "description": "Plan your trip to Mallorca where Love Island UK films. Find similar villas to rent, nearby beaches like Cala Millor, and tips for your own summer of love in Spain."
       },
       "showMoments": [
         {
@@ -11889,27 +12414,53 @@
         "Old Phuket Town is worth a half-day exploration",
         "Similan Islands (November-May only) offer world-class diving"
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book resorts directly or through booking.com, Agoda (popular in Thailand), or Marriott/Hilton for chain properties. Walk-in rates often available except peak season.",
+        "minimumStay": "No minimums typically required; 5-7 nights ideal to explore island and take day trips",
+        "bestFor": "Couples seeking luxury at value prices, adventure travelers, Bachelor-style romantic dates, island hopping, cultural experiences",
+        "bestTimeToVisit": "November-April for dry season and calm seas; peak season December-January. May-October is monsoon but offers lower prices and fewer crowds.",
+        "nearestAirport": "Phuket International Airport (HKT) - direct flights from major Asian hubs and some European cities. 30-60 min drive to most beaches.",
+        "transportation": "Taxis, Grab (Thai Uber), and tuk-tuks available. Rental cars and motorbikes common but traffic can be challenging. Resorts often provide free shuttles.",
+        "visaRequirements": "Visa-free for most nationalities: 30 days for US/UK/EU/Australia on arrival, 45 days for some periods. Thailand Pass may be required - check current requirements.",
+        "currency": "Thai Baht (THB). Credit cards accepted at hotels/resorts; cash preferred at markets and small restaurants. ATMs widely available."
+      },
       "faqs": [
         {
           "question": "Which Phuket beach is best for couples?",
-          "answer": "Surin and Kamala for upscale tranquility. Kata for mix of activity and beauty. Nai Harn for local atmosphere. Avoid Patong unless you want nightlife chaos."
+          "answer": "Surin and Kamala for upscale tranquility and luxury resorts. Kata for a mix of activity and beauty. Nai Harn for local atmosphere and sunset views. Cape Panwa for peaceful seclusion. Avoid Patong unless you specifically want nightlife and party atmosphere."
         },
         {
           "question": "Is Phuket touristy?",
-          "answer": "Parts of Phuket are heavily touristed, especially Patong. But the island is large, and quieter areas like Nai Harn, Cape Panwa, and the east coast offer serenity."
+          "answer": "Parts of Phuket are heavily touristed, especially Patong with its Bangla Road nightlife. However, the island is large, and quieter areas like Nai Harn, Cape Panwa, the east coast, and northern beaches offer serenity. Luxury resorts provide private, peaceful experiences regardless of location."
         },
         {
-          "question": "What about the Phi Phi Islands?",
-          "answer": "Day trips are crowded but the scenery is worth it. Consider overnight stays for sunset/sunrise experiences without day-tripper crowds."
+          "question": "Should I visit the Phi Phi Islands from Phuket?",
+          "answer": "Yes, but plan carefully. Day trips are crowded but Maya Bay (from The Beach) is spectacular. Consider overnight stays on Phi Phi Don for sunset/sunrise experiences without crowds. Book early morning speedboats to beat the masses. Alternatively, visit Similan Islands for fewer tourists and better diving."
         },
         {
-          "question": "Is Thailand safe?",
-          "answer": "Thailand is very safe for tourists. Main concerns are road safety (don't rent motorbikes without experience), petty theft, and sun exposure. Thai people are famously welcoming."
+          "question": "Is Thailand safe for tourists?",
+          "answer": "Thailand is very safe for tourists - millions visit annually without incident. Main concerns are road safety (don't rent motorbikes without experience), petty theft in crowded areas, and sun exposure. Thai people are famously welcoming. Hospitals in Phuket offer excellent medical care."
+        },
+        {
+          "question": "What romantic activities are there in Phuket?",
+          "answer": "Phang Nga Bay (James Bond Island) kayaking through limestone karsts, sunset yacht cruises, couples Thai massage and spa treatments, beachfront candlelit dinners, ethical elephant sanctuary visits, Thai cooking classes together, and island hopping. These are the types of dates featured on The Bachelor in Thailand."
+        },
+        {
+          "question": "When is the best time to visit Phuket?",
+          "answer": "November-April offers dry season with calm seas perfect for island hopping and diving. Peak season is December-January with highest prices. May-October is monsoon season with afternoon rain showers, but mornings are often clear, prices are lower, and crowds thinner. Similan Islands close May-October."
+        },
+        {
+          "question": "How much does a luxury trip to Phuket cost?",
+          "answer": "Phuket offers exceptional value: 5-star resorts run $100-500/night (vs. $500-2000+ in Caribbean/Maldives). Private pool villas from $150-400/night. Fine dining $30-60/person. Thai massage $15-30/hour. This value makes Phuket popular for Bachelor-style productions seeking exotic luxury on budget."
+        },
+        {
+          "question": "Has The Bachelor filmed in Phuket?",
+          "answer": "Yes, Thailand and Phuket have been featured in multiple Bachelor franchise seasons. The dramatic limestone cliffs of Phang Nga Bay, luxury resorts, elephant sanctuaries, and Thai temples have provided stunning backdrops for romantic dates and dramatic rose ceremonies. Too Hot to Handle has also filmed in the region."
         }
       ],
       "meta": {
-        "title": "Phuket Thailand | Bachelor & Dating Show Destination",
-        "description": "Visit Phuket from The Bachelor. Thai islands, temples, and luxury at incredible value."
+        "title": "Phuket Thailand | Bachelor & Dating Show Filming Destination Guide",
+        "description": "Visit Phuket from The Bachelor and Too Hot to Handle. Luxury Thai resorts, Phang Nga Bay, Phi Phi Islands, and romantic experiences at incredible value from $100/night."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Phuket%20Patong",
       "videos": [
@@ -13504,27 +14055,53 @@
         "Visit during shoulder season (May, October-November) for better rates",
         "One resort per trip\u2014island hopping breaks the relaxation"
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through resort websites (Four Seasons, Conrad, One&Only, Soneva, etc.) or luxury travel agents. Many resorts require 50% deposit with balance due 30 days before arrival.",
+        "minimumStay": "Most resorts prefer 4-7 night minimum stays, especially during peak season (December-March)",
+        "bestFor": "Honeymoons, anniversaries, proposals, romantic escapes, The Bachelor-style fantasy suite experiences",
+        "bestTimeToVisit": "November-April for dry season; December-March is peak (and priciest). May and October-November offer good weather at lower prices.",
+        "nearestAirport": "Velana International Airport (MLE) in Male - all international flights arrive here",
+        "transportation": "Speedboat transfer (20-90 mins) for nearby resorts or seaplane transfer (30-60 mins) for farther atolls. Seaplanes only operate in daylight - late arrivals require overnight in Male.",
+        "visaRequirements": "Free 30-day visa on arrival for most nationalities including UK/US/EU/Australia/Canada. No advance visa required.",
+        "included": "Most resorts offer all-inclusive or half-board packages. Full-board recommended as resort dining is the only option on private islands."
+      },
       "faqs": [
         {
           "question": "Are the Maldives really worth the price?",
-          "answer": "For a once-in-a-lifetime romantic experience, yes. No destination replicates the overwater villa, private island combination. It's expensive but incomparable."
+          "answer": "For a once-in-a-lifetime romantic experience, yes. No destination replicates the overwater villa, private island combination. It's expensive but incomparable. The complete privacy, aquatic immersion, and world-class service justify the premium for milestone celebrations."
         },
         {
-          "question": "Which resort is best?",
-          "answer": "Depends on priorities: Soneva for eco-luxury and barefoot sophistication, One&Only for modern glamour, Conrad for underwater dining, Gili Lankanfushi for Robinson Crusoe vibes."
+          "question": "Which Maldives resort is best for couples?",
+          "answer": "Depends on priorities: Soneva Fushi for eco-luxury and barefoot sophistication, One&Only Reethi Rah for modern glamour and sunset views, Conrad Maldives for underwater dining at Ithaa, Gili Lankanfushi for Robinson Crusoe romance, and Four Seasons for consistent excellence."
         },
         {
-          "question": "How do you get there?",
-          "answer": "International flights to Mal\u00e9 airport, then speedboat (closer resorts) or seaplane (farther resorts) to your property. Seaplane transfers only operate during daylight."
+          "question": "How do you get to the Maldives?",
+          "answer": "International flights arrive at Velana International Airport (MLE) in Male. From there, take a speedboat (20-90 minutes) to nearby resorts or seaplane (30-60 minutes) to remote atolls. Seaplanes only operate during daylight hours, so late arrivals require an overnight stay in Male."
         },
         {
-          "question": "Is there anything to do besides the resort?",
-          "answer": "Honestly, most couples never want to leave their resort. Diving, snorkeling, spa, and overwater relaxation provide plenty. Island hopping and local island visits are possible."
+          "question": "Is there anything to do in the Maldives besides the resort?",
+          "answer": "Honestly, most couples never want to leave their resort. Diving with manta rays and whale sharks, snorkeling house reefs, spa treatments over water, private sandbank picnics, sunset dolphin cruises, and romantic dinners provide endless activities. Local island visits are possible for cultural experiences."
+        },
+        {
+          "question": "When is the best time to visit the Maldives?",
+          "answer": "November-April offers dry season with calm seas and excellent visibility. December-March is peak season with highest prices. May and October-November are shoulder seasons with lower prices and still-good weather. June-September sees monsoon rains but offers exceptional diving with manta rays."
+        },
+        {
+          "question": "What do overwater villas in the Maldives include?",
+          "answer": "Most overwater villas feature glass floor panels to view marine life, private decks with direct lagoon access, outdoor showers, private plunge pools (premium villas), butler service, and sunrise/sunset orientations. Premium resorts offer over-water spa treatments and in-villa dining."
+        },
+        {
+          "question": "Do you need to tip in the Maldives?",
+          "answer": "Most resorts add 10% service charge to bills, but additional tipping for exceptional service is appreciated. Many guests bring small gifts for staff. Check your resort's policy as some have no-tipping policies included in all-inclusive rates."
+        },
+        {
+          "question": "Which Maldives resorts have been on The Bachelor?",
+          "answer": "Bachelor franchise shows have featured several Maldives resorts for fantasy suite dates, including Conrad Maldives Rangali Island (famous for underwater restaurant), various Four Seasons properties, and One&Only Reethi Rah. The islands provide the ultimate romantic backdrop for dramatic proposals and declarations."
         }
       ],
       "meta": {
-        "title": "Maldives Overwater Villas | Ultimate Bachelor Fantasy Suite",
-        "description": "Visit the Maldives from The Bachelor. Overwater villas, private islands, and unmatched luxury await."
+        "title": "Maldives Overwater Villas | Book The Bachelor Fantasy Suite Destination",
+        "description": "Stay in Maldives overwater villas from The Bachelor. Book glass-floor bungalows, private island resorts, underwater dining, and ultimate romance from $800-10,000/night."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maldives%20Overwater%20Villas%20North%20Mal%C3%A9%20Atoll",
       "image": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8?w=800",
@@ -14077,23 +14654,53 @@
         "Consider adding Moorea for variety at lower cost",
         "Pack reef-safe sunscreen\u2014it's law in French Polynesia"
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through resort websites (Four Seasons, St. Regis, Conrad, InterContinental) or luxury travel agents. Peak season (June-October) books 6+ months in advance.",
+        "minimumStay": "Most resorts prefer 4-7 night stays; overwater bungalows may have minimums during peak season",
+        "bestFor": "Honeymoons, proposals, anniversary trips, Bachelor-style fantasy suite experiences, once-in-a-lifetime romantic escapes",
+        "bestTimeToVisit": "May-October for dry season and cooler temperatures; November-April is warmer but wetter with occasional tropical showers",
+        "nearestAirport": "Bora Bora Airport (BOB) on a motu - boat transfer to resorts. International flights connect through Tahiti Faa'a Airport (PPT)",
+        "transportation": "Resorts provide boat transfers from airport. No public transportation on Bora Bora - resort activities or organized tours are the way to explore.",
+        "visaRequirements": "French Polynesia follows French visa rules. EU citizens need valid ID; US/UK/Canada/Australia citizens can stay 90 days visa-free.",
+        "included": "Most resorts offer breakfast included; full-board or all-inclusive recommended as there are few restaurant options outside resorts"
+      },
       "faqs": [
         {
           "question": "Is Bora Bora worth the price?",
-          "answer": "For a honeymoon or once-in-a-lifetime trip, absolutely. The combination of overwater living, lagoon beauty, and Mount Otemanu views exists nowhere else on Earth."
+          "answer": "For a honeymoon or once-in-a-lifetime trip, absolutely. The combination of overwater living, crystal lagoon, and Mount Otemanu views exists nowhere else on Earth. The journey itself (via Tahiti) adds to the sense of escaping to paradise. Expect to spend $1,000-5,000+ per night at top resorts."
         },
         {
-          "question": "How do you get there?",
-          "answer": "Fly to Tahiti (Papeete), then a 50-minute flight to Bora Bora. Some travelers add a stopover in Moorea. The journey is long but builds anticipation."
+          "question": "How do you get to Bora Bora?",
+          "answer": "Fly internationally to Tahiti (Papeete), then take a 50-minute inter-island flight to Bora Bora. Airlines include Air Tahiti Nui from LAX and Air France from Paris. Many travelers add a stopover in Moorea or Tahiti. The total journey from the US is 15-20 hours but builds unforgettable anticipation."
         },
         {
-          "question": "Which resort is best?",
-          "answer": "Four Seasons for service and family-friendliness. St. Regis for glamour and sunset views. Conrad for value and reef access. All are exceptional."
+          "question": "Which Bora Bora resort is best for couples?",
+          "answer": "Four Seasons for exceptional service and larger bungalows. St. Regis for glamour and dramatic sunset views. Conrad for excellent reef snorkeling and relative value. InterContinental Thalasso for spa and sustainability. All offer overwater bungalows with Mount Otemanu views - the quintessential Bachelor fantasy suite experience."
+        },
+        {
+          "question": "What is there to do in Bora Bora?",
+          "answer": "Lagoon tours are essential - swimming with sharks and rays, visiting pristine motus (islets), and paddleboarding through impossibly blue water. Other activities include jet skiing, parasailing, romantic sunset cruises, helicopter tours over Mount Otemanu, and spa treatments. Most couples are happy never leaving their overwater bungalow."
+        },
+        {
+          "question": "When is the best time to visit Bora Bora?",
+          "answer": "May-October offers dry season with comfortable temperatures (75-85F) and calm seas ideal for water activities. This is peak season with highest prices. November-April is warmer and more humid with occasional rain showers, but lower prices and fewer crowds. Bora Bora is beautiful year-round."
+        },
+        {
+          "question": "What do overwater bungalows in Bora Bora include?",
+          "answer": "Overwater bungalows typically feature glass floor panels for fish viewing, private decks with lagoon access and ladders, outdoor showers, some with private plunge pools, butler service at premium resorts, and unobstructed Mount Otemanu or sunset views depending on orientation."
+        },
+        {
+          "question": "Is Bora Bora safe?",
+          "answer": "Bora Bora is extremely safe for tourists. It's a small, peaceful island with low crime. The main concerns are sun protection (reef-safe sunscreen is legally required), staying hydrated, and respecting the marine environment. French standards of safety and healthcare apply."
+        },
+        {
+          "question": "Has The Bachelor filmed in Bora Bora?",
+          "answer": "Yes, Bora Bora has been featured in multiple Bachelor franchise seasons as a fantasy suite destination. The iconic overwater bungalows, Mount Otemanu backdrop, and romantic sunset dinners have provided the setting for numerous proposals and love declarations on the show."
         }
       ],
       "meta": {
-        "title": "Bora Bora French Polynesia | Ultimate Bachelor Fantasy Suite",
-        "description": "Visit Bora Bora from The Bachelor. Overwater bungalows, Mount Otemanu, and lagoon paradise await."
+        "title": "Bora Bora French Polynesia | Book The Bachelor Fantasy Suite Destination",
+        "description": "Stay in Bora Bora overwater bungalows from The Bachelor. Book Four Seasons, St. Regis, or Conrad for Mount Otemanu views, lagoon romance, and once-in-a-lifetime luxury from $1,000/night."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Bora%20Bora%20Vaitape",
       "image": "https://images.unsplash.com/photo-1589197331516-4d84b72ebde3?w=800",
