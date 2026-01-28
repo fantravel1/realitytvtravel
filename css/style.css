@@ -2549,3 +2549,22 @@ h1, h2, h3, h4, h5, h6 {
     grid-template-columns: 1fr !important;
   }
 }
+
+/* ============================================
+   Rankings Section Styles
+   ============================================ */
+
+.section-rankings a:hover {
+  background: rgba(255, 255, 255, 0.15) !important;
+  transform: translateX(4px);
+}
+
+.section-rankings a {
+  transition: all 0.2s ease !important;
+}
+
+@media (max-width: 768px) {
+  .section-rankings .section-title {
+    font-size: 2rem;
+  }
+}
