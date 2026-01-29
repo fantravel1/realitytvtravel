@@ -602,12 +602,16 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Show Card */
 .show-card {
+  display: flex;
+  flex-direction: column;
   background: var(--color-white);
   border-radius: var(--radius-xl);
   overflow: hidden;
   box-shadow: var(--shadow-md);
   transition: all var(--transition-base);
   position: relative;
+  text-decoration: none;
+  color: inherit;
 }
 
 .show-card:hover {
@@ -689,6 +693,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Location Card */
 .location-card {
+  display: flex;
+  flex-direction: column;
   background: var(--color-white);
   border-radius: var(--radius-xl);
   overflow: hidden;
@@ -1798,6 +1804,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .skeleton-card {
+  display: block;
   background: var(--color-white);
   border-radius: var(--radius-xl);
   overflow: hidden;
