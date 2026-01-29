@@ -2568,3 +2568,105 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 2rem;
   }
 }
+
+/* ============================================
+   Network Cards Section
+   ============================================ */
+
+.network-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.3);
+}
+
+.section-networks a {
+  transition: all 0.2s ease;
+}
+
+/* ============================================
+   Budget Guide Section
+   ============================================ */
+
+.section-budget ul li a:hover {
+  color: var(--color-primary) !important;
+}
+
+.section-budget ul li a:hover strong {
+  color: var(--color-primary);
+}
+
+/* ============================================
+   Destination Guide Section
+   ============================================ */
+
+.section-destinations-guide ul li a:hover {
+  color: var(--color-primary) !important;
+}
+
+/* ============================================
+   Trending Section
+   ============================================ */
+
+.trending-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.trending-card {
+  transition: all 0.3s ease;
+}
+
+/* ============================================
+   Popular Searches Section
+   ============================================ */
+
+.section-searches ul li a {
+  transition: all 0.2s ease;
+  padding: var(--space-xs) var(--space-sm);
+  margin: 0 calc(var(--space-sm) * -1);
+  border-radius: var(--radius-sm);
+  display: block;
+}
+
+.section-searches ul li a:hover {
+  background: var(--color-gray-50);
+  color: var(--color-primary) !important;
+  transform: translateX(4px);
+}
+
+[data-theme="dark"] .section-searches ul li a:hover {
+  background: var(--color-gray-100);
+}
+
+/* Dark mode adjustments for new sections */
+[data-theme="dark"] .section-trending {
+  background: linear-gradient(135deg, #1a1033 0%, #1e1b4b 100%) !important;
+}
+
+[data-theme="dark"] .section-searches {
+  background: var(--color-gray-50);
+}
+
+[data-theme="dark"] .section-searches > .container > div > div {
+  background: var(--color-gray-100) !important;
+  border-color: var(--color-gray-200) !important;
+}
+
+[data-theme="dark"] .section-searches h4 {
+  color: var(--color-primary-light) !important;
+}
+
+[data-theme="dark"] .section-searches ul li a {
+  color: var(--color-gray-700) !important;
+}
+
+[data-theme="dark"] .trending-card {
+  background: var(--color-gray-100) !important;
+}
+
+[data-theme="dark"] .trending-card h3 {
+  color: var(--color-gray-800) !important;
+}
+
+[data-theme="dark"] .trending-card p {
+  color: var(--color-gray-600) !important;
+}

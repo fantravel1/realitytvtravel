@@ -535,7 +535,7 @@ function createLocationCard(location, shows) {
           <a href="location.html?id=${location.id}" class="btn btn-primary">View Details</a>
         </div>
       </div>
-    </div>
+    </article>
   `;
 }
 
