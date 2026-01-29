@@ -2143,15 +2143,41 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly through Aman Resorts website or luxury travel agents; advance booking essential, especially for December-February peak season",
+        "priceRange": "$1,000-$5,000+ per night depending on pavilion type and season",
+        "minimumStay": "No minimum, but 3-5 nights recommended to fully experience the resort and Thai culture",
+        "nearestAirport": "Phuket International Airport (HKT) - 25 minute drive; resort provides luxury airport transfers",
+        "bestTimeToVisit": "November-February for ideal weather; avoid May-October monsoon season for beach activities",
+        "bookingTips": [
+          "Book 3-6 months ahead for peak season (December-February)",
+          "Request a hillside pavilion for better sunset views",
+          "Include the Thai cooking class and temple tour experiences",
+          "Ask about the Aman Private Jet for multi-property tours",
+          "Consider combining with sister property Amanoi in Vietnam"
+        ]
+      },
       "faqs": [
         {
           "question": "What makes Amanpuri special?",
           "answer": "Amanpuri pioneered luxury resort travel and offers unparalleled privacy and service in traditional Thai pavilions."
+        },
+        {
+          "question": "Can you stay at the Bachelor Thailand resort?",
+          "answer": "Yes! Amanpuri Phuket is fully bookable through Aman Resorts. Rates range from $1,000-$5,000+ per night for private pavilions. This legendary resort has hosted Bachelor fantasy suite episodes and offers the ultimate in romantic Thai luxury."
+        },
+        {
+          "question": "What is included at Amanpuri Phuket?",
+          "answer": "Amanpuri includes daily breakfast, airport transfers in luxury vehicles, access to two swimming pools, fitness center, tennis courts, non-motorized water sports, and Thai cultural activities. The renowned Aman Spa, private dining, and excursions are additional."
+        },
+        {
+          "question": "Do I need a visa to visit Thailand?",
+          "answer": "Many nationalities including US, UK, Australia, and most EU countries receive visa-free entry to Thailand for 30-60 days. Check current requirements before travel. Amanpuri's concierge can assist with visa letters if needed for extended stays."
         }
       ],
       "meta": {
-        "title": "Amanpuri Phuket | Bachelor Fantasy Suite Resort",
-        "description": "Stay at the legendary Thai resort featured in Bachelor fantasy suites."
+        "title": "Amanpuri Phuket | Bachelor Fantasy Suite Resort Thailand",
+        "description": "Stay at Amanpuri Phuket, the legendary Thai resort featured in Bachelor fantasy suites. Private pavilions from $1,000/night with world-class Aman service."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Amanpuri%20Phuket%20Phuket",
       "nearbyAttractions": [
@@ -3183,17 +3209,43 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book directly at atlantis.com, or through Hotels.com, Expedia, and luxury travel agents for packages",
+        "priceRange": "$400-$3,000+ per night; Underwater Suites start at $7,000/night",
+        "minimumStay": "No minimum stay required",
+        "nearestAirport": "Dubai International Airport (DXB) - 40 minute drive; Abu Dhabi Airport (AUH) - 75 minutes",
+        "bestTimeToVisit": "November-March for pleasant outdoor weather; summer months (June-August) are extremely hot but offer lower rates",
+        "bookingTips": [
+          "Book Underwater Suites well in advance - they sell out months ahead",
+          "Include Aquaventure Waterpark access in your stay (often included)",
+          "Reserve celebrity chef restaurants like Nobu and Gordon Ramsay in advance",
+          "Consider the newer Atlantis The Royal for ultra-luxury",
+          "Friday brunch at Saffron is a Dubai institution - book early"
+        ]
+      },
       "faqs": [
         {
           "question": "What's special about Atlantis Dubai?",
           "answer": "Underwater suites, one of the world's largest water parks, celebrity chef restaurants, and iconic Palm Jumeirah location."
+        },
+        {
+          "question": "Can you stay at the Bachelor Dubai resort?",
+          "answer": "Yes! Atlantis The Palm is a fully bookable resort open to all guests. Rooms range from $400-$3,000+ per night, with the famous Underwater Suites starting at $7,000/night. The resort has hosted Bachelor fantasy suites and group dates with its stunning Arabian Gulf views."
+        },
+        {
+          "question": "What is included at Atlantis The Palm?",
+          "answer": "Room rates typically include access to Aquaventure Waterpark (one of the world's largest), The Lost Chambers Aquarium, private beach, fitness center, and kids club. Celebrity chef restaurants by Nobu, Gordon Ramsay, and others require separate reservations."
+        },
+        {
+          "question": "Do I need a visa to visit Dubai?",
+          "answer": "Most Western nationalities including US, UK, EU, Australia, and Canada receive visa-on-arrival for 30-90 days. Check current requirements. Dubai is very tourist-friendly with English widely spoken and modern infrastructure throughout."
         }
       ],
       "meta": {
-        "title": "Atlantis Dubai | Bachelor Luxury Resort",
-        "description": "Stay at the iconic Dubai resort featured in The Bachelor."
+        "title": "Atlantis The Palm Dubai | Bachelor Luxury Resort UAE",
+        "description": "Stay at Atlantis The Palm, the iconic Dubai resort featured in Bachelor fantasy suites. Underwater suites, waterpark, celebrity dining from $400/night."
       },
-      "bookingUrl": "https://www.booking.com/city/ae/dubai.html",
+      "bookingUrl": "https://www.atlantis.com/dubai",
       "nearbyAttractions": [
         {
           "name": "Burj Khalifa",
@@ -4527,15 +4579,41 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book vacation rentals through VRBO, Airbnb, or stay at Turtle Bay Resort; beach houses and cottages available throughout Haleiwa and Pupukea",
+        "priceRange": "$200-$1,000+ per night depending on property size and ocean proximity",
+        "minimumStay": "Many rentals require 3-7 night minimum; hotels have no minimum",
+        "nearestAirport": "Honolulu International Airport (HNL) - 45-60 minute drive to North Shore depending on traffic",
+        "bestTimeToVisit": "April-September for calm waters and swimming; November-February for legendary big wave surfing season",
+        "bookingTips": [
+          "Rent a car - essential for exploring the North Shore and avoiding H-2 traffic",
+          "Book accommodations months ahead for winter surf season",
+          "Visit Haleiwa town for shave ice at Matsumoto's - a must-do",
+          "Giovanni's and Romy's shrimp trucks are worth the wait",
+          "Shark's Cove offers excellent snorkeling in summer months"
+        ]
+      },
       "faqs": [
         {
           "question": "What can you do on North Shore?",
           "answer": "Watch pro surfers at Pipeline, visit Haleiwa town, eat at famous shrimp trucks, and hike to waterfalls."
+        },
+        {
+          "question": "Where did Are You The One film in Hawaii?",
+          "answer": "Are You The One filmed on Oahu's legendary North Shore, capturing the laid-back Hawaiian surf lifestyle. The area's beautiful beaches, tropical scenery, and relaxed vibe provided the perfect backdrop for the dating show's Hawaiian seasons."
+        },
+        {
+          "question": "When is the best time to visit North Shore Oahu?",
+          "answer": "April-September offers calmer waters perfect for swimming and snorkeling. November-February brings massive winter swells and world-famous surf competitions at Pipeline and Waimea Bay. Both seasons offer unique experiences depending on your interests."
+        },
+        {
+          "question": "How do I get to North Shore from Honolulu?",
+          "answer": "North Shore is about 45-60 minutes from Honolulu International Airport (HNL) via H-2 North. A rental car is essential as public transportation is limited. Avoid rush hour traffic on H-1/H-2. Alternatively, several tour companies offer North Shore day trips."
         }
       ],
       "meta": {
-        "title": "North Shore Oahu | Are You The One Hawaii",
-        "description": "Visit Oahu's North Shore from AYTO filming."
+        "title": "North Shore Oahu Hawaii | Are You The One Filming Location",
+        "description": "Visit Oahu's legendary North Shore from Are You The One. World-famous surf, Haleiwa town, shrimp trucks, and tropical beaches. Vacation rentals from $200/night."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=North%20Shore%20Oahu%20Haleiwa",
       "nearbyAttractions": [
@@ -5993,6 +6071,20 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book hotels through Booking.com, Hotels.com, or directly with luxury properties like Atlantis, Burj Al Arab, or Four Seasons",
+        "priceRange": "$300-$3,000+ per night; ultra-luxury options like Burj Al Arab from $2,000/night",
+        "minimumStay": "No minimum at most hotels; some ultra-luxury suites may require 2-night minimum",
+        "nearestAirport": "Dubai International Airport (DXB) - centrally located, 15-40 minutes to most hotels; Dubai World Central (DWC) for some budget airlines",
+        "bestTimeToVisit": "November-March for pleasant outdoor weather (20-30C); June-August extremely hot (40C+) but offers significant hotel discounts",
+        "bookingTips": [
+          "Book Burj Khalifa 'At The Top' tickets in advance online",
+          "Reserve popular restaurants weeks ahead - especially Nobu, Zuma, and La Petite Maison",
+          "Desert safari sunset tours are best booked 2-3 days ahead",
+          "Dubai Frame and Museum of the Future require advance tickets",
+          "Consider Dubai Pass for attractions if visiting multiple sites"
+        ]
+      },
       "faqs": [
         {
           "question": "Where does Love Is Blind Habibi film?",
@@ -6001,11 +6093,19 @@
         {
           "question": "What romantic experiences are available?",
           "answer": "Desert sunset dinners, dinner at Burj Al Arab, yacht cruises, and spa retreats are all available to tourists seeking the Love Is Blind experience."
+        },
+        {
+          "question": "Can you visit the Love Is Blind Habibi filming locations?",
+          "answer": "Absolutely! Dubai's major landmarks featured in Love Is Blind Habibi are all publicly accessible. Visit the Burj Khalifa observation decks, dine at Palm Jumeirah restaurants, explore Dubai Creek heritage area, and book the same luxury experiences featured on the show."
+        },
+        {
+          "question": "Do I need a visa to visit Dubai?",
+          "answer": "Most Western nationalities (US, UK, EU, Australia, Canada) receive visa-on-arrival for 30-90 days. Dubai is extremely tourist-friendly with modern infrastructure, English widely spoken, and world-class hospitality. Check current requirements before travel."
         }
       ],
       "meta": {
         "title": "Dubai UAE | Love Is Blind Habibi Filming Locations",
-        "description": "Visit Dubai's luxury locations from Love Is Blind Habibi."
+        "description": "Visit Dubai's luxury locations from Love Is Blind Habibi. Burj Khalifa, Palm Jumeirah, desert adventures, and world-class romance from $300/night."
       },
       "bookingUrl": "https://www.booking.com/searchresults.html?ss=Dubai%20Dubai",
       "nearbyAttractions": [
@@ -8038,6 +8138,20 @@
           ]
         }
       ],
+      "visitorInfo": {
+        "bookingMethod": "Book resorts through Hotels.com, Expedia, or directly with properties like Four Seasons, Andaz, Grand Wailea, or Fairmont Kea Lani",
+        "priceRange": "$300-$2,000+ per night; luxury resorts in Wailea average $600-$1,200/night",
+        "minimumStay": "No minimum at most resorts; some vacation rentals require 3-7 night minimum",
+        "nearestAirport": "Kahului Airport (OGG) - only commercial airport on Maui; 25-45 minutes to resort areas depending on destination",
+        "bestTimeToVisit": "April-May and September-November for best weather and prices; December-March for whale watching (peak pricing); June-August for families",
+        "bookingTips": [
+          "Book Haleakala sunrise reservations (recreation.gov) 60 days in advance - they sell out",
+          "Reserve Road to Hana tour or rental car well ahead",
+          "Molokini snorkel tours book up - reserve 1-2 weeks ahead",
+          "Whale watching tours (Dec-March) are popular - book early",
+          "Lahaina town was affected by 2023 fires - check restoration status for West Maui visits"
+        ]
+      },
       "faqs": [
         {
           "question": "Where does Temptation Island film?",
@@ -8046,13 +8160,21 @@
         {
           "question": "What romantic activities are available?",
           "answer": "Sunset sailing, snorkeling at Molokini, sunrise at Haleakala, couples' spa treatments, and private beach dinners."
+        },
+        {
+          "question": "Can you visit the Temptation Island filming locations in Maui?",
+          "answer": "Yes! While the exact villas used for filming are private, you can stay at the same luxury resorts featured in the show like Andaz Maui and experience all the romantic activities - helicopter tours, snorkeling, sunset sails, and spa treatments that make Temptation Island dates so memorable."
+        },
+        {
+          "question": "What is the best area to stay in Maui?",
+          "answer": "Wailea (South Maui) offers luxury resorts, calm beaches, and upscale dining. Kaanapali (West Maui) has beautiful beaches and historic Lahaina nearby. Upcountry Maui offers cooler weather and farm-to-table experiences. Each area provides a different Maui experience."
         }
       ],
       "meta": {
-        "title": "Maui Hawaii | Temptation Island Resort",
-        "description": "Visit Temptation Island filming locations in Maui."
+        "title": "Maui Hawaii | Temptation Island Filming Location",
+        "description": "Visit Maui's Temptation Island filming locations. Luxury resorts, Haleakala sunrise, snorkeling, and Hawaiian romance from $300/night."
       },
-      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maui%20Lahaina",
+      "bookingUrl": "https://www.booking.com/searchresults.html?ss=Maui%20Hawaii",
       "nearbyAttractions": [
         {
           "name": "Road to Hana",

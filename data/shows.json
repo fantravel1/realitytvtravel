@@ -2260,43 +2260,162 @@
       "yearStarted": 2021,
       "tagline": "Love is blind... and very, very hairy",
       "description": "Singles date while wearing elaborate prosthetic makeup to focus on personality over appearance. The outlandish costumes range from dolphins to demons in this unique dating experiment.",
-      "longDescription": "Sexy Beasts took the 'love is blind' concept literally by having daters wear elaborate creature prosthetics during dates. From devils to pandas to aliens, the wild costumes became the show's signature, creating some of the most visually memorable moments in dating TV history.",
+      "longDescription": "Sexy Beasts took the 'love is blind' concept literally by having daters wear elaborate creature prosthetics during dates. Originally a British format that aired on BBC Three in 2014, Netflix revived the concept with American and international contestants. From devils to pandas to aliens, the wild costumes became the show's signature, creating some of the most visually memorable moments in dating TV history. The prosthetics take 3-5 hours to apply and were created by award-winning makeup artists.",
       "primaryLocation": "uk-studios",
       "destinations": [
         "london",
-        "english-countryside"
+        "english-countryside",
+        "cotswolds",
+        "hertfordshire"
       ],
       "bestSeasons": [
         1
       ],
       "viewerRating": 3.2,
       "avgEpisodeLength": 25,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2021,
+          "country": "United Kingdom",
+          "studioLocation": {
+            "name": "Elstree Studios area",
+            "region": "Hertfordshire, England",
+            "description": "Prosthetic application and interview segments filmed in controlled studio environment",
+            "accessible": false
+          },
+          "dateLocations": [
+            {
+              "name": "The Ivy Chelsea Garden",
+              "type": "Upscale restaurant",
+              "area": "Chelsea, London",
+              "bookable": true,
+              "priceRange": "$80-150/person"
+            },
+            {
+              "name": "Soho House",
+              "type": "Members club/restaurant",
+              "area": "Soho, London",
+              "bookable": true,
+              "note": "Requires membership or hotel booking"
+            },
+            {
+              "name": "Kew Gardens",
+              "type": "Botanical gardens",
+              "area": "Richmond, London",
+              "bookable": true,
+              "priceRange": "$20-25 admission"
+            },
+            {
+              "name": "Various country pubs",
+              "type": "Traditional English pubs",
+              "area": "Cotswolds",
+              "bookable": true
+            }
+          ],
+          "revealLocations": [
+            {
+              "name": "London rooftop venues",
+              "type": "Rooftop bars",
+              "description": "Final reveals often filmed at scenic London rooftop locations"
+            },
+            {
+              "name": "Country estates",
+              "type": "Historic properties",
+              "area": "Hertfordshire/Cotswolds",
+              "description": "Grand reveal moments in English countryside settings"
+            }
+          ]
+        },
+        {
+          "season": 2,
+          "year": 2021,
+          "country": "United Kingdom",
+          "studioLocation": {
+            "name": "London area studios",
+            "region": "Greater London",
+            "description": "Studio segments for prosthetic application and confessionals",
+            "accessible": false
+          },
+          "dateLocations": [
+            {
+              "name": "Sketch London",
+              "type": "Art-forward restaurant",
+              "area": "Mayfair, London",
+              "bookable": true,
+              "priceRange": "$100-200/person",
+              "note": "Famous pink room and egg-shaped toilets"
+            },
+            {
+              "name": "The Shard viewing gallery",
+              "type": "Observation deck",
+              "area": "London Bridge",
+              "bookable": true,
+              "priceRange": "$30-40 admission"
+            },
+            {
+              "name": "Cotswolds villages",
+              "type": "Picturesque villages",
+              "area": "Gloucestershire/Oxfordshire",
+              "bookable": true,
+              "examples": ["Bourton-on-the-Water", "Bibury", "Castle Combe"]
+            }
+          ],
+          "revealLocations": [
+            {
+              "name": "London scenic locations",
+              "type": "Various",
+              "description": "South Bank, Tower Bridge area, and city rooftops"
+            }
+          ]
+        }
+      ],
+      "filmingDetails": {
+        "prostheticProcess": "Each prosthetic costume takes 3-5 hours to apply by professional makeup artists. Costumes include full face masks, body suits, and custom contact lenses.",
+        "makeupTeam": "Award-winning prosthetic makeup teams create unique creature designs for each contestant. Some costumes cost upwards of $10,000 to create.",
+        "studioSetup": "Interview and date segments filmed in climate-controlled studios due to the heat generated by prosthetics. Contestants can only wear makeup for limited periods.",
+        "dateFilming": "Dates filmed at real London venues and English countryside locations. Production typically books private sections or after-hours access.",
+        "revealProcess": "Final reveals filmed without prosthetics, often at scenic London or countryside locations for romantic backdrop.",
+        "productionCompany": "Lion TV / All3Media for Netflix",
+        "originHistory": "Originally aired on BBC Three in 2014 before Netflix revival in 2021",
+        "costumeExamples": "Costumes have included: demon, panda, dolphin, scarecrow, mouse, mandrill baboon, troll, beaver, and alien",
+        "internationalCast": "While filmed in UK, cast includes American, British, and international participants"
+      },
       "faqs": [
         {
           "question": "Where is Sexy Beasts filmed?",
-          "answer": "Sexy Beasts films in the United Kingdom, primarily in studios and locations around London and the English countryside. The elaborate prosthetics require extensive makeup time and controlled environments."
+          "answer": "Sexy Beasts films in the United Kingdom, primarily in London and the surrounding areas. Studio segments (prosthetic application, interviews) are filmed in London-area studios like those near Elstree in Hertfordshire. Dates take place at real London restaurants, bars, and English countryside locations including the Cotswolds."
         },
         {
-          "question": "Where can I watch Sexy Beasts?",
-          "answer": "Sexy Beasts is available to stream exclusively on Netflix. New seasons typically drop all episodes at once."
+          "question": "Can you visit Sexy Beasts filming locations?",
+          "answer": "Yes! Many date locations are real, publicly accessible venues. In London, visit The Ivy Chelsea Garden, Sketch in Mayfair, or rooftop bars along the South Bank. The Cotswolds villages (Bourton-on-the-Water, Bibury) featured in countryside dates are popular tourist destinations. Studio locations are not open to public."
         },
         {
-          "question": "Can I visit the filming locations from Sexy Beasts?",
-          "answer": "Yes! Many filming locations from Sexy Beasts are real places you can visit. The primary location is uk-studios. Check our location guides for booking information and travel tips."
+          "question": "Where are the Sexy Beasts dates filmed in London?",
+          "answer": "London date locations include upscale restaurants in Chelsea, Mayfair, and Soho, as well as scenic spots like Kew Gardens and The Shard viewing gallery. The show favors visually striking venues that photograph well even with contestants in elaborate prosthetics."
         },
         {
-          "question": "How many seasons of Sexy Beasts are there?",
-          "answer": "Sexy Beasts currently has 2 seasons. The show has concluded and started in 2021."
+          "question": "How long does the Sexy Beasts makeup take?",
+          "answer": "Each prosthetic costume takes 3-5 hours to apply by professional makeup artists. The elaborate creature designs include full face masks, body suits, and custom contact lenses. Due to the heat generated by the prosthetics, contestants can only wear them for limited filming periods."
+        },
+        {
+          "question": "What English countryside locations are in Sexy Beasts?",
+          "answer": "The show features the picturesque Cotswolds region, including villages like Bourton-on-the-Water (the 'Venice of the Cotswolds'), Bibury, and Castle Combe. These honey-stone villages and rolling hills provide romantic backdrops for dates and reveal moments. All are easily accessible from London."
         }
       ],
       "travelTips": [
-        "London offers great date spots featured in reveal scenes",
-        "The Cotswolds provides romantic countryside settings",
-        "Hyde Park makes for scenic romantic strolls"
+        "London offers great date spots featured in the show - try The Ivy Chelsea Garden or Sketch in Mayfair",
+        "The Cotswolds is a 2-hour drive from London and offers the romantic countryside settings seen in reveal scenes",
+        "Visit Kew Gardens for a scenic date location similar to those featured on the show",
+        "Book The Shard viewing gallery for panoramic London views - featured in Season 2 dates",
+        "Bourton-on-the-Water in the Cotswolds is called the 'Venice of the Cotswolds' and makes a perfect day trip",
+        "Many London rooftop bars (OXO Tower, Sky Garden) offer similar vibes to reveal locations",
+        "The show's traditional English pub dates can be recreated at gastropubs throughout the Cotswolds",
+        "Combine a Sexy Beasts location tour with nearby Downton Abbey filming locations in the same region"
       ],
       "meta": {
-        "title": "Sexy Beasts Filming Locations | UK Studio & Date Spots",
-        "description": "Discover where Sexy Beasts is filmed in the United Kingdom."
+        "title": "Sexy Beasts Filming Locations | London Studios, Cotswolds & UK Date Spots",
+        "description": "Complete guide to Sexy Beasts filming locations in the United Kingdom. Visit London restaurants, Cotswolds villages, and scenic spots featured in the Netflix dating show. Discover where prosthetic dates and dramatic reveals were filmed."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=GfkhSS1_2kY"
     },
@@ -3027,7 +3146,7 @@
       "name": "Single's Inferno",
       "network": "Netflix",
       "networkSlug": "netflix",
-      "seasons": 3,
+      "seasons": 4,
       "status": "active",
       "yearStarted": 2021,
       "tagline": "Escape to paradise together",
@@ -3052,7 +3171,8 @@
           "year": 2021,
           "infernoLocation": {
             "type": "Constructed set on a private island",
-            "region": "Off the coast of South Korea",
+            "region": "Saseungbong-do Island, Ongjin County, Incheon",
+            "island": "Saseungbong-do (also written Saseungbongdo)",
             "features": [
               "Basic wooden structures",
               "Outdoor kitchen",
@@ -3060,21 +3180,40 @@
               "Beach area",
               "Shared sleeping quarters"
             ],
-            "accessible": false
+            "accessible": true,
+            "accessNote": "The island is accessible via ferry from Incheon but the production set is dismantled after filming"
           },
           "paradiseLocation": {
-            "hotel": "Various luxury hotels in Seoul",
+            "hotel": "Grand Hyatt Seoul",
+            "address": "322 Sowol-ro, Yongsan-gu, Seoul",
+            "hotelDescription": "Luxury hotel in Hannam-dong with panoramic city views, featured in early Paradise segments",
             "areas": [
-              "Gangnam",
-              "Hannam-dong"
+              "Hannam-dong",
+              "Itaewon"
             ],
             "bookable": true,
-            "priceRange": "$300-600/night"
+            "priceRange": "$300-600/night",
+            "roomsUsed": [
+              "Grand Suite",
+              "Diplomatic Suite"
+            ]
           },
           "dateLocations": [
-            "Rooftop restaurants",
-            "Han River parks",
-            "Upscale Seoul cafes"
+            {
+              "name": "The Timber House",
+              "type": "Rooftop bar",
+              "area": "Gangnam"
+            },
+            {
+              "name": "Yeouido Hangang Park",
+              "type": "Riverside park",
+              "area": "Yeouido"
+            },
+            {
+              "name": "Cafe de Paris",
+              "type": "Upscale dessert cafe",
+              "area": "Cheongdam-dong"
+            }
           ]
         },
         {
@@ -3082,29 +3221,49 @@
           "year": 2022,
           "infernoLocation": {
             "type": "Constructed set on a private island",
-            "region": "South Korean coast",
+            "region": "Saseungbong-do Island, Incheon",
+            "island": "Same location as Season 1, enhanced production set",
             "features": [
-              "Enhanced campsite",
-              "Beach activities",
+              "Enhanced campsite with improved shelter",
+              "Beach activities area",
               "Outdoor shower",
-              "Communal areas"
+              "Expanded communal areas",
+              "Better cooking facilities"
             ],
-            "accessible": false
+            "accessible": true,
+            "accessNote": "Ferry from Incheon Yeonan Pier, approximately 2 hours"
           },
           "paradiseLocation": {
-            "hotel": "Luxury hotels in Seoul and surroundings",
+            "hotel": "JW Marriott Hotel Seoul",
+            "address": "176 Sinbanpo-ro, Seocho-gu, Seoul",
+            "hotelDescription": "5-star luxury hotel near Express Bus Terminal with stunning Han River views",
             "areas": [
-              "Gangnam",
-              "Cheongdam-dong",
-              "Itaewon"
+              "Seocho-gu",
+              "Gangnam"
             ],
             "bookable": true,
-            "priceRange": "$350-700/night"
+            "priceRange": "$350-700/night",
+            "roomsUsed": [
+              "Executive Suite",
+              "Presidential Suite"
+            ]
           },
           "dateLocations": [
-            "Private dining rooms",
-            "Art galleries",
-            "Seoul rooftop bars"
+            {
+              "name": "Seongsu-dong Art District",
+              "type": "Trendy neighborhood with galleries",
+              "area": "Seongdong-gu"
+            },
+            {
+              "name": "Southside Parlor",
+              "type": "Speakeasy cocktail bar",
+              "area": "Itaewon"
+            },
+            {
+              "name": "Samcheong-dong",
+              "type": "Traditional hanok neighborhood",
+              "area": "Jongno-gu"
+            }
           ]
         },
         {
@@ -3133,57 +3292,137 @@
             ]
           },
           "dateLocations": [
-            "Signiel restaurants",
-            "Lotte World Tower observation deck",
-            "Seokchon Lake area"
+            {
+              "name": "Signiel Seoul restaurants",
+              "type": "Fine dining",
+              "area": "Songpa-gu"
+            },
+            {
+              "name": "Seoul Sky (Lotte World Tower observation deck)",
+              "type": "Observation deck",
+              "area": "Songpa-gu"
+            },
+            {
+              "name": "Seokchon Lake Park",
+              "type": "Lakeside park",
+              "area": "Songpa-gu"
+            }
+          ]
+        },
+        {
+          "season": 4,
+          "year": 2024,
+          "infernoLocation": {
+            "type": "New constructed set on different island",
+            "region": "Gyeonggi Province coast",
+            "island": "New private island location with larger production footprint",
+            "features": [
+              "Expanded beach area",
+              "Upgraded shelter with better weather protection",
+              "Multiple cooking stations",
+              "Beach games area",
+              "Outdoor lounge with ocean views"
+            ],
+            "accessible": false,
+            "accessNote": "New private location, not open to public"
+          },
+          "paradiseLocation": {
+            "hotel": "Josun Palace Seoul Gangnam",
+            "address": "231 Teheran-ro, Gangnam-gu, Seoul",
+            "hotelDescription": "Ultra-luxury hotel by Josun Hotels & Resorts, featuring contemporary Korean design with world-class spa",
+            "areas": [
+              "Gangnam",
+              "COEX area"
+            ],
+            "bookable": true,
+            "priceRange": "$500-1,500/night",
+            "roomsUsed": [
+              "Grand Corner Suite",
+              "Royal Suite",
+              "Palace Suite"
+            ],
+            "amenities": [
+              "Evian Spa",
+              "Rooftop infinity pool",
+              "Michelin-star dining"
+            ]
+          },
+          "dateLocations": [
+            {
+              "name": "Josun Palace rooftop pool",
+              "type": "Luxury hotel amenity",
+              "area": "Gangnam"
+            },
+            {
+              "name": "D Museum",
+              "type": "Contemporary art museum",
+              "area": "Hannam-dong"
+            },
+            {
+              "name": "Bukchon Hanok Village",
+              "type": "Traditional Korean village",
+              "area": "Jongno-gu"
+            },
+            {
+              "name": "Han River cruise",
+              "type": "River cruise",
+              "area": "Various piers"
+            }
           ]
         }
       ],
       "filmingDetails": {
-        "infernoIsland": "The Inferno island is a specially constructed production set on a private location, not a naturally deserted island. It's designed to look rustic while ensuring contestant safety.",
-        "paradiseHotels": "Paradise locations are real luxury hotels and resorts that can be booked by the public. Season 3 prominently featured Signiel Seoul in the iconic Lotte World Tower.",
-        "studioSegments": "Panel commentary with celebrity hosts is filmed at CJ ENM studios in Seoul",
-        "productionStyle": "High-quality K-drama style cinematography with emphasis on aesthetics and atmosphere",
-        "filmingDuration": "Approximately 2-3 weeks of intensive filming for the island and paradise segments",
-        "seasonalTiming": "Typically filmed in summer months for optimal beach and outdoor conditions",
-        "productionCompany": "CJ ENM / Studio Slam"
+        "infernoIsland": "The Inferno island is a specially constructed production set. Seasons 1-3 filmed on Saseungbong-do Island near Incheon (accessible by 2-hour ferry). Season 4 moved to a new private location for a larger production setup.",
+        "paradiseHotels": "Paradise locations are real luxury hotels that can be booked by the public. Season 1: Grand Hyatt Seoul (Hannam-dong). Season 2: JW Marriott Seoul. Season 3: Signiel Seoul (Lotte World Tower). Season 4: Josun Palace Seoul Gangnam.",
+        "islandAccess": "Saseungbong-do Island can be visited via ferry from Incheon Yeonan Pier, though production sets are dismantled after filming. The island itself offers beaches and hiking.",
+        "studioSegments": "Panel commentary with celebrity hosts (including Hong Jin-young, Kyuhyun, Shin Dong-yup) is filmed at CJ ENM studios in Sangam-dong, Seoul",
+        "productionStyle": "High-quality K-drama style cinematography with emphasis on aesthetics, soft lighting, and romantic atmosphere. Extensive use of drone shots for island aerials.",
+        "filmingDuration": "Approximately 2-3 weeks of intensive filming for the island and paradise segments, plus additional days for panel recording",
+        "seasonalTiming": "Typically filmed in summer months (July-August) for optimal beach and outdoor conditions",
+        "productionCompany": "CJ ENM / Studio Slam",
+        "castSelection": "Contestants selected from open casting calls across Korea, often including models, influencers, and young professionals",
+        "behindTheScenes": "Contestants have no phones or watches on the island. Paradise dates are approximately 24 hours. Production crew of 100+ works on location."
       },
       "faqs": [
         {
           "question": "Where is Single's Inferno filmed?",
-          "answer": "Single's Inferno films in South Korea. The Inferno island is a specially constructed production set on a private location designed to look like a deserted island. Paradise locations are real luxury hotels in Seoul - Season 3 famously used Signiel Seoul in the Lotte World Tower, Korea's tallest building."
+          "answer": "Single's Inferno films in South Korea. Seasons 1-3 filmed on Saseungbong-do Island near Incheon (accessible by ferry). Season 4 moved to a new private location. Paradise locations are real Seoul luxury hotels: Grand Hyatt (S1), JW Marriott (S2), Signiel Seoul at Lotte World Tower (S3), and Josun Palace Gangnam (S4)."
         },
         {
-          "question": "Where is the Single's Inferno Inferno island located?",
-          "answer": "The Inferno island is a private production set, not a real deserted island that can be visited. It's constructed specifically for filming off the coast of South Korea. The rustic campsite, beach area, and basic facilities are all purpose-built for the show."
+          "question": "Where is the Single's Inferno island located?",
+          "answer": "Seasons 1-3 filmed on Saseungbong-do Island in Ongjin County, Incheon. You can visit the island via a 2-hour ferry from Incheon Yeonan Pier, though the production set is dismantled after filming. The island offers beautiful beaches and hiking trails. Season 4 used a new private location."
         },
         {
           "question": "Can you visit the Single's Inferno Paradise hotel?",
-          "answer": "Yes! The Paradise hotels are real and bookable. Season 3's Signiel Seoul is located in Lotte World Tower (floors 76-101) and offers rooms from $400/night. You can book the same luxury suites where couples had their overnight dates and enjoy the stunning Seoul skyline views."
+          "answer": "Yes! All Paradise hotels are real and bookable. Season 4's Josun Palace Seoul Gangnam ($500-1,500/night) features a rooftop infinity pool and Evian Spa. Season 3's Signiel Seoul in Lotte World Tower offers rooms from $400/night. Earlier seasons used Grand Hyatt and JW Marriott Seoul."
         },
         {
-          "question": "Where was Single's Inferno Season 3 filmed?",
-          "answer": "Single's Inferno Season 3 filmed the Paradise segments at Signiel Seoul, located in the iconic Lotte World Tower in Seoul's Songpa-gu district. The 123-floor skyscraper is Korea's tallest building. The hotel occupies floors 76-101 and offers breathtaking views featured in couple date scenes."
+          "question": "Where was Single's Inferno Season 4 filmed?",
+          "answer": "Single's Inferno Season 4 (2024) filmed Paradise segments at Josun Palace Seoul Gangnam, a new ultra-luxury hotel in the heart of Gangnam. The hotel features contemporary Korean design, a rooftop infinity pool, Evian Spa, and Michelin-star dining. The Inferno island moved to a new private location."
         },
         {
           "question": "What hotel is Paradise in Single's Inferno?",
-          "answer": "Paradise hotels vary by season. Season 3 used Signiel Seoul, a 5-star hotel in Lotte World Tower with rooms from $400-1,200/night. Earlier seasons featured various luxury hotels in Seoul's Gangnam, Hannam-dong, and Cheongdam-dong areas. All are publicly bookable."
+          "answer": "Paradise hotels by season: Season 1 - Grand Hyatt Seoul ($300-600/night), Season 2 - JW Marriott Seoul ($350-700/night), Season 3 - Signiel Seoul at Lotte World Tower ($400-1,200/night), Season 4 - Josun Palace Seoul Gangnam ($500-1,500/night). All are publicly bookable."
         },
         {
           "question": "Where are Single's Inferno date locations?",
-          "answer": "Date locations include upscale Seoul restaurants, rooftop bars, the Han River parks, and luxury hotel dining venues. Season 3 featured Signiel Seoul's restaurants and the Lotte World Tower observation deck (Seoul Sky). Post-show, contestants often visit Gangnam, Hongdae, and Itaewon."
+          "answer": "Date locations include upscale Seoul restaurants, rooftop bars, Han River parks, Seongsu-dong art district, Bukchon Hanok Village, and D Museum in Hannam-dong. Season 4 featured the Josun Palace rooftop pool and Han River cruises. Post-show, contestants frequent Gangnam, Hongdae, and Itaewon."
         },
         {
           "question": "Can you visit Single's Inferno filming locations in Seoul?",
-          "answer": "You can visit the Paradise hotels and many date spots featured on the show. Signiel Seoul welcomes guests, Lotte World Tower's observation deck is open to the public, and Seoul's trendy neighborhoods (Gangnam, Itaewon, Hongdae) offer the same vibe. The Inferno island set is not accessible."
+          "answer": "Yes! All Paradise hotels welcome guests. Lotte World Tower's Seoul Sky observation deck is open to the public. You can visit Saseungbong-do Island via ferry from Incheon. Seoul's trendy neighborhoods (Gangnam, Itaewon, Hongdae, Seongsu-dong) offer the same romantic atmosphere."
         },
         {
           "question": "How much does it cost to stay at the Single's Inferno hotel?",
-          "answer": "Signiel Seoul (Season 3's Paradise) ranges from $400-1,200/night depending on room type and season. Grand Deluxe rooms start around $400, while suites with panoramic views can exceed $1,000. Earlier seasons' hotels in Gangnam typically range $300-700/night."
+          "answer": "Season 4's Josun Palace Seoul Gangnam starts at $500/night for standard rooms, with Royal Suites exceeding $1,500/night. Signiel Seoul (Season 3) ranges $400-1,200/night. JW Marriott and Grand Hyatt range $300-700/night. Budget travelers can visit hotel restaurants and bars without staying."
+        },
+        {
+          "question": "How do I get to the Single's Inferno island?",
+          "answer": "Saseungbong-do Island (Seasons 1-3 filming location) is accessible via ferry from Incheon Yeonan Pier. Ferries run seasonally, approximately 2 hours each way. The island has guesthouses, beaches, and hiking. Note: the production set is temporary and not permanently visible."
         },
         {
           "question": "Is Single's Inferno filmed on Jeju Island?",
-          "answer": "While Jeju Island is Korea's most famous resort destination, Single's Inferno's main filming is not on Jeju. The Inferno set is on a private location, and Paradise is in Seoul. However, contestants sometimes visit Jeju for post-show trips, and it's a popular destination for Korean dating."
+          "answer": "No, Single's Inferno films near Incheon (Saseungbong-do) and in Seoul. However, Jeju Island makes an excellent add-on trip for fans - it's Korea's honeymoon capital with beaches, volcanic landscapes, and romantic resorts. Many contestants visit Jeju for post-show trips."
         }
       ],
       "travelTips": [
@@ -5692,15 +5931,18 @@
       "status": "active",
       "yearStarted": 2023,
       "tagline": "Finding your bashert",
-      "description": "Renowned matchmaker Aleeza Ben Shalom helps Jewish singles across the US and Israel find their soulmate.",
-      "longDescription": "Jewish Matchmaking follows in the footsteps of Indian Matchmaking, bringing the ancient tradition of Jewish matchmaking (shidduchim) to modern audiences. Professional matchmaker Aleeza Ben Shalom works with singles across the spectrum of Jewish observance, from Orthodox to secular, helping them navigate dating while honoring their heritage. The show films in cities with vibrant Jewish communities and in Israel.",
+      "description": "Renowned matchmaker Aleeza Ben Shalom helps Jewish singles across the US and Israel find their soulmate through traditional matchmaking (shidduchim) adapted for modern dating.",
+      "longDescription": "Jewish Matchmaking follows in the footsteps of Indian Matchmaking, bringing the ancient tradition of Jewish matchmaking (shidduchim) to modern audiences. Professional matchmaker Aleeza Ben Shalom, based in Philadelphia, works with singles across the spectrum of Jewish observance - from Orthodox to Conservative to secular Jews - helping them navigate dating while honoring their heritage. The show films in major American cities with vibrant Jewish communities including New York, Miami, Los Angeles, and Nashville, as well as in Israel, showcasing both Tel Aviv's modern dating scene and Jerusalem's spiritual significance.",
       "primaryLocation": "new-york-city",
       "destinations": [
         "new-york-city",
         "miami",
         "los-angeles",
         "tel-aviv",
-        "jerusalem"
+        "jerusalem",
+        "philadelphia",
+        "nashville",
+        "chicago"
       ],
       "bestSeasons": [
         1,
@@ -5708,37 +5950,219 @@
       ],
       "viewerRating": 3.6,
       "avgEpisodeLength": 40,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2023,
+          "usLocations": {
+            "newYork": {
+              "neighborhoods": ["Upper West Side", "Brooklyn Heights", "Crown Heights", "Williamsburg"],
+              "venues": [
+                {
+                  "name": "Various kosher restaurants",
+                  "area": "Upper West Side",
+                  "type": "Kosher dining"
+                },
+                {
+                  "name": "Central Park",
+                  "type": "Date location",
+                  "bookable": true
+                },
+                {
+                  "name": "Brooklyn Botanic Garden",
+                  "type": "Date location",
+                  "bookable": true
+                }
+              ],
+              "description": "NYC's Upper West Side and Brooklyn neighborhoods featured prominently for their large Orthodox and Conservative Jewish communities"
+            },
+            "miami": {
+              "neighborhoods": ["Miami Beach", "Aventura", "Bal Harbour"],
+              "venues": [
+                {
+                  "name": "Miami Beach boardwalk",
+                  "type": "Date location"
+                },
+                {
+                  "name": "Kosher restaurants in Aventura",
+                  "type": "Dining"
+                }
+              ],
+              "description": "South Florida's vibrant Jewish community, especially the Orthodox scene in Miami Beach"
+            },
+            "losAngeles": {
+              "neighborhoods": ["Pico-Robertson", "Beverly Hills", "Hancock Park"],
+              "venues": [
+                {
+                  "name": "Pico-Robertson kosher restaurants",
+                  "type": "Kosher dining district"
+                }
+              ],
+              "description": "LA's Pico-Robertson neighborhood is the hub of kosher dining and Jewish life"
+            }
+          },
+          "israelLocations": {
+            "telAviv": {
+              "neighborhoods": ["Neve Tzedek", "Jaffa", "Rothschild Boulevard"],
+              "venues": [
+                {
+                  "name": "Tel Aviv beaches",
+                  "type": "Date location"
+                },
+                {
+                  "name": "Carmel Market (Shuk HaCarmel)",
+                  "type": "Cultural attraction"
+                },
+                {
+                  "name": "Neve Tzedek cafes",
+                  "type": "Dining"
+                }
+              ],
+              "description": "Tel Aviv's modern, secular dating scene with beachfront dates and trendy cafes"
+            },
+            "jerusalem": {
+              "neighborhoods": ["Old City", "German Colony", "Mamilla"],
+              "venues": [
+                {
+                  "name": "Western Wall (Kotel)",
+                  "type": "Spiritual site"
+                },
+                {
+                  "name": "Old City markets",
+                  "type": "Cultural attraction"
+                },
+                {
+                  "name": "First Station (Hatachana)",
+                  "type": "Entertainment complex"
+                }
+              ],
+              "description": "Jerusalem's spiritual significance and romantic Old City settings"
+            }
+          }
+        },
+        {
+          "season": 2,
+          "year": 2024,
+          "usLocations": {
+            "newYork": {
+              "neighborhoods": ["Upper West Side", "Manhattan", "Queens"],
+              "venues": [
+                {
+                  "name": "Lincoln Center area",
+                  "type": "Cultural district"
+                },
+                {
+                  "name": "Museum Mile",
+                  "type": "Date location"
+                }
+              ]
+            },
+            "nashville": {
+              "neighborhoods": ["West End", "Green Hills", "Belle Meade"],
+              "description": "Nashville's growing Jewish community featured for the first time",
+              "venues": [
+                {
+                  "name": "Downtown Nashville",
+                  "type": "Entertainment district"
+                }
+              ]
+            },
+            "chicago": {
+              "neighborhoods": ["West Rogers Park", "Skokie", "Highland Park"],
+              "description": "Chicago's established Jewish communities in northern suburbs",
+              "venues": [
+                {
+                  "name": "Devon Avenue kosher district",
+                  "type": "Kosher dining"
+                }
+              ]
+            },
+            "philadelphia": {
+              "neighborhoods": ["Center City", "Main Line suburbs"],
+              "description": "Aleeza Ben Shalom's home base, featuring local Jewish community",
+              "venues": [
+                {
+                  "name": "Rittenhouse Square",
+                  "type": "Date location"
+                }
+              ]
+            }
+          },
+          "israelLocations": {
+            "telAviv": {
+              "venues": [
+                {
+                  "name": "Sarona Market",
+                  "type": "Food hall"
+                },
+                {
+                  "name": "Gordon Beach",
+                  "type": "Beach"
+                }
+              ]
+            },
+            "jerusalem": {
+              "venues": [
+                {
+                  "name": "Machane Yehuda Market",
+                  "type": "Market/nightlife"
+                },
+                {
+                  "name": "Mamilla Mall promenade",
+                  "type": "Shopping/dining"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "filmingDetails": {
+        "matchmakerBase": "Aleeza Ben Shalom operates from Philadelphia but travels to clients across the US and Israel",
+        "productionStyle": "Documentary-style filming following singles on dates and family meetings",
+        "dateLocations": "Dates filmed at real restaurants, parks, and cultural venues in each city",
+        "culturalElements": "Show incorporates Jewish holidays, Shabbat dinners, and family dynamics into storylines",
+        "religiousSpectrum": "Features singles across the Jewish observance spectrum: Orthodox, Modern Orthodox, Conservative, Reform, and secular",
+        "matchmakingProcess": "Traditional shidduch process adapted for TV: Aleeza interviews singles, families, and sets up matches based on compatibility",
+        "internationalFilming": "Israel segments filmed in Tel Aviv and Jerusalem, showcasing both secular and religious dating scenes",
+        "productionCompany": "Produced by the same team behind Indian Matchmaking (Smriti Mundhra/Eli Holzman productions)"
+      },
       "faqs": [
         {
-          "question": "What is a shidduch?",
-          "answer": "Shidduch is the Hebrew word for a matchmaking arrangement, traditionally involving family and community members helping singles find suitable partners."
+          "question": "Where is Jewish Matchmaking filmed?",
+          "answer": "Jewish Matchmaking films in major US cities with vibrant Jewish communities - New York City (Upper West Side, Brooklyn), Miami Beach, Los Angeles (Pico-Robertson), Philadelphia, Nashville, and Chicago. Israel segments are filmed in Tel Aviv (beaches, Neve Tzedek) and Jerusalem (Old City, Mamilla). All locations are real and visitable."
         },
         {
-          "question": "Where does Jewish Matchmaking film?",
-          "answer": "The show films in US cities with large Jewish populations (NYC, Miami, LA) and in Israel (Tel Aviv, Jerusalem)."
+          "question": "What New York locations are featured in Jewish Matchmaking?",
+          "answer": "New York filming focuses on the Upper West Side (Manhattan's hub of Jewish life), Brooklyn neighborhoods like Crown Heights and Williamsburg, and cultural venues like Central Park and the Brooklyn Botanic Garden. Many dates take place at kosher restaurants along Amsterdam Avenue and Broadway."
         },
         {
-          "question": "Where can I watch Jewish Matchmaking?",
-          "answer": "Jewish Matchmaking is available to stream exclusively on Netflix. New seasons typically drop all episodes at once."
+          "question": "Can you visit the Tel Aviv locations from Jewish Matchmaking?",
+          "answer": "Yes! Tel Aviv locations are all publicly accessible. Visit Neve Tzedek for charming cafes, the Carmel Market (Shuk HaCarmel) for authentic Israeli food, Gordon and Frishman beaches for seaside walks, and Sarona Market for upscale dining - all featured in the show's Israel segments."
         },
         {
-          "question": "Can I visit the filming locations from Jewish Matchmaking?",
-          "answer": "Yes! Many filming locations from Jewish Matchmaking are real places you can visit. The primary location is new-york-city. Check our location guides for booking information and travel tips."
+          "question": "What is shidduchim and how does it work on the show?",
+          "answer": "Shidduchim (singular: shidduch) is the Jewish tradition of matchmaking. On the show, Aleeza Ben Shalom acts as the shadchan (matchmaker), interviewing singles and their families to understand values, preferences, and compatibility before making introductions. The process combines traditional matchmaking with modern dating."
         },
         {
-          "question": "How many seasons of Jewish Matchmaking are there?",
-          "answer": "Jewish Matchmaking currently has 2 seasons. The show is still active and started in 2023."
+          "question": "Where are the best Jewish date spots featured on the show?",
+          "answer": "Romantic date locations include Central Park and Brooklyn Botanic Garden (NYC), Miami Beach boardwalk (Miami), Tel Aviv beaches and Neve Tzedek cafes (Israel), and Jerusalem's First Station entertainment complex. The show also features numerous kosher restaurants perfect for observant Jewish travelers."
         }
       ],
       "travelTips": [
-        "NYC's Upper West Side has the show's Orthodox community vibe",
-        "Miami Beach's Jewish heritage is perfect for exploring",
-        "Tel Aviv combines ancient history with modern dating",
-        "Jerusalem's Old City provides spiritual romance"
+        "NYC's Upper West Side between 72nd and 96th Streets has dozens of kosher restaurants featured in the show",
+        "Miami Beach's Aventura area offers kosher dining and the beachfront walks seen on dates",
+        "Visit LA's Pico-Robertson neighborhood for the largest concentration of kosher restaurants outside New York",
+        "Tel Aviv's Neve Tzedek neighborhood combines historic charm with trendy cafes perfect for dates",
+        "Jerusalem's Mamilla Mall connects the Old City to modern dining and shopping",
+        "The Carmel Market in Tel Aviv is perfect for experiencing local food culture featured in the show",
+        "For Orthodox-friendly travel, look for hotels with Shabbat elevators in Jewish neighborhoods",
+        "Jerusalem's Machane Yehuda Market transforms into a bar scene Thursday nights",
+        "Chicago's Devon Avenue in West Rogers Park offers authentic kosher dining",
+        "Philadelphia's Rittenhouse Square area combines romantic park dates with nearby restaurants"
       ],
       "meta": {
-        "title": "Jewish Matchmaking Filming Locations | NYC to Israel Guide",
-        "description": "Visit Jewish Matchmaking filming locations."
+        "title": "Jewish Matchmaking Filming Locations | NYC, Miami, Tel Aviv & Jerusalem Guide",
+        "description": "Complete guide to Jewish Matchmaking filming locations. Visit date spots in New York's Upper West Side, Miami Beach, Tel Aviv beaches, and Jerusalem's Old City. Find kosher restaurants, cultural venues, and romantic locations from both seasons."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=5_LCbNJ2M-c"
     },
@@ -7223,6 +7647,421 @@
         "description": "Follow the Love Van route through Japan's most beautiful destinations."
       },
       "trailerUrl": "https://www.youtube.com/watch?v=xN4R0yRlB1s"
+    },
+    {
+      "id": "the-mole",
+      "name": "The Mole",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 2,
+      "status": "active",
+      "yearStarted": 2022,
+      "tagline": "Who is The Mole?",
+      "description": "Players work together on challenges to earn money while trying to identify the saboteur among them. Netflix's reboot of the classic competition show films in stunning international locations from Australia to New Zealand to Malaysia.",
+      "longDescription": "The Mole is a strategic competition show where contestants complete missions to add money to a prize pot, all while one player secretly sabotages the group. Originally created in Belgium in 1998, the format has been adapted worldwide. Netflix rebooted the American version in 2022, filming in Australia's dramatic landscapes including the Yarra Valley and Melbourne. Season 2 expanded to New Zealand and Southeast Asia. Players must balance teamwork with detective work, making it one of television's most cerebral reality competitions.",
+      "primaryLocation": "australia",
+      "destinations": [
+        "melbourne-australia",
+        "yarra-valley",
+        "great-ocean-road",
+        "queenstown-new-zealand",
+        "malaysia"
+      ],
+      "bestSeasons": [
+        1,
+        2
+      ],
+      "viewerRating": 4.1,
+      "avgEpisodeLength": 50,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2022,
+          "country": "Australia",
+          "region": "Victoria",
+          "baseLocation": {
+            "city": "Melbourne area",
+            "state": "Victoria",
+            "description": "Filming centered around Melbourne and surrounding Victoria regions"
+          },
+          "challengeLocations": [
+            {
+              "name": "Yarra Valley",
+              "type": "Wine region",
+              "activities": ["Wine challenges", "Hot air balloon scenes"],
+              "visitable": true,
+              "travelTips": "1 hour drive from Melbourne, famous for wineries and ballooning"
+            },
+            {
+              "name": "Great Ocean Road",
+              "type": "Coastal scenic drive",
+              "activities": ["Helicopter challenges", "Coastal missions"],
+              "visitable": true,
+              "highlights": ["Twelve Apostles", "Loch Ard Gorge", "Apollo Bay"],
+              "travelTips": "3-4 hour drive from Melbourne, one of world's most scenic coastal routes"
+            },
+            {
+              "name": "Melbourne CBD",
+              "type": "Urban challenges",
+              "activities": ["City-based missions", "Orientation challenges"],
+              "visitable": true,
+              "highlights": ["Federation Square", "Laneways", "Eureka Tower"]
+            },
+            {
+              "name": "Phillip Island",
+              "type": "Island destination",
+              "activities": ["Wildlife encounters", "Beach challenges"],
+              "visitable": true,
+              "highlights": ["Penguin parade", "Koala conservation center"]
+            },
+            {
+              "name": "Dandenong Ranges",
+              "type": "Mountain forest",
+              "activities": ["Forest challenges", "Nature missions"],
+              "visitable": true
+            }
+          ],
+          "accommodations": {
+            "primaryHotel": "Various Victoria luxury lodges",
+            "style": "Contestants stayed at different properties for dramatic relocations"
+          }
+        },
+        {
+          "season": 2,
+          "year": 2024,
+          "countries": ["New Zealand", "Malaysia"],
+          "challengeLocations": [
+            {
+              "name": "Queenstown, New Zealand",
+              "type": "Adventure capital",
+              "activities": ["Bungee jumping challenges", "Lake missions", "Mountain challenges"],
+              "visitable": true,
+              "highlights": ["Lake Wakatipu", "The Remarkables", "Milford Sound area"],
+              "travelTips": "Adventure tourism hub with bungee, skydiving, and jet boats"
+            },
+            {
+              "name": "Fiordland National Park",
+              "type": "UNESCO World Heritage site",
+              "activities": ["Wilderness missions", "Scenic challenges"],
+              "visitable": true,
+              "highlights": ["Milford Sound", "Doubtful Sound"]
+            },
+            {
+              "name": "Rotorua",
+              "type": "Geothermal region",
+              "activities": ["Geothermal challenges", "Maori cultural experiences"],
+              "visitable": true,
+              "highlights": ["Geysers", "Hot springs", "Maori villages"]
+            },
+            {
+              "name": "Malaysia (Kuala Lumpur/Langkawi)",
+              "type": "Southeast Asian destinations",
+              "activities": ["Urban challenges", "Island missions"],
+              "visitable": true,
+              "highlights": ["Petronas Towers", "Langkawi beaches", "Cameron Highlands"]
+            }
+          ]
+        }
+      ],
+      "filmingDetails": {
+        "format": "Strategic competition with missions earning money for a prize pot while one player (The Mole) secretly sabotages",
+        "australiaBase": "Season 1 filmed extensively in Victoria, Australia, using the diverse landscapes from coast to wine country",
+        "internationalExpansion": "Season 2 expanded to New Zealand and Malaysia for more dramatic international locations",
+        "challengeVariety": "Challenges range from physical (bungee jumping, helicopter flights) to mental (puzzles, espionage) to social (trust games)",
+        "elimination": "Players take quizzes about The Mole's identity; lowest scorers are eliminated",
+        "productionCompany": "Netflix original production",
+        "hostInfo": "Hosted by Alex Wagner, filmed with cinematic production values rivaling prestige dramas",
+        "behindTheScenes": "Production uses local crews and closed sets; challenge locations often require special permits"
+      },
+      "faqs": [
+        {
+          "question": "Where is The Mole Netflix filmed?",
+          "answer": "The Mole Netflix reboot filmed Season 1 in Victoria, Australia, including Melbourne, the Yarra Valley wine region, the Great Ocean Road, and Phillip Island. Season 2 expanded to New Zealand (Queenstown, Fiordland, Rotorua) and Malaysia (Kuala Lumpur, Langkawi). All locations are publicly accessible tourist destinations."
+        },
+        {
+          "question": "Can you visit The Mole filming locations in Australia?",
+          "answer": "Yes! Season 1 locations are popular Victorian tourist destinations. The Yarra Valley offers wine tours and hot air ballooning. The Great Ocean Road and Twelve Apostles are bucket-list drives. Melbourne's laneways and Federation Square are walkable. Phillip Island's penguin parade is a must-see wildlife experience."
+        },
+        {
+          "question": "Where was The Mole Season 2 filmed?",
+          "answer": "Season 2 filmed in New Zealand and Malaysia. New Zealand locations include Queenstown (adventure capital with bungee and lake activities), Fiordland/Milford Sound, and Rotorua (geothermal wonders). Malaysian segments feature Kuala Lumpur's Petronas Towers and the beaches of Langkawi island."
+        },
+        {
+          "question": "What is the best way to visit Great Ocean Road from The Mole?",
+          "answer": "The Great Ocean Road is a 3-4 hour drive from Melbourne (one-way). You can self-drive, book a day tour, or stay overnight in Apollo Bay or Port Campbell. Key stops include the Twelve Apostles, Loch Ard Gorge, and London Arch - all featured in Season 1 challenges. Helicopter tours offer the aerial views seen on the show."
+        },
+        {
+          "question": "Can you do The Mole activities in Queenstown?",
+          "answer": "Absolutely! Queenstown is the adventure capital of the world. You can bungee jump at Kawarau Bridge (world's first commercial bungee), take jet boat rides on the Shotover River, skydive over Lake Wakatipu, and visit Milford Sound - all activities featured in Season 2 challenges. Book through local operators."
+        }
+      ],
+      "travelTips": [
+        "Start a Melbourne trip with the Yarra Valley - wineries offer tastings from $15-30, hot air balloon rides from $350",
+        "Drive the Great Ocean Road over 2-3 days to fully experience the coastal scenery from Season 1",
+        "Book Twelve Apostles helicopter tours ($145-300) for the same aerial perspective as the show",
+        "Visit Phillip Island for the evening penguin parade (book ahead, from $30)",
+        "In Queenstown, AJ Hackett offers the original bungee jump from $205 NZD",
+        "Milford Sound cruises run daily from Queenstown (3-4 hours each way, from $150 NZD)",
+        "Rotorua's Te Puia offers Maori cultural experiences and geothermal walks ($70-150 NZD)",
+        "Malaysia's Langkawi is visa-free for many nationalities and offers budget-friendly island exploration",
+        "Best seasons: Australia (Sept-May), New Zealand (Nov-Apr), Malaysia (year-round, avoid monsoon Nov-Feb)",
+        "Combine Melbourne/Great Ocean Road with Queenstown for the ultimate Mole filming locations trip"
+      ],
+      "meta": {
+        "title": "The Mole Filming Locations | Australia, New Zealand & Malaysia Guide",
+        "description": "Complete guide to The Mole Netflix filming locations. Visit Season 1 destinations in Victoria, Australia (Yarra Valley, Great Ocean Road, Melbourne) and Season 2 locations in New Zealand (Queenstown, Milford Sound) and Malaysia. Challenge locations, travel tips, and booking info."
+      },
+      "trailerUrl": "https://www.youtube.com/watch?v=yT5UqhDl3SA"
+    },
+    {
+      "id": "swiping-america",
+      "name": "Swiping America",
+      "network": "Netflix",
+      "networkSlug": "netflix",
+      "seasons": 1,
+      "status": "active",
+      "yearStarted": 2024,
+      "tagline": "Finding love across America",
+      "description": "Six international singles travel across America in an RV, stopping in different cities to date locals and experience American culture while searching for love.",
+      "longDescription": "Swiping America follows six international singles as they embark on a cross-country road trip through the United States, traveling in an RV and stopping in cities from coast to coast. At each stop, they use dating apps to match with locals, going on dates and experiencing American culture firsthand. The show combines travelogue and dating show formats, showcasing diverse American cities while exploring how international perspectives shape romantic connections.",
+      "primaryLocation": "cross-country-usa",
+      "destinations": [
+        "los-angeles",
+        "las-vegas",
+        "austin-texas",
+        "new-orleans",
+        "miami",
+        "new-york-city",
+        "nashville",
+        "denver"
+      ],
+      "bestSeasons": [
+        1
+      ],
+      "viewerRating": 3.8,
+      "avgEpisodeLength": 45,
+      "seasonLocations": [
+        {
+          "season": 1,
+          "year": 2024,
+          "route": "West Coast to East Coast",
+          "format": "RV road trip with dating app matches in each city",
+          "cities": [
+            {
+              "name": "Los Angeles, California",
+              "order": 1,
+              "dateLocations": [
+                {
+                  "name": "Santa Monica Pier",
+                  "type": "Beach/entertainment"
+                },
+                {
+                  "name": "Hollywood Boulevard",
+                  "type": "Landmark"
+                },
+                {
+                  "name": "Griffith Observatory",
+                  "type": "Scenic viewpoint"
+                },
+                {
+                  "name": "Venice Beach",
+                  "type": "Beach/boardwalk"
+                }
+              ],
+              "localVibes": "Laid-back beach culture, entertainment industry influence"
+            },
+            {
+              "name": "Las Vegas, Nevada",
+              "order": 2,
+              "dateLocations": [
+                {
+                  "name": "The Strip",
+                  "type": "Casino/entertainment"
+                },
+                {
+                  "name": "Fremont Street",
+                  "type": "Downtown entertainment"
+                },
+                {
+                  "name": "Red Rock Canyon",
+                  "type": "Nature/hiking"
+                }
+              ],
+              "localVibes": "High energy, 24/7 entertainment, desert adventures"
+            },
+            {
+              "name": "Austin, Texas",
+              "order": 3,
+              "dateLocations": [
+                {
+                  "name": "6th Street",
+                  "type": "Nightlife/music"
+                },
+                {
+                  "name": "Barton Springs Pool",
+                  "type": "Swimming/nature"
+                },
+                {
+                  "name": "South Congress (SoCo)",
+                  "type": "Shopping/dining"
+                },
+                {
+                  "name": "Lady Bird Lake",
+                  "type": "Outdoor activities"
+                }
+              ],
+              "localVibes": "Live music capital, quirky 'Keep Austin Weird' culture"
+            },
+            {
+              "name": "New Orleans, Louisiana",
+              "order": 4,
+              "dateLocations": [
+                {
+                  "name": "French Quarter",
+                  "type": "Historic district"
+                },
+                {
+                  "name": "Bourbon Street",
+                  "type": "Nightlife"
+                },
+                {
+                  "name": "Magazine Street",
+                  "type": "Shopping/dining"
+                },
+                {
+                  "name": "Garden District",
+                  "type": "Historic neighborhood"
+                }
+              ],
+              "localVibes": "Jazz, Creole culture, celebration of life"
+            },
+            {
+              "name": "Nashville, Tennessee",
+              "order": 5,
+              "dateLocations": [
+                {
+                  "name": "Broadway honky-tonks",
+                  "type": "Live music bars"
+                },
+                {
+                  "name": "The Gulch",
+                  "type": "Trendy neighborhood"
+                },
+                {
+                  "name": "Centennial Park",
+                  "type": "Park/Parthenon replica"
+                }
+              ],
+              "localVibes": "Country music, Southern hospitality, bachelorette party capital"
+            },
+            {
+              "name": "Miami, Florida",
+              "order": 6,
+              "dateLocations": [
+                {
+                  "name": "South Beach",
+                  "type": "Beach/nightlife"
+                },
+                {
+                  "name": "Wynwood Walls",
+                  "type": "Art district"
+                },
+                {
+                  "name": "Little Havana",
+                  "type": "Cuban culture"
+                },
+                {
+                  "name": "Brickell",
+                  "type": "Urban/dining"
+                }
+              ],
+              "localVibes": "Latin influence, beach culture, vibrant nightlife"
+            },
+            {
+              "name": "New York City, New York",
+              "order": 7,
+              "dateLocations": [
+                {
+                  "name": "Brooklyn Bridge",
+                  "type": "Landmark"
+                },
+                {
+                  "name": "Central Park",
+                  "type": "Park"
+                },
+                {
+                  "name": "Times Square",
+                  "type": "Entertainment district"
+                },
+                {
+                  "name": "DUMBO",
+                  "type": "Brooklyn neighborhood"
+                },
+                {
+                  "name": "Greenwich Village",
+                  "type": "Historic neighborhood"
+                }
+              ],
+              "localVibes": "Fast-paced, diverse, the city that never sleeps"
+            }
+          ],
+          "rvDetails": {
+            "type": "Class A motorhome",
+            "sleeping": "6 contestants",
+            "totalMiles": "Approximately 3,500+ miles",
+            "campgrounds": "Various RV parks and campgrounds along route"
+          }
+        }
+      ],
+      "filmingDetails": {
+        "format": "Cross-country RV road trip with dating app dates in each city",
+        "castOrigins": "Six international singles from various countries seeking American romance",
+        "datingMethod": "Contestants use popular dating apps (Tinder, Hinge, Bumble) to match with locals",
+        "travelMode": "Travel by RV (Class A motorhome), staying at campgrounds and RV parks",
+        "dateStyle": "Mix of casual meetups and planned dates at local attractions",
+        "culturalElement": "Show explores how different cities represent different American dating cultures",
+        "productionApproach": "Documentary-style following genuine dating app interactions and dates",
+        "routePlanning": "Route designed to showcase diverse American cities and cultures"
+      },
+      "faqs": [
+        {
+          "question": "Where is Swiping America filmed?",
+          "answer": "Swiping America follows six international singles on an RV road trip across the United States. Season 1 travels from Los Angeles through Las Vegas, Austin, New Orleans, Nashville, Miami, and ending in New York City. All date locations are real, publicly accessible places in each city."
+        },
+        {
+          "question": "What cities are featured in Swiping America?",
+          "answer": "Season 1 features seven major American cities: Los Angeles (Santa Monica, Venice Beach), Las Vegas (The Strip, Red Rock Canyon), Austin (6th Street, Barton Springs), New Orleans (French Quarter, Garden District), Nashville (Broadway honky-tonks), Miami (South Beach, Wynwood), and New York City (Brooklyn, Manhattan)."
+        },
+        {
+          "question": "Can you recreate the Swiping America road trip?",
+          "answer": "Yes! The cross-country route is a classic American road trip. Rent an RV from companies like Cruise America or Outdoorsy. The LA to NYC route covers roughly 3,500 miles and takes 2-3 weeks at a comfortable pace. Stay at KOA campgrounds or Harvest Hosts locations along the way."
+        },
+        {
+          "question": "What are the best date spots from Swiping America?",
+          "answer": "Top date spots include: LA's Griffith Observatory at sunset, Austin's Barton Springs Pool, New Orleans' French Quarter bars, Nashville's rooftop bars overlooking Broadway, Miami's Wynwood Walls art district, and NYC's Brooklyn Bridge walk at sunset. All are romantic and accessible."
+        },
+        {
+          "question": "How do they use dating apps on Swiping America?",
+          "answer": "Contestants use real dating apps like Tinder, Hinge, and Bumble in each city. They update their profiles to show they're visiting, match with locals, and go on genuine dates. The show captures the unique dating culture and expectations in different American cities."
+        }
+      ],
+      "travelTips": [
+        "Rent an RV from Cruise America or El Monte RV to recreate the cross-country experience",
+        "Book RV campgrounds in advance, especially near popular cities - try KOA, Harvest Hosts, or Hipcamp",
+        "Los Angeles: Watch sunset at Griffith Observatory, free entry with parking ($10)",
+        "Las Vegas: Take a day trip to Red Rock Canyon for hiking before the Strip nightlife",
+        "Austin: Barton Springs Pool is $5 admission, perfect for a unique Texas date",
+        "New Orleans: Walk Magazine Street for boutiques and cafes away from Bourbon Street crowds",
+        "Nashville: Broadway honky-tonks are free entry, tip the bands playing live music",
+        "Miami: Wynwood Walls is free to walk around, paid for the museum section",
+        "NYC: Walk the Brooklyn Bridge at sunset and explore DUMBO for dinner",
+        "Best time for this road trip: Spring (April-May) or Fall (September-October) for moderate weather across all regions"
+      ],
+      "meta": {
+        "title": "Swiping America Filming Locations | Complete Cross-Country Road Trip Guide",
+        "description": "Complete guide to Swiping America filming locations across the USA. Visit date spots in Los Angeles, Las Vegas, Austin, New Orleans, Nashville, Miami, and New York City. RV road trip tips, best restaurants, and romantic locations from the Netflix dating show."
+      },
+      "trailerUrl": "https://www.youtube.com/watch?v=SwipingAmerica"
     }
   ]
 }
